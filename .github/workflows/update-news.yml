@@ -1,1 +1,38 @@
- C:\Users\chen\Desktop\全球新闻小程序\.github\workflows\update-news.yml
+ name: Update global briefing
+
+  on:
+    workflow_dispatch:
+    schedule:
+      - cron: "0 22 * * *"
+
+  permissions:
+    contents: write
+
+  jobs:
+    update:
+      runs-on: ubuntu-latest
+
+      steps:
+        - name: Checkout
+          uses: actions/checkout@v4
+
+        - name: Set up Python
+          uses: actions/setup-python@v5
+          with:
+            python-version: "3.12"
+
+        - name: Fetch and summarize
+          env:
+            LLM_API_KEY: ${{ secrets.LLM_API_KEY }}
+            LLM_API_URL: "${{ vars.LLM_API_URL || 'https://api.9e.lv/v1/chat/completions' }}"
+            LLM_MODEL: "${{ vars.LLM_MODEL || 'gpt-5.6-luna' }}"
+            LLM_REASONING_EFFORT: "${{ vars.LLM_REASONING_EFFORT || 'high' }}"
+          run: python collector.py --max-stories 40
+
+        - name: Commit updated stories
+          run: |
+            git config user.name "global-briefing-bot"
+            git config user.email "actions@users.noreply.github.com"
+            git add data/stories.json
+            git diff --cached --quiet || git commit -m "chore: update daily briefing"
+            git push
