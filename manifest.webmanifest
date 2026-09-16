@@ -1,0 +1,17 @@
+{
+  "name": "每日全球要闻",
+  "short_name": "全球要闻",
+  "description": "中英双语全球新闻简报",
+  "start_url": "./",
+  "display": "standalone",
+  "background_color": "#fafaf8",
+  "theme_color": "#1f3a32",
+  "lang": "zh-CN",
+  "icons": [
+    {
+      "src": "data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 64 64'%3E%3Crect width='64' height='64' rx='14' fill='%231f3a32'/%3E%3Cpath d='M17 18h30v7H25v8h19v7H25v9h22v7H17z' fill='%23fafaf8'/%3E%3C/svg%3E",
+      "sizes": "64x64",
+      "type": "image/svg+xml"
+    }
+  ]
+}

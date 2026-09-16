@@ -1,0 +1,112 @@
+<!doctype html>
+<html lang="zh-CN">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover" />
+    <meta name="theme-color" content="#1f3a32" />
+    <meta name="description" content="每日全球要闻，中英双语简报。" />
+    <link rel="manifest" href="manifest.webmanifest" />
+    <link rel="icon" href="data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 64 64'%3E%3Crect width='64' height='64' rx='14' fill='%231f3a32'/%3E%3Cpath d='M17 18h30v7H25v8h19v7H25v9h22v7H17z' fill='%23fafaf8'/%3E%3C/svg%3E" />
+    <title>每日全球要闻</title>
+    <link rel="preconnect" href="https://fonts.googleapis.com" />
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+    <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600&family=Noto+Serif+SC:wght@500;600;700&display=swap" rel="stylesheet" />
+    <link rel="stylesheet" href="styles.css" />
+  </head>
+  <body>
+    <div class="app-shell">
+      <header class="topbar">
+        <div>
+          <p class="eyebrow">WORLD BRIEFING <span class="live-dot"></span></p>
+          <h1>每日全球要闻</h1>
+          <p class="subtitle">中英双语 · 事实聚合 · 读懂世界</p>
+        </div>
+        <div class="top-actions" aria-label="页面设置">
+          <button class="icon-button" id="theme-toggle" type="button" aria-label="切换主题" title="切换主题">◐</button>
+          <button class="icon-button" id="about-toggle" type="button" aria-label="关于本应用" title="关于本应用">i</button>
+        </div>
+      </header>
+
+      <main>
+        <section class="date-row">
+          <div>
+            <p class="date-label" id="today-label"></p>
+            <p class="update-note"><span class="status-dot"></span>今日 06:00 更新 · 演示数据</p>
+          </div>
+          <button class="archive-button" id="archive-toggle" type="button">归档 <span>→</span></button>
+        </section>
+
+        <section class="category-bar" aria-label="新闻分类">
+          <div class="category-scroll" id="category-tabs"></div>
+        </section>
+
+        <section class="view-head">
+          <div>
+            <p class="section-kicker" id="view-kicker">TODAY'S EDITION</p>
+            <h2 id="category-title">国际时政</h2>
+          </div>
+          <div class="language-switcher" role="group" aria-label="语言显示">
+            <button class="language-button is-active" data-language="zh" type="button">中</button>
+            <button class="language-button" data-language="bilingual" type="button">中英</button>
+            <button class="language-button" data-language="en" type="button">EN</button>
+          </div>
+        </section>
+
+        <div class="notice" id="demo-notice">
+          <span class="notice-mark">✦</span>
+          <span>这是第一版交互原型。接入 RSS / API 后，内容会按方案自动更新；每条新闻均保留原文来源。</span>
+          <button id="notice-close" type="button" aria-label="关闭提示">×</button>
+        </div>
+
+        <section class="story-list" id="story-list" aria-live="polite"></section>
+
+        <section class="empty-state is-hidden" id="empty-state">
+          <div class="empty-icon">⌕</div>
+          <h3>没有找到相关文章</h3>
+          <p>试试切换分类，或在归档里搜索其他关键词。</p>
+        </section>
+
+        <section class="archive-panel is-hidden" id="archive-panel">
+          <div class="archive-heading">
+            <div>
+              <p class="section-kicker">LOOK BACK</p>
+              <h2>往期归档</h2>
+            </div>
+            <button class="text-button" id="archive-close" type="button">返回今日</button>
+          </div>
+          <label class="search-box">
+            <span>⌕</span>
+            <input id="archive-search" type="search" placeholder="搜索标题、主题或标签" />
+          </label>
+          <div class="archive-results" id="archive-results"></div>
+        </section>
+      </main>
+
+      <footer class="footer">
+        <span>每日精选，不替代原文</span>
+        <span class="footer-separator">·</span>
+        <button id="install-button" class="install-button is-hidden" type="button">添加到主屏幕</button>
+      </footer>
+    </div>
+
+    <div class="modal-backdrop is-hidden" id="detail-modal" role="dialog" aria-modal="true" aria-labelledby="detail-title">
+      <article class="detail-modal">
+        <button class="modal-close" id="detail-close" type="button" aria-label="关闭详情">×</button>
+        <div id="detail-content"></div>
+      </article>
+    </div>
+
+    <div class="modal-backdrop is-hidden" id="about-modal" role="dialog" aria-modal="true" aria-labelledby="about-title">
+      <article class="about-modal">
+        <button class="modal-close" id="about-close" type="button" aria-label="关闭关于">×</button>
+        <p class="section-kicker">ABOUT THE BRIEFING</p>
+        <h2 id="about-title">把世界讲得清楚一点</h2>
+        <p>每日全球要闻是一款面向手机阅读的中英双语新闻聚合工具。它把同一事件的多家报道合并为一条，用简洁的事实摘要帮助你快速建立全局感。</p>
+        <div class="about-rule"></div>
+        <p class="about-small">当前为前端交互原型，页面使用演示数据。正式版将接入 RSS / API、去重聚类、模型摘要和每日定时发布。</p>
+      </article>
+    </div>
+
+    <script src="app.js"></script>
+  </body>
+</html>

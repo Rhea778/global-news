@@ -1,0 +1,336 @@
+<!DOCTYPE html>
+<html lang="zh-CN">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>每日全球要闻 · 产品与技术方案</title>
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600&family=Noto+Serif+SC:wght@500;700&display=swap" rel="stylesheet">
+<style>
+:root{
+  --bg:#FAFAF8;
+  --surface:#FFFFFF;
+  --text:#1A1A18;
+  --text-2:#6B6B66;
+  --text-3:#9A9A94;
+  --line:#E6E4DE;
+  --accent:#1F3A32;
+  --accent-soft:#E9EFEC;
+  --code-bg:#F2F1ED;
+}
+:root:not([data-theme="light"]){
+  @media (prefers-color-scheme: dark){
+    --bg:#0F100F;
+    --surface:#171917;
+    --text:#EDEDE8;
+    --text-2:#9C9C95;
+    --text-3:#6E6E68;
+    --line:#282A27;
+    --accent:#8FBFAC;
+    --accent-soft:#1B241F;
+    --code-bg:#1C1E1B;
+  }
+}
+@media (prefers-color-scheme: dark){
+  :root:not([data-theme="light"]){
+    --bg:#0F100F; --surface:#171917; --text:#EDEDE8; --text-2:#9C9C95;
+    --text-3:#6E6E68; --line:#282A27; --accent:#8FBFAC; --accent-soft:#1B241F; --code-bg:#1C1E1B;
+  }
+}
+:root[data-theme="dark"]{
+  --bg:#0F100F; --surface:#171917; --text:#EDEDE8; --text-2:#9C9C95;
+  --text-3:#6E6E68; --line:#282A27; --accent:#8FBFAC; --accent-soft:#1B241F; --code-bg:#1C1E1B;
+}
+*{box-sizing:border-box}
+body{
+  margin:0; background:var(--bg); color:var(--text);
+  font-family:"Inter","PingFang SC","Microsoft YaHei",system-ui,sans-serif;
+  font-size:16px; line-height:1.75; -webkit-font-smoothing:antialiased;
+}
+.wrap{max-width:820px;margin:0 auto;padding:48px 20px 96px}
+header{border-bottom:1px solid var(--line);padding-bottom:28px;margin-bottom:40px}
+.kicker{font-size:12px;letter-spacing:.18em;text-transform:uppercase;color:var(--text-3)}
+h1{font-family:"Noto Serif SC",serif;font-weight:700;font-size:30px;line-height:1.3;margin:10px 0 6px}
+.sub{color:var(--text-2);font-size:15px;margin:0}
+h2{font-family:"Noto Serif SC",serif;font-weight:700;font-size:21px;margin:52px 0 14px;padding-top:8px}
+h2 .num{color:var(--text-3);font-family:"Inter",sans-serif;font-weight:500;font-size:14px;margin-right:10px;vertical-align:2px}
+h3{font-size:15px;font-weight:600;margin:26px 0 8px;color:var(--text)}
+p{margin:0 0 14px}
+ul,ol{margin:0 0 16px;padding-left:22px}
+li{margin:5px 0}
+strong{font-weight:600}
+code{font-family:ui-monospace,SFMono-Regular,Menlo,monospace;font-size:13.5px;background:var(--code-bg);padding:1px 5px;border-radius:3px}
+pre{background:var(--code-bg);border:1px solid var(--line);padding:16px;overflow-x:auto;font-size:13px;line-height:1.65;border-radius:4px}
+pre code{background:none;padding:0}
+.tablewrap{overflow-x:auto;margin:0 0 18px}
+table{border-collapse:collapse;width:100%;font-size:14.5px;min-width:480px}
+th,td{text-align:left;padding:9px 12px;border-bottom:1px solid var(--line);vertical-align:top}
+th{font-weight:600;font-size:12px;letter-spacing:.06em;text-transform:uppercase;color:var(--text-3)}
+.note{border-left:2px solid var(--accent);background:var(--accent-soft);padding:14px 18px;margin:20px 0;font-size:14.5px}
+.note b{color:var(--accent)}
+.flow{font-family:ui-monospace,monospace;font-size:13px;line-height:2;color:var(--text-2);background:var(--code-bg);border:1px solid var(--line);padding:18px;border-radius:4px;overflow-x:auto}
+.flow b{color:var(--text);font-weight:600}
+.swatches{display:flex;flex-wrap:wrap;gap:10px;margin:16px 0 20px}
+.sw{flex:1 1 120px;min-width:110px;border:1px solid var(--line);border-radius:4px;overflow:hidden}
+.sw .chip{height:52px}
+.sw .lbl{padding:7px 9px;font-size:11.5px;line-height:1.5;color:var(--text-2);font-family:ui-monospace,monospace}
+.mock{background:var(--surface);border:1px solid var(--line);border-radius:6px;padding:0;max-width:390px;margin:18px auto;overflow:hidden}
+.mock .bar{padding:16px 18px 12px;border-bottom:1px solid var(--line)}
+.mock .date{font-size:11px;letter-spacing:.14em;text-transform:uppercase;color:var(--text-3)}
+.mock .mt{font-family:"Noto Serif SC",serif;font-size:19px;font-weight:700;margin-top:4px}
+.mock .tabs{display:flex;gap:16px;padding:10px 18px 0;font-size:13px;color:var(--text-3);border-bottom:1px solid var(--line)}
+.mock .tabs span{padding-bottom:9px}
+.mock .tabs .on{color:var(--text);font-weight:600;border-bottom:1.5px solid var(--accent)}
+.item{padding:16px 18px;border-bottom:1px solid var(--line)}
+.item:last-child{border-bottom:none}
+.item .zh{font-family:"Noto Serif SC",serif;font-size:15.5px;font-weight:500;line-height:1.5}
+.item .en{font-size:12.5px;color:var(--text-3);margin-top:3px;line-height:1.45}
+.item .sm{font-size:13px;color:var(--text-2);margin-top:8px;line-height:1.65}
+.item .meta{font-size:11px;color:var(--text-3);margin-top:9px;font-family:ui-monospace,monospace}
+.dot{display:inline-block;width:5px;height:5px;border-radius:50%;background:var(--accent);vertical-align:2px;margin-right:6px}
+.cap{text-align:center;font-size:12.5px;color:var(--text-3);margin:-6px 0 24px}
+footer{margin-top:64px;padding-top:22px;border-top:1px solid var(--line);font-size:13px;color:var(--text-3)}
+@media(max-width:600px){.wrap{padding:32px 16px 72px}h1{font-size:25px}h2{font-size:19px}}
+</style>
+</head>
+<body>
+<div class="wrap">
+
+<header>
+  <div class="kicker">Product &amp; Technical Spec</div>
+  <h1>每日全球要闻 · 中英双语简报</h1>
+  <p class="sub">自动采集 · 智能聚合 · 分类速览 · 一键展开详情</p>
+</header>
+
+<h2><span class="num">01</span>方案概览</h2>
+<p>核心逻辑一句话：<strong>定时抓取多家权威媒体 → 去重并把同一事件的多篇报道聚成一条 → 调用大模型生成中英双语的「一句话摘要 + 详细解读」→ 写入数据库 → 前端按分类展示。</strong></p>
+<p>整套系统每天只在固定时间跑一次批处理，前端读的是已经处理好的静态数据，因此打开速度极快，服务器成本接近于零。</p>
+
+<h2><span class="num">02</span>平台选择：先做 PWA，不建议一上来做微信小程序</h2>
+<div class="tablewrap">
+<table>
+<tr><th>方案</th><th>优点</th><th>代价</th></tr>
+<tr><td><strong>PWA 网页应用</strong><br>（推荐）</td><td>手机浏览器直接打开，可「添加到主屏幕」，图标和体验接近原生 App；无需审核，改完就上线；开发只需一套 Web 技术栈</td><td>iOS 推送支持较弱（16.4+ 才支持）</td></tr>
+<tr><td>微信小程序</td><td>微信内分享传播方便</td><td><b>新闻资讯类目需要《互联网新闻信息服务许可证》</b>，个人主体基本无法通过审核；还需域名备案、ICP 备案</td></tr>
+<tr><td>原生 App</td><td>体验最好</td><td>开发量大，上架审核同样涉及新闻资质</td></tr>
+</table>
+</div>
+<div class="note"><b>合规提醒</b>：在国内，「转载新闻」本身是受许可管理的。个人项目建议定位为<strong>自用 / 小范围分享的信息聚合工具</strong>，并且严格做到：只展示自己生成的摘要，不全文转载原文，每条都附原文链接跳转回源站。这样既避开版权问题，也降低合规风险。</div>
+
+<h2><span class="num">03</span>系统架构</h2>
+<div class="flow">
+<b>① 采集 Collector</b>　RSS / API 抓取 → 原始文章入库<br>
+　　　↓<br>
+<b>② 清洗 Cleaner</b>　正文提取、去广告、语言识别<br>
+　　　↓<br>
+<b>③ 聚合 Clusterer</b>　标题向量化 → 同事件多源合并成一个 story<br>
+　　　↓<br>
+<b>④ 加工 Enricher</b>　LLM 一次调用产出：分类 + 中英标题 + 中英摘要 + 中英详情 + 重要度<br>
+　　　↓<br>
+<b>⑤ 发布 Publisher</b>　生成当日 JSON / 写入数据库<br>
+　　　↓<br>
+<b>⑥ 前端 Web App</b>　分类浏览 → 点击展开详情
+</div>
+
+<h3>技术选型</h3>
+<div class="tablewrap">
+<table>
+<tr><th>层</th><th>选型</th><th>说明</th></tr>
+<tr><td>定时调度</td><td>GitHub Actions cron</td><td>公开仓库完全免费，每天 UTC 22:00 触发（北京时间早 6 点）</td></tr>
+<tr><td>采集脚本</td><td>Python：<code>feedparser</code> + <code>trafilatura</code> + <code>httpx</code></td><td>trafilatura 提取正文效果好</td></tr>
+<tr><td>聚类</td><td><code>sentence-transformers</code> 或直接用向量 API</td><td>余弦相似度 &gt; 0.82 判为同一事件</td></tr>
+<tr><td>大模型</td><td>DeepSeek-V3 / Claude Haiku / GPT-4o-mini</td><td>DeepSeek 性价比最高，中文翻译质量好</td></tr>
+<tr><td>数据库</td><td>Supabase（Postgres）或 Cloudflare D1</td><td>都有够用的免费额度</td></tr>
+<tr><td>前端</td><td>Next.js + Tailwind CSS</td><td>静态导出，配 PWA manifest</td></tr>
+<tr><td>部署</td><td>Cloudflare Pages / Vercel</td><td>免费，自带 CDN</td></tr>
+</table>
+</div>
+
+<h2><span class="num">04</span>新闻源清单</h2>
+<p>以 <strong>RSS 为主、API 为辅</strong>。RSS 免费、稳定、无配额限制；API 用来补充 RSS 覆盖不到的源。</p>
+<div class="tablewrap">
+<table>
+<tr><th>区域</th><th>源</th><th>方式</th></tr>
+<tr><td>国际综合</td><td>Reuters、Associated Press、BBC News、The Guardian、Al Jazeera、France 24、Deutsche Welle</td><td>官方 RSS</td></tr>
+<tr><td>财经</td><td>Bloomberg、Financial Times、CNBC、日经中文网</td><td>RSS</td></tr>
+<tr><td>科技</td><td>TechCrunch、The Verge、Ars Technica、MIT Technology Review</td><td>RSS</td></tr>
+<tr><td>科学</td><td>Nature News、Science、Phys.org</td><td>RSS</td></tr>
+<tr><td>中文</td><td>新华社、澎湃新闻、界面新闻、财新</td><td>RSS / RSSHub</td></tr>
+<tr><td>兜底</td><td>GNews API、NewsAPI、World News API</td><td>免费层每天 100–250 次请求</td></tr>
+</table>
+</div>
+<p>没有官方 RSS 的站点，可以自建一个 <strong>RSSHub</strong> 实例（开源项目，部署在 Vercel 上即可），它能为几千个网站生成 RSS。</p>
+
+<h2><span class="num">05</span>分类体系</h2>
+<p>建议固定 7 类，不要太多，手机上一屏能扫完最重要：</p>
+<ol>
+<li><strong>国际时政</strong> World &amp; Politics</li>
+<li><strong>经济财经</strong> Business &amp; Economy</li>
+<li><strong>科技</strong> Technology</li>
+<li><strong>冲突与安全</strong> Conflict &amp; Security</li>
+<li><strong>科学健康</strong> Science &amp; Health</li>
+<li><strong>社会文化</strong> Society &amp; Culture</li>
+<li><strong>中国</strong> China</li>
+</ol>
+<p>每类当天保留 <strong>5–10 条</strong>，由模型给出的 <code>importance</code> 分数（1–10）排序截断。全站每天 40–60 条，阅读量适中。</p>
+
+<h2><span class="num">06</span>大模型加工环节</h2>
+<p>关键设计：<strong>一次调用产出全部字段</strong>，不要分成「先摘要、再翻译、再分类」三次调用，成本和延迟都会翻倍。</p>
+
+<h3>提示词骨架</h3>
+<pre><code>你是一名专业的国际新闻编辑。下面是关于同一事件的 N 篇报道。
+请交叉核对信息，忽略各源的立场倾向，只保留能相互印证的事实。
+
+要求：
+1. 分类：从 [国际时政|经济财经|科技|冲突与安全|科学健康|社会文化|中国] 中选一个
+2. 重要度：1-10 分，考虑影响范围、紧迫性、长期意义
+3. 摘要：中英文各一句，不超过 45 字 / 30 words，说清「谁做了什么、结果如何」
+4. 详情：中英文各 250-350 字，结构为——事件经过 / 背景脉络 / 各方反应 / 可能影响
+5. 若各源说法存在冲突，在详情中明确指出分歧
+
+只输出 JSON，不要任何解释文字或 Markdown 代码块。</code></pre>
+
+<h3>输出结构</h3>
+<pre><code>{
+  "category": "国际时政",
+  "importance": 8,
+  "title_zh": "……",
+  "title_en": "...",
+  "summary_zh": "……",
+  "summary_en": "...",
+  "detail_zh": "……",
+  "detail_en": "...",
+  "tags": ["欧盟", "能源政策"],
+  "sources": [
+    {"name": "Reuters", "url": "https://..."},
+    {"name": "BBC", "url": "https://..."}
+  ]
+}</code></pre>
+<p>用 JSON Schema / structured output 模式约束返回格式，解析失败就重试一次，仍失败则丢弃该条。</p>
+
+<h2><span class="num">07</span>数据库结构</h2>
+<pre><code>-- 原始文章（仅作聚类和溯源用，可定期清理）
+articles(
+  id, source_name, url, title, content,
+  published_at, fetched_at, lang, embedding vector(384)
+)
+
+-- 处理后的事件，前端只读这张表
+stories(
+  id, date,                    -- 当天日期，用于按日查询
+  category, importance,
+  title_zh, title_en,
+  summary_zh, summary_en,
+  detail_zh, detail_en,
+  tags jsonb,
+  sources jsonb,               -- [{name, url}]
+  image_url,                   -- 取首源的 og:image
+  created_at
+)
+
+索引：(date, category, importance DESC)</code></pre>
+
+<h2><span class="num">08</span>页面与交互</h2>
+<h3>三个页面就够</h3>
+<ul>
+<li><strong>首页（列表）</strong>：顶部日期 + 语言切换；分类作为横向 tab；下方是卡片流。卡片只显示中英标题和一句话摘要。</li>
+<li><strong>详情页</strong>：完整中英解读，底部列出所有原文来源链接。从列表点击后滑入。</li>
+<li><strong>归档</strong>：按日期回看往期，支持关键词搜索。</li>
+</ul>
+<h3>双语呈现方式</h3>
+<p>推荐 <strong>「中文为主 + 英文副标题」的默认模式</strong>，而不是左右分栏（手机上太挤）。顶部提供三挡切换：<code>中</code> / <code>中英</code> / <code>EN</code>。详情页里中英文段落上下交替排列，方便对照学习。</p>
+<h3>细节</h3>
+<ul>
+<li>每条摘要下方显示来源数量，如「综合 4 家报道」，体现交叉核实</li>
+<li>重要度 ≥ 8 的条目标题前加一个小圆点作为标记，不用红色徽章</li>
+<li>支持长按分享单条为图片</li>
+<li>离线缓存当天数据（Service Worker），地铁里也能看</li>
+</ul>
+
+<h2><span class="num">09</span>视觉规范</h2>
+<p>方向：<strong>报刊质感的极简</strong>——大留白、细分隔线、不用阴影、圆角控制在 4–6px、靠字体和字重建立层次，而不是靠颜色和色块。</p>
+
+<h3>配色</h3>
+<div class="swatches">
+  <div class="sw"><div class="chip" style="background:#FAFAF8"></div><div class="lbl">#FAFAF8<br>背景 暖纸白</div></div>
+  <div class="sw"><div class="chip" style="background:#FFFFFF"></div><div class="lbl">#FFFFFF<br>卡片面</div></div>
+  <div class="sw"><div class="chip" style="background:#1A1A18"></div><div class="lbl">#1A1A18<br>主文字</div></div>
+  <div class="sw"><div class="chip" style="background:#6B6B66"></div><div class="lbl">#6B6B66<br>次级文字</div></div>
+  <div class="sw"><div class="chip" style="background:#E6E4DE"></div><div class="lbl">#E6E4DE<br>分隔线</div></div>
+  <div class="sw"><div class="chip" style="background:#1F3A32"></div><div class="lbl">#1F3A32<br>强调 墨绿</div></div>
+</div>
+<p>暗色模式对应：背景 <code>#0F100F</code>、卡片 <code>#171917</code>、主文字 <code>#EDEDE8</code>、分隔线 <code>#282A27</code>、强调色提亮为 <code>#8FBFAC</code>。</p>
+<p>整站<strong>只用这一个强调色</strong>，出现在 tab 下划线、链接、重要标记上，其余全部靠灰阶。这是「高级感」的关键——克制。</p>
+
+<h3>字体</h3>
+<ul>
+<li>中文标题：<strong>Noto Serif SC / 思源宋体</strong>（衬线带来报纸的正式感）</li>
+<li>中文正文：系统默认无衬线（PingFang SC / 思源黑体），保证长文可读</li>
+<li>英文：<strong>Inter</strong> 做界面和正文，标题可用 <strong>Newsreader</strong> 呼应中文宋体</li>
+<li>字号：标题 19px / 正文 15px / 摘要 13px / 元信息 11px，行高 1.6–1.75</li>
+</ul>
+
+<h3>卡片效果预览</h3>
+<div class="mock">
+  <div class="bar">
+    <div class="date">2026年9月15日 · 星期二</div>
+    <div class="mt">每日要闻</div>
+  </div>
+  <div class="tabs"><span class="on">国际时政</span><span>经济</span><span>科技</span><span>科学</span></div>
+  <div class="item">
+    <div class="zh"><span class="dot"></span>示例：某国际组织通过新一轮气候融资框架</div>
+    <div class="en">Sample: Climate finance framework approved after extended talks</div>
+    <div class="sm">经过两天延长谈判，各方就 2030 年前的资金分摊比例达成折中方案，发展中国家获得的份额较此前草案上调。</div>
+    <div class="meta">综合 5 家报道 · Reuters, AP, BBC…</div>
+  </div>
+  <div class="item">
+    <div class="zh">示例：两国签署边境贸易便利化协议</div>
+    <div class="en">Sample: Two nations sign border trade facilitation pact</div>
+    <div class="sm">协议将通关时间从平均 36 小时压缩至 8 小时，预计年内生效，覆盖三个主要口岸。</div>
+    <div class="meta">综合 3 家报道 · AFP, DW…</div>
+  </div>
+</div>
+<p class="cap">（示意内容，非真实新闻）</p>
+
+<h2><span class="num">10</span>成本估算</h2>
+<div class="tablewrap">
+<table>
+<tr><th>项目</th><th>月成本</th></tr>
+<tr><td>GitHub Actions（公开仓库）</td><td>￥0</td></tr>
+<tr><td>Cloudflare Pages / Vercel 托管</td><td>￥0</td></tr>
+<tr><td>Supabase 免费层</td><td>￥0</td></tr>
+<tr><td>大模型调用（每天 ~50 条，输入 ~1500 / 输出 ~900 token）</td><td>约 ￥15–30</td></tr>
+<tr><td>域名（可选）</td><td>约 ￥5</td></tr>
+<tr><td><strong>合计</strong></td><td><strong>￥20–35 / 月</strong></td></tr>
+</table>
+</div>
+<p>模型价格会变动，实际以服务商当期定价为准。若改用 Claude Haiku 或 GPT-4o-mini，成本大致在同一量级。</p>
+
+<h2><span class="num">11</span>实施路线</h2>
+<h3>阶段一：跑通数据（约 2–3 天）</h3>
+<p>写一个 Python 脚本：抓 10 个 RSS 源 → 取标题和摘要 → 丢给模型 → 打印 JSON。不碰前端、不碰数据库，先确认「生成的内容质量能看」。这一步最关键，内容不行后面都白做。</p>
+
+<h3>阶段二：加上去重和存储（约 2 天）</h3>
+<p>接入向量聚类合并同事件，结果写入 Supabase，并配好 GitHub Actions 每天定时跑。</p>
+
+<h3>阶段三：前端（约 3–4 天）</h3>
+<p>Next.js 搭列表页 + 详情页，实现分类切换和语言切换，套上面的视觉规范，部署到 Cloudflare Pages。</p>
+
+<h3>阶段四：打磨（持续）</h3>
+<p>加 PWA manifest 和离线缓存、归档搜索、分享成图；根据实际阅读体验调整提示词里的摘要长度和分类粒度。</p>
+
+<h2><span class="num">12</span>容易踩的坑</h2>
+<ul>
+<li><strong>模型会编造细节。</strong> 提示词里必须强调「只使用给定材料中的信息，不确定的写不确定」，并且详情页一定要附原文链接让读者可核。</li>
+<li><strong>聚类阈值需要调。</strong> 太松会把不相关的新闻合并，太紧则同一事件重复出现。建议先人工看一周的聚类结果再定参数。</li>
+<li><strong>RSS 源会挂。</strong> 单源抓取失败要静默跳过，不能让整个流程中断；记录失败次数，连续失败就告警。</li>
+<li><strong>翻译不等于改写。</strong> 让模型「基于事实重写」而不是「逐句翻译」，中文才读得顺。</li>
+<li><strong>不要贪多。</strong> 每天 50 条是上限，超过就没人看得完，这类产品的价值恰恰在于「帮我筛掉 95%」。</li>
+</ul>
+
+<footer>方案文档 · 2026年9月</footer>
+
+</div>
+</body>
+</html>
