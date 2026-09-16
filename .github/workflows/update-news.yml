@@ -5,10 +5,10 @@ on:
     schedule:
       - cron: "0 22 * * *"
 
-  permissions:
+permissions:
     contents: write
 
-  jobs:
+jobs:
     update:
       runs-on: ubuntu-latest
 
