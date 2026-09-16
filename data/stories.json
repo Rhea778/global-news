@@ -1,15 +1,61 @@
 [
   {
-    "id": "rss-1-418e8514211b",
+    "id": "rss-1-f5b6dac208dd",
+    "category": "economy",
+    "importance": 7,
+    "sourcesCount": 1,
+    "titleZh": "美国三年来首次加息，利率升至3.75%-4%",
+    "titleEn": "US interest rates raised for first time in three years",
+    "summaryZh": "美联储一致投票将利率从3.5%-3.75%上调至3.75%-4%。",
+    "summaryEn": "The Federal Reserve unanimously raised rates to 3.75%-4% from 3.5%-3.75% on Wednesday.",
+    "detailZh": "据BBC News报道，美国联邦储备委员会（美联储）于周三一致投票决定上调利率，将利率区间从3.5%-3.75%提高至3.75%-4%。报道标题称，这是美国三年来首次加息。现有材料仅说明了投票结果、调整前后的利率区间及时间，未提供有关决定原因或后续影响的更多信息。",
+    "detailEn": "BBC News reported that the US Federal Reserve unanimously voted on Wednesday to raise interest rates. The rate was increased from a range of 3.5%-3.75% to 3.75%-4%. The headline describes the move as the first US interest-rate increase in three years. The supplied material provides no further explanation of the decision, its context, or its potential effects. It does not state the reasons for the vote, any accompanying measures, or the implications for the economy or financial markets.",
+    "tags": [
+      "美联储",
+      "利率",
+      "美国"
+    ],
+    "sources": [
+      "BBC News"
+    ],
+    "sourceUrls": [
+      "https://www.bbc.co.uk/news/articles/cw4gmlyvj422o?at_medium=RSS&at_campaign=rss"
+    ]
+  },
+  {
+    "id": "rss-2-2943f70f671b",
+    "category": "security",
+    "importance": 7,
+    "sourcesCount": 1,
+    "titleZh": "照片显示伊朗袭击导致美国地点广泛受损",
+    "titleEn": "Photos show widespread damage at US sites from Iranian attacks",
+    "summaryZh": "图片显示，美国遭伊朗袭击的地点出现广泛损毁。",
+    "summaryEn": "Images show widespread damage at US sites following Iranian attacks.",
+    "detailZh": "BBC News报道，其合作伙伴CBS News获得的图片显示，美国遭伊朗袭击的相关地点出现广泛损毁。图片包括一架残破的空军飞机，以及被毁的建筑物。材料仅说明这些画面记录了袭击造成的现场损坏，未提供具体地点、袭击时间、人员伤亡或总体损失规模等信息，也没有说明图片是如何获得的。",
+    "detailEn": "BBC News reports that images obtained by its partner, CBS News, show widespread damage at US sites affected by Iranian attacks. The images include a wrecked air force plane and destroyed buildings. The material presents these visuals as evidence of the damage seen at the sites, but does not provide further information about their exact locations, when the attacks occurred, casualties, or the overall scale of losses. It also does not describe how the images were obtained beyond identifying CBS News as the BBC’s partner. No additional conclusions can be drawn from the supplied RSS summary.",
+    "tags": [
+      "美国",
+      "伊朗",
+      "袭击"
+    ],
+    "sources": [
+      "BBC News"
+    ],
+    "sourceUrls": [
+      "https://www.bbc.co.uk/news/articles/c8g49e0gwxeno?at_medium=RSS&at_campaign=rss"
+    ]
+  },
+  {
+    "id": "rss-3-418e8514211b",
     "category": "world",
     "importance": 6,
     "sourcesCount": 1,
-    "titleZh": "欧盟负责人支持加拿大成为“联系成员国”计划",
+    "titleZh": "欧盟领导人支持加拿大成为“准成员”的计划",
     "titleEn": "EU chief backs plan for Canada to become 'associate member'",
-    "summaryZh": "加拿大寻求与欧盟深化关系，欧盟负责人支持其成为“联系成员国”。",
-    "summaryEn": "Canada seeks closer EU ties after relations with the US and Donald Trump broke down; the EU chief backs associate membership.",
-    "detailZh": "据BBC News，欧盟负责人支持一项计划，拟让加拿大成为欧盟“联系成员国”。报道说，加拿大正寻求与欧盟建立更紧密关系，背景是其与美国及美国总统唐纳德·特朗普的关系出现破裂。材料未提供该计划的具体内容、推进时间表，也未列出加拿大或欧盟其他官员的进一步表态。报道没有说明这一身份安排的权限、范围或可能影响。",
-    "detailEn": "BBC News reports that the EU chief supports a plan for Canada to become an “associate member” of the European Union. Canada is seeking closer ties with the EU following what the report describes as a breakdown in relations with the United States and its president, Donald Trump. The available material does not provide details about the proposed membership arrangement, its scope, timetable, or next steps. It also does not include further comments from Canadian or EU officials. No additional information about the plan’s possible effects is provided in the source.",
+    "summaryZh": "BBC称，欧盟领导人支持加拿大成为“准成员”的计划；加方正寻求与欧盟深化关系。",
+    "summaryEn": "BBC says the EU chief backs a plan for Canada to become an “associate member” as Canada seeks closer EU ties.",
+    "detailZh": "据BBC报道，欧盟领导人支持一项让加拿大成为欧盟“准成员”的计划。材料称，在与美国及其总统唐纳德·特朗普的关系破裂后，加拿大正寻求与欧盟建立更紧密的联系。摘要没有进一步说明这项计划的具体安排、推进时间、参与方式，或“准成员”身份可能包含的权利与义务。相关表述目前仅体现欧盟方面的支持，以及加拿大寻求深化对欧关系的背景。",
+    "detailEn": "BBC reports that the EU chief supports a plan for Canada to become an “associate member” of the European Union. The supplied material says Canada is seeking closer ties with the EU following a breakdown in relations with the United States and its president, Donald Trump. It provides no further information about the plan’s terms, timetable, participation arrangements, or the rights and obligations that an “associate member” status would involve. It also does not give Canada’s specific response to the proposal.",
     "tags": [
       "欧盟",
       "加拿大",
@@ -23,20 +69,20 @@
     ]
   },
   {
-    "id": "rss-2-765ce480adcd",
+    "id": "rss-4-765ce480adcd",
     "category": "world",
     "importance": 7,
     "sourcesCount": 1,
-    "titleZh": "救援人员称加沙建筑倒塌致21人死亡，含8名儿童",
-    "titleEn": "Rescuers say Gaza building collapse kills 21, including eight children",
-    "summaryZh": "加沙战争受损建筑倒塌，21人死亡，其中8名儿童，数十人失踪。",
-    "summaryEn": "Rescuers say 21 people, including eight children, died after a war-damaged Gaza building collapsed; dozens remain missing under the rubble.",
-    "detailZh": "据BBC News，救援人员称，加沙一栋在战争中受损的建筑倒塌，造成21人死亡，其中包括8名儿童。该建筑曾于去年遭以色列袭击，当时约有10个家庭居住。救援人员表示，仍有数十人埋在废墟下、下落不明。现有材料未提供更多关于倒塌经过、遇难者身份或救援行动的细节，也未说明事件发生的具体时间。",
-    "detailEn": "BBC News reports that rescuers say 21 people were killed when a war-damaged building in Gaza collapsed, including eight children. The building had been hit by an Israeli strike last year, and about 10 families had been living there. Dozens of people are missing beneath the rubble, according to the rescuers. The available material provides no further details about the victims, the circumstances of the collapse, the rescue operation, or when the collapse occurred. It also does not say whether the missing people have been located.",
+    "titleZh": "救援人员称：加沙一栋受战争损毁建筑坍塌致21人死亡",
+    "titleEn": "Eight children among 21 killed after war-damaged Gaza building collapses, rescuers say",
+    "summaryZh": "救援人员称，加沙城一栋受战争损毁建筑坍塌，21人死亡，包括8名儿童。",
+    "summaryEn": "Rescuers say a war-damaged six-storey building in Gaza City collapsed, killing 21 people, including eight children.",
+    "detailZh": "据BBC报道，救援人员称，加沙城一栋受战争损毁的六层建筑发生坍塌，造成21人死亡，其中包括8名儿童。报道说，这栋建筑去年曾遭以色列袭击；在坍塌前，楼内据报约有10个家庭居住。现有材料仅说明了建筑受损、居住情况和死亡人数，未提供更多现场细节。",
+    "detailEn": "BBC News reports that rescuers say a six-storey building in Gaza City, damaged during the war, collapsed, killing 21 people, including eight children. The building was reportedly hit by an Israeli strike last year. About 10 families were reportedly living in it before the collapse. The report attributes the casualty and occupancy information to rescuers or reported accounts and provides no further details about the scene or timing. It does not establish a direct causal link between the earlier strike and the later collapse.",
     "tags": [
-      "加沙",
-      "以色列",
-      "建筑倒塌"
+      "Gaza",
+      "Israel",
+      "building collapse"
     ],
     "sources": [
       "BBC News"
@@ -46,89 +92,89 @@
     ]
   },
   {
-    "id": "rss-3-94c805b8b66a",
-    "category": "security",
-    "importance": 7,
-    "sourcesCount": 1,
-    "titleZh": "美国指控俄罗斯试图在海外杀害乌克兰盟友",
-    "titleEn": "US accuses Russia of trying to kill Ukrainian allies overseas",
-    "summaryZh": "FBI称5名男子密谋在美国及全球恐吓、威胁或谋杀人员。",
-    "summaryEn": "The FBI says five men conspired to intimidate, threaten or murder people in the US and around the world.",
-    "detailZh": "据BBC报道，美国指控俄罗斯试图在海外杀害乌克兰盟友。美国联邦调查局（FBI）表示，5名男子涉嫌合谋，意图在美国本土及世界各地恐吓、威胁或谋杀相关人士。现有材料未说明涉案人员身份、具体地点、行动时间或案件后续，也未提供美国指控的更多证据和细节。",
-    "detailEn": "BBC reports that the United States has accused Russia of trying to kill Ukrainian allies overseas. The FBI says that five men “conspired to intimidate, threaten, or murder people on US soil and around the world.” The supplied material does not identify the five men, specify the alleged locations or timing, or provide further evidence or details about the accusations. It also does not describe any court proceedings or responses from the people involved.",
-    "tags": [
-      "美国",
-      "俄罗斯",
-      "乌克兰"
-    ],
-    "sources": [
-      "BBC News"
-    ],
-    "sourceUrls": [
-      "https://www.bbc.co.uk/news/articles/cjp3077led9qo?at_medium=RSS&at_campaign=rss"
-    ]
-  },
-  {
-    "id": "rss-4-b17f30d54901",
-    "category": "tech",
-    "importance": 7,
-    "sourcesCount": 1,
-    "titleZh": "OpenAI负责人称世界“有理由害怕”但应信任AI企业",
-    "titleEn": "OpenAI boss says world “right to be afraid” but should trust AI firms",
-    "summaryZh": "奥特曼称公众有理由担忧AI，但应信任企业；科技高管称存在限制进步的激励。",
-    "summaryEn": "Sam Altman says the world is right to fear AI but should trust AI firms; tech CEOs cite incentives to limit advances.",
-    "detailZh": "据BBC News，OpenAI负责人萨姆·奥特曼表示，面对人工智能可能对人类构成的威胁，世界“有理由感到害怕”，但也应当信任人工智能企业。奥特曼与其他科技公司首席执行官称，相关企业存在限制人工智能进步的激励。随着外界对人工智能威胁人类的担忧加剧，这些说法同时回应了公众的恐惧与对企业信任的疑问。",
-    "detailEn": "BBC News reports that Sam Altman, OpenAI’s boss, said the world is “right to be afraid” of artificial intelligence, while arguing that people should trust AI companies. Altman and other technology chief executives said there are incentives to limit advances in AI. Their comments come as fears grow over the threats AI may pose to humanity, linking public concern about AI’s dangers with questions about trust in the companies developing it.",
-    "tags": [
-      "人工智能",
-      "OpenAI",
-      "科技公司"
-    ],
-    "sources": [
-      "BBC News"
-    ],
-    "sourceUrls": [
-      "https://www.bbc.co.uk/news/articles/cqx2zpj4y525o?at_medium=RSS&at_campaign=rss"
-    ]
-  },
-  {
-    "id": "rss-5-f8eba46a46fc",
+    "id": "rss-5-3fa3005b12c1",
     "category": "world",
     "importance": 6,
     "sourcesCount": 1,
-    "titleZh": "德国八州州长支持默茨，外界猜测其未来",
-    "titleEn": "Eight German State Premiers Back Merz Amid Speculation Over His Future",
-    "summaryZh": "德国八州州长支持默茨，相关表态发生在本周末两场州选举前。",
-    "summaryEn": "Eight German state premiers back Chancellor Merz amid speculation over his future ahead of two state elections this weekend.",
-    "detailZh": "BBC News报道称，在外界猜测德国总理默茨未来之际，德国基督教民主联盟（CDU）领导层正对他表示支持。八名德国州长已站在默茨一边。相关表态发生在本周末两场州选举之前。材料未说明外界猜测的具体内容，也未提供两场选举的地点或结果。报道没有进一步说明相关背景。",
-    "detailEn": "BBC News reports that eight German state premiers have backed Chancellor Merz as speculation continues over his future. The Christian Democratic Union leadership is throwing its weight behind him ahead of two state elections this weekend. The supplied material does not specify what the speculation concerns, which states are holding the elections, or what results are expected. No further background is provided in the RSS summary.",
+    "titleZh": "美国众议院投票认定亿万富翁莱昂·布莱克藐视国会",
+    "titleEn": "US House Votes to Hold Billionaire Epstein Associate Leon Black in Contempt",
+    "summaryZh": "美国众议院投票认定莱昂·布莱克藐视国会",
+    "summaryEn": "The US House voted to hold billionaire Leon Black in contempt after he declined to appear and provide Epstein-related documents.",
+    "detailZh": "据BBC报道，美国众议院投票支持将亿万富翁莱昂·布莱克认定为藐视国会。布莱克曾与被定罪的性犯罪者爱泼斯坦有商业关系，但拒绝出席，并提供与爱泼斯坦有关的文件。现有材料未说明文件具体内容、表决票数及后续安排。报道没有披露表决的具体票数，也未说明拒绝出席和提交材料后将面临的进一步程序。",
+    "detailEn": "BBC News reports that the US House voted to hold billionaire Leon Black in contempt. Black had business ties to Epstein, who the supplied material identifies as a convicted sex offender. Black declined to appear and provide documents related to Epstein. The vote concerns his refusal to attend and submit the requested materials. The supplied report does not state how lawmakers voted individually, what the documents contain, or what further steps may follow. No additional information about the House action or Black’s response is provided in the source material.",
     "tags": [
-      "Germany",
-      "Merz",
-      "CDU"
+      "US House",
+      "Leon Black",
+      "Epstein"
     ],
     "sources": [
       "BBC News"
     ],
     "sourceUrls": [
-      "https://www.bbc.co.uk/news/articles/c6dj4nn0n97ro?at_medium=RSS&at_campaign=rss"
+      "https://www.bbc.co.uk/news/articles/c62l8g8qlr0ko?at_medium=RSS&at_campaign=rss"
     ]
   },
   {
-    "id": "rss-6-2267e3e1b6a6",
+    "id": "rss-6-afbb3cf2ef66",
+    "category": "world",
+    "importance": 6,
+    "sourcesCount": 1,
+    "titleZh": "欧盟高官支持加拿大成为首个“准成员国”",
+    "titleEn": "EU Official Backs Canada as Bloc’s First “Associate Member”",
+    "summaryZh": "欧盟最高官员支持加拿大寻求成为欧盟首个“准成员国”，以深化双方关系。",
+    "summaryEn": "The EU’s top official backs Canada’s bid to become the bloc’s first “associate member” as Brussels seeks closer ties amid U.S. pressure.",
+    "detailZh": "据NPR World报道，欧盟最高官员支持加拿大总理推动本国成为欧盟首个“准成员国”。在美国施压的背景下，布鲁塞尔正寻求加深与加拿大的联系。相关表态显示，欧盟对加拿大提出的这一成员安排持支持态度，但材料未说明该安排的具体内容、推进时间或最终结果，也未披露双方将通过何种机制落实这一目标。报道目前仅说明，相关倡议旨在进一步深化欧盟与加拿大的关系。",
+    "detailEn": "NPR World reports that the EU’s top official supports the Canadian prime minister’s push for Canada to become the bloc’s first “associate member.” Brussels is seeking to deepen ties with Canada as it faces pressure from the United States. The material describes political backing for the proposal but does not provide details about what associate membership would entail, how the process would proceed, or whether the bid has been formally accepted. It also does not specify the identity of the EU official or the nature of the U.S. pressure. At this stage, the report presents the move as an effort to strengthen EU-Canada ties.",
+    "tags": [
+      "欧盟",
+      "加拿大",
+      "准成员国"
+    ],
+    "sources": [
+      "NPR World"
+    ],
+    "sourceUrls": [
+      "https://www.npr.org/2026/09/16/nx-s1-5971043/eu-canada-carney-tariffs-trump"
+    ]
+  },
+  {
+    "id": "rss-7-6310c146fe70",
+    "category": "world",
+    "importance": 6,
+    "sourcesCount": 1,
+    "titleZh": "库什纳如何将美国外交与十亿美元级商业交织",
+    "titleEn": "How Jared Kushner Is Mixing U.S. Diplomacy With His Billion-Dollar Business",
+    "summaryZh": "库什纳参与和平谈判之际，也在部分相关国家推进私人商业交易。",
+    "summaryEn": "Jared Kushner is pursuing private business deals while negotiating peace as a U.S. special envoy.",
+    "detailZh": "据NPR World转述《纽约客》记者德克斯特·菲尔金斯的说法，特朗普女婿贾里德·库什纳一边担任美国特使、参与和平谈判，一边推进私人商业交易，并在其中一些相同国家筹集数十亿美元。报道聚焦美国外交职责与私人商业利益并行可能带来的交叉。摘要未提供相关谈判、交易或国家的更多细节。",
+    "detailEn": "NPR World cites The New Yorker’s Dexter Filkins on Jared Kushner’s overlapping public and private roles. Kushner, described as Trump’s son-in-law and a U.S. special envoy negotiating peace, is also working on private business deals. The report says he is raising billions in some of the same countries involved in his diplomatic work. The material highlights the parallel between U.S. peace diplomacy and Kushner’s business activity, but provides no further details about the negotiations, the deals, or the countries.",
+    "tags": [
+      "Jared Kushner",
+      "U.S. diplomacy",
+      "business"
+    ],
+    "sources": [
+      "NPR World"
+    ],
+    "sourceUrls": [
+      "https://www.npr.org/2026/09/16/nx-s1-5971125/how-jared-kushner-is-mixing-u-s-diplomacy-with-his-billion-dollar-business"
+    ]
+  },
+  {
+    "id": "rss-8-2267e3e1b6a6",
     "category": "world",
     "importance": 7,
     "sourcesCount": 1,
-    "titleZh": "俄罗斯扣押乌克兰战俘后，向其亲属索取帮助",
-    "titleEn": "Russia Holds Ukrainian POWs, Then Pressures Their Relatives for Favors",
-    "summaryZh": "俄被认为关押数千名乌克兰战俘，并通过社交媒体向其家属施压索取帮助。",
-    "summaryEn": "Russia is believed to hold thousands of Ukrainian POWs and pressure their relatives via social media to help Russia.",
-    "detailZh": "据NPR World，俄罗斯被认为关押着数千名乌克兰战俘。报道说，俄方还通过社交媒体联系这些战俘的亲属，对他们进行骚扰和施压，并要求其帮助俄罗斯。材料未说明所要求帮助的具体内容，也未提供被关押战俘人数的确切统计。报道将这一做法描述为对这些家庭的折磨。摘要没有说明相关行动的时间或规模。",
-    "detailEn": "NPR World reports that Russia is believed to be holding thousands of Ukrainian prisoners of war. It says Russia is also tormenting the prisoners’ families by contacting relatives through social media and demanding that they help Russia. The material does not specify what assistance was requested, identify the relatives contacted, or provide a precise count of the prisoners allegedly held. The supplied summary gives no further details about the timing or scale of these actions. The report’s description presents the outreach as pressure directed at families of Ukrainian POWs.",
+    "titleZh": "俄罗斯扣押乌克兰战俘后向其亲属索取帮助",
+    "titleEn": "Russia Seizes Ukrainian POWs, Then Demands Favors from Their Relatives",
+    "summaryZh": "俄被指拘押乌克兰战俘并施压其亲属",
+    "summaryEn": "Russia is believed to hold thousands of Ukrainian POWs and pressure their relatives for help.",
+    "detailZh": "NPR World称，俄罗斯被认为拘押着数以千计的乌克兰战俘。报道指出，俄罗斯还通过社交媒体联系这些战俘的亲属，并要求他们为俄罗斯提供帮助。此举被描述为对战俘家属的折磨。材料未说明俄方要求的具体帮助内容，也未提供相关联系的更多背景。",
+    "detailEn": "NPR World reports that Russia is believed to be holding thousands of Ukrainian prisoners of war. The report says Russia is also tormenting the prisoners’ families by contacting their relatives through social media and demanding that they help Russia. The supplied material does not specify what kind of assistance is sought or provide further details about the contacts. It also does not include a response from Russia or additional information about the prisoners’ conditions.",
     "tags": [
-      "Russia",
-      "Ukraine",
-      "POWs"
+      "俄乌冲突",
+      "战俘",
+      "人权"
     ],
     "sources": [
       "NPR World"
@@ -138,16 +184,16 @@
     ]
   },
   {
-    "id": "rss-7-4d7682928697",
+    "id": "rss-9-4d7682928697",
     "category": "world",
-    "importance": 6,
+    "importance": 7,
     "sourcesCount": 1,
-    "titleZh": "美联储预计加息；肯尼迪中心董事会投票关闭中心",
-    "titleEn": "Fed expected to raise interest rates; board votes to close Kennedy Center",
-    "summaryZh": "美联储预计今日加息；肯尼迪中心董事会投票关闭中心",
-    "summaryEn": "Fed expected to raise rates today; Kennedy Center board voted yesterday to close the historic center.",
-    "detailZh": "NPR World摘要同时提到两项消息：美联储预计将在今天加息，这将是其三年来首次加息；肯尼迪中心董事会则在昨天投票决定关闭这座历史悠久的中心。材料没有说明预计加息幅度、关闭原因、具体执行时间，也没有提供有关该投票或两项消息的更多背景。本卡片仅依据所给RSS材料，不对未提及的信息作出推断。",
-    "detailEn": "NPR World reports two developments. The Federal Reserve is expected to raise interest rates today, which would mark its first rate increase in three years. Separately, the Kennedy Center board voted yesterday to close the historic center. The supplied material does not state the expected size of the increase, the reason for the closure, its implementation date, or further details about the vote. This card uses only the provided RSS information. No additional context is available in the summary.",
+    "titleZh": "美联储料时隔三年首次加息；肯尼迪中心董事会投票关闭",
+    "titleEn": "Fed Expected to Raise Rates; Kennedy Center Board Votes to Close",
+    "summaryZh": "美联储料时隔三年首次加息；肯尼迪中心董事会投票关闭。",
+    "summaryEn": "The Fed is expected to raise rates today; the Kennedy Center board voted yesterday to close the historic center.",
+    "detailZh": "据NPR World发布的摘要，美联储预计将于今日上调利率，若按预期实施，将成为三年来首次加息。摘要同时称，肯尼迪中心董事会已于昨日投票，决定关闭这座历史悠久的中心。材料未说明加息幅度、投票细节、关闭时间或原因，仅呈现这两项最新动向。报道没有提供进一步背景、后续步骤或相关方面回应，读者目前只能据此了解预期加息与董事会投票关闭两项信息。",
+    "detailEn": "NPR World reports that the Federal Reserve is expected to raise interest rates today, which would mark its first rate increase in three years. The same summary says that the Kennedy Center’s board voted yesterday to close the historic center. The material does not specify the expected size of the rate increase, the reasons for the closure, the timing of implementation, or any next steps. It presents the two developments together: an anticipated monetary-policy decision and a board vote concerning the future of a historic cultural institution. No additional background or responses are included in the supplied RSS material.",
     "tags": [
       "美联储",
       "利率",
@@ -161,20 +207,20 @@
     ]
   },
   {
-    "id": "rss-8-0443510dd24c",
+    "id": "rss-10-0443510dd24c",
     "category": "world",
     "importance": 7,
     "sourcesCount": 1,
-    "titleZh": "冯德莱恩提议加拿大成为欧盟首个准成员",
-    "titleEn": "Ursula von der Leyen proposes Canada become the EU’s first associate member",
-    "summaryZh": "冯德莱恩提议让加拿大成为欧盟首个准成员",
-    "summaryEn": "Von der Leyen proposed making Canada the EU’s first associate member.",
-    "detailZh": "欧洲委员会主席乌苏拉·冯德莱恩周三提出，欧盟希望让加拿大成为其首个准成员。材料将这一表态描述为一次引人注目的示好：在美国总统唐纳德·特朗普的关税措施推动下，加拿大渥太华正更加靠近欧洲。报道没有提供准成员安排的具体内容，也未说明加拿大方面是否已作出回应。",
-    "detailEn": "European Commission President Ursula von der Leyen said on Wednesday that she wants Canada to become the European Union’s first associate member. The proposal is presented as a striking overture at a moment when tariffs imposed by U.S. President Donald Trump are driving Ottawa closer to Europe. The supplied material does not explain what associate membership would entail, how the proposal would be pursued, or whether Canada has responded. It identifies von der Leyen’s statement and the broader political context, but provides no further details about the initiative.",
+    "titleZh": "冯德莱恩提议加拿大成为欧盟“准成员国”",
+    "titleEn": "EU's Ursula von der Leyen says she wants Canada to become an associate member",
+    "summaryZh": "冯德莱恩提议让加拿大成为欧盟首个准成员国。",
+    "summaryEn": "Von der Leyen proposed making Canada the EU’s first associate member amid U.S. tariff pressure.",
+    "detailZh": "据NPR World报道，欧盟委员会主席乌苏拉·冯德莱恩周三提出，让加拿大成为欧盟首个“准成员国”。这一提议被形容为一次引人注目的示好，背景是美国总统唐纳德·特朗普的关税政策正推动渥太华进一步靠近欧洲。材料显示，这一设想涉及加拿大与欧盟关系的新定位，但没有提供“准成员国”的具体安排、推进时间表或加拿大方面的回应。",
+    "detailEn": "According to NPR World, European Commission President Ursula von der Leyen proposed on Wednesday that Canada become the European Union’s first associate member. The proposal was described as a striking overture, coming as tariffs imposed by U.S. President Donald Trump are driving Ottawa closer to Europe. The report presents the idea against this broader backdrop, but does not explain what associate membership would entail. It also gives no timetable for the proposal and does not report a response from Canada.",
     "tags": [
-      "EU",
-      "Canada",
-      "tariffs"
+      "欧盟",
+      "加拿大",
+      "关税"
     ],
     "sources": [
       "NPR World"
@@ -184,62 +230,16 @@
     ]
   },
   {
-    "id": "rss-9-760693fae8fa",
-    "category": "world",
-    "importance": 7,
-    "sourcesCount": 1,
-    "titleZh": "科索沃前总统塔奇被判战争罪，获刑25年",
-    "titleEn": "Kosovo's ex-President Thaci convicted of war crimes, sentenced to 25 years in prison",
-    "summaryZh": "欧盟支持的法院判处科索沃前总统塔奇战争罪成立，获刑25年。",
-    "summaryEn": "An EU-backed court convicted former Kosovo President Hashim Thaci of war crimes and sentenced him to 25 years in prison.",
-    "detailZh": "据NPR World报道，由欧盟支持的一个法院认定科索沃前总统哈希姆·塔奇犯有战争罪，并判处其25年监禁。相关罪行发生在科索沃为摆脱塞尔维亚、争取独立的战争期间。报道的核心信息是塔奇被定罪及获刑，材料未提供具体罪名、审理经过或其方面回应等进一步细节。",
-    "detailEn": "NPR World reports that a court backed by the European Union convicted Hashim Thaci, Kosovo’s former president, of war crimes. The court sentenced him to 25 years in prison. The crimes were committed during Kosovo’s war for independence from Serbia, according to the report. The supplied material provides no further details about the specific charges, the proceedings, or any response from Thaci. It identifies the court as EU-backed and the defendant as Kosovo’s former president. The central outcome reported is the conviction and prison sentence.",
-    "tags": [
-      "科索沃",
-      "战争罪",
-      "哈希姆·塔奇"
-    ],
-    "sources": [
-      "NPR World"
-    ],
-    "sourceUrls": [
-      "https://www.npr.org/2026/09/16/g-s1-143560/kosovo-former-president-war-crimes"
-    ]
-  },
-  {
-    "id": "rss-10-af65616e5134",
-    "category": "world",
-    "importance": 7,
-    "sourcesCount": 1,
-    "titleZh": "沙特称袭击麦加企图触碰“红线”，胡塞否认",
-    "titleEn": "Saudi Arabia calls attempted Mecca attack a 'red line' as Houthis deny involvement",
-    "summaryZh": "沙特指责胡塞企图袭击麦加，称其触碰“红线”；胡塞否认，地区国家予以谴责。",
-    "summaryEn": "Saudi Arabia accuses Iran-backed Houthis of attempting to attack Mecca; the Houthis deny it, while regional countries condemn the alleged attack without offering military support.",
-    "detailZh": "沙特阿拉伯指责获伊朗支持的也门胡塞武装于夜间企图袭击麦加，并称这一企图触碰“红线”。麦加是伊斯兰教最神圣的城市。胡塞武装否认实施袭击。沙特的指控引发地区国家谴责，但没有迹象表明地区国家提供军事支持。相关材料未提及袭击造成的后果、更多细节或相关指控依据。",
-    "detailEn": "Saudi Arabia accused Yemen’s Iran-backed Houthi rebels overnight of attempting to attack Mecca, Islam’s holiest city, and called the alleged attempt a “red line.” The Houthis denied carrying out the attack. The accusation prompted condemnation from countries in the region. However, there was no sign of military support for Saudi Arabia in response. The available material describes the accusation and the reactions but gives no further account of what happened in Mecca or of any confirmed consequences from the reported incident.",
-    "tags": [
-      "Saudi Arabia",
-      "Mecca",
-      "Houthis"
-    ],
-    "sources": [
-      "NPR World"
-    ],
-    "sourceUrls": [
-      "https://www.npr.org/2026/09/16/g-s1-143554/saudi-arabia-attempted-mecca-attack"
-    ]
-  },
-  {
     "id": "rss-11-b6a086ec659a",
     "category": "world",
     "importance": 8,
     "sourcesCount": 1,
-    "titleZh": "“我们是猎物”：南非发现多名女性遗体引发对女性杀戮的愤怒",
+    "titleZh": "“我们是猎物”：七名女性遗体被发现，引发南非对女性杀戮的愤怒",
     "titleEn": "‘We are prey’: discovery of seven women’s bodies fuels anger over femicide in South Africa",
-    "summaryZh": "南非约堡机场附近发现多名女性遗体，引发对女性杀戮的愤怒。",
-    "summaryEn": "Bodies of multiple women found near Johannesburg airport intensify fear, grief and anger over femicide.",
-    "detailZh": "据《卫报》援引材料，约翰内斯堡国际机场附近发现多名女性遗体：标题称为7人，摘要称为8人，其中5具在过去一周发现。38岁的伊丽莎白·“Tsontso”·莫塞拉科戈莫9月9日外出跑步后失踪，其8岁女儿通知亲属，亲属随后联系警方。她的遗体于周六发现，周一由亲属确认。事件引发恐惧、悲痛和愤怒，人们质疑打击女性杀戮进展不足。",
-    "detailEn": "The Guardian reports that multiple women’s bodies were found around Johannesburg’s international airport. The supplied headline refers to seven victims, while the summary says eight; five were found in the past week. The discoveries have triggered fear, grief and anger over what is described as a lack of progress in tackling femicide. Elizabeth “Tsontso” Moselakgomo, 38, disappeared after going for a run on 9 September. Her eight-year-old daughter alerted relatives, who contacted police. Moselakgomo’s body was found on Saturday and identified by relatives on Monday. News of her disappearance had gone viral.",
+    "summaryZh": "约翰内斯堡机场附近接连发现女性遗体，南非对女性杀戮的愤怒升高。",
+    "summaryEn": "Bodies of women found near Johannesburg airport, including five in a week, intensifying fear and anger over femicide in South Africa.",
+    "detailZh": "据《卫报》材料，约翰内斯堡国际机场周边接连发现女性遗体，过去一周内有五具。标题称发现七名女性遗体，摘要则称共有八名女性遗体，材料未解释差异。38岁的伊丽莎白·“Tsontso”·莫塞拉科戈莫9月9日跑步后未归，8岁女儿通知亲属并联系警方；她的遗体于周六发现，周一由亲属确认。事件引发对女性杀戮治理进展不足的恐惧、悲痛与愤怒。",
+    "detailEn": "According to The Guardian material, bodies of women were found around Johannesburg’s international airport, including five in the past week. The headline refers to seven women, while the summary says eight bodies; the material does not explain the discrepancy. Elizabeth “Tsontso” Moselakgomo, 38, failed to return after going for a run on 9 September. Her eight-year-old daughter alerted relatives, who contacted police. Moselakgomo’s body was found on Saturday and identified by relatives on Monday. The discoveries have triggered fear, grief and anger over what the material describes as a lack of progress in tackling femicide.",
     "tags": [
       "南非",
       "女性杀戮",
@@ -257,12 +257,12 @@
     "category": "world",
     "importance": 6,
     "sourcesCount": 1,
-    "titleZh": "美国将限制部分南非人签证，涉及反白人歧视指控",
-    "titleEn": "US to bar some South Africans over claims of anti-white discrimination",
-    "summaryZh": "美国宣布对部分南非人实施签证限制，但未说明具体对象。",
-    "summaryEn": "The US announced visa restrictions on some South Africans but did not identify those barred.",
-    "detailZh": "美国宣布将对部分南非人实施签证限制，但公告没有说明哪些人被禁止进入美国。此举发生之际，特朗普政府持续声称南非政府在种族上歧视白人少数族群阿非利卡人。特朗普在其第二任期内多次错误地宣称南非存在“白人种族灭绝”，并批评该国的平权行动政策。材料未提供限制措施的具体范围或执行细节。",
-    "detailEn": "The US has announced visa restrictions on some South Africans, but the announcement did not identify the individuals who would be barred from entering the country. The move comes as Donald Trump’s administration continues to claim that South Africa’s government racially discriminates against white minority Afrikaners. During his second term, Trump has repeatedly and falsely claimed that a “white genocide” is taking place in South Africa and has criticized the country’s affirmative action policies. The material provides no further details about the scope of the restrictions or how they will be implemented.",
+    "titleZh": "美国将因反白人歧视指控限制部分南非人签证",
+    "titleEn": "US to bar some South Africans over anti-white discrimination claims",
+    "summaryZh": "美国宣布对部分南非人实施签证限制，未公布名单。",
+    "summaryEn": "The US announced visa restrictions on some South Africans, without identifying those affected, amid claims of anti-white discrimination.",
+    "detailZh": "美国宣布将对部分南非人实施签证限制，但公告未说明具体哪些人被禁止前往美国。此举发生之际，特朗普政府继续声称，南非政府在种族问题上歧视占少数的白人南非荷兰裔。特朗普第二任期以来，还多次错误宣称南非发生“白人种族灭绝”，并持续抨击该国的平权政策。公告没有进一步列出受影响者或提供具体名单。",
+    "detailEn": "The United States has announced visa restrictions on some South Africans, but the announcement did not identify the individuals affected. The move comes as Donald Trump’s administration continues to claim that South Africa’s government racially discriminates against the white-minority Afrikaners. Trump has repeatedly and falsely claimed during his second term that a “white genocide” is taking place in South Africa, while criticizing the country’s affirmative action policies. The announcement provided no further list of those subject to the restrictions.",
     "tags": [
       "美国",
       "南非",
@@ -280,16 +280,16 @@
     "category": "security",
     "importance": 8,
     "sourcesCount": 1,
-    "titleZh": "非洲萨赫勒地区基地组织及“伊斯兰国”关联暴力今年或创纪录",
-    "titleEn": "Al-Qaida and IS-linked violence in Africa’s Sahel set to reach record levels this year",
-    "summaryZh": "Acled数据显示，萨赫勒地区相关暴力今年或达历史高位。",
-    "summaryEn": "Acled figures indicate al-Qaida- and Islamic State-linked violence in Africa’s Sahel is set to reach historic highs this year.",
-    "detailZh": "《卫报》援引冲突监测机构Acled汇编的新数据称，非洲萨赫勒地区与基地组织及“伊斯兰国”有关联的暴力活动今年可能升至历史高位。材料指出，这一趋势与相关组织发动一系列大规模攻势有关。值美国纪念基地组织针对华盛顿和纽约发动“9·11”袭击25周年之际，数据凸显基地组织在非洲部分地区持续扩张，而其在其他地区相对弱势。",
-    "detailEn": "The Guardian reports that violence linked to al-Qaida and Islamic State groups in Africa’s Sahel region is expected to reach historic highs this year, citing new figures compiled by the conflict monitor Acled. The material attributes the projected rise to a series of sweeping offensives by the groups. The figures are presented as the United States marks the 25th anniversary of the 9/11 attacks, which al-Qaida launched against targets in Washington and New York. They also underscore the continued expansion of the veteran organization in parts of Africa, in contrast to its relative weakness elsewhere.",
+    "titleZh": "萨赫勒地区基地组织与“伊斯兰国”关联暴力今年或创纪录",
+    "titleEn": "Al-Qaida and IS-linked violence in Africa’s Sahel belt set to hit record levels this year",
+    "summaryZh": "Acled称，萨赫勒地区相关极端主义暴力今年或创历史新高。",
+    "summaryEn": "Acled says Sahel Islamist extremist violence could reach historic highs this year amid offensives by al-Qaida- and Islamic State-linked groups.",
+    "detailZh": "冲突监测机构Acled汇编的新数据显示，非洲萨赫勒地区与基地组织和“伊斯兰国”有关联的伊斯兰极端主义暴力，今年可能达到历史高位。材料称，一系列大范围攻势后，相关暴力持续上升，并凸显萨赫勒已成为伊斯兰恐怖主义活动中心。在“9·11”袭击25周年之际，数据还显示基地组织在非洲部分地区持续扩张，与其在其他地区相对弱势形成对比。",
+    "detailEn": "New figures compiled by the conflict monitor Acled indicate that Islamist extremist violence in Africa’s Sahel region is on course to reach historic highs this year. The violence involves groups linked to al-Qaida and Islamic State, following a series of sweeping offensives. The figures are highlighted as the United States marks the 25th anniversary of the 9/11 attacks, which al-Qaida launched against targets in Washington and New York. They also point to al-Qaida’s continued expansion in parts of Africa, contrasting with the organisation’s relative weakness elsewhere. The material describes the Sahel as a centre of Islamist terror.",
     "tags": [
-      "Sahel",
-      "al-Qaida",
-      "Islamic State"
+      "萨赫勒地区",
+      "基地组织",
+      "伊斯兰国"
     ],
     "sources": [
       "The Guardian"
@@ -303,12 +303,12 @@
     "category": "economy",
     "importance": 7,
     "sourcesCount": 1,
-    "titleZh": "研究称奴隶贸易财富嵌入英国金融体系",
+    "titleZh": "研究发现：奴隶贸易财富嵌入英国金融体系",
     "titleEn": "Slave-trade wealth was embedded in Britain’s financial system, research finds",
-    "summaryZh": "新研究称英国央行及金融体系长期深度卷入奴役与跨大西洋贩运。",
-    "summaryEn": "New research finds the Bank of England and Britain’s financial system were deeply involved for centuries in enslavement and transatlantic trafficking.",
-    "detailZh": "英国历史学家编纂的《英国奴隶贸易商名录》显示，英国央行及英国金融体系数百年来深度参与奴役和跨大西洋贩运数百万非洲人。研究称，这一金融体系卷入奴役的规模大于此前所知或承认的程度。央行创办时的数十名金融家，包括董事和认购人，也曾是跨大西洋贩运被奴役非洲人的重要投资者。英国央行于1946年由克莱门特·艾德礼领导的工党政府国有化。",
-    "detailEn": "Historians compiling the Register of British Slave Traders report that the Bank of England and Britain’s financial system were deeply involved for centuries in the enslavement and transatlantic trafficking of millions of African people. The research says the scale of this involvement was greater than previously known or acknowledged. Dozens of Bank of England directors and founding subscribers were significant investors in the transatlantic trafficking of enslaved Africans. The bank has been government-owned since its nationalisation in 1946 by Clement Attlee’s Labour administration.",
+    "summaryZh": "研究称奴隶贸易财富深嵌英国金融体系，央行创始关联者涉入",
+    "summaryEn": "Research finds the Bank of England and Britain’s financial system were deeply involved in slavery and transatlantic trafficking.",
+    "detailZh": "英国历史学家编纂的《英国奴隶贸易商名录》研究显示，英国央行及英国金融体系数百年来深度参与奴役和跨大西洋贩运数百万非洲人。英国央行创立时的数十名金融家，包括董事和创始认购者，也曾是跨大西洋贩运被奴役非洲人的重要投资者。研究称，金融体系参与奴役的规模超过此前所知或承认的程度。英国央行自1946年由克莱门特·艾德礼领导的工党政府推动国有化后归政府所有。",
+    "detailEn": "Research by historians compiling the Register of British Slave Traders says the Bank of England and Britain’s financial system were deeply involved for centuries in the enslavement and transatlantic trafficking of millions of African people. Dozens of financiers involved in the bank’s foundation, including directors and founding subscribers, were also significant investors in that trafficking. The findings indicate that the financial system’s involvement was greater than previously known or acknowledged. The Bank of England has been owned by the government since nationalisation in 1946 by Clement Attlee’s Labour administration. This new research concerns Britain’s slavery history.",
     "tags": [
       "英国央行",
       "奴隶贸易",
@@ -328,14 +328,14 @@
     "sourcesCount": 1,
     "titleZh": "“我相信了炒作”：被美国拒绝难民身份的南非白人",
     "titleEn": "‘I believed the hype’: the white South Africans denied refugee status in the US",
-    "summaryZh": "美国接收南非白人难民计划中，已有数十名申请者被拒。",
-    "summaryEn": "Dozens of Afrikaner applicants have reportedly been rejected from the US refugee program, leaving many dismayed and confused.",
-    "detailZh": "2025年2月，特朗普宣布美国将接收来自南非的阿非利卡人作为难民。许多相信自己在南非因种族受到歧视的白人南非人认为愿望终于实现。但过去几个月，难民项目已有数十名申请者遭拒，许多人对此感到失望和困惑，不明白为何仍要面对特朗普错误宣称的南非“白人种族灭绝”。报道称，这项旨在帮助数千名阿非利卡人的行动似乎正在放缓。",
-    "detailEn": "In February 2025, Donald Trump announced that the United States would accept Afrikaners from South Africa as refugees. Many white South Africans who believed they were victims of racism felt their prayers had been answered. But over the past few months, dozens of applicants to the refugee program have been rejected, leaving many dismayed and confused about why they would still have to face what Trump has falsely described as a “white genocide” in South Africa. The Guardian says the campaign to save thousands of Afrikaners appears to be showing signs of slowing.",
+    "summaryZh": "美国接收南非阿非利卡人难民计划出现申请被拒",
+    "summaryEn": "Dozens of Afrikaner refugee applicants have reportedly been rejected as the US effort to accept white South Africans appears to slow.",
+    "detailZh": "《卫报》报道，特朗普于2025年2月宣布，美国将接收来自南非的阿非利卡人作为难民。许多相信自己在南非遭受种族歧视的白人南非人因此认为愿望得以实现。但近几个月，难民项目已有数十名申请者被拒，令许多人失望并困惑：他们为何仍要面对特朗普错误宣称的“白人种族灭绝”？这项旨在帮助数千名阿非利卡人的行动似乎正在放缓。",
+    "detailEn": "The Guardian reports that Donald Trump announced in February 2025 that the US would accept Afrikaners from South Africa as refugees. Many white South Africans who believed they were victims of racism thought their prayers had been answered. However, in recent months, dozens of applicants to the refugee programme have been rejected, leaving many dismayed and confused about why they would still have to face what Trump has falsely claimed is a “white genocide” in South Africa. The drive to save thousands of Afrikaners appears to be slowing.",
     "tags": [
-      "South Africa",
-      "United States",
-      "refugees"
+      "南非",
+      "美国难民政策",
+      "阿非利卡人"
     ],
     "sources": [
       "The Guardian"
@@ -345,20 +345,43 @@
     ]
   },
   {
-    "id": "rss-16-2ff53d9dd5df",
+    "id": "rss-16-f9e90965eba1",
     "category": "economy",
     "importance": 6,
     "sourcesCount": 1,
-    "titleZh": "伊朗战争引发油价与利率双重冲击，预计每户负担1700美元",
-    "titleEn": "Iran War Delivers Oil-and-Rate Shock; Estimated Bill Is $1,700 per Household",
-    "summaryZh": "油价上涨与国债收益率上升推高美国家庭能源和借贷成本。",
-    "summaryEn": "Higher oil prices and Treasury yields raise U.S. household energy and borrowing costs, prompting heavier reliance on savings.",
-    "detailZh": "CNBC Economy报道，伊朗战争带来的油价上涨和美国国债收益率上升，正对美国家庭形成“油价与利率”的双重冲击。油价走高推升能源支出，国债收益率上升则抬高借贷成本，消费者因此更大程度依赖储蓄来应对开支压力。报道估算，这一额外负担约为每户1700美元，家庭预算因能源和信贷成本同时上升而受到挤压。",
-    "detailEn": "CNBC Economy reports that the Iran war is delivering a one-two punch to U.S. consumers through higher oil prices and Treasury yields. Rising oil prices are increasing energy costs, while higher Treasury yields are lifting borrowing costs for households. The combined pressure is pushing consumers to draw more heavily on their savings. CNBC estimates that the added burden amounts to about $1,700 per household. The report frames the impact as a squeeze on household budgets caused by more expensive energy and credit.",
+    "titleZh": "运输企业警告燃油价格，柴油涨至每加仑6.31美元",
+    "titleEn": "Transport companies warn over fuel prices as diesel hits record $6.31 a gallon",
+    "summaryZh": "柴油价格周三升至每加仑6.31美元，创历史新高。",
+    "summaryEn": "Diesel, used to power trucks and trains, hit a record $6.31 per gallon Wednesday as transport companies warned about fuel prices.",
+    "detailZh": "CNBC Economy报道称，运输企业——被称为经济的“骨干”——正对燃油价格发出警报。柴油是卡车和火车使用的燃料，周三价格升至每加仑6.31美元，创下历史最高水平。现有材料仅提供了这一价格信息，以及运输企业发出的警告，未说明涨价原因、涉及企业、持续时间或可能造成的具体影响。",
+    "detailEn": "CNBC Economy reports that transport companies, described as the “backbone of the economy,” are sounding the alarm over fuel prices. Diesel—the fuel used to power trucks and trains—reached an all-time high of $6.31 per gallon on Wednesday. The supplied material does not identify the companies involved, explain what drove the increase, or describe specific consequences. It provides no further details beyond the record price and the warning from transport companies.",
+    "tags": [
+      "燃油价格",
+      "柴油",
+      "运输业"
+    ],
+    "sources": [
+      "CNBC Economy"
+    ],
+    "sourceUrls": [
+      "https://www.cnbc.com/2026/09/16/transport-economy-diesel-prices-iran.html"
+    ]
+  },
+  {
+    "id": "rss-17-2ff53d9dd5df",
+    "category": "economy",
+    "importance": 6,
+    "sourcesCount": 1,
+    "titleZh": "伊朗战争引发油价与利率双重冲击，美国家庭预计每户账单1700美元",
+    "titleEn": "Consumers hit by one-two punch of oil and rates from Iran war; estimated bill: $1,700 per household",
+    "summaryZh": "油价与美债收益率上升，推高美国家庭能源和借贷成本。",
+    "summaryEn": "Rising oil prices and Treasury yields are increasing U.S. household energy and borrowing costs, pressuring consumers to draw more heavily on savings.",
+    "detailZh": "CNBC Economy称，伊朗战争带来的油价与美债收益率上升，正对美国家庭形成“油价+利率”的双重冲击。能源成本和借贷成本同步走高，消费者因此更依赖储蓄。材料估算，这一冲击对美国消费者的账单约为每户1700美元，但未进一步说明费用构成或计算时间范围。",
+    "detailEn": "CNBC Economy describes the Iran war as delivering a one-two punch to U.S. households through higher oil prices and Treasury yields. Rising oil prices are lifting energy costs, while higher Treasury yields are increasing borrowing costs. Together, these pressures are prompting consumers to draw more heavily on their savings. The estimated bill is $1,700 per household. The supplied material does not specify whether this amount is a one-time or recurring cost, and it does not break down the estimate between energy and borrowing expenses. It also provides no further timing or calculation details.",
     "tags": [
       "油价",
       "利率",
-      "美国经济"
+      "美国消费者"
     ],
     "sources": [
       "CNBC Economy"
@@ -368,20 +391,20 @@
     ]
   },
   {
-    "id": "rss-17-6f182b566a3f",
+    "id": "rss-18-6f182b566a3f",
     "category": "economy",
     "importance": 6,
     "sourcesCount": 1,
-    "titleZh": "英国通胀升至3.1%，能源成本飙升",
-    "titleEn": "UK Inflation Jumps to 3.1% as Energy Costs Soar",
-    "summaryZh": "英国通胀升至3.1%，能源成本飙升，数据公布恰逢英格兰银行政策更新前一天。",
+    "titleZh": "英国通胀率跃升至3.1%，能源成本飙升",
+    "titleEn": "UK inflation jumps to 3.1% as energy costs soar",
+    "summaryZh": "英国通胀率升至3.1%，能源成本飙升；数据公布时距英国央行更新货币政策仅一天。",
     "summaryEn": "UK inflation rose to 3.1% as energy costs soared, one day before the Bank of England updates monetary policy.",
-    "detailZh": "据CNBC Economy，英国通胀率已升至3.1%，报道将这一上升与能源成本飙升联系起来。该数据公布于英格兰银行更新货币政策的前一天，因此成为政策更新前的一个背景。现有材料未说明通胀的具体统计口径、数据覆盖时期、能源成本涨幅、此前通胀水平，也未提供英格兰银行可能采取的措施或市场反应。",
-    "detailEn": "CNBC Economy reports that UK inflation has risen to 3.1%, with soaring energy costs identified in the headline as the backdrop to the increase. The reading was released one day before the Bank of England is due to update its monetary policy. The supplied material does not specify the inflation measure, the period covered, the scale of the increase in energy costs, the previous inflation level, or what policy action the central bank may announce. It also provides no information about market or public reactions.",
+    "detailZh": "据CNBC Economy报道，英国通胀率跃升至3.1%。报道标题将能源成本飙升与这一通胀读数联系起来。相关数据公布于英国央行更新货币政策的前一天，通胀数据与货币政策更新在时间上相邻。RSS材料未提供通胀具体构成、英国央行政策更新内容或市场反应等更多信息。",
+    "detailEn": "CNBC Economy reports that UK inflation jumped to 3.1%, with soaring energy costs accompanying the report. The inflation reading was released one day before the Bank of England is due to update its monetary policy. The supplied RSS material does not provide further details on the components of inflation, the policy update, or any market response. This card therefore records only the reported inflation rate, the energy-cost development, and the timing of the central bank’s update.",
     "tags": [
-      "英国",
-      "通胀",
-      "能源成本"
+      "英国通胀",
+      "能源成本",
+      "英国央行"
     ],
     "sources": [
       "CNBC Economy"
@@ -391,20 +414,20 @@
     ]
   },
   {
-    "id": "rss-18-8df8302b68c8",
+    "id": "rss-19-8df8302b68c8",
     "category": "economy",
     "importance": 6,
     "sourcesCount": 1,
-    "titleZh": "印尼新任财长面临提升财政可信度的艰巨任务",
-    "titleEn": "Indonesia’s New Finance Minister Faces an Uphill Battle on Fiscal Credibility",
-    "summaryZh": "纳扎拉在普尔巴亚被免职数小时后宣誓就任财长。",
-    "summaryEn": "Nazara was sworn in hours after Purbaya’s dismissal.",
-    "detailZh": "据CNBC Economy，纳扎拉在普尔巴亚被免职数小时后宣誓就任印度尼西亚财政部长。标题指出，印尼新财长正面临提升财政可信度的艰巨任务。纳扎拉此前在财政部担任副部长七年，并于2015年至2019年领导该部财政政策机构。材料未披露其上任后的具体政策、财政措施或下一步安排。",
-    "detailEn": "According to CNBC Economy, Nazara was sworn in as Indonesia’s new finance minister hours after Purbaya was dismissed. The report frames the appointment as an uphill battle for fiscal credibility. Nazara brings seven years of experience as deputy finance minister and previously led the ministry’s fiscal policy agency from 2015 to 2019. The supplied material does not provide further details about the circumstances of Purbaya’s dismissal, Nazara’s policy agenda, specific fiscal measures, or his next steps. It therefore offers a limited account centered on the timing of the appointment and Nazara’s prior roles within the finance ministry.",
+    "titleZh": "印度尼西亚新财长面临财政信誉考验",
+    "titleEn": "Indonesia's New Finance Minister Faces an Uphill Battle on Fiscal Credibility",
+    "summaryZh": "Nazara在Purbaya被免职数小时后宣誓就任印尼新财长，面临财政信誉考验。",
+    "summaryEn": "Nazara was sworn in as Indonesia’s new finance minister hours after Purbaya’s dismissal, facing an uphill battle over fiscal credibility.",
+    "detailZh": "据CNBC Economy，Nazara在Purbaya被免职数小时后宣誓就任印度尼西亚新任财政部长。材料称，Nazara此前担任副财政部长长达七年，并于2015年至2019年领导财政部财政政策机构。其履新之际，印尼财政信誉面临考验。RSS材料未提供Purbaya被免职的原因，也未披露Nazara将采取的具体政策或市场反应。",
+    "detailEn": "CNBC Economy reported that Nazara was sworn in as Indonesia’s new finance minister hours after Purbaya was dismissed. Nazara had spent seven years as deputy finance minister and led the ministry’s fiscal policy agency from 2015 to 2019. The appointment comes as Indonesia’s fiscal credibility faces an uphill battle. The RSS material does not provide the reason for Purbaya’s dismissal, nor does it describe Nazara’s policy plans or any market reaction.",
     "tags": [
-      "Indonesia",
-      "finance minister",
-      "fiscal credibility"
+      "印度尼西亚",
+      "财政政策",
+      "财政信誉"
     ],
     "sources": [
       "CNBC Economy"
@@ -414,16 +437,16 @@
     ]
   },
   {
-    "id": "rss-19-96d0b4cce58e",
+    "id": "rss-20-96d0b4cce58e",
     "category": "economy",
-    "importance": 5,
+    "importance": 4,
     "sourcesCount": 1,
-    "titleZh": "去美元化讨论为何“多谈少做”",
-    "titleEn": "Why de-dollarization discussions are more talk, less action",
-    "summaryZh": "金砖国家领导人主张以本币开展内部贸易，降低对美元依赖。",
-    "summaryEn": "BRICS leaders call for local currencies in intra-BRICS trade to reduce reliance on the dollar.",
-    "detailZh": "CNBC Economy报道称，当前关于去美元化的讨论呈现“多谈少做”的特点。金砖国家领导人已提出，应在金砖国家内部贸易中使用本币，以降低对美元的依赖。材料强调，这一主张的重点是减少美元依赖；但标题同时指出，相关讨论目前更多停留在言论层面，实际行动相对有限。材料未提供具体的贸易安排、执行时间表或进展数据。",
-    "detailEn": "A CNBC Economy item describes de-dollarization discussions as involving more talk than action. It says BRICS leaders have asserted the need to use local currencies for trade among BRICS members, with the stated aim of reducing dependence on the dollar. The material presents this position as a discussion and a stated need, while the headline emphasizes a gap between rhetoric and action. It provides no further information about implementation, timing, specific trade arrangements, or measurable progress. No concrete steps are described in the supplied summary.",
+    "titleZh": "去美元化讨论：言辞多于行动",
+    "titleEn": "Why De-dollarization Discussions Are More Talk, Less Action",
+    "summaryZh": "金砖领导人主张在内部贸易中使用本币，降低美元依赖。",
+    "summaryEn": "BRICS leaders advocate local currencies in intra-BRICS trade to reduce reliance on the dollar.",
+    "detailZh": "CNBC Economy报道称，当前关于“去美元化”的讨论更多是言论，实际行动相对有限。金砖国家（BRICS）领导人已表示，有必要在金砖国家内部贸易中使用本币，以减少对美元的依赖。材料将这一主张作为相关讨论的核心内容，但没有提供具体措施、实施时间表或已取得的执行结果。因此，现有信息体现的是领导层提出的方向，而不是一项已经完成的贸易安排变化。",
+    "detailEn": "CNBC Economy frames current de-dollarization discussions as involving more rhetoric than concrete action. BRICS leaders have asserted that members need to use local currencies for trade conducted within the BRICS group, with the stated aim of reducing dependence on the U.S. dollar. The supplied summary does not identify specific measures, implementation steps, timelines, or results. It therefore presents the issue as a stated direction from BRICS leaders, rather than documenting a completed shift in how intra-BRICS trade is conducted at this stage.",
     "tags": [
       "BRICS",
       "去美元化",
@@ -437,256 +460,347 @@
     ]
   },
   {
-    "id": "rss-20-858286a35aab",
-    "category": "economy",
-    "importance": 6,
-    "sourcesCount": 1,
-    "titleZh": "票数盘点：美联储准备预期加息，沃什面临艰难较量",
-    "titleEn": "Counting the votes: Warsh faces a tough battle as the Fed girds for expected interest rate hike",
-    "summaryZh": "交易员预计加息概率超92%，12月再次加息概率超75%。",
-    "summaryEn": "Traders priced in a more than 92% chance of a rate hike and over 75% odds of another in December.",
-    "detailZh": "CNBC Economy报道称，围绕美联储预期中的加息，沃什正面临一场艰难较量。交易员定价显示，美联储加息的概率超过92%；与此同时，12月再次加息的概率也超过75%。这意味着，市场对近期加息已有较强预期，对12月进一步加息同样保持较高押注。材料未提供投票结果、具体加息幅度或沃什所面对的具体分歧，仅呈现交易员对两次加息可能性的判断。",
-    "detailEn": "The report frames the situation as a contest over the votes while the Fed readies for a rate increase that markets expect. Traders’ pricing puts the chance of an increase above 92%. It also puts the chance of another increase in December above 75%. Thus, the market is assigning a high probability to the expected hike while also attaching a substantial probability to a subsequent December move. The material gives no additional information about the vote, the size of either increase, or Warsh’s position.",
-    "tags": [
-      "美联储",
-      "利率",
-      "沃什"
-    ],
-    "sources": [
-      "CNBC Economy"
-    ],
-    "sourceUrls": [
-      "https://www.cnbc.com/2026/09/14/counting-the-votes-warsh-faces-tough-battle-as-fed-girds-for-expected-rate-hike.html"
-    ]
-  },
-  {
-    "id": "rss-21-09c0e787ec87",
+    "id": "rss-21-c827b3275012",
     "category": "tech",
     "importance": 4,
     "sourcesCount": 1,
-    "titleZh": "Neuralink联合创始人Max Hodak将在TechCrunch Disrupt 2026谈“屏幕时代终结”",
-    "titleEn": "Neuralink Co-founder Max Hodak to Discuss the End of the Screen Era at TechCrunch Disrupt 2026",
-    "summaryZh": "Max Hodak将分享无屏幕界面设想及其医疗帮助潜力。",
-    "summaryEn": "Max Hodak will present a vision for screen-free interfaces with potential medical applications.",
-    "detailZh": "TechCrunch称，Neuralink联合创始人马克斯·霍达克将在今年的TechCrunch Disrupt 2026上发表演讲，分享他对“无屏幕界面”的设想。摘要称，这类界面甚至可以提供医疗帮助。TechCrunch同时提醒，9月25日前注册可获得最高200美元的通行证优惠。材料未说明演讲的具体时间、地点或技术细节。",
-    "detailEn": "TechCrunch reports that Max Hodak, co-founder of Neuralink, will speak at this year’s TechCrunch Disrupt 2026 about his vision for screen-free interfaces. The event description says these interfaces could even provide medical help. TechCrunch also says people who register before September 25 can save up to $200 on their pass. The supplied material does not provide further details about the interfaces, their potential medical use, or the exact timing and location of Hodak’s presentation. This card therefore limits its description to the announced topic, the stated medical possibility, and the registration offer.",
+    "titleZh": "Noise希望帮助普通人成为有偿内容创作者",
+    "titleEn": "Noise wants to help everyday people become paid content creators",
+    "summaryZh": "Noise致力于帮助普通人通过手机内容赚钱。",
+    "summaryEn": "Noise aims to help anyone with a smartphone earn money from content.",
+    "detailZh": "据TechCrunch报道，营销平台Noise正致力于帮助普通人通过自己制作的内容获得收入，并成为有偿内容创作者。该平台的目标人群是拥有智能手机的日常用户。现有材料未披露Noise的具体产品功能、商业模式、覆盖市场、用户规模或融资情况。报道摘要仅指出，Noise希望让更多人借助智能手机从内容创作中赚钱。",
+    "detailEn": "TechCrunch reports that Noise, a marketing platform, is pursuing a goal of helping everyday people earn money from content they create. Its stated focus is enabling anyone with a smartphone to become a paid content creator. The available material does not specify how the platform works, its business model, the markets it serves, its user base, or its funding status. The summary identifies Noise’s broader direction: helping more ordinary users make money from smartphone-based content creation.",
     "tags": [
-      "Neuralink",
-      "Max Hodak",
-      "TechCrunch Disrupt 2026"
+      "Noise",
+      "内容创作",
+      "营销平台"
     ],
     "sources": [
       "TechCrunch"
     ],
     "sourceUrls": [
-      "https://techcrunch.com/2026/09/16/hear-why-neuralink-co-founder-max-hodak-says-the-screen-era-is-ending-at-techcrunch-disrupt-2026/"
+      "https://techcrunch.com/2026/09/16/noise-wants-to-help-everyday-people-become-paid-content-creators/"
     ]
   },
   {
-    "id": "rss-22-86e01e41feb3",
+    "id": "rss-22-bc6f9ab86009",
+    "category": "tech",
+    "importance": 5,
+    "sourcesCount": 1,
+    "titleZh": "股权表管理平台Pulley将于12月关闭",
+    "titleEn": "Pulley, a Carta rival, is shutting down",
+    "summaryZh": "股权表管理平台Pulley宣布将于12月停止运营。",
+    "summaryEn": "Cap table platform Pulley, backed by General Catalyst, Stripe, and Founders Fund, announced it will shut down in December.",
+    "detailZh": "据TechCrunch报道，股权表管理平台Pulley宣布将于12月关闭。该公司被介绍为Carta的竞争者，并获得General Catalyst、Stripe和Founders Fund支持。现有材料确认的核心信息包括其业务性质、竞争关系、支持方及关闭时间，但未说明关闭的具体原因，也未提供员工、客户、资产或后续安排等方面的更多细节。",
+    "detailEn": "TechCrunch reports that Pulley, a cap table management platform described as a rival to Carta, has announced that it will shut down in December. Pulley is backed by General Catalyst, Stripe, and Founders Fund. The supplied material confirms the company’s planned closure, its market positioning, and the identity of its named backers. It does not give a reason for the shutdown or provide further details about employees, customers, assets, operations, or arrangements after December. The material does not specify the year.",
+    "tags": [
+      "Pulley",
+      "Carta",
+      "股权表管理"
+    ],
+    "sources": [
+      "TechCrunch"
+    ],
+    "sourceUrls": [
+      "https://techcrunch.com/2026/09/16/pulley-a-carta-rival-is-shutting-down/"
+    ]
+  },
+  {
+    "id": "rss-23-8c5a5515609b",
     "category": "tech",
     "importance": 6,
     "sourcesCount": 1,
-    "titleZh": "May Mobility拟通过14亿美元SPAC交易上市",
-    "titleEn": "May Mobility is going public in a $1.4B SPAC deal",
-    "summaryZh": "自动驾驶出租车公司May Mobility拟通过14亿美元SPAC交易上市，有望筹得超3亿美元资金。",
-    "summaryEn": "May Mobility plans to go public through a $1.4 billion SPAC deal that could provide more than $300 million in funding.",
-    "detailZh": "据TechCrunch，资产轻量型自动驾驶出租车公司May Mobility正计划通过一项总额14亿美元的特殊目的收购公司（SPAC）交易上市。报道指出，这项交易可能为公司带来超过3亿美元资金，但所给摘要未提供交易完成时间、SPAC合作方、上市地点及其他条款等信息。因此，目前可确认的重点仅是其拟上市安排、交易规模和潜在融资金额。",
-    "detailEn": "TechCrunch reports that May Mobility, described as an asset-light robotaxi company, is going public through a $1.4 billion special purpose acquisition company (SPAC) deal. The transaction could net the company more than $300 million in funding. The supplied material does not identify the SPAC partner, a timetable, a listing venue, or additional deal terms. It therefore establishes the proposed transaction’s reported size and potential funding, but provides no further information about its completion or structure. No other business, financial, or operational details are included in the supplied summary.",
+    "titleZh": "Anthropic与OpenAI拟将独立安全评估员嵌入实验室",
+    "titleEn": "Anthropic and OpenAI Plan to Embed Independent Safety Evaluators",
+    "summaryZh": "两家公司寻求将独立安全评估员置于实验室内部。",
+    "summaryEn": "Anthropic and OpenAI seek to place independent safety evaluators inside their AI labs, prompting debate over access, independence, transparency, and regulation.",
+    "detailZh": "TechCrunch称，Anthropic与OpenAI希望把独立安全评估员嵌入各自的人工智能实验室。研究人员欢迎这种前所未有的内部访问机会，但也警告，真正有意义的监督不能只依赖进入实验室，还需要透明度与独立性。报道同时指出，随着讨论推进，最终仍需要监管来确保监督发挥作用。材料未说明评估员的具体权限、任期或监管形式。",
+    "detailEn": "TechCrunch reports that Anthropic and OpenAI want to embed independent safety evaluators inside their AI labs. Researchers welcome the unprecedented access such a model could offer, but warn that access alone is not meaningful oversight. In their view, oversight also requires transparency and independence, with regulation eventually needed to make it effective. The proposal therefore raises a central question: whether evaluators working inside the labs can remain genuinely independent. The report does not provide details about their powers, terms, or the regulatory model under discussion.",
     "tags": [
-      "May Mobility",
-      "robotaxi",
-      "SPAC"
+      "人工智能",
+      "安全评估",
+      "监管"
     ],
     "sources": [
       "TechCrunch"
     ],
     "sourceUrls": [
-      "https://techcrunch.com/2026/09/16/may-mobility-is-going-public-in-a-1-4b-spac-deal/"
+      "https://techcrunch.com/2026/09/16/anthropic-and-openai-want-to-embed-safety-evaluators-will-they-really-be-independent/"
     ]
   },
   {
-    "id": "rss-23-fd27e61521cd",
+    "id": "rss-24-bdf802861a82",
     "category": "tech",
-    "importance": 3,
+    "importance": 4,
     "sourcesCount": 1,
-    "titleZh": "机器人等待“ChatGPT时刻”：英伟达莱斯·卡帕斯解释原因",
-    "titleEn": "Robots are waiting for a ChatGPT moment: Nvidia’s Les Karpas explains why at TechCrunch Disrupt 2026",
-    "summaryZh": "英伟达莱斯·卡帕斯将解释机器人尚未走入日常生活的原因。",
-    "summaryEn": "Nvidia’s Les Karpas will explain why robots have yet to reach everyday life at Disrupt 2026.",
-    "detailZh": "据TechCrunch，机器人产业仍在等待机器人真正进入日常生活的突破性时刻。英伟达的莱斯·卡帕斯将在TechCrunch Disrupt 2026上解释，他认为这一突破尚未到来的原因。报道未披露更多观点或具体解决方案。TechCrunch同时提示，9月25日前注册，可在通行证价格上最多节省200美元。目前材料仅确认主题、嘉宾与报名优惠，未提供演讲细节。",
-    "detailEn": "TechCrunch says the robotics industry is still waiting for a breakthrough that would bring robots into day-to-day life. At TechCrunch Disrupt 2026, Nvidia’s Les Karpas is expected to explain why that breakthrough has not yet arrived. The provided material does not include his analysis, examples, or proposed solutions. It identifies the session’s broad focus and notes that readers can register before September 25 to save up to $200 on a pass. No further event details or claims are provided in the source.",
+    "titleZh": "遭指责售卖“变态眼镜”后，Meta准备推出无摄像头眼镜",
+    "titleEn": "After ‘Perv Glasses’ Accusations, Meta Prepares Camera-Free Product",
+    "summaryZh": "Meta准备推出无摄像头眼镜，以应对“变态眼镜”指责",
+    "summaryEn": "Meta is preparing camera-free glasses after accusations tied to its sale of “perv glasses.”",
+    "detailZh": "TechCrunch标题称，Meta在遭到出售“变态眼镜”的指责后，正准备推出一款不带摄像头的眼镜产品。材料没有披露该产品的名称、发布时间、价格、功能或销售地区，也未说明Meta如何设计这款产品。摘要提出的问题是：无摄像头版本能否帮助Meta避开相关指责。现有信息仅涉及产品方向与舆论背景，不能据此确认产品已发布，或判断其能否改变公众观感。",
+    "detailEn": "TechCrunch’s headline says Meta is preparing to sell a pair of glasses without a camera after facing accusations over selling “perv glasses.” The accompanying summary frames the move as a question: whether a camera-free product could help Meta avoid those accusations. The supplied material does not identify the product, give a release date or price, describe other functions, or say where it would be sold. It also does not establish that the product has launched or that the strategy will change public perception. Based on the material, only the planned camera-free direction is clear.",
     "tags": [
-      "robotics",
-      "Nvidia",
-      "TechCrunch Disrupt 2026"
+      "Meta",
+      "眼镜",
+      "隐私"
     ],
     "sources": [
       "TechCrunch"
     ],
     "sourceUrls": [
-      "https://techcrunch.com/2026/09/16/robots-are-waiting-for-a-chatgpt-moment-nvidias-les-karpas-explains-why-at-techcrunch-disrupt-2026/"
+      "https://techcrunch.com/2026/09/16/after-accusations-of-selling-perv-glasses-meta-prepares-to-sell-a-pair-without-a-camera/"
     ]
   },
   {
-    "id": "rss-24-d7449c53d4f5",
-    "category": "security",
-    "importance": 6,
-    "sourcesCount": 1,
-    "titleZh": "谷歌称部分Pixel手机用户遭零日攻击",
-    "titleEn": "Google says some Pixel phone owners were hacked in zero-day attacks",
-    "summaryZh": "谷歌称部分Pixel用户遭零日攻击，调制解调器漏洞或被有限定向利用。",
-    "summaryEn": "Google says some Pixel owners were hacked in zero-day attacks; a modem bug may be under limited, targeted exploitation.",
-    "detailZh": "据TechCrunch报道，谷歌表示，部分Pixel手机用户在零日攻击中遭到入侵。Pixel手机制造商称，有迹象表明，手机调制解调器中的一个漏洞“可能正受到有限的、有针对性的利用”。RSS材料未说明受影响用户数量、漏洞具体信息、攻击者身份、攻击方式，也未提及后续修复措施或事件范围。",
-    "detailEn": "TechCrunch reports that Google said some Pixel phone owners were hacked in zero-day attacks. The Pixel phone maker said there are indications that a bug in the phone’s modem “may be under limited, targeted exploitation.” The supplied material does not identify the affected number of users, the vulnerability, the attackers, the attack method, or any remediation. It also provides no further details about the timing or scope of the reported exploitation. No additional information is included in the RSS item.",
-    "tags": [
-      "Google",
-      "Pixel",
-      "零日攻击"
-    ],
-    "sources": [
-      "TechCrunch"
-    ],
-    "sourceUrls": [
-      "https://techcrunch.com/2026/09/16/google-says-some-pixel-phone-owners-were-hacked-in-zero-day-attacks/"
-    ]
-  },
-  {
-    "id": "rss-25-4a72c201099d",
+    "id": "rss-25-bb5ae195e15a",
     "category": "economy",
     "importance": 4,
     "sourcesCount": 1,
-    "titleZh": "亚马逊为员工每小时加薪1美元",
-    "titleEn": "Amazon gives its workers a raise of $1 per hour",
-    "summaryZh": "亚马逊为员工每小时加薪1美元，相关投入超15亿美元。",
-    "summaryEn": "Amazon is raising workers’ pay by $1 per hour, with the investment totaling more than $1.5 billion.",
-    "detailZh": "据TechCrunch，亚马逊将为员工每小时加薪1美元。报道摘要称，公司为此次加薪投入的资金总额超过15亿美元。摘要同时指出，这一金额约相当于亚马逊2.68万亿美元市值的0.06%。现有材料未说明加薪的生效时间、适用员工范围、覆盖地区或实施方式，因此上述信息仅反映加薪金额及其总体投入规模。",
-    "detailEn": "TechCrunch reports that Amazon is giving its workers a $1-per-hour raise. The article’s summary says Amazon’s investment in the raises will exceed $1.5 billion. It also places that spending at about 0.06% of Amazon’s $2.68 trillion market capitalization. The provided material does not specify when the raises take effect, which workers are covered, or where they apply. Accordingly, the available information describes the size of the hourly increase and the estimated overall investment, but offers no further implementation details beyond those figures.",
+    "titleZh": "X将允许美国用户通过Cashtags进行交易",
+    "titleEn": "X will now let US users trade via Cashtags",
+    "summaryZh": "X将允许美国用户通过Cashtags进行交易，连接时间线讨论与市场。",
+    "summaryEn": "X will let US users trade via Cashtags, narrowing the gap between timeline discussions and the market itself.",
+    "detailZh": "据TechCrunch报道，X将允许美国用户通过Cashtags进行交易。该平台此举回应了时间线上的市场讨论与实际市场之间的脱节，意在把两者更紧密地连接起来。现有材料未说明交易的具体品种、操作流程、服务范围、上线时间或相关监管安排。报道重点在于功能变化及其与市场讨论之间的关系，其他细节尚待进一步披露。",
+    "detailEn": "TechCrunch reports that X will now allow users in the United States to trade via Cashtags. The summary characterizes the move as an effort to close the gap between market discussions taking place on the timeline and the market itself. The available material does not specify what assets users can trade, how the feature works, when it becomes available, or what regulatory arrangements apply. Accordingly, the report supports describing a new trading capability for US users, but does not provide further operational details about the service.",
     "tags": [
-      "Amazon",
-      "员工薪酬",
-      "劳动力"
+      "X",
+      "Cashtags",
+      "交易"
     ],
     "sources": [
       "TechCrunch"
     ],
     "sourceUrls": [
-      "https://techcrunch.com/2026/09/16/amazon-gives-its-workers-a-raise-of-1-per-hour/"
+      "https://techcrunch.com/2026/09/16/x-will-now-let-u-s-users-trade-via-cashtags/"
     ]
   },
   {
-    "id": "rss-26-675b55d46283",
-    "category": "security",
-    "importance": 6,
+    "id": "rss-26-7c2759914b75",
+    "category": "science",
+    "importance": 4,
     "sourcesCount": 1,
-    "titleZh": "瑞典以安全担忧为由驱逐伊朗使馆工作人员",
-    "titleEn": "Sweden expels Iran embassy employee, citing security concerns",
-    "summaryZh": "瑞典称伊朗支持的团体正策划针对境内犹太和以色列利益的行动。",
-    "summaryEn": "Stockholm says Iran-backed groups are plotting against Jewish and Israeli interests in Sweden.",
-    "detailZh": "据半岛电视台报道，瑞典方面表示，出于安全担忧，已驱逐一名伊朗使馆工作人员。斯德哥尔摩称，伊朗支持的团体正在瑞典策划针对“犹太和以色列利益”的行动。所给材料未说明这名工作人员的身份、离境安排、具体指控依据或驱逐时间，也未提供伊朗方面对此事的回应及其他后续信息。",
-    "detailEn": "Al Jazeera reports that Sweden has expelled an employee of Iran’s embassy, citing security concerns. Stockholm says Iran-backed groups are plotting in Sweden against “Jewish and Israeli interests.” The supplied material does not identify the employee, specify when the expulsion occurred, explain the basis for the stated security concerns, or provide Iran’s response. It also gives no further information about the alleged activity, the decision, or possible next steps. The brief item contains no additional information on the matter or its outcome.",
+    "titleZh": "阿尔茨海默病的转折点与转变",
+    "titleEn": "Inflection points and transitions in Alzheimer’s disease",
+    "summaryZh": "《自然》在线发布题为《阿尔茨海默病的转折点与转变》的内容。",
+    "summaryEn": "Nature published online “Inflection points and transitions in Alzheimer’s disease” on 16 September 2026.",
+    "detailZh": "《自然》新闻材料显示，题为“Inflection points and transitions in Alzheimer’s disease”（《阿尔茨海默病的转折点与转变》）的内容已于2026年9月16日在线发表。材料列出其数字对象唯一标识符（DOI）为10.1038/s41586-026-11110-5，主题聚焦阿尔茨海默病中的“转折点”与“转变”。除标题、发布日期及DOI外，所提供摘要未披露研究方法、参与者、主要发现或临床意义。",
+    "detailEn": "Nature News lists a Nature item published online on 16 September 2026 under the title “Inflection points and transitions in Alzheimer’s disease.” The supplied material identifies Alzheimer’s disease as the subject and provides the DOI 10.1038/s41586-026-11110-5. Beyond the title, publication date and DOI, the RSS excerpt gives no information about research methods, participants, findings, interpretation or clinical implications. No further details are included in the supplied entry.",
     "tags": [
-      "Sweden",
-      "Iran",
-      "security"
+      "阿尔茨海默病",
+      "Nature"
     ],
     "sources": [
-      "Al Jazeera"
+      "Nature News"
     ],
     "sourceUrls": [
-      "https://www.aljazeera.com/news/2026/9/16/sweden-expels-iran-embassy-employee-citing-security-concerns?traffic_source=rss"
+      "https://www.nature.com/articles/s41586-026-11110-5"
     ]
   },
   {
-    "id": "rss-27-64d6e7650ccf",
+    "id": "rss-27-5942af2512fd",
+    "category": "science",
+    "importance": 4,
+    "sourcesCount": 1,
+    "titleZh": "水杨酸受体调控转录的机制",
+    "titleEn": "Mechanisms of Transcriptional Regulation by Salicylic Acid Receptors",
+    "summaryZh": "《Nature》在线发表聚焦水杨酸受体转录调控机制的论文。",
+    "summaryEn": "Nature reports a paper on how salicylic acid receptors regulate transcription; no findings are provided in the supplied RSS material.",
+    "detailZh": "《Nature》于2026年9月16日在线发表题为《水杨酸受体调控转录的机制》的研究论文，DOI为10.1038/s41586-026-11123-0。根据所提供的Nature News RSS材料，文章聚焦水杨酸受体参与转录调控的机制。摘要未提供具体研究方法、实验结果或结论，因此目前无法从该材料判断论文的主要发现及其意义。",
+    "detailEn": "Nature published online, on 16 September 2026, a paper titled “Mechanisms of Transcriptional Regulation by Salicylic Acid Receptors.” The paper’s DOI is 10.1038/s41586-026-11123-0. Based solely on the supplied Nature News RSS entry, the work concerns the mechanisms through which salicylic acid receptors regulate transcription. The RSS material does not provide an abstract, experimental details, results, or conclusions. This card therefore reports the publication and its stated subject without inferring findings beyond the source.",
+    "tags": [
+      "Nature",
+      "水杨酸受体",
+      "转录调控"
+    ],
+    "sources": [
+      "Nature News"
+    ],
+    "sourceUrls": [
+      "https://www.nature.com/articles/s41586-026-11123-0"
+    ]
+  },
+  {
+    "id": "rss-28-4695bd99d202",
+    "category": "science",
+    "importance": 5,
+    "sourcesCount": 1,
+    "titleZh": "为何多数恒星没有像太阳那样的爆发",
+    "titleEn": "Why most stars don’t have outbursts like our Sun’s",
+    "summaryZh": "强磁场可能干扰恒星产生日冕物质抛射。",
+    "summaryEn": "Strong magnetic fields may disrupt stars’ ability to produce coronal mass ejections, helping explain why most stars lack Sun-like outbursts.",
+    "detailZh": "Nature News报道，多数恒星并没有像太阳那样的爆发。摘要指出，强磁场能够扰乱恒星产生被称为“物质喷泉”的日冕物质抛射。该报道将强磁场与多数恒星缺少此类爆发联系起来，但所给材料未进一步说明具体机制、样本范围或观测对象。文章于2026年9月16日在线发表，DOI为10.1038/d41586-026-02833-6。",
+    "detailEn": "Nature News reports that most stars do not produce outbursts like those of our Sun. Its summary says that a strong magnetic field can disrupt a star’s ability to produce coronal mass ejections, described here as fountains of matter. The item links strong magnetic fields with the relative absence of such outbursts in most stars. It does not provide any further details in the supplied material about the mechanism, sample, or observations. The article was published online on 16 September 2026, with DOI 10.1038/d41586-026-02833-6.",
+    "tags": [
+      "恒星",
+      "磁场",
+      "日冕物质抛射"
+    ],
+    "sources": [
+      "Nature News"
+    ],
+    "sourceUrls": [
+      "https://www.nature.com/articles/d41586-026-02833-6"
+    ]
+  },
+  {
+    "id": "rss-29-a343e752b999",
+    "category": "science",
+    "importance": 5,
+    "sourcesCount": 1,
+    "titleZh": "移植的人类脑组织在无大脑皮层小鼠体内扎根",
+    "titleEn": "Transplanted human brain-tissue takes root in mice without a cortex",
+    "summaryZh": "人脑组织在无大脑皮层小鼠体内实现广泛整合",
+    "summaryEn": "Transplanted human brain tissue integrates extensively in mice lacking a cortex, potentially enabling in vivo testing of new therapies.",
+    "detailZh": "《自然》新闻称，移植到缺乏大脑皮层小鼠体内的人类脑组织能够“扎根”，并出现广泛的细胞整合。材料指出，这种整合或可为新疗法的体内测试提供平台。该报道于2026年9月16日在线发表，DOI为10.1038/d41586-026-02927-1。摘要还提到，一款可将论文转换为“虚拟通讯作者”的人工智能工具。",
+    "detailEn": "Nature News reports that transplanted human brain tissue takes root in mice without a cortex, with extensive cellular integration. According to the supplied summary, this integration might provide a platform for in vivo testing of new therapies. The item was published online on 16 September 2026, with DOI 10.1038/d41586-026-02927-1. The summary also mentions an AI tool that turns papers into “virtual corresponding authors.” Beyond these points, the supplied RSS material does not provide methodological details, findings, or information about specific therapies.",
+    "tags": [
+      "脑科学",
+      "人脑组织移植",
+      "人工智能"
+    ],
+    "sources": [
+      "Nature News"
+    ],
+    "sourceUrls": [
+      "https://www.nature.com/articles/d41586-026-02927-1"
+    ]
+  },
+  {
+    "id": "rss-30-6e60f99e2804",
+    "category": "science",
+    "importance": 4,
+    "sourcesCount": 1,
+    "titleZh": "提出随机背景方法以理解配体优化",
+    "titleEn": "Development of a random background to understand ligand optimization",
+    "summaryZh": "研究介绍一种提高配体效力优化效率的方法。",
+    "summaryEn": "Nature describes an approach to improve ligand potency optimization efficiency.",
+    "detailZh": "《自然》在线发表一项研究，介绍一种用于理解配体优化的随机背景方法。材料称，该方法旨在提高配体效力优化的效率，并建立对优化结果的背景预期。报道仅说明了这一方法及其目标，未进一步提供实验细节、具体配体、效果数据或应用领域。论文于2026年9月16日在线发表，DOI为10.1038/s41586-026-11013-5。",
+    "detailEn": "Nature reports an approach designed to improve the efficiency of ligand potency optimization while establishing a background expectation for that process. The supplied material does not specify the ligands, experimental design, quantitative results or application context. The description presents the work as a methodological approach rather than providing performance figures or a comparison with other methods. The article, titled “Development of a random background to understand ligand optimization,” was published online on 16 September 2026. Its DOI is 10.1038/s41586-026-11013-5, as reported by Nature.",
+    "tags": [
+      "Nature",
+      "ligand optimization",
+      "random background"
+    ],
+    "sources": [
+      "Nature News"
+    ],
+    "sourceUrls": [
+      "https://www.nature.com/articles/s41586-026-11013-5"
+    ]
+  },
+  {
+    "id": "rss-31-8232dc1c4b98",
     "category": "world",
     "importance": 6,
     "sourcesCount": 1,
-    "titleZh": "特朗普前盟友玛乔丽·泰勒·格林称对伊朗战争必须“停止”",
-    "titleEn": "Ex-Trump Ally Marjorie Taylor Greene Says War on Iran Must “Stop”",
-    "summaryZh": "前共和党籍国会议员格林抨击特朗普对伊战争，称战争必须“停止”。",
-    "summaryEn": "Marjorie Taylor Greene condemned Donald Trump’s war on Iran and said it must “stop.”",
-    "detailZh": "半岛电视台材料称，前特朗普盟友、前共和党籍国会议员玛乔丽·泰勒·格林抨击美国总统唐纳德·特朗普对伊朗发动的战争，并表示这场战争必须“停止”。材料没有提供她发言的具体时间、地点、完整内容，也未说明特朗普方面是否作出回应。报道呈现的核心信息，是格林对该战争的批评及要求其停止的立场。",
-    "detailEn": "The supplied Al Jazeera material says that former Republican Congresswoman Marjorie Taylor Greene, described in the headline as a former ally of Donald Trump, condemned US President Donald Trump’s war on Iran. Greene said the war must “stop.” The material does not provide the timing, location, broader context, or full wording of her remarks. It also contains no information about any response from Trump or his administration. The central point is Greene’s criticism of the war and her call for it to end.",
+    "titleZh": "曼联2比3不敌布莱顿，无缘联赛杯",
+    "titleEn": "Manchester United lose 3-2 to Brighton, crash out of League Cup",
+    "summaryZh": "布莱顿两球落后逆转，3比2击败曼联，曼联无缘联赛杯。",
+    "summaryEn": "Brighton rally from two goals down to beat Manchester United 3-2, eliminating them from the League Cup.",
+    "detailZh": "据半岛电视台报道，布莱顿在老特拉福德上演逆转：球队在落后曼联两球的情况下，最终以3比2取胜。此役令曼联遭到淘汰，无缘联赛杯。报道将这场胜利描述为对曼联的震动，并指出，曼联开局缓慢的势头仍在延续。材料显示，比赛的核心转折是布莱顿从两球落后追至并反超，最终锁定胜局。",
+    "detailEn": "Al Jazeera reports that Brighton produced a comeback at Old Trafford, recovering from a two-goal deficit to beat Manchester United 3-2. The defeat knocks United out of the League Cup and extends what the report describes as the club’s slow start. The scoreline captures the match’s defining sequence: United led by two goals, but Brighton turned the contest around and finished with a one-goal victory. The supplied material gives no further information on the scorers, timing of the goals or other match events.",
     "tags": [
-      "伊朗",
-      "美国政治",
-      "战争"
+      "曼联",
+      "布莱顿",
+      "联赛杯"
     ],
     "sources": [
       "Al Jazeera"
     ],
     "sourceUrls": [
-      "https://www.aljazeera.com/video/newsfeed/2026/9/16/ex-trump-ally-marjorie-taylor-greene-says-war-on-iran-must?traffic_source=rss"
+      "https://www.aljazeera.com/sports/2026/9/16/manchester-united-lose-3-2-to-brighton-crash-out-of-league-cup?traffic_source=rss"
     ]
   },
   {
-    "id": "rss-28-e2ba2520b4f6",
+    "id": "rss-32-25c3d1125d61",
     "category": "world",
-    "importance": 7,
+    "importance": 5,
     "sourcesCount": 1,
-    "titleZh": "吉布提呼吁援助：数千名也门人逃往该国",
-    "titleEn": "Djibouti calls for assistance as thousands of Yemenis flee to the country",
-    "summaryZh": "数千名也门人逃往吉布提，内政部长称抵达人数已超国家承载能力。",
-    "summaryEn": "Djibouti seeks assistance as thousands of Yemenis arrive, with the interior minister warning that arrivals already exceed national capacity.",
-    "detailZh": "半岛电视台报道称，吉布提正呼吁获得援助，原因是数千名也门人逃往该国。吉布提内政部长警告，抵达者人数已经超过国家承载能力。现有材料未说明这些人员抵达的具体时间、确切人数、所需援助类型或政府后续安排，也未提供他们在吉布提境内的去向等更多信息。报道也未交代相关情况是否会继续变化。",
-    "detailEn": "Al Jazeera reports that Djibouti is calling for assistance as thousands of Yemenis flee to the country. Djibouti’s interior minister warned that the number of people arriving has already exceeded the country’s national capacity. The material does not specify when the arrivals began, the exact number of people involved, the nature of the requested assistance, or what measures authorities plan to take. It provides no further details about the conditions faced by those arriving or their destinations within Djibouti at this stage.",
-    "tags": [
-      "吉布提",
-      "也门",
-      "援助"
-    ],
-    "sources": [
-      "Al Jazeera"
-    ],
-    "sourceUrls": [
-      "https://www.aljazeera.com/news/2026/9/16/djibouti-calls-for-assistance-as-thousands-of-yemenis-flee-to-country?traffic_source=rss"
-    ]
-  },
-  {
-    "id": "rss-29-57d90ee8fac8",
-    "category": "world",
-    "importance": 7,
-    "sourcesCount": 1,
-    "titleZh": "以色列“二次打击”空袭致加沙15岁学生死亡",
-    "titleEn": "Israeli ‘double-tap’ air strike responsible for killing schoolboy in Gaza",
-    "summaryZh": "加沙城空袭造成一名急救人员和一名15岁男孩死亡。",
-    "summaryEn": "An Israeli “double-tap” air strike in Gaza City killed a paramedic and a 15-year-old boy returning from school.",
-    "detailZh": "半岛电视台报道，发生在加沙城的一次以色列“二次打击”空袭，被指应对一名男学生的死亡负责。此次袭击共造成两人死亡，另一名死者为急救人员。报道说，15岁男孩当时正从学校返回。RSS摘要没有提供袭击时间、具体地点、伤者人数或其他背景信息。",
-    "detailEn": "Al Jazeera reports that an Israeli “double-tap” air strike in Gaza City was responsible for the death of a schoolboy. Two people were killed in the assault: a paramedic and a 15-year-old boy who was returning from school. The available RSS summary does not provide the time of the strike, its precise location, the number of wounded, or further background. This card therefore records only the reported deaths and the description of the incident contained in the source material. No other details are given.",
+    "titleZh": "加沙建筑倒塌后，救援人员搜寻幸存者",
+    "titleEn": "Rescue workers search for survivors after Gaza building collapse",
+    "summaryZh": "加沙一栋建筑倒塌后，救援人员搜寻幸存者。",
+    "summaryEn": "Rescue workers search for survivors after a building collapse in Gaza.",
+    "detailZh": "据半岛电视台报道，加沙一栋建筑发生倒塌后，救援人员正在现场搜寻幸存者。现有材料仅说明搜救行动正在进行，未提供建筑倒塌的具体地点、发生时间、原因、伤亡人数或被困人员情况。后续进展仍有待进一步信息确认，目前无法据此判断事件规模及影响，相关细节尚不明确。",
+    "detailEn": "Al Jazeera reports that rescue workers are searching for survivors after a building collapsed in Gaza. The supplied material does not provide further information about the location within Gaza, the time or cause of the collapse, the condition of the building, or whether anyone has been injured or trapped. It also does not state how many rescue workers are involved or describe the current progress of the search. This card therefore records only the reported search operation; additional details remain unavailable in the provided material.",
     "tags": [
       "Gaza",
-      "Israel-Palestine conflict",
-      "air strike"
+      "building collapse",
+      "rescue"
     ],
     "sources": [
       "Al Jazeera"
     ],
     "sourceUrls": [
-      "https://www.aljazeera.com/news/2026/9/16/israeli-double-tap-air-strike-responsible-for-killing-schoolboy-in-gaza?traffic_source=rss"
+      "https://www.aljazeera.com/video/newsfeed/2026/9/16/rescue-workers-search-for-survivors-after-gaza-building-collapse?traffic_source=rss"
     ]
   },
   {
-    "id": "rss-30-c474cb4f04a4",
-    "category": "economy",
-    "importance": 7,
+    "id": "rss-33-56a483e2e275",
+    "category": "security",
+    "importance": 6,
     "sourcesCount": 1,
-    "titleZh": "伊朗战争令美国付出380亿美元，或冲击经济与中期选举",
-    "titleEn": "Iran war has cost the US $38bn: How will it affect the economy and politics?",
-    "summaryZh": "战争成本、高能源价格与战略受挫或影响美国经济及特朗普中期选举表现。",
-    "summaryEn": "Al Jazeera says the $38bn war cost, higher energy prices and a strategic setback could hurt Trump in the midterms.",
-    "detailZh": "半岛电视台报道称，伊朗战争已使美国付出约380亿美元。报道指出，民众在加油站面对的高能源成本可能加重美国经济压力；同时，美国在战争中的战略受挫也可能带来政治代价。报道据此认为，这两项因素或将损害特朗普在中期选举中的表现。所给材料没有说明380亿美元的具体构成，也没有提供更详细的经济数据或选举影响预测。",
-    "detailEn": "Al Jazeera reports that the Iran war has cost the United States $38bn. It says high energy costs at the pump could increase pressure on the US economy, while a strategic setback for the US in the conflict could carry political consequences. Together, these factors are likely to hurt Trump in the midterm elections, according to the report. The supplied material does not break down the $38bn figure, provide additional economic data, or specify how the potential political impact would unfold.",
+    "titleZh": "美国将委内瑞拉移出毒品过境和生产国名单",
+    "titleEn": "US Removes Venezuela from List of Drug Transit and Production Countries",
+    "summaryZh": "特朗普称委内瑞拉禁毒有进展，美或移出哥伦比亚、玻利维亚。",
+    "summaryEn": "Trump cites Venezuela’s progress against narcotics since Maduro’s removal; the US may also delist Colombia and Bolivia.",
+    "detailZh": "据半岛电视台援引的材料，美国已将委内瑞拉从毒品过境国和生产国名单中移除。特朗普表示，在马杜罗被移除后，委内瑞拉在打击毒品方面取得了进展。他还说，美国可能进一步将哥伦比亚和玻利维亚移出该名单。材料未说明此次调整的具体时间、执行程序以及相关决定的依据。",
+    "detailEn": "The United States has removed Venezuela from its list of countries identified as transit points or producers of drugs, according to the supplied Al Jazeera material. Trump said Venezuela had made progress in combating narcotics since Maduro’s removal. He added that Colombia and Bolivia could also be removed from the list. The material does not specify when the change took effect, what procedure was used, or what evidence supported the decision. The summary gives no additional details about the scope of the change or the possible timing of decisions concerning Colombia and Bolivia.",
     "tags": [
-      "伊朗战争",
-      "美国经济",
-      "中期选举"
+      "美国",
+      "委内瑞拉",
+      "禁毒"
     ],
     "sources": [
       "Al Jazeera"
     ],
     "sourceUrls": [
-      "https://www.aljazeera.com/news/2026/9/16/iran-war-has-cost-the-us-38bn-how-is-it-impacting-us-economy-politics?traffic_source=rss"
+      "https://www.aljazeera.com/news/2026/9/16/us-removes-venezuela-from-list-of-drug-transit-production-countries?traffic_source=rss"
+    ]
+  },
+  {
+    "id": "rss-34-0a2cf3224b4d",
+    "category": "world",
+    "importance": 5,
+    "sourcesCount": 1,
+    "titleZh": "流离失所的叙利亚人在垃圾山中谋生",
+    "titleEn": "Displaced Syrians Dig Through Hills of Burning Garbage to Make a Living",
+    "summaryZh": "流离失所的叙利亚人在燃烧的垃圾山中翻找可回收物谋生。",
+    "summaryEn": "Displaced Syrians search through mountains of burning garbage for recyclable materials to make a living.",
+    "detailZh": "半岛电视台报道，流离失所的叙利亚人正在山一样的垃圾堆中翻挖，寻找可以回收的材料，以此谋生。部分垃圾处于燃烧状态，搜寻活动因此发生在燃烧的垃圾山中。报道呈现了这些流离失所者通过翻找垃圾、寻找并收集可回收物来维持生计的处境。核心信息是，他们通过在垃圾山中搜寻可回收材料来维持生计。",
+    "detailEn": "Al Jazeera reports that displaced Syrians are digging through mountains of garbage to find recyclable materials and make a living. The garbage is burning, turning the hills of waste into the setting for their search. The report focuses on these displaced people searching through waste and recovering recyclable items as a means of subsistence. In this account, digging through the waste and looking for recyclable items are presented as the way they seek to support themselves.",
+    "tags": [
+      "叙利亚",
+      "流离失所者",
+      "垃圾回收"
+    ],
+    "sources": [
+      "Al Jazeera"
+    ],
+    "sourceUrls": [
+      "https://www.aljazeera.com/video/newsfeed/2026/9/16/displaced-syrians-dig-through-hills-of-garbage-to-make-a-living?traffic_source=rss"
+    ]
+  },
+  {
+    "id": "rss-35-9479876dd29e",
+    "category": "security",
+    "importance": 5,
+    "sourcesCount": 1,
+    "titleZh": "胡塞称发布视频显示被击落的沙特战斗机",
+    "titleEn": "New video claims to show Saudi fighter jet Houthis say was shot down",
+    "summaryZh": "胡塞发布视频，声称显示在也门马里卜击落的沙特战斗机。",
+    "summaryEn": "Houthis release video they claim shows a Saudi fighter jet shot down in Yemen’s Marib.",
+    "detailZh": "半岛电视台报道，胡塞武装发布一段视频，声称画面显示一架沙特战斗机。胡塞方面称，这架飞机是在也门马里卜被其击落的。材料未提供视频拍摄时间、地点细节、飞机型号，也未说明沙特方面是否回应。当前信息仅反映胡塞武装对视频内容及事件的说法，飞机是否确被击落仍无法由所给材料确认。",
+    "detailEn": "Al Jazeera reports that Houthi forces have released a video they claim shows a Saudi fighter jet. The group says the aircraft was shot down in Yemen’s Marib. The available material does not provide further information about when or where the video was recorded, the aircraft’s model, or whether Saudi authorities have responded. The report therefore presents the incident as a claim by the Houthis, and the video’s contents and the alleged shoot-down cannot be independently confirmed from the supplied RSS material.",
+    "tags": [
+      "胡塞武装",
+      "沙特",
+      "也门"
+    ],
+    "sources": [
+      "Al Jazeera"
+    ],
+    "sourceUrls": [
+      "https://www.aljazeera.com/video/newsfeed/2026/9/16/new-video-claims-to-show-saudi-fighter-jet-houthis-say-they-shot-down?traffic_source=rss"
     ]
   }
 ]
