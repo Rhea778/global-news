@@ -1,6 +1,6 @@
- name: Update global briefing
+name: Update global briefing
 
-  on:
+on:
     workflow_dispatch:
     schedule:
       - cron: "0 22 * * *"
