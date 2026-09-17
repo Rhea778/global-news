@@ -20,6 +20,6 @@ python collector.py
 
 ## GitHub Actions 自动更新
 
-`.github/workflows/update-news.yml` 会每天北京时间 06:00 运行。将 `LLM_API_KEY` 配置为仓库 Secret；如果使用其他 OpenAI-compatible 服务，可同时配置 `LLM_API_URL` 和 `LLM_MODEL` Variables。
+`.github/workflows/update-news.yml` 会每天北京时间 06:00 在 GitHub 云端运行。将 `LLM_API_KEY` 配置为仓库 Secret；如果使用其他 OpenAI-compatible 服务，可同时配置 `LLM_API_URL` 和 `LLM_MODEL` Variables。Windows 本地副本由 `sync-remote-news.ps1` 在 06:30 自动同步云端生成的 `data/stories.json`。
 
 新闻页面只展示摘要和原文链接，不保存或转载完整文章正文。

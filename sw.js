@@ -1,4 +1,4 @@
-const CACHE_NAME = "global-briefing-v1";
+const CACHE_NAME = "global-briefing-v2";
 const APP_SHELL = ["./", "./index.html", "./styles.css", "./app.js", "./manifest.webmanifest"];
 
 self.addEventListener("install", (event) => {

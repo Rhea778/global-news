@@ -151,7 +151,9 @@ def llm_request(item: dict, api_key: str, api_url: str, model: str) -> dict:
     if reasoning_effort:
         payload["reasoning_effort"] = reasoning_effort
     request = urllib.request.Request(api_url, data=json.dumps(payload).encode("utf-8"), headers={"Authorization": f"Bearer {api_key}", "Content-Type": "application/json", "User-Agent": USER_AGENT}, method="POST")
-    with urllib.request.urlopen(request, timeout=60) as response:
+    # Keep a daily batch bounded when a compatible gateway stalls. The story
+    # is converted to the RSS fallback below after this per-story timeout.
+    with urllib.request.urlopen(request, timeout=20) as response:
         body = json.loads(response.read().decode("utf-8"))
     content = body["choices"][0]["message"]["content"].strip()
     content = re.sub(r"^```(?:json)?\s*|\s*```$", "", content, flags=re.IGNORECASE)
@@ -178,7 +180,11 @@ def ai_story(item: dict, index: int, config: dict) -> dict:
             "sources": [item["source"]],
             "sourceUrls": [item["url"]],
         }
-    except (KeyError, TypeError, ValueError, urllib.error.URLError, TimeoutError) as error:
+    # Some compatible gateways close the connection without returning an HTTP
+    # response.  That surfaces as an OSError/RemoteDisconnected rather than
+    # urllib.error.URLError; treat it like any other per-story AI failure so
+    # one transient outage cannot abort the whole daily update.
+    except (KeyError, TypeError, ValueError, OSError, urllib.error.URLError, TimeoutError) as error:
         print(f"  AI fallback for {item['title'][:50]}: {error}", file=sys.stderr)
         return fallback_story(item, index)
 
