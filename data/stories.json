@@ -1,55 +1,13 @@
 [
   {
-    "id": "rss-1-99e5b53ebc29",
-    "category": "security",
-    "importance": 6,
-    "sourcesCount": 1,
-    "titleZh": "Netanyahu defends Israeli military action as delegates walk out before UN speech",
-    "titleEn": "Netanyahu defends Israeli military action as delegates walk out before UN speech",
-    "summaryZh": "The Israeli leader labels those who left his speech at the UN General Assembly as \"moral cowards\".",
-    "summaryEn": "The Israeli leader labels those who left his speech at the UN General Assembly as \"moral cowards\".",
-    "detailZh": "来源：BBC News。这是基于 RSS 摘要生成的待加工条目。接入大模型后，系统会进一步完成中文改写、事实核对、背景补充和多源合并。",
-    "detailEn": "Source: BBC News. This is an RSS-based draft. After an LLM is configured, the pipeline will rewrite, fact-check, enrich and merge reports about the same event.",
-    "tags": [
-      "冲突与安全"
-    ],
-    "sources": [
-      "BBC News"
-    ],
-    "sourceUrls": [
-      "https://www.bbc.co.uk/news/articles/c3y0z7kxlegdo?at_medium=RSS&at_campaign=rss"
-    ]
-  },
-  {
-    "id": "rss-2-3f96308a9884",
-    "category": "world",
-    "importance": 6,
-    "sourcesCount": 1,
-    "titleZh": "White House restores access to media outlets banned by Trump after judge's order",
-    "titleEn": "White House restores access to media outlets banned by Trump after judge's order",
-    "summaryZh": "CNN, Politico and MS NOW were allowed back into the White House after some of their staff were earlier turned away.",
-    "summaryEn": "CNN, Politico and MS NOW were allowed back into the White House after some of their staff were earlier turned away.",
-    "detailZh": "来源：BBC News。这是基于 RSS 摘要生成的待加工条目。接入大模型后，系统会进一步完成中文改写、事实核对、背景补充和多源合并。",
-    "detailEn": "Source: BBC News. This is an RSS-based draft. After an LLM is configured, the pipeline will rewrite, fact-check, enrich and merge reports about the same event.",
-    "tags": [
-      "国际时政"
-    ],
-    "sources": [
-      "BBC News"
-    ],
-    "sourceUrls": [
-      "https://www.bbc.co.uk/news/articles/cqe8ek7608mlo?at_medium=RSS&at_campaign=rss"
-    ]
-  },
-  {
-    "id": "rss-3-9f9515000c2c",
+    "id": "rss-1-86dcec1b5d5d",
     "category": "tech",
     "importance": 6,
     "sourcesCount": 1,
-    "titleZh": "Why Australia chose the world's biggest political stage to reveal OpenAI hack",
-    "titleEn": "Why Australia chose the world's biggest political stage to reveal OpenAI hack",
-    "summaryZh": "Australia, which has strict social media restrictions and has proposed controls on algorithms and smart glasses, announced the breach at the UN.",
-    "summaryEn": "Australia, which has strict social media restrictions and has proposed controls on algorithms and smart glasses, announced the breach at the UN.",
+    "titleZh": "Russia targeting 'ordinary life' with attacks on Ukraine's data centres, Zelensky says",
+    "titleEn": "Russia targeting 'ordinary life' with attacks on Ukraine's data centres, Zelensky says",
+    "summaryZh": "Such strikes aim to disrupt \"people's ability to stay connected, study, work\", says Ukraine's president.",
+    "summaryEn": "Such strikes aim to disrupt \"people's ability to stay connected, study, work\", says Ukraine's president.",
     "detailZh": "来源：BBC News。这是基于 RSS 摘要生成的待加工条目。接入大模型后，系统会进一步完成中文改写、事实核对、背景补充和多源合并。",
     "detailEn": "Source: BBC News. This is an RSS-based draft. After an LLM is configured, the pipeline will rewrite, fact-check, enrich and merge reports about the same event.",
     "tags": [
@@ -59,18 +17,18 @@
       "BBC News"
     ],
     "sourceUrls": [
-      "https://www.bbc.co.uk/news/articles/cr3eqk15ld14o?at_medium=RSS&at_campaign=rss"
+      "https://www.bbc.co.uk/news/articles/c84gkwgk7d06o?at_medium=RSS&at_campaign=rss"
     ]
   },
   {
-    "id": "rss-4-77450ecec8c0",
+    "id": "rss-2-3b0173afb934",
     "category": "world",
     "importance": 6,
     "sourcesCount": 1,
-    "titleZh": "Four civilians killed in Pakistani strikes in Afghanistan, Taliban says",
-    "titleEn": "Four civilians killed in Pakistani strikes in Afghanistan, Taliban says",
-    "summaryZh": "Pakistan says it struck 10 targets, adding the strikes were \"strictly limited to identified military objectives\".",
-    "summaryEn": "Pakistan says it struck 10 targets, adding the strikes were \"strictly limited to identified military objectives\".",
+    "titleZh": "Special agents' blood and urine test results stolen in FBI hack",
+    "titleEn": "Special agents' blood and urine test results stolen in FBI hack",
+    "summaryZh": "Experts say the hack could leave agents vulnerable to scams, blackmail and targeted attacks.",
+    "summaryEn": "Experts say the hack could leave agents vulnerable to scams, blackmail and targeted attacks.",
     "detailZh": "来源：BBC News。这是基于 RSS 摘要生成的待加工条目。接入大模型后，系统会进一步完成中文改写、事实核对、背景补充和多源合并。",
     "detailEn": "Source: BBC News. This is an RSS-based draft. After an LLM is configured, the pipeline will rewrite, fact-check, enrich and merge reports about the same event.",
     "tags": [
@@ -80,123 +38,81 @@
       "BBC News"
     ],
     "sourceUrls": [
-      "https://www.bbc.co.uk/news/articles/cm86xn0nnw58o?at_medium=RSS&at_campaign=rss"
+      "https://www.bbc.co.uk/news/articles/cw62me2vlj07o?at_medium=RSS&at_campaign=rss"
     ]
   },
   {
-    "id": "rss-5-241f7b81bddb",
-    "category": "security",
-    "importance": 6,
-    "sourcesCount": 1,
-    "titleZh": "Priest killed and four injured in knife attack at Polish abbey",
-    "titleEn": "Priest killed and four injured in knife attack at Polish abbey",
-    "summaryZh": "A male suspect from Ukraine was arrested after the stabbings in the town of Jarosław, police say.",
-    "summaryEn": "A male suspect from Ukraine was arrested after the stabbings in the town of Jarosław, police say.",
-    "detailZh": "来源：BBC News。这是基于 RSS 摘要生成的待加工条目。接入大模型后，系统会进一步完成中文改写、事实核对、背景补充和多源合并。",
-    "detailEn": "Source: BBC News. This is an RSS-based draft. After an LLM is configured, the pipeline will rewrite, fact-check, enrich and merge reports about the same event.",
-    "tags": [
-      "冲突与安全"
-    ],
-    "sources": [
-      "BBC News"
-    ],
-    "sourceUrls": [
-      "https://www.bbc.co.uk/news/articles/c607lrvm41l3o?at_medium=RSS&at_campaign=rss"
-    ]
-  },
-  {
-    "id": "rss-6-5101cf5ca8f3",
-    "category": "world",
-    "importance": 6,
-    "sourcesCount": 1,
-    "titleZh": "Trump and Xi strike cordial tone at summit amid underlying tensions",
-    "titleEn": "Trump and Xi strike cordial tone at summit amid underlying tensions",
-    "summaryZh": "On Thursday, the two leaders will hold meetings where Trump and Xi are expected to talk about artificial intelligence, rare earths, trade and geopolitics such as Iran and Taiwan.",
-    "summaryEn": "On Thursday, the two leaders will hold meetings where Trump and Xi are expected to talk about artificial intelligence, rare earths, trade and geopolitics such as Iran and Taiwan.",
-    "detailZh": "来源：NPR World。这是基于 RSS 摘要生成的待加工条目。接入大模型后，系统会进一步完成中文改写、事实核对、背景补充和多源合并。",
-    "detailEn": "Source: NPR World. This is an RSS-based draft. After an LLM is configured, the pipeline will rewrite, fact-check, enrich and merge reports about the same event.",
-    "tags": [
-      "国际时政"
-    ],
-    "sources": [
-      "NPR World"
-    ],
-    "sourceUrls": [
-      "https://www.npr.org/2026/09/24/g-s1-144806/trump-xi-summit"
-    ]
-  },
-  {
-    "id": "rss-7-2866d57d6f81",
-    "category": "world",
-    "importance": 6,
-    "sourcesCount": 1,
-    "titleZh": "Judge restores journalists' White House access. And, Tucker Carlson on his MAGA split",
-    "titleEn": "Judge restores journalists' White House access. And, Tucker Carlson on his MAGA split",
-    "summaryZh": "A judge has ordered that the Trump administration restore journalists' access to White House. And, Tucker Carlson sits down with Morning Edition 's Steve Inskeep for a Newsmakers i",
-    "summaryEn": "A judge has ordered that the Trump administration restore journalists' access to White House. And, Tucker Carlson sits down with Morning Edition 's Steve Inskeep for a Newsmakers interview.",
-    "detailZh": "来源：NPR World。这是基于 RSS 摘要生成的待加工条目。接入大模型后，系统会进一步完成中文改写、事实核对、背景补充和多源合并。",
-    "detailEn": "Source: NPR World. This is an RSS-based draft. After an LLM is configured, the pipeline will rewrite, fact-check, enrich and merge reports about the same event.",
-    "tags": [
-      "国际时政"
-    ],
-    "sources": [
-      "NPR World"
-    ],
-    "sourceUrls": [
-      "https://www.npr.org/2026/09/24/g-s1-144850/up-first-newsletter-cnn-msnow-politico-iran-ukraine-unga-china-xi-jinping-trump"
-    ]
-  },
-  {
-    "id": "rss-8-835ebce4fd1b",
-    "category": "world",
-    "importance": 6,
-    "sourcesCount": 1,
-    "titleZh": "Needy couples got cash and a spending plan. Results were good -- and bad",
-    "titleEn": "Needy couples got cash and a spending plan. Results were good -- and bad",
-    "summaryZh": "In Liberia, joint financial planning boosted cash aid's benefits. It also had an unexpected consequence for some families.",
-    "summaryEn": "In Liberia, joint financial planning boosted cash aid's benefits. It also had an unexpected consequence for some families.",
-    "detailZh": "来源：NPR World。这是基于 RSS 摘要生成的待加工条目。接入大模型后，系统会进一步完成中文改写、事实核对、背景补充和多源合并。",
-    "detailEn": "Source: NPR World. This is an RSS-based draft. After an LLM is configured, the pipeline will rewrite, fact-check, enrich and merge reports about the same event.",
-    "tags": [
-      "国际时政"
-    ],
-    "sources": [
-      "NPR World"
-    ],
-    "sourceUrls": [
-      "https://www.npr.org/2026/09/24/g-s1-144544/cash-transfer-poverty-liberia-partner-violence"
-    ]
-  },
-  {
-    "id": "rss-9-7f355fb2d390",
+    "id": "rss-3-8f316ab13d5e",
     "category": "tech",
     "importance": 6,
     "sourcesCount": 1,
-    "titleZh": "Could the White House try its press ban again? A press freedom expert explains",
-    "titleEn": "Could the White House try its press ban again? A press freedom expert explains",
-    "summaryZh": "A federal judge's ruling restored CNN, MS Now and Politico's access to the White House. Gabe Rottman says better procedure alone may not resolve the broader First Amendment fight.",
-    "summaryEn": "A federal judge's ruling restored CNN, MS Now and Politico's access to the White House. Gabe Rottman says better procedure alone may not resolve the broader First Amendment fight.",
-    "detailZh": "来源：NPR World。这是基于 RSS 摘要生成的待加工条目。接入大模型后，系统会进一步完成中文改写、事实核对、背景补充和多源合并。",
-    "detailEn": "Source: NPR World. This is an RSS-based draft. After an LLM is configured, the pipeline will rewrite, fact-check, enrich and merge reports about the same event.",
+    "titleZh": "Pope warns against 'losing humanity' to AI machines",
+    "titleEn": "Pope warns against 'losing humanity' to AI machines",
+    "summaryZh": "The pontiff delivered the warning on the first day of his trip to France on Friday.",
+    "summaryEn": "The pontiff delivered the warning on the first day of his trip to France on Friday.",
+    "detailZh": "来源：BBC News。这是基于 RSS 摘要生成的待加工条目。接入大模型后，系统会进一步完成中文改写、事实核对、背景补充和多源合并。",
+    "detailEn": "Source: BBC News. This is an RSS-based draft. After an LLM is configured, the pipeline will rewrite, fact-check, enrich and merge reports about the same event.",
     "tags": [
       "科技"
     ],
     "sources": [
-      "NPR World"
+      "BBC News"
     ],
     "sourceUrls": [
-      "https://www.npr.org/2026/09/24/nx-s1-5978805/whats-next-white-house-press-access-fight"
+      "https://www.bbc.co.uk/news/articles/cmq8j904212po?at_medium=RSS&at_campaign=rss"
     ]
   },
   {
-    "id": "rss-10-f0f4611ae839",
+    "id": "rss-4-2acf05538835",
     "category": "world",
     "importance": 6,
     "sourcesCount": 1,
-    "titleZh": "Israel's prime minister to give an address at the U.N.",
-    "titleEn": "Israel's prime minister to give an address at the U.N.",
-    "summaryZh": "Iran, Ukraine and Russia took center stage at the U.N. Wednesday, with Israel's prime minister addressing the U.N. General Assembly Thursday.",
-    "summaryEn": "Iran, Ukraine and Russia took center stage at the U.N. Wednesday, with Israel's prime minister addressing the U.N. General Assembly Thursday.",
+    "titleZh": "Supreme Court allows Trump to use controversial database to check voter citizenship",
+    "titleEn": "Supreme Court allows Trump to use controversial database to check voter citizenship",
+    "summaryZh": "Critics have questioned the reliability of the data, warning it could result in US citizens being wrongly removed from electoral rolls.",
+    "summaryEn": "Critics have questioned the reliability of the data, warning it could result in US citizens being wrongly removed from electoral rolls.",
+    "detailZh": "来源：BBC News。这是基于 RSS 摘要生成的待加工条目。接入大模型后，系统会进一步完成中文改写、事实核对、背景补充和多源合并。",
+    "detailEn": "Source: BBC News. This is an RSS-based draft. After an LLM is configured, the pipeline will rewrite, fact-check, enrich and merge reports about the same event.",
+    "tags": [
+      "国际时政"
+    ],
+    "sources": [
+      "BBC News"
+    ],
+    "sourceUrls": [
+      "https://www.bbc.co.uk/news/articles/ck05rrj3jeylo?at_medium=RSS&at_campaign=rss"
+    ]
+  },
+  {
+    "id": "rss-5-c87b54955bb1",
+    "category": "world",
+    "importance": 6,
+    "sourcesCount": 1,
+    "titleZh": "Trump's plans for massive arch move ahead",
+    "titleEn": "Trump's plans for massive arch move ahead",
+    "summaryZh": "Opposition to building the 250-foot arch, and using it for military purposes, is growing with one Democrat blasting Trump's plans as \"foolhardy\".",
+    "summaryEn": "Opposition to building the 250-foot arch, and using it for military purposes, is growing with one Democrat blasting Trump's plans as \"foolhardy\".",
+    "detailZh": "来源：BBC News。这是基于 RSS 摘要生成的待加工条目。接入大模型后，系统会进一步完成中文改写、事实核对、背景补充和多源合并。",
+    "detailEn": "Source: BBC News. This is an RSS-based draft. After an LLM is configured, the pipeline will rewrite, fact-check, enrich and merge reports about the same event.",
+    "tags": [
+      "国际时政"
+    ],
+    "sources": [
+      "BBC News"
+    ],
+    "sourceUrls": [
+      "https://www.bbc.co.uk/news/articles/cq0lrr8kxy0lo?at_medium=RSS&at_campaign=rss"
+    ]
+  },
+  {
+    "id": "rss-6-0b3c9d507271",
+    "category": "world",
+    "importance": 6,
+    "sourcesCount": 1,
+    "titleZh": "Takeaways from the Trump-Xi state visit: Pageantry and pandas",
+    "titleEn": "Takeaways from the Trump-Xi state visit: Pageantry and pandas",
+    "summaryZh": "The visit comes at an important time for both men.",
+    "summaryEn": "The visit comes at an important time for both men.",
     "detailZh": "来源：NPR World。这是基于 RSS 摘要生成的待加工条目。接入大模型后，系统会进一步完成中文改写、事实核对、背景补充和多源合并。",
     "detailEn": "Source: NPR World. This is an RSS-based draft. After an LLM is configured, the pipeline will rewrite, fact-check, enrich and merge reports about the same event.",
     "tags": [
@@ -206,7 +122,91 @@
       "NPR World"
     ],
     "sourceUrls": [
-      "https://www.npr.org/2026/09/24/nx-s1-5978964/israels-prime-minister-to-give-an-address-at-the-u-n"
+      "https://www.npr.org/2026/09/25/nx-s1-5981265/takeaways-trump-xi-state-visit-pageantry-pandas"
+    ]
+  },
+  {
+    "id": "rss-7-eb821500e41c",
+    "category": "world",
+    "importance": 6,
+    "sourcesCount": 1,
+    "titleZh": "There's a global pandemic treaty that's signed -- and in 'limbo.' What's the holdup?",
+    "titleEn": "There's a global pandemic treaty that's signed -- and in 'limbo.' What's the holdup?",
+    "summaryZh": "The treaty aims to help the countries of the world prepare for — and defeat — any future pandemic. Why hasn't it gone into effect?",
+    "summaryEn": "The treaty aims to help the countries of the world prepare for — and defeat — any future pandemic. Why hasn't it gone into effect?",
+    "detailZh": "来源：NPR World。这是基于 RSS 摘要生成的待加工条目。接入大模型后，系统会进一步完成中文改写、事实核对、背景补充和多源合并。",
+    "detailEn": "Source: NPR World. This is an RSS-based draft. After an LLM is configured, the pipeline will rewrite, fact-check, enrich and merge reports about the same event.",
+    "tags": [
+      "国际时政"
+    ],
+    "sources": [
+      "NPR World"
+    ],
+    "sourceUrls": [
+      "https://www.npr.org/2026/09/25/g-s1-144948/pandemic-prevention-treaty-agreement-world-health-organization"
+    ]
+  },
+  {
+    "id": "rss-8-cf6d90b7d356",
+    "category": "security",
+    "importance": 6,
+    "sourcesCount": 1,
+    "titleZh": "Pope Leo warns a 'paradise of machines' could undermine humanity on his France visit",
+    "titleEn": "Pope Leo warns a 'paradise of machines' could undermine humanity on his France visit",
+    "summaryZh": "Pope Leo XIV raised existential concerns about scientific progress, life and human rights during a speech on his first papal visit to France.",
+    "summaryEn": "Pope Leo XIV raised existential concerns about scientific progress, life and human rights during a speech on his first papal visit to France.",
+    "detailZh": "来源：NPR World。这是基于 RSS 摘要生成的待加工条目。接入大模型后，系统会进一步完成中文改写、事实核对、背景补充和多源合并。",
+    "detailEn": "Source: NPR World. This is an RSS-based draft. After an LLM is configured, the pipeline will rewrite, fact-check, enrich and merge reports about the same event.",
+    "tags": [
+      "冲突与安全"
+    ],
+    "sources": [
+      "NPR World"
+    ],
+    "sourceUrls": [
+      "https://www.npr.org/2026/09/25/nx-s1-5981140/pope-leo-france"
+    ]
+  },
+  {
+    "id": "rss-9-a9ce1756d96e",
+    "category": "world",
+    "importance": 6,
+    "sourcesCount": 1,
+    "titleZh": "Trump and Xi strike cordial tone at summit. And, Netanyahu gives defiant UNGA speech",
+    "titleEn": "Trump and Xi strike cordial tone at summit. And, Netanyahu gives defiant UNGA speech",
+    "summaryZh": "Trump and Xi's U.S. summit continues after a state dinner Thursday night. And, Netanyahu returns to Israel after giving a defensive and defiant speech at the U.N. General Assembly.",
+    "summaryEn": "Trump and Xi's U.S. summit continues after a state dinner Thursday night. And, Netanyahu returns to Israel after giving a defensive and defiant speech at the U.N. General Assembly.",
+    "detailZh": "来源：NPR World。这是基于 RSS 摘要生成的待加工条目。接入大模型后，系统会进一步完成中文改写、事实核对、背景补充和多源合并。",
+    "detailEn": "Source: NPR World. This is an RSS-based draft. After an LLM is configured, the pipeline will rewrite, fact-check, enrich and merge reports about the same event.",
+    "tags": [
+      "国际时政"
+    ],
+    "sources": [
+      "NPR World"
+    ],
+    "sourceUrls": [
+      "https://www.npr.org/2026/09/25/g-s1-144994/up-first-newsletter-trump-xi-netanyahu-united-nations-mortgage-rates"
+    ]
+  },
+  {
+    "id": "rss-10-8b9a622700a5",
+    "category": "world",
+    "importance": 6,
+    "sourcesCount": 1,
+    "titleZh": "Former U.S. ambassador to China on Xi Jinping's visit to Washington",
+    "titleEn": "Former U.S. ambassador to China on Xi Jinping's visit to Washington",
+    "summaryZh": "NPR's Leila Fadel speaks with former U.S. Ambassador to China Nicholas Burns about Chinese President Xi Jinping's visit to Washington and what has been accomplished.",
+    "summaryEn": "NPR's Leila Fadel speaks with former U.S. Ambassador to China Nicholas Burns about Chinese President Xi Jinping's visit to Washington and what has been accomplished.",
+    "detailZh": "来源：NPR World。这是基于 RSS 摘要生成的待加工条目。接入大模型后，系统会进一步完成中文改写、事实核对、背景补充和多源合并。",
+    "detailEn": "Source: NPR World. This is an RSS-based draft. After an LLM is configured, the pipeline will rewrite, fact-check, enrich and merge reports about the same event.",
+    "tags": [
+      "国际时政"
+    ],
+    "sources": [
+      "NPR World"
+    ],
+    "sourceUrls": [
+      "https://www.npr.org/2026/09/25/nx-s1-5979917/former-u-s-ambassador-to-china-on-xi-jinpings-visit-to-washington"
     ]
   },
   {
@@ -315,7 +315,28 @@
     ]
   },
   {
-    "id": "rss-16-a7081174a83e",
+    "id": "rss-16-121f4bf9fdae",
+    "category": "economy",
+    "importance": 6,
+    "sourcesCount": 1,
+    "titleZh": "China saw 'surprise' jump in U.S. orders ahead of Trump-Xi summit, private survey shows",
+    "titleEn": "China saw 'surprise' jump in U.S. orders ahead of Trump-Xi summit, private survey shows",
+    "summaryZh": "A private survey shows a rebound in China's exports to the U.S. as companies position for continued stability between the world's two largest economies.",
+    "summaryEn": "A private survey shows a rebound in China's exports to the U.S. as companies position for continued stability between the world's two largest economies.",
+    "detailZh": "来源：CNBC Economy。这是基于 RSS 摘要生成的待加工条目。接入大模型后，系统会进一步完成中文改写、事实核对、背景补充和多源合并。",
+    "detailEn": "Source: CNBC Economy. This is an RSS-based draft. After an LLM is configured, the pipeline will rewrite, fact-check, enrich and merge reports about the same event.",
+    "tags": [
+      "经济财经"
+    ],
+    "sources": [
+      "CNBC Economy"
+    ],
+    "sourceUrls": [
+      "https://www.cnbc.com/2026/09/25/china-exports-surplus-trade-tariffs-.html"
+    ]
+  },
+  {
+    "id": "rss-17-a7081174a83e",
     "category": "security",
     "importance": 6,
     "sourcesCount": 1,
@@ -336,7 +357,7 @@
     ]
   },
   {
-    "id": "rss-17-7c4792f6eb88",
+    "id": "rss-18-7c4792f6eb88",
     "category": "economy",
     "importance": 6,
     "sourcesCount": 1,
@@ -357,7 +378,7 @@
     ]
   },
   {
-    "id": "rss-18-c58fb0f4ce6d",
+    "id": "rss-19-c58fb0f4ce6d",
     "category": "economy",
     "importance": 6,
     "sourcesCount": 1,
@@ -378,7 +399,7 @@
     ]
   },
   {
-    "id": "rss-19-01780b0c6a75",
+    "id": "rss-20-01780b0c6a75",
     "category": "economy",
     "importance": 6,
     "sourcesCount": 1,
@@ -399,35 +420,14 @@
     ]
   },
   {
-    "id": "rss-20-85433b00bf62",
+    "id": "rss-21-28eff29135c5",
     "category": "tech",
     "importance": 6,
     "sourcesCount": 1,
-    "titleZh": "World heads into food crises 'blind' as U.S. aid cuts squeeze UN food agency, experts warn",
-    "titleEn": "World heads into food crises 'blind' as U.S. aid cuts squeeze UN food agency, experts warn",
-    "summaryZh": "Climate shocks, conflict and a global fuel crisis, on top of surging interest rates and donor cuts, leave agencies less able to help those facing higher food prices.",
-    "summaryEn": "Climate shocks, conflict and a global fuel crisis, on top of surging interest rates and donor cuts, leave agencies less able to help those facing higher food prices.",
-    "detailZh": "来源：CNBC Economy。这是基于 RSS 摘要生成的待加工条目。接入大模型后，系统会进一步完成中文改写、事实核对、背景补充和多源合并。",
-    "detailEn": "Source: CNBC Economy. This is an RSS-based draft. After an LLM is configured, the pipeline will rewrite, fact-check, enrich and merge reports about the same event.",
-    "tags": [
-      "科技"
-    ],
-    "sources": [
-      "CNBC Economy"
-    ],
-    "sourceUrls": [
-      "https://www.cnbc.com/2026/09/24/hormuz-blacksea-ukraine-iran-food-security-united-nations-.html"
-    ]
-  },
-  {
-    "id": "rss-21-f047c708f2aa",
-    "category": "tech",
-    "importance": 6,
-    "sourcesCount": 1,
-    "titleZh": "Nexterity wants to automate the hard, dangerous part of pipefitting",
-    "titleEn": "Nexterity wants to automate the hard, dangerous part of pipefitting",
-    "summaryZh": "The startup's robot can tighten or loosen four bolts at a time, and it fits in a Pelican case.",
-    "summaryEn": "The startup's robot can tighten or loosen four bolts at a time, and it fits in a Pelican case.",
+    "titleZh": "Meta opens early access program for new Muse features",
+    "titleEn": "Meta opens early access program for new Muse features",
+    "summaryZh": "Anyone interested in joining has to ask Muse to put them on the list.",
+    "summaryEn": "Anyone interested in joining has to ask Muse to put them on the list.",
     "detailZh": "来源：TechCrunch。这是基于 RSS 摘要生成的待加工条目。接入大模型后，系统会进一步完成中文改写、事实核对、背景补充和多源合并。",
     "detailEn": "Source: TechCrunch. This is an RSS-based draft. After an LLM is configured, the pipeline will rewrite, fact-check, enrich and merge reports about the same event.",
     "tags": [
@@ -437,18 +437,18 @@
       "TechCrunch"
     ],
     "sourceUrls": [
-      "https://techcrunch.com/2026/09/24/nexterity-wants-to-automate-the-hard-dangerous-part-of-pipefitting/"
+      "https://techcrunch.com/2026/09/25/meta-opens-early-access-program-for-new-muse-features/"
     ]
   },
   {
-    "id": "rss-22-b5f88521e80c",
+    "id": "rss-22-f164ba27b8e4",
     "category": "tech",
     "importance": 6,
     "sourcesCount": 1,
-    "titleZh": "Bring your co-founder, partner, or colleague and get 50% off a second TechCrunch Disrupt 2026 pass",
-    "titleEn": "Bring your co-founder, partner, or colleague and get 50% off a second TechCrunch Disrupt 2026 pass",
-    "summaryZh": "Buy one pass to TechCrunch Disrupt 2026 and get 50% off a second of the same ticket type. Register before event starts on October 13 at 8 a.m. PT.",
-    "summaryEn": "Buy one pass to TechCrunch Disrupt 2026 and get 50% off a second of the same ticket type. Register before event starts on October 13 at 8 a.m. PT.",
+    "titleZh": "The hottest new hangout for middle schoolers is NPR’s comment section?",
+    "titleEn": "The hottest new hangout for middle schoolers is NPR’s comment section?",
+    "summaryZh": "When NPR staffers flagged strange comments under their podcasts on Spotify as bots, it took a Gen Z colleague to (immediately) figure out the mystery.",
+    "summaryEn": "When NPR staffers flagged strange comments under their podcasts on Spotify as bots, it took a Gen Z colleague to (immediately) figure out the mystery.",
     "detailZh": "来源：TechCrunch。这是基于 RSS 摘要生成的待加工条目。接入大模型后，系统会进一步完成中文改写、事实核对、背景补充和多源合并。",
     "detailEn": "Source: TechCrunch. This is an RSS-based draft. After an LLM is configured, the pipeline will rewrite, fact-check, enrich and merge reports about the same event.",
     "tags": [
@@ -458,18 +458,18 @@
       "TechCrunch"
     ],
     "sourceUrls": [
-      "https://techcrunch.com/2026/09/24/bring-your-co-founder-partner-or-colleague-and-get-50-off-a-second-techcrunch-disrupt-2026-pass/"
+      "https://techcrunch.com/2026/09/25/the-hottest-new-hangout-for-middle-schoolers-is-nprs-comment-section/"
     ]
   },
   {
-    "id": "rss-23-9ef4a7c3c631",
+    "id": "rss-23-e64ca2761612",
     "category": "tech",
     "importance": 6,
     "sourcesCount": 1,
-    "titleZh": "PrismML brings its tiny LLMs to Qualcomm-powered smart glasses",
-    "titleEn": "PrismML brings its tiny LLMs to Qualcomm-powered smart glasses",
-    "summaryZh": "Prism's larger goal is open-weight AI that runs on devices and makes better use of the computing power they already have.",
-    "summaryEn": "Prism's larger goal is open-weight AI that runs on devices and makes better use of the computing power they already have.",
+    "titleZh": "Anthropic to pay Akamai $11.6 billion over seven years in cloud deal",
+    "titleEn": "Anthropic to pay Akamai $11.6 billion over seven years in cloud deal",
+    "summaryZh": "Anthropic has committed $11.6 billion over seven years to Akamai's cloud infrastructure, a bet on CPUs that could grow to about $20 billion, and in an unusual arrangement, Akamai i",
+    "summaryEn": "Anthropic has committed $11.6 billion over seven years to Akamai's cloud infrastructure, a bet on CPUs that could grow to about $20 billion, and in an unusual arrangement, Akamai is giving Anthropic a potential stake of up to 5% of its stock that grows as Anth",
     "detailZh": "来源：TechCrunch。这是基于 RSS 摘要生成的待加工条目。接入大模型后，系统会进一步完成中文改写、事实核对、背景补充和多源合并。",
     "detailEn": "Source: TechCrunch. This is an RSS-based draft. After an LLM is configured, the pipeline will rewrite, fact-check, enrich and merge reports about the same event.",
     "tags": [
@@ -479,18 +479,18 @@
       "TechCrunch"
     ],
     "sourceUrls": [
-      "https://techcrunch.com/2026/09/24/prismml-brings-its-tiny-llms-to-qualcomm-powered-smart-glasses/"
+      "https://techcrunch.com/2026/09/25/anthropic-to-pay-akamai-11-6-billion-over-seven-years-in-cloud-deal/"
     ]
   },
   {
-    "id": "rss-24-a02853575810",
+    "id": "rss-24-b97518582a39",
     "category": "tech",
     "importance": 6,
     "sourcesCount": 1,
-    "titleZh": "Meet Feather, the startup building the ‘Android of robotics’ for developers",
-    "titleEn": "Meet Feather, the startup building the ‘Android of robotics’ for developers",
-    "summaryZh": "Feather is betting on a customizable, $30,000 platform built for software developers.",
-    "summaryEn": "Feather is betting on a customizable, $30,000 platform built for software developers.",
+    "titleZh": "Mark Wahlberg is coming to TechCrunch Disrupt 2026, and he wants to talk about your work, not his",
+    "titleEn": "Mark Wahlberg is coming to TechCrunch Disrupt 2026, and he wants to talk about your work, not his",
+    "summaryZh": "Mark Wahlberg joins Bruce K. Lee at Disrupt to discuss investing, entrepreneurship, healthcare, wellness, and building businesses.",
+    "summaryEn": "Mark Wahlberg joins Bruce K. Lee at Disrupt to discuss investing, entrepreneurship, healthcare, wellness, and building businesses.",
     "detailZh": "来源：TechCrunch。这是基于 RSS 摘要生成的待加工条目。接入大模型后，系统会进一步完成中文改写、事实核对、背景补充和多源合并。",
     "detailEn": "Source: TechCrunch. This is an RSS-based draft. After an LLM is configured, the pipeline will rewrite, fact-check, enrich and merge reports about the same event.",
     "tags": [
@@ -500,18 +500,18 @@
       "TechCrunch"
     ],
     "sourceUrls": [
-      "https://techcrunch.com/2026/09/24/meet-feather-the-startup-building-the-android-of-robotics-for-developers/"
+      "https://techcrunch.com/2026/09/25/mark-wahlberg-is-coming-to-techcrunch-disrupt-2026/"
     ]
   },
   {
-    "id": "rss-25-57d9461ca601",
+    "id": "rss-25-e3ed29775d07",
     "category": "tech",
     "importance": 6,
     "sourcesCount": 1,
-    "titleZh": "Oracle sends force majeure notice on its New Mexico Stargate data center",
-    "titleEn": "Oracle sends force majeure notice on its New Mexico Stargate data center",
-    "summaryZh": "The notice would allow Oracle to delay payments should the facility miss its 2028 target to come online.",
-    "summaryEn": "The notice would allow Oracle to delay payments should the facility miss its 2028 target to come online.",
+    "titleZh": "Ahead of US IPO, British AI neocloud Nscale secures $3.36B in convertible financing",
+    "titleEn": "Ahead of US IPO, British AI neocloud Nscale secures $3.36B in convertible financing",
+    "summaryZh": "The funding, which comes from Third Point, Nvidia, and others, will fuel the company's massive AI data center buildout.",
+    "summaryEn": "The funding, which comes from Third Point, Nvidia, and others, will fuel the company's massive AI data center buildout.",
     "detailZh": "来源：TechCrunch。这是基于 RSS 摘要生成的待加工条目。接入大模型后，系统会进一步完成中文改写、事实核对、背景补充和多源合并。",
     "detailEn": "Source: TechCrunch. This is an RSS-based draft. After an LLM is configured, the pipeline will rewrite, fact-check, enrich and merge reports about the same event.",
     "tags": [
@@ -521,18 +521,18 @@
       "TechCrunch"
     ],
     "sourceUrls": [
-      "https://techcrunch.com/2026/09/24/oracle-sends-force-majeure-notice-on-its-new-mexico-stargate-data-center/"
+      "https://techcrunch.com/2026/09/25/ahead-of-u-s-ipo-british-ai-neocloud-nscale-secures-3-36b-in-convertible-finacing/"
     ]
   },
   {
-    "id": "rss-26-7aa5956a72fd",
+    "id": "rss-26-ca8d7cf05052",
     "category": "science",
     "importance": 6,
     "sourcesCount": 1,
-    "titleZh": "Bumblebees don’t mind a little plastic in their honeypots",
-    "titleEn": "Bumblebees don’t mind a little plastic in their honeypots",
-    "summaryZh": "Nature, Published online: 24 September 2026; doi:10.1038/d41586-026-02988-2 Insects show off their adaptability by incorporating unfamiliar construction materials to build honey-st",
-    "summaryEn": "Nature, Published online: 24 September 2026; doi:10.1038/d41586-026-02988-2 Insects show off their adaptability by incorporating unfamiliar construction materials to build honey-storage vessels.",
+    "titleZh": "Briefing Chat: Why scientists made papyrus scrolls, then burnt them",
+    "titleEn": "Briefing Chat: Why scientists made papyrus scrolls, then burnt them",
+    "summaryZh": "Nature, Published online: 25 September 2026; doi:10.1038/d41586-026-03041-y Nature staff discuss a technique that could help researchers read charred Herculaneum scrolls — plus, a ",
+    "summaryEn": "Nature, Published online: 25 September 2026; doi:10.1038/d41586-026-03041-y Nature staff discuss a technique that could help researchers read charred Herculaneum scrolls — plus, a biodegradeable, edible battery.",
     "detailZh": "来源：Nature News。这是基于 RSS 摘要生成的待加工条目。接入大模型后，系统会进一步完成中文改写、事实核对、背景补充和多源合并。",
     "detailEn": "Source: Nature News. This is an RSS-based draft. After an LLM is configured, the pipeline will rewrite, fact-check, enrich and merge reports about the same event.",
     "tags": [
@@ -542,18 +542,18 @@
       "Nature News"
     ],
     "sourceUrls": [
-      "https://www.nature.com/articles/d41586-026-02988-2"
+      "https://www.nature.com/articles/d41586-026-03041-y"
     ]
   },
   {
-    "id": "rss-27-9a27d60a1f73",
+    "id": "rss-27-d1e0d0f953db",
     "category": "science",
     "importance": 6,
     "sourcesCount": 1,
-    "titleZh": "Youthful fans of YouTube sports videos stick to the sofa",
-    "titleEn": "Youthful fans of YouTube sports videos stick to the sofa",
-    "summaryZh": "Nature, Published online: 24 September 2026; doi:10.1038/d41586-026-02989-1 University students who are highly motivated to watch sports online do not report higher participation i",
-    "summaryEn": "Nature, Published online: 24 September 2026; doi:10.1038/d41586-026-02989-1 University students who are highly motivated to watch sports online do not report higher participation in exercise.",
+    "titleZh": "Why science wouldn’t exist without alchemy, curiosity and great writing: Books in brief",
+    "titleEn": "Why science wouldn’t exist without alchemy, curiosity and great writing: Books in brief",
+    "summaryZh": "Nature, Published online: 25 September 2026; doi:10.1038/d41586-026-03032-z Andrew Robinson reviews five of the best science picks.",
+    "summaryEn": "Nature, Published online: 25 September 2026; doi:10.1038/d41586-026-03032-z Andrew Robinson reviews five of the best science picks.",
     "detailZh": "来源：Nature News。这是基于 RSS 摘要生成的待加工条目。接入大模型后，系统会进一步完成中文改写、事实核对、背景补充和多源合并。",
     "detailEn": "Source: Nature News. This is an RSS-based draft. After an LLM is configured, the pipeline will rewrite, fact-check, enrich and merge reports about the same event.",
     "tags": [
@@ -563,18 +563,18 @@
       "Nature News"
     ],
     "sourceUrls": [
-      "https://www.nature.com/articles/d41586-026-02989-1"
+      "https://www.nature.com/articles/d41586-026-03032-z"
     ]
   },
   {
-    "id": "rss-28-3ef2cfc8707f",
+    "id": "rss-28-e58cbdc1b9c7",
     "category": "tech",
     "importance": 6,
     "sourcesCount": 1,
-    "titleZh": "GLP-1 drugs fail to help some people lose weight — scientists are on a quest for answers",
-    "titleEn": "GLP-1 drugs fail to help some people lose weight — scientists are on a quest for answers",
-    "summaryZh": "Nature, Published online: 24 September 2026; doi:10.1038/d41586-026-03020-3 Understanding why some people see no benefits from potent anti-obesity medications could lead to new the",
-    "summaryEn": "Nature, Published online: 24 September 2026; doi:10.1038/d41586-026-03020-3 Understanding why some people see no benefits from potent anti-obesity medications could lead to new therapies and personalized weight-loss regimens.",
+    "titleZh": "Anthropic’s AI biolab finds ‘CRISPR-like’ DNA in viruses. What’s next?",
+    "titleEn": "Anthropic’s AI biolab finds ‘CRISPR-like’ DNA in viruses. What’s next?",
+    "summaryZh": "Nature, Published online: 25 September 2026; doi:10.1038/d41586-026-03039-6 The detection effort enlisted roughly 950 AI agents that spent more than 21 hours combing through DNA se",
+    "summaryEn": "Nature, Published online: 25 September 2026; doi:10.1038/d41586-026-03039-6 The detection effort enlisted roughly 950 AI agents that spent more than 21 hours combing through DNA sequence databases.",
     "detailZh": "来源：Nature News。这是基于 RSS 摘要生成的待加工条目。接入大模型后，系统会进一步完成中文改写、事实核对、背景补充和多源合并。",
     "detailEn": "Source: Nature News. This is an RSS-based draft. After an LLM is configured, the pipeline will rewrite, fact-check, enrich and merge reports about the same event.",
     "tags": [
@@ -584,60 +584,60 @@
       "Nature News"
     ],
     "sourceUrls": [
-      "https://www.nature.com/articles/d41586-026-03020-3"
+      "https://www.nature.com/articles/d41586-026-03039-6"
     ]
   },
   {
-    "id": "rss-29-5d3cf2c03d59",
-    "category": "tech",
+    "id": "rss-29-26bedb25cf41",
+    "category": "science",
     "importance": 6,
     "sourcesCount": 1,
-    "titleZh": "AI system helps lab devices ‘talk’ with each other — streamlining research",
-    "titleEn": "AI system helps lab devices ‘talk’ with each other — streamlining research",
-    "summaryZh": "Nature, Published online: 24 September 2026; doi:10.1038/d41586-026-02990-8 Platform allows disparate machines to communicate and to be controlled by an artificial-intelligence age",
-    "summaryEn": "Nature, Published online: 24 September 2026; doi:10.1038/d41586-026-02990-8 Platform allows disparate machines to communicate and to be controlled by an artificial-intelligence agent.",
+    "titleZh": "Chemists struggle to ditch hazardous solvents — even after decades of ‘green’ efforts",
+    "titleEn": "Chemists struggle to ditch hazardous solvents — even after decades of ‘green’ efforts",
+    "summaryZh": "Nature, Published online: 25 September 2026; doi:10.1038/d41586-026-03023-0 Laboratories are still using dangerous and carbon-intensive liquids much more often than environmentally",
+    "summaryEn": "Nature, Published online: 25 September 2026; doi:10.1038/d41586-026-03023-0 Laboratories are still using dangerous and carbon-intensive liquids much more often than environmentally friendly ones, according to a 40-year survey of patents.",
     "detailZh": "来源：Nature News。这是基于 RSS 摘要生成的待加工条目。接入大模型后，系统会进一步完成中文改写、事实核对、背景补充和多源合并。",
     "detailEn": "Source: Nature News. This is an RSS-based draft. After an LLM is configured, the pipeline will rewrite, fact-check, enrich and merge reports about the same event.",
     "tags": [
-      "科技"
+      "科学健康"
     ],
     "sources": [
       "Nature News"
     ],
     "sourceUrls": [
-      "https://www.nature.com/articles/d41586-026-02990-8"
+      "https://www.nature.com/articles/d41586-026-03023-0"
     ]
   },
   {
-    "id": "rss-30-d1e8b0b00a46",
-    "category": "tech",
+    "id": "rss-30-b0ce89812a0f",
+    "category": "science",
     "importance": 6,
     "sourcesCount": 1,
-    "titleZh": "AI agent hacks government website for first time: why this breach matters",
-    "titleEn": "AI agent hacks government website for first time: why this breach matters",
-    "summaryZh": "Nature, Published online: 24 September 2026; doi:10.1038/d41586-026-03024-z An OpenAI agent accessed secure data on an Australian health-care website, but the incident wasn’t repor",
-    "summaryEn": "Nature, Published online: 24 September 2026; doi:10.1038/d41586-026-03024-z An OpenAI agent accessed secure data on an Australian health-care website, but the incident wasn’t reported for months.",
+    "titleZh": "Nepal’s floods expose issues with climate-disaster funding — firmer policies are needed fast",
+    "titleEn": "Nepal’s floods expose issues with climate-disaster funding — firmer policies are needed fast",
+    "summaryZh": "Nature, Published online: 25 September 2026; doi:10.1038/d41586-026-03016-z The UN’s climate loss and damage fund needs to consider how to make decisions about finance fairly and q",
+    "summaryEn": "Nature, Published online: 25 September 2026; doi:10.1038/d41586-026-03016-z The UN’s climate loss and damage fund needs to consider how to make decisions about finance fairly and quickly, without disadvantaging low-resource nations.",
     "detailZh": "来源：Nature News。这是基于 RSS 摘要生成的待加工条目。接入大模型后，系统会进一步完成中文改写、事实核对、背景补充和多源合并。",
     "detailEn": "Source: Nature News. This is an RSS-based draft. After an LLM is configured, the pipeline will rewrite, fact-check, enrich and merge reports about the same event.",
     "tags": [
-      "科技"
+      "科学健康"
     ],
     "sources": [
       "Nature News"
     ],
     "sourceUrls": [
-      "https://www.nature.com/articles/d41586-026-03024-z"
+      "https://www.nature.com/articles/d41586-026-03016-z"
     ]
   },
   {
-    "id": "rss-31-3f94b18b32ce",
+    "id": "rss-31-f7c7338005c4",
     "category": "security",
     "importance": 6,
     "sourcesCount": 1,
-    "titleZh": "Croatian court approves extradition in Nord Stream bombing case",
-    "titleEn": "Croatian court approves extradition in Nord Stream bombing case",
-    "summaryZh": "Nord Stream sabotage suspect to be extradited from Croatia; court ruling faces appeal with final decision still pending.",
-    "summaryEn": "Nord Stream sabotage suspect to be extradited from Croatia; court ruling faces appeal with final decision still pending.",
+    "titleZh": "Netanyahu calls Al Jazeera a ‘toxic media outlet’",
+    "titleEn": "Netanyahu calls Al Jazeera a ‘toxic media outlet’",
+    "summaryZh": "Israeli Prime Minister Benjamin Netanyahu called Al Jazeera a “toxic media outlet.”",
+    "summaryEn": "Israeli Prime Minister Benjamin Netanyahu called Al Jazeera a “toxic media outlet.”",
     "detailZh": "来源：Al Jazeera。这是基于 RSS 摘要生成的待加工条目。接入大模型后，系统会进一步完成中文改写、事实核对、背景补充和多源合并。",
     "detailEn": "Source: Al Jazeera. This is an RSS-based draft. After an LLM is configured, the pipeline will rewrite, fact-check, enrich and merge reports about the same event.",
     "tags": [
@@ -647,18 +647,18 @@
       "Al Jazeera"
     ],
     "sourceUrls": [
-      "https://www.aljazeera.com/news/2026/9/24/croatian-court-approves-extradition-in-nord-stream-bombing-case?traffic_source=rss"
+      "https://www.aljazeera.com/video/newsfeed/2026/9/25/netanyahu-calls-al-jazeera-a-toxic-media?traffic_source=rss"
     ]
   },
   {
-    "id": "rss-32-08f2cc845e8b",
+    "id": "rss-32-14e263801b42",
     "category": "security",
     "importance": 6,
     "sourcesCount": 1,
-    "titleZh": "Trump and Xi hold critical talks at White House summit",
-    "titleEn": "Trump and Xi hold critical talks at White House summit",
-    "summaryZh": "US President Donald Trump welcomed Chinese President Xi Jinping to Washington for talks on trade, AI, Taiwan and Iran.",
-    "summaryEn": "US President Donald Trump welcomed Chinese President Xi Jinping to Washington for talks on trade, AI, Taiwan and Iran.",
+    "titleZh": "Mbappe goal overshadowed by knee injury to mar Zidane debut France win",
+    "titleEn": "Mbappe goal overshadowed by knee injury to mar Zidane debut France win",
+    "summaryZh": "Kylian Mbappe scores the only goal of France's win in Turkiye, but Real Madrid striker immediately forced off by injury.",
+    "summaryEn": "Kylian Mbappe scores the only goal of France's win in Turkiye, but Real Madrid striker immediately forced off by injury.",
     "detailZh": "来源：Al Jazeera。这是基于 RSS 摘要生成的待加工条目。接入大模型后，系统会进一步完成中文改写、事实核对、背景补充和多源合并。",
     "detailEn": "Source: Al Jazeera. This is an RSS-based draft. After an LLM is configured, the pipeline will rewrite, fact-check, enrich and merge reports about the same event.",
     "tags": [
@@ -668,18 +668,18 @@
       "Al Jazeera"
     ],
     "sourceUrls": [
-      "https://www.aljazeera.com/video/newsfeed/2026/9/24/trump-and-xi-hold-critical-talks-at-white-house-summit?traffic_source=rss"
+      "https://www.aljazeera.com/sports/2026/9/25/mbappe-goal-overshadowed-by-knee-injury-to-mar-zidane-debut-france-win?traffic_source=rss"
     ]
   },
   {
-    "id": "rss-33-8aecab70447c",
+    "id": "rss-33-28f99005b74e",
     "category": "security",
     "importance": 6,
     "sourcesCount": 1,
-    "titleZh": "Susan Sarandon, Hannah Einbinder arrested at Netanyahu UN protest",
-    "titleEn": "Susan Sarandon, Hannah Einbinder arrested at Netanyahu UN protest",
-    "summaryZh": "Susan Sarandon and Hannah Einbinder were among about 100 protesters arrested outside the UN ahead of Netanyahu’s speech.",
-    "summaryEn": "Susan Sarandon and Hannah Einbinder were among about 100 protesters arrested outside the UN ahead of Netanyahu’s speech.",
+    "titleZh": "What would a US diesel export ban mean for global fuel prices?",
+    "titleEn": "What would a US diesel export ban mean for global fuel prices?",
+    "summaryZh": "Energy experts warn US diesel export ban could increase fuel costs domestically and internationally.",
+    "summaryEn": "Energy experts warn US diesel export ban could increase fuel costs domestically and internationally.",
     "detailZh": "来源：Al Jazeera。这是基于 RSS 摘要生成的待加工条目。接入大模型后，系统会进一步完成中文改写、事实核对、背景补充和多源合并。",
     "detailEn": "Source: Al Jazeera. This is an RSS-based draft. After an LLM is configured, the pipeline will rewrite, fact-check, enrich and merge reports about the same event.",
     "tags": [
@@ -689,18 +689,18 @@
       "Al Jazeera"
     ],
     "sourceUrls": [
-      "https://www.aljazeera.com/video/newsfeed/2026/9/24/actors-arrested-bibi-protest-unga?traffic_source=rss"
+      "https://www.aljazeera.com/economy/2026/9/25/what-would-a-us-diesel-export-ban-mean-for-global-fuel-prices?traffic_source=rss"
     ]
   },
   {
-    "id": "rss-34-fc63440545cd",
+    "id": "rss-34-09cc08a7111e",
     "category": "security",
     "importance": 6,
     "sourcesCount": 1,
-    "titleZh": "Dutch PM’s contrasting stance on ICC-wanted Putin, Netanyahu",
-    "titleEn": "Dutch PM’s contrasting stance on ICC-wanted Putin, Netanyahu",
-    "summaryZh": "Dutch PM Rob Jetten says Israeli Prime Minister Benjamin Netanyahu should be at the UNGA despite an ICC arrest warrant.",
-    "summaryEn": "Dutch PM Rob Jetten says Israeli Prime Minister Benjamin Netanyahu should be at the UNGA despite an ICC arrest warrant.",
+    "titleZh": "Italy crisis deepens as Belgium’s win stalls World Cup rebuild in Rome",
+    "titleEn": "Italy crisis deepens as Belgium’s win stalls World Cup rebuild in Rome",
+    "summaryZh": "Belgium win 2-0 in Italy as Nations League opener is played out in front of nearly half empty Stadio Olimpico.",
+    "summaryEn": "Belgium win 2-0 in Italy as Nations League opener is played out in front of nearly half empty Stadio Olimpico.",
     "detailZh": "来源：Al Jazeera。这是基于 RSS 摘要生成的待加工条目。接入大模型后，系统会进一步完成中文改写、事实核对、背景补充和多源合并。",
     "detailEn": "Source: Al Jazeera. This is an RSS-based draft. After an LLM is configured, the pipeline will rewrite, fact-check, enrich and merge reports about the same event.",
     "tags": [
@@ -710,18 +710,18 @@
       "Al Jazeera"
     ],
     "sourceUrls": [
-      "https://www.aljazeera.com/video/newsfeed/2026/9/24/dutch-pms-contrasting-stance-on-icc-wanted-putin-netanyahu?traffic_source=rss"
+      "https://www.aljazeera.com/sports/2026/9/25/belgium-win-deepens-italy-crisis-as-latest-world-cup-rebuild-begins?traffic_source=rss"
     ]
   },
   {
-    "id": "rss-35-9a914e43e3fd",
+    "id": "rss-35-a0ed6ca48384",
     "category": "security",
     "importance": 6,
     "sourcesCount": 1,
-    "titleZh": "Portugal beat Wales 1-0 with Felix goal as Nations League defence begins",
-    "titleEn": "Portugal beat Wales 1-0 with Felix goal as Nations League defence begins",
-    "summaryZh": "Joao Felix nets the only goal of the game, while Cristiano Ronaldo has an effort ruled out, as Portugal beat Wales 1-0.",
-    "summaryEn": "Joao Felix nets the only goal of the game, while Cristiano Ronaldo has an effort ruled out, as Portugal beat Wales 1-0.",
+    "titleZh": "Houthi attack on Mecca, Medina would cross ‘red line’, Pakistan PM tells UN",
+    "titleEn": "Houthi attack on Mecca, Medina would cross ‘red line’, Pakistan PM tells UN",
+    "summaryZh": "Shehbaz Sharif speaks as Islamabad, Riyadh and Ankara army chiefs meet to discuss Mecca pact, closer military ties.",
+    "summaryEn": "Shehbaz Sharif speaks as Islamabad, Riyadh and Ankara army chiefs meet to discuss Mecca pact, closer military ties.",
     "detailZh": "来源：Al Jazeera。这是基于 RSS 摘要生成的待加工条目。接入大模型后，系统会进一步完成中文改写、事实核对、背景补充和多源合并。",
     "detailEn": "Source: Al Jazeera. This is an RSS-based draft. After an LLM is configured, the pipeline will rewrite, fact-check, enrich and merge reports about the same event.",
     "tags": [
@@ -731,7 +731,7 @@
       "Al Jazeera"
     ],
     "sourceUrls": [
-      "https://www.aljazeera.com/sports/2026/9/24/portugal-beat-wales-1-0-as-nations-league-defence-begins?traffic_source=rss"
+      "https://www.aljazeera.com/news/2026/9/25/houthi-attack-on-mecca-medina-would-cross-red-line-pakistan-pm-tells-un?traffic_source=rss"
     ]
   }
 ]
