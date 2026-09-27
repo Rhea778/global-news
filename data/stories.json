@@ -1,160 +1,118 @@
 [
   {
-    "id": "rss-1-3808196cf27c",
-    "category": "tech",
-    "importance": 6,
-    "sourcesCount": 1,
-    "titleZh": "Trump rejects Iran deal to reopen Strait of Hormuz in seven days",
-    "titleEn": "Trump rejects Iran deal to reopen Strait of Hormuz in seven days",
-    "summaryZh": "The US president says Tehran had only put forward the proposal because it is losing the war.",
-    "summaryEn": "The US president says Tehran had only put forward the proposal because it is losing the war.",
-    "detailZh": "来源：BBC News。这是基于 RSS 摘要生成的待加工条目。接入大模型后，系统会进一步完成中文改写、事实核对、背景补充和多源合并。",
-    "detailEn": "Source: BBC News. This is an RSS-based draft. After an LLM is configured, the pipeline will rewrite, fact-check, enrich and merge reports about the same event.",
-    "tags": [
-      "科技"
-    ],
-    "sources": [
-      "BBC News"
-    ],
-    "sourceUrls": [
-      "https://www.bbc.co.uk/news/articles/cqgmrr9ekr7ko?at_medium=RSS&at_campaign=rss"
-    ]
-  },
-  {
-    "id": "rss-2-9e39130e88dd",
-    "category": "tech",
-    "importance": 6,
-    "sourcesCount": 1,
-    "titleZh": "Pope praises young people's 'energy and commitment' at huge open-air Mass in Paris",
-    "titleEn": "Pope praises young people's 'energy and commitment' at huge open-air Mass in Paris",
-    "summaryZh": "Around 700,000 people gathered in central Paris to hear the Catholic leader speak and offer prayer.",
-    "summaryEn": "Around 700,000 people gathered in central Paris to hear the Catholic leader speak and offer prayer.",
-    "detailZh": "来源：BBC News。这是基于 RSS 摘要生成的待加工条目。接入大模型后，系统会进一步完成中文改写、事实核对、背景补充和多源合并。",
-    "detailEn": "Source: BBC News. This is an RSS-based draft. After an LLM is configured, the pipeline will rewrite, fact-check, enrich and merge reports about the same event.",
-    "tags": [
-      "科技"
-    ],
-    "sources": [
-      "BBC News"
-    ],
-    "sourceUrls": [
-      "https://www.bbc.co.uk/news/articles/cm4gjjwvvlzro?at_medium=RSS&at_campaign=rss"
-    ]
-  },
-  {
-    "id": "rss-3-bd43d0363287",
-    "category": "world",
-    "importance": 6,
-    "sourcesCount": 1,
-    "titleZh": "British national among six dead in building explosion close to Acropolis in Athens",
-    "titleEn": "British national among six dead in building explosion close to Acropolis in Athens",
-    "summaryZh": "Four Americans and a Greek national are among those killed in a suspected gas explosion, officials said.",
-    "summaryEn": "Four Americans and a Greek national are among those killed in a suspected gas explosion, officials said.",
-    "detailZh": "来源：BBC News。这是基于 RSS 摘要生成的待加工条目。接入大模型后，系统会进一步完成中文改写、事实核对、背景补充和多源合并。",
-    "detailEn": "Source: BBC News. This is an RSS-based draft. After an LLM is configured, the pipeline will rewrite, fact-check, enrich and merge reports about the same event.",
-    "tags": [
-      "国际时政"
-    ],
-    "sources": [
-      "BBC News"
-    ],
-    "sourceUrls": [
-      "https://www.bbc.co.uk/news/articles/c6p3kk78l4l1o?at_medium=RSS&at_campaign=rss"
-    ]
-  },
-  {
-    "id": "rss-4-264bf969ca73",
-    "category": "world",
-    "importance": 6,
-    "sourcesCount": 1,
-    "titleZh": "German town bans 'stumbling stone' memorials to Nazi victims",
-    "titleEn": "German town bans 'stumbling stone' memorials to Nazi victims",
-    "summaryZh": "Germany's education minister has branded the ban on the small brass memorial plaques a \"scandal\".",
-    "summaryEn": "Germany's education minister has branded the ban on the small brass memorial plaques a \"scandal\".",
-    "detailZh": "来源：BBC News。这是基于 RSS 摘要生成的待加工条目。接入大模型后，系统会进一步完成中文改写、事实核对、背景补充和多源合并。",
-    "detailEn": "Source: BBC News. This is an RSS-based draft. After an LLM is configured, the pipeline will rewrite, fact-check, enrich and merge reports about the same event.",
-    "tags": [
-      "国际时政"
-    ],
-    "sources": [
-      "BBC News"
-    ],
-    "sourceUrls": [
-      "https://www.bbc.co.uk/news/articles/cqm2mm4y5dkko?at_medium=RSS&at_campaign=rss"
-    ]
-  },
-  {
-    "id": "rss-5-8e8dd43e1318",
-    "category": "world",
-    "importance": 6,
-    "sourcesCount": 1,
-    "titleZh": "Nor'easter brings flooding as New York and New Jersey declare emergency",
-    "titleEn": "Nor'easter brings flooding as New York and New Jersey declare emergency",
-    "summaryZh": "Tens of millions of people from Maine to Virginia are in the path of the powerful storm.",
-    "summaryEn": "Tens of millions of people from Maine to Virginia are in the path of the powerful storm.",
-    "detailZh": "来源：BBC News。这是基于 RSS 摘要生成的待加工条目。接入大模型后，系统会进一步完成中文改写、事实核对、背景补充和多源合并。",
-    "detailEn": "Source: BBC News. This is an RSS-based draft. After an LLM is configured, the pipeline will rewrite, fact-check, enrich and merge reports about the same event.",
-    "tags": [
-      "国际时政"
-    ],
-    "sources": [
-      "BBC News"
-    ],
-    "sourceUrls": [
-      "https://www.bbc.co.uk/news/articles/ck1wxxzn5jndo?at_medium=RSS&at_campaign=rss"
-    ]
-  },
-  {
-    "id": "rss-6-2297c92b3271",
+    "id": "rss-1-f453a8e0ddb5",
     "category": "security",
     "importance": 6,
     "sourcesCount": 1,
-    "titleZh": "Trump gave Xi Jinping a warm welcome. What did the talks accomplish?",
-    "titleEn": "Trump gave Xi Jinping a warm welcome. What did the talks accomplish?",
-    "summaryZh": "From the National Archives to the state dinner, President Trump and Xi Jinping looked comfortable together in Washington. Two former NPR China correspondents on what the visit did ",
-    "summaryEn": "From the National Archives to the state dinner, President Trump and Xi Jinping looked comfortable together in Washington. Two former NPR China correspondents on what the visit did and didn't deliver.",
-    "detailZh": "来源：NPR World。这是基于 RSS 摘要生成的待加工条目。接入大模型后，系统会进一步完成中文改写、事实核对、背景补充和多源合并。",
-    "detailEn": "Source: NPR World. This is an RSS-based draft. After an LLM is configured, the pipeline will rewrite, fact-check, enrich and merge reports about the same event.",
+    "titleZh": "Iranian minister says only negotiation can end conflict after Trump rejects Hormuz deal",
+    "titleEn": "Iranian minister says only negotiation can end conflict after Trump rejects Hormuz deal",
+    "summaryZh": "The foreign minister says Tehran is waiting for an official rejection of a deal, despite the US President's comments.",
+    "summaryEn": "The foreign minister says Tehran is waiting for an official rejection of a deal, despite the US President's comments.",
+    "detailZh": "来源：BBC News。这是基于 RSS 摘要生成的待加工条目。接入大模型后，系统会进一步完成中文改写、事实核对、背景补充和多源合并。",
+    "detailEn": "Source: BBC News. This is an RSS-based draft. After an LLM is configured, the pipeline will rewrite, fact-check, enrich and merge reports about the same event.",
     "tags": [
       "冲突与安全"
     ],
     "sources": [
-      "NPR World"
+      "BBC News"
     ],
     "sourceUrls": [
-      "https://www.npr.org/2026/09/26/nx-s1-5980066/trump-gave-xi-jinping-a-warm-welcome-what-did-the-talks-accomplish"
+      "https://www.bbc.co.uk/news/articles/cmvgyyw2jeego?at_medium=RSS&at_campaign=rss"
     ]
   },
   {
-    "id": "rss-7-c4deadc6e732",
+    "id": "rss-2-fa9c2e8e5738",
     "category": "world",
     "importance": 6,
     "sourcesCount": 1,
-    "titleZh": "Is Congo's Ebola outbreak coming under control?",
-    "titleEn": "Is Congo's Ebola outbreak coming under control?",
-    "summaryZh": "Four months in, Congo's Ebola outbreak is one of the largest ever recorded. Officials and outside experts can't agree on whether it's finally slowing down.",
-    "summaryEn": "Four months in, Congo's Ebola outbreak is one of the largest ever recorded. Officials and outside experts can't agree on whether it's finally slowing down.",
-    "detailZh": "来源：NPR World。这是基于 RSS 摘要生成的待加工条目。接入大模型后，系统会进一步完成中文改写、事实核对、背景补充和多源合并。",
-    "detailEn": "Source: NPR World. This is an RSS-based draft. After an LLM is configured, the pipeline will rewrite, fact-check, enrich and merge reports about the same event.",
+    "titleZh": "Two mass shootings in South Africa leave 27 dead",
+    "titleEn": "Two mass shootings in South Africa leave 27 dead",
+    "summaryZh": "The two attacks hours apart come as the country struggles to stop high levels of gang-related armed violence.",
+    "summaryEn": "The two attacks hours apart come as the country struggles to stop high levels of gang-related armed violence.",
+    "detailZh": "来源：BBC News。这是基于 RSS 摘要生成的待加工条目。接入大模型后，系统会进一步完成中文改写、事实核对、背景补充和多源合并。",
+    "detailEn": "Source: BBC News. This is an RSS-based draft. After an LLM is configured, the pipeline will rewrite, fact-check, enrich and merge reports about the same event.",
     "tags": [
       "国际时政"
     ],
     "sources": [
-      "NPR World"
+      "BBC News"
     ],
     "sourceUrls": [
-      "https://www.npr.org/2026/09/26/nx-s1-5976867/is-congos-ebola-outbreak-coming-under-control"
+      "https://www.bbc.co.uk/news/articles/ck5ywnp075d1o?at_medium=RSS&at_campaign=rss"
     ]
   },
   {
-    "id": "rss-8-0efa634cfa7d",
+    "id": "rss-3-dd7f9186901b",
+    "category": "world",
+    "importance": 6,
+    "sourcesCount": 1,
+    "titleZh": "Embattled Serbian president resigns, paving way for early elections",
+    "titleEn": "Embattled Serbian president resigns, paving way for early elections",
+    "summaryZh": "Aleksandar Vučić's administration has been dogged by prolonged protests over allegations of corruption.",
+    "summaryEn": "Aleksandar Vučić's administration has been dogged by prolonged protests over allegations of corruption.",
+    "detailZh": "来源：BBC News。这是基于 RSS 摘要生成的待加工条目。接入大模型后，系统会进一步完成中文改写、事实核对、背景补充和多源合并。",
+    "detailEn": "Source: BBC News. This is an RSS-based draft. After an LLM is configured, the pipeline will rewrite, fact-check, enrich and merge reports about the same event.",
+    "tags": [
+      "国际时政"
+    ],
+    "sources": [
+      "BBC News"
+    ],
+    "sourceUrls": [
+      "https://www.bbc.co.uk/news/articles/ckpq0g7z5pjjo?at_medium=RSS&at_campaign=rss"
+    ]
+  },
+  {
+    "id": "rss-4-4380743d7c15",
+    "category": "world",
+    "importance": 6,
+    "sourcesCount": 1,
+    "titleZh": "Two bodies found after avalanche hits Himalayan climbing group",
+    "titleEn": "Two bodies found after avalanche hits Himalayan climbing group",
+    "summaryZh": "Rescuers are looking for at least 10 Nepalese people who were preparing to take climbers up the Himlung Himal peak.",
+    "summaryEn": "Rescuers are looking for at least 10 Nepalese people who were preparing to take climbers up the Himlung Himal peak.",
+    "detailZh": "来源：BBC News。这是基于 RSS 摘要生成的待加工条目。接入大模型后，系统会进一步完成中文改写、事实核对、背景补充和多源合并。",
+    "detailEn": "Source: BBC News. This is an RSS-based draft. After an LLM is configured, the pipeline will rewrite, fact-check, enrich and merge reports about the same event.",
+    "tags": [
+      "国际时政"
+    ],
+    "sources": [
+      "BBC News"
+    ],
+    "sourceUrls": [
+      "https://www.bbc.co.uk/news/articles/cwjdvml9e897o?at_medium=RSS&at_campaign=rss"
+    ]
+  },
+  {
+    "id": "rss-5-dc48422dcce4",
+    "category": "world",
+    "importance": 6,
+    "sourcesCount": 1,
+    "titleZh": "Four killed in helicopter crash near Montreal",
+    "titleEn": "Four killed in helicopter crash near Montreal",
+    "summaryZh": "The victims of the crash have not yet been identified, Quebec provincial police told the BBC.",
+    "summaryEn": "The victims of the crash have not yet been identified, Quebec provincial police told the BBC.",
+    "detailZh": "来源：BBC News。这是基于 RSS 摘要生成的待加工条目。接入大模型后，系统会进一步完成中文改写、事实核对、背景补充和多源合并。",
+    "detailEn": "Source: BBC News. This is an RSS-based draft. After an LLM is configured, the pipeline will rewrite, fact-check, enrich and merge reports about the same event.",
+    "tags": [
+      "国际时政"
+    ],
+    "sources": [
+      "BBC News"
+    ],
+    "sourceUrls": [
+      "https://www.bbc.co.uk/news/articles/c3grvv7p81lqo?at_medium=RSS&at_campaign=rss"
+    ]
+  },
+  {
+    "id": "rss-6-c4645f1b093c",
     "category": "tech",
     "importance": 6,
     "sourcesCount": 1,
-    "titleZh": "Trump calls Iranian plan to reopen Strait of Hormuz not 'acceptable'",
-    "titleEn": "Trump calls Iranian plan to reopen Strait of Hormuz not 'acceptable'",
-    "summaryZh": "President Trump said he was rejecting an Iranian plan to reopen the Strait of Hormuz. The Iranian proposal is similar to a memorandum of understanding agreed upon by the U.S. and I",
-    "summaryEn": "President Trump said he was rejecting an Iranian plan to reopen the Strait of Hormuz. The Iranian proposal is similar to a memorandum of understanding agreed upon by the U.S. and Iran back in June.",
+    "titleZh": "Five arrested near UK air base used by U.S. bombers in Iran war",
+    "titleEn": "Five arrested near UK air base used by U.S. bombers in Iran war",
+    "summaryZh": "U.K. police say five men were arrested on suspicion of preparation of a terrorist act after three vehicles were spotted near an air base the U.S. military has been using to launch ",
+    "summaryEn": "U.K. police say five men were arrested on suspicion of preparation of a terrorist act after three vehicles were spotted near an air base the U.S. military has been using to launch attacks on Iran.",
     "detailZh": "来源：NPR World。这是基于 RSS 摘要生成的待加工条目。接入大模型后，系统会进一步完成中文改写、事实核对、背景补充和多源合并。",
     "detailEn": "Source: NPR World. This is an RSS-based draft. After an LLM is configured, the pipeline will rewrite, fact-check, enrich and merge reports about the same event.",
     "tags": [
@@ -164,18 +122,18 @@
       "NPR World"
     ],
     "sourceUrls": [
-      "https://www.npr.org/2026/09/26/nx-s1-5981990/trump-rejects-iranian-deal-strait-of-hormuz"
+      "https://www.npr.org/2026/09/27/nx-s1-5982718/five-arrested-near-uk-air-base-used-by-u-s-bombers-in-iran-war"
     ]
   },
   {
-    "id": "rss-9-ae827126dc68",
+    "id": "rss-7-2b6a79c430fe",
     "category": "world",
     "importance": 6,
     "sourcesCount": 1,
-    "titleZh": "Why this island paradise has the world's fastest-growing HIV epidemic",
-    "titleEn": "Why this island paradise has the world's fastest-growing HIV epidemic",
-    "summaryZh": "In mid-September, Fiji's government declared a national emergency because of a startling rise in HIV infections. The country's crystal meth epidemic is a strong contributing factor",
-    "summaryEn": "In mid-September, Fiji's government declared a national emergency because of a startling rise in HIV infections. The country's crystal meth epidemic is a strong contributing factor.",
+    "titleZh": "After more than two decades, U.S. forces prepare to leave Iraq",
+    "titleEn": "After more than two decades, U.S. forces prepare to leave Iraq",
+    "summaryZh": "The U.S. military formally ends a more than two-decade-long presence in Iraq this week.",
+    "summaryEn": "The U.S. military formally ends a more than two-decade-long presence in Iraq this week.",
     "detailZh": "来源：NPR World。这是基于 RSS 摘要生成的待加工条目。接入大模型后，系统会进一步完成中文改写、事实核对、背景补充和多源合并。",
     "detailEn": "Source: NPR World. This is an RSS-based draft. After an LLM is configured, the pipeline will rewrite, fact-check, enrich and merge reports about the same event.",
     "tags": [
@@ -185,32 +143,116 @@
       "NPR World"
     ],
     "sourceUrls": [
-      "https://www.npr.org/2026/09/26/g-s1-144667/hiv-crystal-meth-epidemic-fiji"
+      "https://www.npr.org/2026/09/27/nx-s1-5981123/after-more-than-two-decades-u-s-forces-prepare-to-leave-iraq"
     ]
   },
   {
-    "id": "rss-10-cd28012b247a",
-    "category": "security",
+    "id": "rss-8-549b64aa5243",
+    "category": "world",
     "importance": 6,
     "sourcesCount": 1,
-    "titleZh": "Pope warns a 'paradise of machines' could undermine humanity as he opens France trip",
-    "titleEn": "Pope warns a 'paradise of machines' could undermine humanity as he opens France trip",
-    "summaryZh": "Pope Leo XIV has warned that a \"paradise of machines\" could undermine humanity. He raises concerns about artificial intelligence, nuclear arms, and human rights during his visit to",
-    "summaryEn": "Pope Leo XIV has warned that a \"paradise of machines\" could undermine humanity. He raises concerns about artificial intelligence, nuclear arms, and human rights during his visit to France.",
+    "titleZh": "South Africa reels from spate of mass shootings that killed 38 people in a week",
+    "titleEn": "South Africa reels from spate of mass shootings that killed 38 people in a week",
+    "summaryZh": "On Saturday night, there were separate mass shootings near South Africa's two largest cities.",
+    "summaryEn": "On Saturday night, there were separate mass shootings near South Africa's two largest cities.",
     "detailZh": "来源：NPR World。这是基于 RSS 摘要生成的待加工条目。接入大模型后，系统会进一步完成中文改写、事实核对、背景补充和多源合并。",
     "detailEn": "Source: NPR World. This is an RSS-based draft. After an LLM is configured, the pipeline will rewrite, fact-check, enrich and merge reports about the same event.",
     "tags": [
-      "冲突与安全"
+      "国际时政"
     ],
     "sources": [
       "NPR World"
     ],
     "sourceUrls": [
-      "https://www.npr.org/2026/09/26/g-s1-145150/pope-warns-a-paradise-of-machines-could-undermine-humanity"
+      "https://www.npr.org/2026/09/27/nx-s1-5982488/south-africa-mass-shootings-killed-38-week"
     ]
   },
   {
-    "id": "rss-11-d8856d6d307b",
+    "id": "rss-9-72a09ca897e8",
+    "category": "world",
+    "importance": 6,
+    "sourcesCount": 1,
+    "titleZh": "Amid changing dynamics in the Middle East, Turkey seeks to emerge as a leader",
+    "titleEn": "Amid changing dynamics in the Middle East, Turkey seeks to emerge as a leader",
+    "summaryZh": "Turkey's attempts at expanding its Middle East footprint has put it in a position of power, coming head-to-head with Israel.",
+    "summaryEn": "Turkey's attempts at expanding its Middle East footprint has put it in a position of power, coming head-to-head with Israel.",
+    "detailZh": "来源：NPR World。这是基于 RSS 摘要生成的待加工条目。接入大模型后，系统会进一步完成中文改写、事实核对、背景补充和多源合并。",
+    "detailEn": "Source: NPR World. This is an RSS-based draft. After an LLM is configured, the pipeline will rewrite, fact-check, enrich and merge reports about the same event.",
+    "tags": [
+      "国际时政"
+    ],
+    "sources": [
+      "NPR World"
+    ],
+    "sourceUrls": [
+      "https://www.npr.org/2026/09/27/nx-s1-5949210/amid-changing-dynamics-in-the-middle-east-turkey-seeks-to-emerge-as-a-leader"
+    ]
+  },
+  {
+    "id": "rss-10-9f14608cc288",
+    "category": "world",
+    "importance": 6,
+    "sourcesCount": 1,
+    "titleZh": "Playing 'La Bamba' for an hour? Must be a Mexican fandango!",
+    "titleEn": "Playing 'La Bamba' for an hour? Must be a Mexican fandango!",
+    "summaryZh": "A 300-year-old Mexican musical tradition is finding new life around the world — one sweaty, joyous, all-night fandango at a time.",
+    "summaryEn": "A 300-year-old Mexican musical tradition is finding new life around the world — one sweaty, joyous, all-night fandango at a time.",
+    "detailZh": "来源：NPR World。这是基于 RSS 摘要生成的待加工条目。接入大模型后，系统会进一步完成中文改写、事实核对、背景补充和多源合并。",
+    "detailEn": "Source: NPR World. This is an RSS-based draft. After an LLM is configured, the pipeline will rewrite, fact-check, enrich and merge reports about the same event.",
+    "tags": [
+      "国际时政"
+    ],
+    "sources": [
+      "NPR World"
+    ],
+    "sourceUrls": [
+      "https://www.npr.org/2026/09/27/nx-s1-5973237/la-bamba-mexico-fandango"
+    ]
+  },
+  {
+    "id": "rss-11-73d37a7e79d3",
+    "category": "world",
+    "importance": 6,
+    "sourcesCount": 1,
+    "titleZh": "At least 27 dead after two mass shootings in South Africa, police say",
+    "titleEn": "At least 27 dead after two mass shootings in South Africa, police say",
+    "summaryZh": "Seventeen people killed near Johannesburg in suspected ‘illegal goldmining turf war’, as 10 killed in separate incident at barbecue venue near Cape Town Two separate mass shootings",
+    "summaryEn": "Seventeen people killed near Johannesburg in suspected ‘illegal goldmining turf war’, as 10 killed in separate incident at barbecue venue near Cape Town Two separate mass shootings near South Africa’s two biggest cities killed at least 27 people, as the countr",
+    "detailZh": "来源：The Guardian。这是基于 RSS 摘要生成的待加工条目。接入大模型后，系统会进一步完成中文改写、事实核对、背景补充和多源合并。",
+    "detailEn": "Source: The Guardian. This is an RSS-based draft. After an LLM is configured, the pipeline will rewrite, fact-check, enrich and merge reports about the same event.",
+    "tags": [
+      "国际时政"
+    ],
+    "sources": [
+      "The Guardian"
+    ],
+    "sourceUrls": [
+      "https://www.theguardian.com/world/2026/sep/27/mass-shootings-south-africa-johannesburg-cape-town"
+    ]
+  },
+  {
+    "id": "rss-12-413da21e28d2",
+    "category": "world",
+    "importance": 6,
+    "sourcesCount": 1,
+    "titleZh": "‘It’s hard to sell a house when it’s covered in baboon faeces’: Cape Town divided over plan to remove its monkeys",
+    "titleEn": "‘It’s hard to sell a house when it’s covered in baboon faeces’: Cape Town divided over plan to remove its monkeys",
+    "summaryZh": "Two troops of chacma baboons are breaking into homes and shops but animal rights activists insist coexistence is the answer Cape Town’s city council has said it will “imminently” r",
+    "summaryEn": "Two troops of chacma baboons are breaking into homes and shops but animal rights activists insist coexistence is the answer Cape Town’s city council has said it will “imminently” round up two baboon troops coming into repeated conflict with residents . The ani",
+    "detailZh": "来源：The Guardian。这是基于 RSS 摘要生成的待加工条目。接入大模型后，系统会进一步完成中文改写、事实核对、背景补充和多源合并。",
+    "detailEn": "Source: The Guardian. This is an RSS-based draft. After an LLM is configured, the pipeline will rewrite, fact-check, enrich and merge reports about the same event.",
+    "tags": [
+      "国际时政"
+    ],
+    "sources": [
+      "The Guardian"
+    ],
+    "sourceUrls": [
+      "https://www.theguardian.com/environment/2026/sep/27/baboons-cape-town-divided-over-plan-to-remove-its-monkeys-aoe"
+    ]
+  },
+  {
+    "id": "rss-13-d8856d6d307b",
     "category": "tech",
     "importance": 6,
     "sourcesCount": 1,
@@ -231,7 +273,7 @@
     ]
   },
   {
-    "id": "rss-12-3f20824066d1",
+    "id": "rss-14-3f20824066d1",
     "category": "tech",
     "importance": 6,
     "sourcesCount": 1,
@@ -252,7 +294,7 @@
     ]
   },
   {
-    "id": "rss-13-175d465a9185",
+    "id": "rss-15-175d465a9185",
     "category": "world",
     "importance": 6,
     "sourcesCount": 1,
@@ -270,48 +312,6 @@
     ],
     "sourceUrls": [
       "https://www.theguardian.com/world/2026/sep/23/south-africa-top-police-officer-shadrack-sibiya-charged-rape-grooming"
-    ]
-  },
-  {
-    "id": "rss-14-2d21281d7127",
-    "category": "tech",
-    "importance": 6,
-    "sourcesCount": 1,
-    "titleZh": "Healthcare in Africa ‘under growing strain’ after US withdrawal from aid programs, report warns",
-    "titleEn": "Healthcare in Africa ‘under growing strain’ after US withdrawal from aid programs, report warns",
-    "summaryZh": "Accra Reset’s report states countries in the region and global south should take greater control of their health development after USAID debacle The United States’ withdrawal from ",
-    "summaryEn": "Accra Reset’s report states countries in the region and global south should take greater control of their health development after USAID debacle The United States’ withdrawal from key aid programs has put healthcare in Africa and the global south “under growin",
-    "detailZh": "来源：The Guardian。这是基于 RSS 摘要生成的待加工条目。接入大模型后，系统会进一步完成中文改写、事实核对、背景补充和多源合并。",
-    "detailEn": "Source: The Guardian. This is an RSS-based draft. After an LLM is configured, the pipeline will rewrite, fact-check, enrich and merge reports about the same event.",
-    "tags": [
-      "科技"
-    ],
-    "sources": [
-      "The Guardian"
-    ],
-    "sourceUrls": [
-      "https://www.theguardian.com/us-news/2026/sep/21/africa-healthcare-aid-program-withdrawl"
-    ]
-  },
-  {
-    "id": "rss-15-85e3e498d9fb",
-    "category": "world",
-    "importance": 6,
-    "sourcesCount": 1,
-    "titleZh": "Banished to alien lands: Trump’s secret deportation deals",
-    "titleEn": "Banished to alien lands: Trump’s secret deportation deals",
-    "summaryZh": "After a plane journey in shackles, an Iranian woman found herself in the middle of Africa in a country she did not know existed. She is one of thousands deported from the US on the",
-    "summaryEn": "After a plane journey in shackles, an Iranian woman found herself in the middle of Africa in a country she did not know existed. She is one of thousands deported from the US on the back of shadowy deals made with dozens of countries. An in-depth investigation ",
-    "detailZh": "来源：The Guardian。这是基于 RSS 摘要生成的待加工条目。接入大模型后，系统会进一步完成中文改写、事实核对、背景补充和多源合并。",
-    "detailEn": "Source: The Guardian. This is an RSS-based draft. After an LLM is configured, the pipeline will rewrite, fact-check, enrich and merge reports about the same event.",
-    "tags": [
-      "国际时政"
-    ],
-    "sources": [
-      "The Guardian"
-    ],
-    "sourceUrls": [
-      "https://www.theguardian.com/us-news/ng-interactive/2026/sep/21/trump-deportation-deals"
     ]
   },
   {
@@ -420,14 +420,14 @@
     ]
   },
   {
-    "id": "rss-21-d70ce2b78b06",
+    "id": "rss-21-79b213b7598a",
     "category": "tech",
     "importance": 6,
     "sourcesCount": 1,
-    "titleZh": "Insurers claim AI is already increasing healthcare costs",
-    "titleEn": "Insurers claim AI is already increasing healthcare costs",
-    "summaryZh": "Blue Cross Blue Shield says hospital use of AI tools led to an additional $942M in healthcare spending over a two-year period.",
-    "summaryEn": "Blue Cross Blue Shield says hospital use of AI tools led to an additional $942M in healthcare spending over a two-year period.",
+    "titleZh": "Anthropic’s CEO is about to have dinner with President Trump",
+    "titleEn": "Anthropic’s CEO is about to have dinner with President Trump",
+    "summaryZh": "This will be the first one-on-one meeting between Dario Amodei and Donald Trump",
+    "summaryEn": "This will be the first one-on-one meeting between Dario Amodei and Donald Trump",
     "detailZh": "来源：TechCrunch。这是基于 RSS 摘要生成的待加工条目。接入大模型后，系统会进一步完成中文改写、事实核对、背景补充和多源合并。",
     "detailEn": "Source: TechCrunch. This is an RSS-based draft. After an LLM is configured, the pipeline will rewrite, fact-check, enrich and merge reports about the same event.",
     "tags": [
@@ -437,18 +437,18 @@
       "TechCrunch"
     ],
     "sourceUrls": [
-      "https://techcrunch.com/2026/09/26/insurers-claim-ai-is-already-increasing-healthcare-costs/"
+      "https://techcrunch.com/2026/09/27/anthropics-ceo-is-about-to-have-dinner-with-president-trump/"
     ]
   },
   {
-    "id": "rss-22-31b997b1e97a",
+    "id": "rss-22-eaa520eb586c",
     "category": "tech",
     "importance": 6,
     "sourcesCount": 1,
-    "titleZh": "TikTok agrees to pay at least $100M in Alabama settlement",
-    "titleEn": "TikTok agrees to pay at least $100M in Alabama settlement",
-    "summaryZh": "TikTok will pay Alabama at least $100 million in a settlement tied to allegations that the short-form video platform misled users about safety and was designed to addict children.",
-    "summaryEn": "TikTok will pay Alabama at least $100 million in a settlement tied to allegations that the short-form video platform misled users about safety and was designed to addict children.",
+    "titleZh": "Can Muse overcome Meta’s trust issues?",
+    "titleEn": "Can Muse overcome Meta’s trust issues?",
+    "summaryZh": "On Equity, we discussed how Meta's AI announcement managed to steal the spotlight from OpenAI and Anthropic.",
+    "summaryEn": "On Equity, we discussed how Meta's AI announcement managed to steal the spotlight from OpenAI and Anthropic.",
     "detailZh": "来源：TechCrunch。这是基于 RSS 摘要生成的待加工条目。接入大模型后，系统会进一步完成中文改写、事实核对、背景补充和多源合并。",
     "detailEn": "Source: TechCrunch. This is an RSS-based draft. After an LLM is configured, the pipeline will rewrite, fact-check, enrich and merge reports about the same event.",
     "tags": [
@@ -458,18 +458,18 @@
       "TechCrunch"
     ],
     "sourceUrls": [
-      "https://techcrunch.com/2026/09/26/tiktok-agrees-to-pay-at-least-100m-in-alabama-settlement/"
+      "https://techcrunch.com/2026/09/27/can-muse-overcome-metas-trust-issues/"
     ]
   },
   {
-    "id": "rss-23-fcf88b0cd278",
+    "id": "rss-23-8884274c1b64",
     "category": "tech",
     "importance": 6,
     "sourcesCount": 1,
-    "titleZh": "Meta and YouTube say they will run ads for ‘Musk’ documentary after all",
-    "titleEn": "Meta and YouTube say they will run ads for ‘Musk’ documentary after all",
-    "summaryZh": "Two companies now say they will accept advertising for director Alex Gibney’s upcoming documentary about Elon Musk, following earlier reporting that a number of social media platfo",
-    "summaryEn": "Two companies now say they will accept advertising for director Alex Gibney’s upcoming documentary about Elon Musk, following earlier reporting that a number of social media platforms had rejected the ads.",
+    "titleZh": "Anthropic’s Dario Amodei gets the SNL treatment",
+    "titleEn": "Anthropic’s Dario Amodei gets the SNL treatment",
+    "summaryZh": "\"AI is the devil and I its maker.\"",
+    "summaryEn": "\"AI is the devil and I its maker.\"",
     "detailZh": "来源：TechCrunch。这是基于 RSS 摘要生成的待加工条目。接入大模型后，系统会进一步完成中文改写、事实核对、背景补充和多源合并。",
     "detailEn": "Source: TechCrunch. This is an RSS-based draft. After an LLM is configured, the pipeline will rewrite, fact-check, enrich and merge reports about the same event.",
     "tags": [
@@ -479,18 +479,18 @@
       "TechCrunch"
     ],
     "sourceUrls": [
-      "https://techcrunch.com/2026/09/26/meta-says-it-will-run-ads-for-musk-documentary-after-all/"
+      "https://techcrunch.com/2026/09/27/anthropics-dario-amodei-gets-the-snl-treatment/"
     ]
   },
   {
-    "id": "rss-24-4cf9058c82d3",
+    "id": "rss-24-f42a84a71530",
     "category": "tech",
     "importance": 6,
     "sourcesCount": 1,
-    "titleZh": "Levoit’s new air purifier is for the pet odors that have taken over your apartment",
-    "titleEn": "Levoit’s new air purifier is for the pet odors that have taken over your apartment",
-    "summaryZh": "This $189.99 air purifier is specifically designed to tackle pet odors, removing up to 70% in one hour.",
-    "summaryEn": "This $189.99 air purifier is specifically designed to tackle pet odors, removing up to 70% in one hour.",
+    "titleZh": "TechCrunch Mobility: AV companies pick their lanes",
+    "titleEn": "TechCrunch Mobility: AV companies pick their lanes",
+    "summaryZh": "Welcome back to TechCrunch Mobility, your hub for the future of transportation and now, more than ever, the role AI is playing in it.",
+    "summaryEn": "Welcome back to TechCrunch Mobility, your hub for the future of transportation and now, more than ever, the role AI is playing in it.",
     "detailZh": "来源：TechCrunch。这是基于 RSS 摘要生成的待加工条目。接入大模型后，系统会进一步完成中文改写、事实核对、背景补充和多源合并。",
     "detailEn": "Source: TechCrunch. This is an RSS-based draft. After an LLM is configured, the pipeline will rewrite, fact-check, enrich and merge reports about the same event.",
     "tags": [
@@ -500,18 +500,18 @@
       "TechCrunch"
     ],
     "sourceUrls": [
-      "https://techcrunch.com/2026/09/26/levoits-new-air-purifier-is-for-the-pet-odors-that-have-taken-over-your-apartment/"
+      "https://techcrunch.com/2026/09/27/techcrunch-mobility-av-companies-pick-their-lanes/"
     ]
   },
   {
-    "id": "rss-25-c6fb97f6187a",
+    "id": "rss-25-fb1db54334dc",
     "category": "tech",
     "importance": 6,
     "sourcesCount": 1,
-    "titleZh": "I created an interactive digital avatar of myself — and you can talk to it",
-    "titleEn": "I created an interactive digital avatar of myself — and you can talk to it",
-    "summaryZh": "After obtaining an interactive avatar and training it to discuss venture fraud, I have mixed feelings about making AI clones of ourselves.",
-    "summaryEn": "After obtaining an interactive avatar and training it to discuss venture fraud, I have mixed feelings about making AI clones of ourselves.",
+    "titleZh": "Sennheiser Momentum 5 review: Great sound, incredible battery life, and few compromises",
+    "titleEn": "Sennheiser Momentum 5 review: Great sound, incredible battery life, and few compromises",
+    "summaryZh": "I spent the last few weeks with the Sennheiser Momentum 5 to determine if this pair actually stands out, testing everything from sound quality and noise cancellation to comfort and",
+    "summaryEn": "I spent the last few weeks with the Sennheiser Momentum 5 to determine if this pair actually stands out, testing everything from sound quality and noise cancellation to comfort and battery life.",
     "detailZh": "来源：TechCrunch。这是基于 RSS 摘要生成的待加工条目。接入大模型后，系统会进一步完成中文改写、事实核对、背景补充和多源合并。",
     "detailEn": "Source: TechCrunch. This is an RSS-based draft. After an LLM is configured, the pipeline will rewrite, fact-check, enrich and merge reports about the same event.",
     "tags": [
@@ -521,7 +521,7 @@
       "TechCrunch"
     ],
     "sourceUrls": [
-      "https://techcrunch.com/2026/09/26/i-created-an-interactive-digital-avatar-of-myself-and-you-can-talk-to-it/"
+      "https://techcrunch.com/2026/09/27/sennheiser-momentum-5-review-great-sound-incredible-battery-life-and-few-compromises/"
     ]
   },
   {
@@ -630,77 +630,14 @@
     ]
   },
   {
-    "id": "rss-31-677daa1da406",
-    "category": "economy",
-    "importance": 6,
-    "sourcesCount": 1,
-    "titleZh": "Trump says he is rolling back Biden-era US fuel economy rules for cars",
-    "titleEn": "Trump says he is rolling back Biden-era US fuel economy rules for cars",
-    "summaryZh": "The US president said he would end a so-called 'EV mandate' that steered consumers to electric vehicles.",
-    "summaryEn": "The US president said he would end a so-called 'EV mandate' that steered consumers to electric vehicles.",
-    "detailZh": "来源：Al Jazeera。这是基于 RSS 摘要生成的待加工条目。接入大模型后，系统会进一步完成中文改写、事实核对、背景补充和多源合并。",
-    "detailEn": "Source: Al Jazeera. This is an RSS-based draft. After an LLM is configured, the pipeline will rewrite, fact-check, enrich and merge reports about the same event.",
-    "tags": [
-      "经济财经"
-    ],
-    "sources": [
-      "Al Jazeera"
-    ],
-    "sourceUrls": [
-      "https://www.aljazeera.com/news/2026/9/26/trump-says-he-is-rolling-back-biden-era-us-fuel-economy-rules-for-cars?traffic_source=rss"
-    ]
-  },
-  {
-    "id": "rss-32-9fd30229a17b",
-    "category": "tech",
-    "importance": 6,
-    "sourcesCount": 1,
-    "titleZh": "Yamal nets in Spain’s 3-2 comeback win against England in Nations League",
-    "titleEn": "Yamal nets in Spain’s 3-2 comeback win against England in Nations League",
-    "summaryZh": "Lamine Yamal goal opens the scoring, but Spain made to comeback in Nations League win as Harry Kane misses penalty.",
-    "summaryEn": "Lamine Yamal goal opens the scoring, but Spain made to comeback in Nations League win as Harry Kane misses penalty.",
-    "detailZh": "来源：Al Jazeera。这是基于 RSS 摘要生成的待加工条目。接入大模型后，系统会进一步完成中文改写、事实核对、背景补充和多源合并。",
-    "detailEn": "Source: Al Jazeera. This is an RSS-based draft. After an LLM is configured, the pipeline will rewrite, fact-check, enrich and merge reports about the same event.",
-    "tags": [
-      "科技"
-    ],
-    "sources": [
-      "Al Jazeera"
-    ],
-    "sourceUrls": [
-      "https://www.aljazeera.com/sports/2026/9/26/yamal-nets-in-spains-3-2-comeback-win-against-england-in-nations-league?traffic_source=rss"
-    ]
-  },
-  {
-    "id": "rss-33-6df35b9282bb",
-    "category": "tech",
-    "importance": 6,
-    "sourcesCount": 1,
-    "titleZh": "Russia scales up strikes on Ukraine as largest steelmaker halts operations",
-    "titleEn": "Russia scales up strikes on Ukraine as largest steelmaker halts operations",
-    "summaryZh": "A wave of Russian strikes has hit various regions across Ukraine.",
-    "summaryEn": "A wave of Russian strikes has hit various regions across Ukraine.",
-    "detailZh": "来源：Al Jazeera。这是基于 RSS 摘要生成的待加工条目。接入大模型后，系统会进一步完成中文改写、事实核对、背景补充和多源合并。",
-    "detailEn": "Source: Al Jazeera. This is an RSS-based draft. After an LLM is configured, the pipeline will rewrite, fact-check, enrich and merge reports about the same event.",
-    "tags": [
-      "科技"
-    ],
-    "sources": [
-      "Al Jazeera"
-    ],
-    "sourceUrls": [
-      "https://www.aljazeera.com/video/newsfeed/2026/9/26/russia-scales-up-strikes-on-ukraine-as-largest-steelmaker-halts-operations?traffic_source=rss"
-    ]
-  },
-  {
-    "id": "rss-34-7deee3f6e163",
+    "id": "rss-31-82b74a4bb3d3",
     "category": "security",
     "importance": 6,
     "sourcesCount": 1,
-    "titleZh": "Why is violence between Pakistan and Afghanistan recurring?",
-    "titleEn": "Why is violence between Pakistan and Afghanistan recurring?",
-    "summaryZh": "Pakistan has carried out new strikes inside Afghanistan.",
-    "summaryEn": "Pakistan has carried out new strikes inside Afghanistan.",
+    "titleZh": "Ireland defeats Israel in controversial UEFA Nations League match",
+    "titleEn": "Ireland defeats Israel in controversial UEFA Nations League match",
+    "summaryZh": "Ireland's players wore black armbands in support of Palestine, bowed their heads, and refused pre-match handshakes.",
+    "summaryEn": "Ireland's players wore black armbands in support of Palestine, bowed their heads, and refused pre-match handshakes.",
     "detailZh": "来源：Al Jazeera。这是基于 RSS 摘要生成的待加工条目。接入大模型后，系统会进一步完成中文改写、事实核对、背景补充和多源合并。",
     "detailEn": "Source: Al Jazeera. This is an RSS-based draft. After an LLM is configured, the pipeline will rewrite, fact-check, enrich and merge reports about the same event.",
     "tags": [
@@ -710,18 +647,18 @@
       "Al Jazeera"
     ],
     "sourceUrls": [
-      "https://www.aljazeera.com/video/inside-story/2026/9/26/why-is-violence-between-pakistan-and-afghanistan-recurring?traffic_source=rss"
+      "https://www.aljazeera.com/sports/2026/9/27/ireland-defeats-israel-in-controversial-uefa-nations-league-match?traffic_source=rss"
     ]
   },
   {
-    "id": "rss-35-ae08c77c6bd5",
+    "id": "rss-32-cddf81a627da",
     "category": "security",
     "importance": 6,
     "sourcesCount": 1,
-    "titleZh": "Hamas slams Board of Peace for refusal to work with UNRWA in Gaza",
-    "titleEn": "Hamas slams Board of Peace for refusal to work with UNRWA in Gaza",
-    "summaryZh": "Hamas accuses Board of Peace of aligning with Israel after excluding UN agency for Palestinians from Gaza operations.",
-    "summaryEn": "Hamas accuses Board of Peace of aligning with Israel after excluding UN agency for Palestinians from Gaza operations.",
+    "titleZh": "Alleged rape on campus sparks violent protest at Indian university",
+    "titleEn": "Alleged rape on campus sparks violent protest at Indian university",
+    "summaryZh": "Student protests at an Indian university have turned violent following claims that a female student was raped on campus.",
+    "summaryEn": "Student protests at an Indian university have turned violent following claims that a female student was raped on campus.",
     "detailZh": "来源：Al Jazeera。这是基于 RSS 摘要生成的待加工条目。接入大模型后，系统会进一步完成中文改写、事实核对、背景补充和多源合并。",
     "detailEn": "Source: Al Jazeera. This is an RSS-based draft. After an LLM is configured, the pipeline will rewrite, fact-check, enrich and merge reports about the same event.",
     "tags": [
@@ -731,7 +668,70 @@
       "Al Jazeera"
     ],
     "sourceUrls": [
-      "https://www.aljazeera.com/news/2026/9/26/hamas-slams-board-of-peace-for-refusal-to-work-with-unrwa-in-gaza?traffic_source=rss"
+      "https://www.aljazeera.com/video/newsfeed/2026/9/27/alleged-rape-on-campus-sparks-violent-protest-at-indian-university?traffic_source=rss"
+    ]
+  },
+  {
+    "id": "rss-33-c43e406577be",
+    "category": "security",
+    "importance": 6,
+    "sourcesCount": 1,
+    "titleZh": "Floods inundate roads in southeastern Algeria",
+    "titleEn": "Floods inundate roads in southeastern Algeria",
+    "summaryZh": "Circulating footage showed significant flooding, following heavy rain in southeastern Algeria.",
+    "summaryEn": "Circulating footage showed significant flooding, following heavy rain in southeastern Algeria.",
+    "detailZh": "来源：Al Jazeera。这是基于 RSS 摘要生成的待加工条目。接入大模型后，系统会进一步完成中文改写、事实核对、背景补充和多源合并。",
+    "detailEn": "Source: Al Jazeera. This is an RSS-based draft. After an LLM is configured, the pipeline will rewrite, fact-check, enrich and merge reports about the same event.",
+    "tags": [
+      "冲突与安全"
+    ],
+    "sources": [
+      "Al Jazeera"
+    ],
+    "sourceUrls": [
+      "https://www.aljazeera.com/video/newsfeed/2026/9/27/floods-inundate-roads-in-southeastern-algeria?traffic_source=rss"
+    ]
+  },
+  {
+    "id": "rss-34-689d93541360",
+    "category": "security",
+    "importance": 6,
+    "sourcesCount": 1,
+    "titleZh": "Ramos fires holders Portugal to 2-1 Nations League win in Norway",
+    "titleEn": "Ramos fires holders Portugal to 2-1 Nations League win in Norway",
+    "summaryZh": "Goncalo Ramos starts in place of Cristiano Ronaldo and scores the winner for Portugal in Oslo.",
+    "summaryEn": "Goncalo Ramos starts in place of Cristiano Ronaldo and scores the winner for Portugal in Oslo.",
+    "detailZh": "来源：Al Jazeera。这是基于 RSS 摘要生成的待加工条目。接入大模型后，系统会进一步完成中文改写、事实核对、背景补充和多源合并。",
+    "detailEn": "Source: Al Jazeera. This is an RSS-based draft. After an LLM is configured, the pipeline will rewrite, fact-check, enrich and merge reports about the same event.",
+    "tags": [
+      "冲突与安全"
+    ],
+    "sources": [
+      "Al Jazeera"
+    ],
+    "sourceUrls": [
+      "https://www.aljazeera.com/sports/2026/9/27/ramos-fires-holders-portugal-to-2-1-nations-league-win-in-norway?traffic_source=rss"
+    ]
+  },
+  {
+    "id": "rss-35-ff8f909ba39a",
+    "category": "tech",
+    "importance": 6,
+    "sourcesCount": 1,
+    "titleZh": "Deadly strike hits market in Yemen’s Taiz",
+    "titleEn": "Deadly strike hits market in Yemen’s Taiz",
+    "summaryZh": "A strike on a market in the Yemeni city of Taiz has killed at least seven people and wounded 40.",
+    "summaryEn": "A strike on a market in the Yemeni city of Taiz has killed at least seven people and wounded 40.",
+    "detailZh": "来源：Al Jazeera。这是基于 RSS 摘要生成的待加工条目。接入大模型后，系统会进一步完成中文改写、事实核对、背景补充和多源合并。",
+    "detailEn": "Source: Al Jazeera. This is an RSS-based draft. After an LLM is configured, the pipeline will rewrite, fact-check, enrich and merge reports about the same event.",
+    "tags": [
+      "科技"
+    ],
+    "sources": [
+      "Al Jazeera"
+    ],
+    "sourceUrls": [
+      "https://www.aljazeera.com/video/newsfeed/2026/9/27/deadly-strike-hits-market-in-yemens-taiz?traffic_source=rss"
     ]
   }
 ]
