@@ -1,55 +1,13 @@
 [
   {
-    "id": "rss-1-e16fa8268a8f",
-    "category": "tech",
-    "importance": 6,
-    "sourcesCount": 1,
-    "titleZh": "What we know about stabbing on Flydubai flight to Israel",
-    "titleEn": "What we know about stabbing on Flydubai flight to Israel",
-    "summaryZh": "A pilot has been arrested and is being questioned after another pilot was stabbed, officials say.",
-    "summaryEn": "A pilot has been arrested and is being questioned after another pilot was stabbed, officials say.",
-    "detailZh": "来源：BBC News。这是基于 RSS 摘要生成的待加工条目。接入大模型后，系统会进一步完成中文改写、事实核对、背景补充和多源合并。",
-    "detailEn": "Source: BBC News. This is an RSS-based draft. After an LLM is configured, the pipeline will rewrite, fact-check, enrich and merge reports about the same event.",
-    "tags": [
-      "科技"
-    ],
-    "sources": [
-      "BBC News"
-    ],
-    "sourceUrls": [
-      "https://www.bbc.co.uk/news/articles/cqjdv7pmj9dno?at_medium=RSS&at_campaign=rss"
-    ]
-  },
-  {
-    "id": "rss-2-9ec5b5f5c6af",
-    "category": "tech",
-    "importance": 6,
-    "sourcesCount": 1,
-    "titleZh": "Six smugglers jailed for manslaughter over worst Channel small boats disaster",
-    "titleEn": "Six smugglers jailed for manslaughter over worst Channel small boats disaster",
-    "summaryZh": "Thirty-one migrants died when their boat went down in November 2021. The trial found that the guilty men were part of two smuggling networks.",
-    "summaryEn": "Thirty-one migrants died when their boat went down in November 2021. The trial found that the guilty men were part of two smuggling networks.",
-    "detailZh": "来源：BBC News。这是基于 RSS 摘要生成的待加工条目。接入大模型后，系统会进一步完成中文改写、事实核对、背景补充和多源合并。",
-    "detailEn": "Source: BBC News. This is an RSS-based draft. After an LLM is configured, the pipeline will rewrite, fact-check, enrich and merge reports about the same event.",
-    "tags": [
-      "科技"
-    ],
-    "sources": [
-      "BBC News"
-    ],
-    "sourceUrls": [
-      "https://www.bbc.co.uk/news/articles/c6n8m33pn9djo?at_medium=RSS&at_campaign=rss"
-    ]
-  },
-  {
-    "id": "rss-3-506a1cf2ecd3",
+    "id": "rss-1-de456bb36fbd",
     "category": "world",
     "importance": 6,
     "sourcesCount": 1,
-    "titleZh": "UK-France 'one in, one out' migrant scheme scrapped",
-    "titleEn": "UK-France 'one in, one out' migrant scheme scrapped",
-    "summaryZh": "Some 1,500 people have been removed to France since the scheme began just over a year ago.",
-    "summaryEn": "Some 1,500 people have been removed to France since the scheme began just over a year ago.",
+    "titleZh": "Christa Pike in critical condition after surviving two lethal injections, lawyer says",
+    "titleEn": "Christa Pike in critical condition after surviving two lethal injections, lawyer says",
+    "summaryZh": "Pike’s lawyers have asked for her death sentence to be commuted following the botched execution.",
+    "summaryEn": "Pike’s lawyers have asked for her death sentence to be commuted following the botched execution.",
     "detailZh": "来源：BBC News。这是基于 RSS 摘要生成的待加工条目。接入大模型后，系统会进一步完成中文改写、事实核对、背景补充和多源合并。",
     "detailEn": "Source: BBC News. This is an RSS-based draft. After an LLM is configured, the pipeline will rewrite, fact-check, enrich and merge reports about the same event.",
     "tags": [
@@ -59,39 +17,18 @@
       "BBC News"
     ],
     "sourceUrls": [
-      "https://www.bbc.co.uk/news/articles/c64gvnv4eqylo?at_medium=RSS&at_campaign=rss"
+      "https://www.bbc.co.uk/news/articles/cmn4540d4z87o?at_medium=RSS&at_campaign=rss"
     ]
   },
   {
-    "id": "rss-4-99393131b9ac",
-    "category": "world",
-    "importance": 6,
-    "sourcesCount": 1,
-    "titleZh": "Execution of US murderer Christa Pike halted shortly before it was due to happen",
-    "titleEn": "Execution of US murderer Christa Pike halted shortly before it was due to happen",
-    "summaryZh": "Pike was convicted and sentenced to death in 1996 for the murder of Colleen Slemmer.",
-    "summaryEn": "Pike was convicted and sentenced to death in 1996 for the murder of Colleen Slemmer.",
-    "detailZh": "来源：BBC News。这是基于 RSS 摘要生成的待加工条目。接入大模型后，系统会进一步完成中文改写、事实核对、背景补充和多源合并。",
-    "detailEn": "Source: BBC News. This is an RSS-based draft. After an LLM is configured, the pipeline will rewrite, fact-check, enrich and merge reports about the same event.",
-    "tags": [
-      "国际时政"
-    ],
-    "sources": [
-      "BBC News"
-    ],
-    "sourceUrls": [
-      "https://www.bbc.co.uk/news/articles/cw20vxxn876no?at_medium=RSS&at_campaign=rss"
-    ]
-  },
-  {
-    "id": "rss-5-674657b4459a",
+    "id": "rss-2-d8a9ee221324",
     "category": "tech",
     "importance": 6,
     "sourcesCount": 1,
-    "titleZh": "Trekkers helicoptered off mountains as more deadly landslides hit Nepal",
-    "titleEn": "Trekkers helicoptered off mountains as more deadly landslides hit Nepal",
-    "summaryZh": "A month after mass catastrophic flooding, around 30 people have died in landslides and heavy rain.",
-    "summaryEn": "A month after mass catastrophic flooding, around 30 people have died in landslides and heavy rain.",
+    "titleZh": "What happened in the failed execution of Christa Pike - and what next?",
+    "titleEn": "What happened in the failed execution of Christa Pike - and what next?",
+    "summaryZh": "The convicted killer is in hospital in Tennessee after surviving two lethal injections, in a case that has raised many questions.",
+    "summaryEn": "The convicted killer is in hospital in Tennessee after surviving two lethal injections, in a case that has raised many questions.",
     "detailZh": "来源：BBC News。这是基于 RSS 摘要生成的待加工条目。接入大模型后，系统会进一步完成中文改写、事实核对、背景补充和多源合并。",
     "detailEn": "Source: BBC News. This is an RSS-based draft. After an LLM is configured, the pipeline will rewrite, fact-check, enrich and merge reports about the same event.",
     "tags": [
@@ -101,18 +38,81 @@
       "BBC News"
     ],
     "sourceUrls": [
-      "https://www.bbc.co.uk/news/articles/c607l4l3vn0eo?at_medium=RSS&at_campaign=rss"
+      "https://www.bbc.co.uk/news/articles/ckge4eql4q7eo?at_medium=RSS&at_campaign=rss"
     ]
   },
   {
-    "id": "rss-6-4d59ad9fe4ac",
+    "id": "rss-3-e053d6e69ed6",
+    "category": "tech",
+    "importance": 6,
+    "sourcesCount": 1,
+    "titleZh": "Netanyahu says Flydubai attacker had 'Islamist radical indoctrination'",
+    "titleEn": "Netanyahu says Flydubai attacker had 'Islamist radical indoctrination'",
+    "summaryZh": "Israel's prime minister says the pilot who tried to take over the Flydubai plane clearly intended to \"down the plane\".",
+    "summaryEn": "Israel's prime minister says the pilot who tried to take over the Flydubai plane clearly intended to \"down the plane\".",
+    "detailZh": "来源：BBC News。这是基于 RSS 摘要生成的待加工条目。接入大模型后，系统会进一步完成中文改写、事实核对、背景补充和多源合并。",
+    "detailEn": "Source: BBC News. This is an RSS-based draft. After an LLM is configured, the pipeline will rewrite, fact-check, enrich and merge reports about the same event.",
+    "tags": [
+      "科技"
+    ],
+    "sources": [
+      "BBC News"
+    ],
+    "sourceUrls": [
+      "https://www.bbc.co.uk/news/articles/crje8edqyej9o?at_medium=RSS&at_campaign=rss"
+    ]
+  },
+  {
+    "id": "rss-4-eede0656ba41",
+    "category": "security",
+    "importance": 6,
+    "sourcesCount": 1,
+    "titleZh": "Putin warns West that Russia is ready to use every weapon to protect Kaliningrad",
+    "titleEn": "Putin warns West that Russia is ready to use every weapon to protect Kaliningrad",
+    "summaryZh": "The Russian leader insists Moscow is \"not threatening anyone\" and is merely responding to statements by Western leaders.",
+    "summaryEn": "The Russian leader insists Moscow is \"not threatening anyone\" and is merely responding to statements by Western leaders.",
+    "detailZh": "来源：BBC News。这是基于 RSS 摘要生成的待加工条目。接入大模型后，系统会进一步完成中文改写、事实核对、背景补充和多源合并。",
+    "detailEn": "Source: BBC News. This is an RSS-based draft. After an LLM is configured, the pipeline will rewrite, fact-check, enrich and merge reports about the same event.",
+    "tags": [
+      "冲突与安全"
+    ],
+    "sources": [
+      "BBC News"
+    ],
+    "sourceUrls": [
+      "https://www.bbc.co.uk/news/articles/cqg7k7v499jjo?at_medium=RSS&at_campaign=rss"
+    ]
+  },
+  {
+    "id": "rss-5-4ba8a61147c7",
     "category": "world",
     "importance": 6,
     "sourcesCount": 1,
-    "titleZh": "Greetings from Syria, where time seems to melt as a glassmaker braves scorching temps",
-    "titleEn": "Greetings from Syria, where time seems to melt as a glassmaker braves scorching temps",
-    "summaryZh": "As a Syrian glassmaker created his wares in Damascus, watching his craft reminded this reporter to slow down and enjoy the moment.",
-    "summaryEn": "As a Syrian glassmaker created his wares in Damascus, watching his craft reminded this reporter to slow down and enjoy the moment.",
+    "titleZh": "Renee Good: Family of US woman killed by ICE agent sues Trump officials",
+    "titleEn": "Renee Good: Family of US woman killed by ICE agent sues Trump officials",
+    "summaryZh": "Lawyers for Good's family say US officials created \"an unprecedented environment for state sponsored violence\" in Minneapolis.",
+    "summaryEn": "Lawyers for Good's family say US officials created \"an unprecedented environment for state sponsored violence\" in Minneapolis.",
+    "detailZh": "来源：BBC News。这是基于 RSS 摘要生成的待加工条目。接入大模型后，系统会进一步完成中文改写、事实核对、背景补充和多源合并。",
+    "detailEn": "Source: BBC News. This is an RSS-based draft. After an LLM is configured, the pipeline will rewrite, fact-check, enrich and merge reports about the same event.",
+    "tags": [
+      "国际时政"
+    ],
+    "sources": [
+      "BBC News"
+    ],
+    "sourceUrls": [
+      "https://www.bbc.co.uk/news/articles/cwly7y5gvxlmo?at_medium=RSS&at_campaign=rss"
+    ]
+  },
+  {
+    "id": "rss-6-ebcb705b7e27",
+    "category": "world",
+    "importance": 6,
+    "sourcesCount": 1,
+    "titleZh": "What a Pearly King taught me about Cockney rhyming slang and East London history",
+    "titleEn": "What a Pearly King taught me about Cockney rhyming slang and East London history",
+    "summaryZh": "In mother-of-pearl suits, the Pearly Kings used to canvass East London for charity. The most famous one, George Major, died in August. A look back on this larger-than-life figure a",
+    "summaryEn": "In mother-of-pearl suits, the Pearly Kings used to canvass East London for charity. The most famous one, George Major, died in August. A look back on this larger-than-life figure and the Pearly King tradition.",
     "detailZh": "来源：NPR World。这是基于 RSS 摘要生成的待加工条目。接入大模型后，系统会进一步完成中文改写、事实核对、背景补充和多源合并。",
     "detailEn": "Source: NPR World. This is an RSS-based draft. After an LLM is configured, the pipeline will rewrite, fact-check, enrich and merge reports about the same event.",
     "tags": [
@@ -122,91 +122,91 @@
       "NPR World"
     ],
     "sourceUrls": [
-      "https://www.npr.org/2026/09/30/nx-s1-5983516/damascus-syria-glass"
+      "https://www.npr.org/2026/10/01/nx-s1-5928148/pearly-king-peckham-george-major-london-cockney"
     ]
   },
   {
-    "id": "rss-7-75ec55a14ddd",
-    "category": "tech",
+    "id": "rss-7-b4a156b2cbf6",
+    "category": "world",
     "importance": 6,
     "sourcesCount": 1,
-    "titleZh": "How Ukrainians are coping with new, more deadly Russian attacks",
-    "titleEn": "How Ukrainians are coping with new, more deadly Russian attacks",
-    "summaryZh": "Zanny Minton Beddoes, The Economist's editor in chief , just visited Ukraine. She says, despite all its drone weaponry, Kyiv is under extraordinary bombardment, as Russia tries to ",
-    "summaryEn": "Zanny Minton Beddoes, The Economist's editor in chief , just visited Ukraine. She says, despite all its drone weaponry, Kyiv is under extraordinary bombardment, as Russia tries to make it unlivable.",
+    "titleZh": "Passengers recount chaos on Tel Aviv flight. And, FBI probes employee-data hack",
+    "titleEn": "Passengers recount chaos on Tel Aviv flight. And, FBI probes employee-data hack",
+    "summaryZh": "What we know so far about the tense moments aboard a Tel Aviv-bound flight. And, the FBI investigates a cyberattack involving sensitive employee data.",
+    "summaryEn": "What we know so far about the tense moments aboard a Tel Aviv-bound flight. And, the FBI investigates a cyberattack involving sensitive employee data.",
     "detailZh": "来源：NPR World。这是基于 RSS 摘要生成的待加工条目。接入大模型后，系统会进一步完成中文改写、事实核对、背景补充和多源合并。",
     "detailEn": "Source: NPR World. This is an RSS-based draft. After an LLM is configured, the pipeline will rewrite, fact-check, enrich and merge reports about the same event.",
     "tags": [
-      "科技"
+      "国际时政"
     ],
     "sources": [
       "NPR World"
     ],
     "sourceUrls": [
-      "https://www.npr.org/2026/09/30/nx-s1-5984948/how-ukrainians-are-coping-with-new-more-deadly-russian-attacks"
+      "https://www.npr.org/2026/10/01/g-s1-145879/up-first-newsletter-tel-aviv-flight-passengers-fbi-employee-data-hack"
     ]
   },
   {
-    "id": "rss-8-8f9715ea84a4",
-    "category": "security",
+    "id": "rss-8-babc4908b979",
+    "category": "world",
     "importance": 6,
     "sourcesCount": 1,
-    "titleZh": "On flight to Israel, pilot is stabbed, plane plunges before passengers tackle attacker",
-    "titleEn": "On flight to Israel, pilot is stabbed, plane plunges before passengers tackle attacker",
-    "summaryZh": "As the plane went into a spin and began to plunge, passengers and crew members got into the cockpit, subdued the pilot and diverted the flight to land in Saudi Arabia, Israel's lea",
-    "summaryEn": "As the plane went into a spin and began to plunge, passengers and crew members got into the cockpit, subdued the pilot and diverted the flight to land in Saudi Arabia, Israel's leader says.",
+    "titleZh": "Picanha, prices and politics: What Brazil's favorite steak says about the election",
+    "titleEn": "Picanha, prices and politics: What Brazil's favorite steak says about the election",
+    "summaryZh": "President Lula promised Brazilians four years ago they'd be able to afford picanha again. Now, as he seeks another term, the price of the country's favorite cut of beef is telling ",
+    "summaryEn": "President Lula promised Brazilians four years ago they'd be able to afford picanha again. Now, as he seeks another term, the price of the country's favorite cut of beef is telling a different story.",
     "detailZh": "来源：NPR World。这是基于 RSS 摘要生成的待加工条目。接入大模型后，系统会进一步完成中文改写、事实核对、背景补充和多源合并。",
     "detailEn": "Source: NPR World. This is an RSS-based draft. After an LLM is configured, the pipeline will rewrite, fact-check, enrich and merge reports about the same event.",
     "tags": [
-      "冲突与安全"
+      "国际时政"
     ],
     "sources": [
       "NPR World"
     ],
     "sourceUrls": [
-      "https://www.npr.org/2026/09/30/nx-s1-5985806/flydubai-flight-dubai-tel-aviv-israel"
+      "https://www.npr.org/2026/10/01/nx-s1-5986079/picanha-election-brazil-economy"
     ]
   },
   {
-    "id": "rss-9-16463fb011bd",
-    "category": "security",
+    "id": "rss-9-05626e70e1e3",
+    "category": "world",
     "importance": 6,
     "sourcesCount": 1,
-    "titleZh": "U.S. forces exit Iraq amid Iran war. And, SCOTUS revives Trump deportation policy",
-    "titleEn": "U.S. forces exit Iraq amid Iran war. And, SCOTUS revives Trump deportation policy",
-    "summaryZh": "The U.S. has withdrawn its final troops from Iraq, leaving its defense future uncertain. And, the Supreme Court has sided for now with the Trump administration on third-country dep",
-    "summaryEn": "The U.S. has withdrawn its final troops from Iraq, leaving its defense future uncertain. And, the Supreme Court has sided for now with the Trump administration on third-country deportations.",
+    "titleZh": "What life under U.S. sanctions looks like for one ICC judge",
+    "titleEn": "What life under U.S. sanctions looks like for one ICC judge",
+    "summaryZh": "Kimberly Prost, a Canadian judge at the International Criminal Court, says U.S. sanctions disrupted her daily life. She is still hearing cases and challenging the sanctions in cour",
+    "summaryEn": "Kimberly Prost, a Canadian judge at the International Criminal Court, says U.S. sanctions disrupted her daily life. She is still hearing cases and challenging the sanctions in court.",
     "detailZh": "来源：NPR World。这是基于 RSS 摘要生成的待加工条目。接入大模型后，系统会进一步完成中文改写、事实核对、背景补充和多源合并。",
     "detailEn": "Source: NPR World. This is an RSS-based draft. After an LLM is configured, the pipeline will rewrite, fact-check, enrich and merge reports about the same event.",
     "tags": [
-      "冲突与安全"
+      "国际时政"
     ],
     "sources": [
       "NPR World"
     ],
     "sourceUrls": [
-      "https://www.npr.org/2026/09/30/g-s1-145604/up-first-newsletter-iraq-us-troops-scotus-deportations-trump-ai"
+      "https://www.npr.org/2026/10/01/nx-s1-5977815/trump-icc-sanctions-kimberly-prost"
     ]
   },
   {
-    "id": "rss-10-d70d13e36ef0",
-    "category": "security",
+    "id": "rss-10-37365029e96d",
+    "category": "world",
     "importance": 6,
     "sourcesCount": 1,
-    "titleZh": "The U.S. military withdraws from Iraq over 2 decades after its invasion",
-    "titleEn": "The U.S. military withdraws from Iraq over 2 decades after its invasion",
-    "summaryZh": "23 years after the United States military invaded Iraq, sparking an insurgency and a civil war, the U.S. has withdrawn its forces, as the country still tries to combat Iranian infl",
-    "summaryEn": "23 years after the United States military invaded Iraq, sparking an insurgency and a civil war, the U.S. has withdrawn its forces, as the country still tries to combat Iranian influence.",
+    "titleZh": "Swiss glaciers suffer another year of record ice loss",
+    "titleEn": "Swiss glaciers suffer another year of record ice loss",
+    "summaryZh": "Switzerland's glaciers are disappearing at a record pace. More than 5% of their ice has vanished this year alone — threatening water supplies, ecosystems and communities across Eur",
+    "summaryEn": "Switzerland's glaciers are disappearing at a record pace. More than 5% of their ice has vanished this year alone — threatening water supplies, ecosystems and communities across Europe.",
     "detailZh": "来源：NPR World。这是基于 RSS 摘要生成的待加工条目。接入大模型后，系统会进一步完成中文改写、事实核对、背景补充和多源合并。",
     "detailEn": "Source: NPR World. This is an RSS-based draft. After an LLM is configured, the pipeline will rewrite, fact-check, enrich and merge reports about the same event.",
     "tags": [
-      "冲突与安全"
+      "国际时政"
     ],
     "sources": [
       "NPR World"
     ],
     "sourceUrls": [
-      "https://www.npr.org/2026/09/30/nx-s1-5983426/u-s-withdraws-final-troops-from-iraq"
+      "https://www.npr.org/2026/09/30/nx-s1-5981403/swiss-glaciers-climate-change"
     ]
   },
   {
@@ -216,8 +216,8 @@
     "sourcesCount": 1,
     "titleZh": "Trump administration diverts human rights funds to push far-right agenda abroad",
     "titleEn": "Trump administration diverts human rights funds to push far-right agenda abroad",
-    "summaryZh": "Support for white Afrikaners, anti-communism and others reveals how US redefining what qualifies as human rights With hours left before the funding expires, the Trump administratio",
-    "summaryEn": "Support for white Afrikaners, anti-communism and others reveals how US redefining what qualifies as human rights With hours left before the funding expires, the Trump administration is pushing to direct more than $175m of the state department’s flagship human ",
+    "summaryZh": "Support such as for white Afrikaners and anti-communism reveals how US is redefining what qualifies as human rights With hours left before the funding expires, the Trump administra",
+    "summaryEn": "Support such as for white Afrikaners and anti-communism reveals how US is redefining what qualifies as human rights With hours left before the funding expires, the Trump administration is pushing to direct more than $175m of the state department’s flagship hum",
     "detailZh": "来源：The Guardian。这是基于 RSS 摘要生成的待加工条目。接入大模型后，系统会进一步完成中文改写、事实核对、背景补充和多源合并。",
     "detailEn": "Source: The Guardian. This is an RSS-based draft. After an LLM is configured, the pipeline will rewrite, fact-check, enrich and merge reports about the same event.",
     "tags": [
@@ -420,14 +420,14 @@
     ]
   },
   {
-    "id": "rss-21-f9953f3a0f91",
+    "id": "rss-21-67f82d3372e3",
     "category": "tech",
     "importance": 6,
     "sourcesCount": 1,
-    "titleZh": "Valor, Atreides, and Sequoia back AI startup Flow Engineering at $750M valuation",
-    "titleEn": "Valor, Atreides, and Sequoia back AI startup Flow Engineering at $750M valuation",
-    "summaryZh": "Flow Engineering, which is bringing AI agents to hardware design, also landed Roelof Botha as an angel investor and board member.",
-    "summaryEn": "Flow Engineering, which is bringing AI agents to hardware design, also landed Roelof Botha as an angel investor and board member.",
+    "titleZh": "Lyft is paying $272.5M to settle lawsuit over how it classified drivers",
+    "titleEn": "Lyft is paying $272.5M to settle lawsuit over how it classified drivers",
+    "summaryZh": "Today, gig economy drivers are classified as contractors. This settlement clears up a lingering lawsuit from 2020 when that was still an unanswered issue.",
+    "summaryEn": "Today, gig economy drivers are classified as contractors. This settlement clears up a lingering lawsuit from 2020 when that was still an unanswered issue.",
     "detailZh": "来源：TechCrunch。这是基于 RSS 摘要生成的待加工条目。接入大模型后，系统会进一步完成中文改写、事实核对、背景补充和多源合并。",
     "detailEn": "Source: TechCrunch. This is an RSS-based draft. After an LLM is configured, the pipeline will rewrite, fact-check, enrich and merge reports about the same event.",
     "tags": [
@@ -437,18 +437,18 @@
       "TechCrunch"
     ],
     "sourceUrls": [
-      "https://techcrunch.com/2026/09/30/valor-atreides-and-sequoia-back-ai-startup-flow-engineering-at-750m-valuation/"
+      "https://techcrunch.com/2026/10/01/lyft-is-paying-272-5m-to-settle-lawsuit-over-how-it-classified-drivers/"
     ]
   },
   {
-    "id": "rss-22-d76d029e92f1",
+    "id": "rss-22-f4ad26c8013e",
     "category": "tech",
     "importance": 6,
     "sourcesCount": 1,
-    "titleZh": "Factory CEO just accused his VC board advisor of spying for Cognition",
-    "titleEn": "Factory CEO just accused his VC board advisor of spying for Cognition",
-    "summaryZh": "VC Chris Degnan and former board advisor to Factory AI has taken a job as chief revenue officer for Cognition.",
-    "summaryEn": "VC Chris Degnan and former board advisor to Factory AI has taken a job as chief revenue officer for Cognition.",
+    "titleZh": "Kevin Mandia’s new ‘agent swarm’ security startup Armadin raises $255.5M at $2.5B valuation",
+    "titleEn": "Kevin Mandia’s new ‘agent swarm’ security startup Armadin raises $255.5M at $2.5B valuation",
+    "summaryZh": "Kevin Mandia, best known as the founder of Mandiant, has a new startup that is using agent swarms to test and protect enterprises.",
+    "summaryEn": "Kevin Mandia, best known as the founder of Mandiant, has a new startup that is using agent swarms to test and protect enterprises.",
     "detailZh": "来源：TechCrunch。这是基于 RSS 摘要生成的待加工条目。接入大模型后，系统会进一步完成中文改写、事实核对、背景补充和多源合并。",
     "detailEn": "Source: TechCrunch. This is an RSS-based draft. After an LLM is configured, the pipeline will rewrite, fact-check, enrich and merge reports about the same event.",
     "tags": [
@@ -458,18 +458,18 @@
       "TechCrunch"
     ],
     "sourceUrls": [
-      "https://techcrunch.com/2026/09/30/factory-ceo-just-accused-his-vc-board-advisor-of-spying-for-cognition/"
+      "https://techcrunch.com/2026/10/01/kevin-mandias-new-agent-swarm-security-startup-armadin-raises-255-5m-at-2-5b-valuation/"
     ]
   },
   {
-    "id": "rss-23-8f5f6c134c4e",
+    "id": "rss-23-17bfcacf3c39",
     "category": "tech",
     "importance": 6,
     "sourcesCount": 1,
-    "titleZh": "Is Neko Health’s body scan worth it? Spotify billionaire’s startup has come to America",
-    "titleEn": "Is Neko Health’s body scan worth it? Spotify billionaire’s startup has come to America",
-    "summaryZh": "Spotify founder Daniel Ek’s Neko Health raised $700 million to build a business around scanning your body, but it’s not the only company centering its roadmap around a new kind of ",
-    "summaryEn": "Spotify founder Daniel Ek’s Neko Health raised $700 million to build a business around scanning your body, but it’s not the only company centering its roadmap around a new kind of preventative healthcare. Midjourney is building its own body scanner, while Func",
+    "titleZh": "Musk’s AI chatbot Grok reportedly encouraged Trump to capture Venezuela’s president",
+    "titleEn": "Musk’s AI chatbot Grok reportedly encouraged Trump to capture Venezuela’s president",
+    "summaryZh": "President Trump reportedly asked for Grok's opinion before invading Venezuela and capturing Nicolás Maduro.",
+    "summaryEn": "President Trump reportedly asked for Grok's opinion before invading Venezuela and capturing Nicolás Maduro.",
     "detailZh": "来源：TechCrunch。这是基于 RSS 摘要生成的待加工条目。接入大模型后，系统会进一步完成中文改写、事实核对、背景补充和多源合并。",
     "detailEn": "Source: TechCrunch. This is an RSS-based draft. After an LLM is configured, the pipeline will rewrite, fact-check, enrich and merge reports about the same event.",
     "tags": [
@@ -479,39 +479,18 @@
       "TechCrunch"
     ],
     "sourceUrls": [
-      "https://techcrunch.com/video/is-neko-healths-body-scan-worth-it-spotify-billionaires-startup-has-come-to-america/"
+      "https://techcrunch.com/2026/10/01/musks-ai-chatbot-grok-reportedly-encouraged-trump-to-capture-venezuelas-president/"
     ]
   },
   {
-    "id": "rss-24-d95f3d7ee390",
-    "category": "security",
-    "importance": 6,
-    "sourcesCount": 1,
-    "titleZh": "Hackers stole millions of US military personnel records during months-long data breach",
-    "titleEn": "Hackers stole millions of US military personnel records during months-long data breach",
-    "summaryZh": "The Department of Defense notified millions of current and former U.S. military personnel that their personal information had been stolen in a months-long breach.",
-    "summaryEn": "The Department of Defense notified millions of current and former U.S. military personnel that their personal information had been stolen in a months-long breach.",
-    "detailZh": "来源：TechCrunch。这是基于 RSS 摘要生成的待加工条目。接入大模型后，系统会进一步完成中文改写、事实核对、背景补充和多源合并。",
-    "detailEn": "Source: TechCrunch. This is an RSS-based draft. After an LLM is configured, the pipeline will rewrite, fact-check, enrich and merge reports about the same event.",
-    "tags": [
-      "冲突与安全"
-    ],
-    "sources": [
-      "TechCrunch"
-    ],
-    "sourceUrls": [
-      "https://techcrunch.com/2026/09/30/hackers-stole-millions-of-us-military-personnel-records-during-months-long-data-breach/"
-    ]
-  },
-  {
-    "id": "rss-25-cfb779b11c0a",
+    "id": "rss-24-280d0a9a74fa",
     "category": "tech",
     "importance": 6,
     "sourcesCount": 1,
-    "titleZh": "DoorDash’s drone strategy started on the ground",
-    "titleEn": "DoorDash’s drone strategy started on the ground",
-    "summaryZh": "DoorDash unveiled the six-propeller aircraft that will be used in its new drone delivery business at its annual Dash Forward 2026 event.",
-    "summaryEn": "DoorDash unveiled the six-propeller aircraft that will be used in its new drone delivery business at its annual Dash Forward 2026 event.",
+    "titleZh": "ChatGPT can now virtually try on clothes for you",
+    "titleEn": "ChatGPT can now virtually try on clothes for you",
+    "summaryZh": "OpenAI is rolling out new shopping features for ChatGPT that let users virtually try on clothing and accessories using their own photos and save products they like to a Favorites l",
+    "summaryEn": "OpenAI is rolling out new shopping features for ChatGPT that let users virtually try on clothing and accessories using their own photos and save products they like to a Favorites library.",
     "detailZh": "来源：TechCrunch。这是基于 RSS 摘要生成的待加工条目。接入大模型后，系统会进一步完成中文改写、事实核对、背景补充和多源合并。",
     "detailEn": "Source: TechCrunch. This is an RSS-based draft. After an LLM is configured, the pipeline will rewrite, fact-check, enrich and merge reports about the same event.",
     "tags": [
@@ -521,18 +500,39 @@
       "TechCrunch"
     ],
     "sourceUrls": [
-      "https://techcrunch.com/2026/09/30/doordashs-drone-strategy-started-on-the-ground/"
+      "https://techcrunch.com/2026/10/01/chatgpt-can-now-virtually-try-on-clothes-for-you/"
     ]
   },
   {
-    "id": "rss-26-16a97957bf92",
+    "id": "rss-25-0f3d660d2157",
+    "category": "tech",
+    "importance": 6,
+    "sourcesCount": 1,
+    "titleZh": "Google thinks SpaceX’s Starship has to launch 1,800 times before space data centers get off the ground",
+    "titleEn": "Google thinks SpaceX’s Starship has to launch 1,800 times before space data centers get off the ground",
+    "summaryZh": "Google launched its first advanced chip into orbit to pave the way for space data centers.",
+    "summaryEn": "Google launched its first advanced chip into orbit to pave the way for space data centers.",
+    "detailZh": "来源：TechCrunch。这是基于 RSS 摘要生成的待加工条目。接入大模型后，系统会进一步完成中文改写、事实核对、背景补充和多源合并。",
+    "detailEn": "Source: TechCrunch. This is an RSS-based draft. After an LLM is configured, the pipeline will rewrite, fact-check, enrich and merge reports about the same event.",
+    "tags": [
+      "科技"
+    ],
+    "sources": [
+      "TechCrunch"
+    ],
+    "sourceUrls": [
+      "https://techcrunch.com/2026/10/01/google-thinks-spacexs-starship-has-to-launch-1600-times-before-space-data-centers-get-off-the-ground/"
+    ]
+  },
+  {
+    "id": "rss-26-3bdf02c6ac94",
     "category": "science",
     "importance": 6,
     "sourcesCount": 1,
-    "titleZh": "These optical illusions are why butterflies are so hard to catch",
-    "titleEn": "These optical illusions are why butterflies are so hard to catch",
-    "summaryZh": "Nature, Published online: 30 September 2026; doi:10.1038/d41586-026-03124-w High-speed footage of takeoffs reveal that the butterfly markings mislead the eye, making them harder to",
-    "summaryEn": "Nature, Published online: 30 September 2026; doi:10.1038/d41586-026-03124-w High-speed footage of takeoffs reveal that the butterfly markings mislead the eye, making them harder to catch.",
+    "titleZh": "Retraction Note: Ribosomal frameshifting in the CCR5 mRNA is regulated by miRNAs and the NMD pathway",
+    "titleEn": "Retraction Note: Ribosomal frameshifting in the CCR5 mRNA is regulated by miRNAs and the NMD pathway",
+    "summaryZh": "Nature, Published online: 01 October 2026; doi:10.1038/s41586-026-11149-4 Retraction Note: Ribosomal frameshifting in the CCR5 mRNA is regulated by miRNAs and the NMD pathway",
+    "summaryEn": "Nature, Published online: 01 October 2026; doi:10.1038/s41586-026-11149-4 Retraction Note: Ribosomal frameshifting in the CCR5 mRNA is regulated by miRNAs and the NMD pathway",
     "detailZh": "来源：Nature News。这是基于 RSS 摘要生成的待加工条目。接入大模型后，系统会进一步完成中文改写、事实核对、背景补充和多源合并。",
     "detailEn": "Source: Nature News. This is an RSS-based draft. After an LLM is configured, the pipeline will rewrite, fact-check, enrich and merge reports about the same event.",
     "tags": [
@@ -542,18 +542,18 @@
       "Nature News"
     ],
     "sourceUrls": [
-      "https://www.nature.com/articles/d41586-026-03124-w"
+      "https://www.nature.com/articles/s41586-026-11149-4"
     ]
   },
   {
-    "id": "rss-27-760bde1674f1",
+    "id": "rss-27-810051c371b1",
     "category": "science",
     "importance": 6,
     "sourcesCount": 1,
-    "titleZh": "Who’s the loudest of them all? The bare-throated bellbird vies for the prize",
-    "titleEn": "Who’s the loudest of them all? The bare-throated bellbird vies for the prize",
-    "summaryZh": "Nature, Published online: 30 September 2026; doi:10.1038/d41586-026-03038-7 The bellbird’s extra-large gape helps it to achieve pneumatic-drill-level volume.",
-    "summaryEn": "Nature, Published online: 30 September 2026; doi:10.1038/d41586-026-03038-7 The bellbird’s extra-large gape helps it to achieve pneumatic-drill-level volume.",
+    "titleZh": "A black hole’s jets have a halo effect",
+    "titleEn": "A black hole’s jets have a halo effect",
+    "summaryZh": "Nature, Published online: 01 October 2026; doi:10.1038/d41586-026-03036-9 Observations confirm jets’ expected effect on the gas cloud that surrounds a galaxy.",
+    "summaryEn": "Nature, Published online: 01 October 2026; doi:10.1038/d41586-026-03036-9 Observations confirm jets’ expected effect on the gas cloud that surrounds a galaxy.",
     "detailZh": "来源：Nature News。这是基于 RSS 摘要生成的待加工条目。接入大模型后，系统会进一步完成中文改写、事实核对、背景补充和多源合并。",
     "detailEn": "Source: Nature News. This is an RSS-based draft. After an LLM is configured, the pipeline will rewrite, fact-check, enrich and merge reports about the same event.",
     "tags": [
@@ -563,18 +563,60 @@
       "Nature News"
     ],
     "sourceUrls": [
-      "https://www.nature.com/articles/d41586-026-03038-7"
+      "https://www.nature.com/articles/d41586-026-03036-9"
     ]
   },
   {
-    "id": "rss-28-f574ef03f423",
+    "id": "rss-28-8d52b1abfc8a",
+    "category": "tech",
+    "importance": 6,
+    "sourcesCount": 1,
+    "titleZh": "Can pancreatic cancer be stopped in its tracks? Radical tactic raises hopes",
+    "titleEn": "Can pancreatic cancer be stopped in its tracks? Radical tactic raises hopes",
+    "summaryZh": "Nature, Published online: 01 October 2026; doi:10.1038/d41586-026-03119-7 With prospects for new treatments at an all-time high, researchers are looking for ways to boost survival ",
+    "summaryEn": "Nature, Published online: 01 October 2026; doi:10.1038/d41586-026-03119-7 With prospects for new treatments at an all-time high, researchers are looking for ways to boost survival by treating the disease early.",
+    "detailZh": "来源：Nature News。这是基于 RSS 摘要生成的待加工条目。接入大模型后，系统会进一步完成中文改写、事实核对、背景补充和多源合并。",
+    "detailEn": "Source: Nature News. This is an RSS-based draft. After an LLM is configured, the pipeline will rewrite, fact-check, enrich and merge reports about the same event.",
+    "tags": [
+      "科技"
+    ],
+    "sources": [
+      "Nature News"
+    ],
+    "sourceUrls": [
+      "https://www.nature.com/articles/d41586-026-03119-7"
+    ]
+  },
+  {
+    "id": "rss-29-a2411a82968c",
+    "category": "tech",
+    "importance": 6,
+    "sourcesCount": 1,
+    "titleZh": "Sign of the times: AI lingo muscles into esteemed dictionary",
+    "titleEn": "Sign of the times: AI lingo muscles into esteemed dictionary",
+    "summaryZh": "Nature, Published online: 01 October 2026; doi:10.1038/d41586-026-03044-9 ‘Agentic’, ‘prompt engineering’ and other technical terms are among the 1,400 entries added to Merriam-Web",
+    "summaryEn": "Nature, Published online: 01 October 2026; doi:10.1038/d41586-026-03044-9 ‘Agentic’, ‘prompt engineering’ and other technical terms are among the 1,400 entries added to Merriam-Webster’s online catalogue.",
+    "detailZh": "来源：Nature News。这是基于 RSS 摘要生成的待加工条目。接入大模型后，系统会进一步完成中文改写、事实核对、背景补充和多源合并。",
+    "detailEn": "Source: Nature News. This is an RSS-based draft. After an LLM is configured, the pipeline will rewrite, fact-check, enrich and merge reports about the same event.",
+    "tags": [
+      "科技"
+    ],
+    "sources": [
+      "Nature News"
+    ],
+    "sourceUrls": [
+      "https://www.nature.com/articles/d41586-026-03044-9"
+    ]
+  },
+  {
+    "id": "rss-30-882f900cf89b",
     "category": "science",
     "importance": 6,
     "sourcesCount": 1,
-    "titleZh": "Is exposomics the key to making personalized medicine a reality?",
-    "titleEn": "Is exposomics the key to making personalized medicine a reality?",
-    "summaryZh": "Nature, Published online: 30 September 2026; doi:10.1038/d41586-026-02958-8 Scientists say tailored disease treatments require a comprehensive assessment of a person’s lifelong env",
-    "summaryEn": "Nature, Published online: 30 September 2026; doi:10.1038/d41586-026-02958-8 Scientists say tailored disease treatments require a comprehensive assessment of a person’s lifelong environmental exposures.",
+    "titleZh": "The ‘missed disease’ that affects 190 million: endometriosis drug shows early promise",
+    "titleEn": "The ‘missed disease’ that affects 190 million: endometriosis drug shows early promise",
+    "summaryZh": "Nature, Published online: 01 October 2026; doi:10.1038/d41586-026-03042-x Modified medication targets the cells implicated in the condition’s tell-tale lesions.",
+    "summaryEn": "Nature, Published online: 01 October 2026; doi:10.1038/d41586-026-03042-x Modified medication targets the cells implicated in the condition’s tell-tale lesions.",
     "detailZh": "来源：Nature News。这是基于 RSS 摘要生成的待加工条目。接入大模型后，系统会进一步完成中文改写、事实核对、背景补充和多源合并。",
     "detailEn": "Source: Nature News. This is an RSS-based draft. After an LLM is configured, the pipeline will rewrite, fact-check, enrich and merge reports about the same event.",
     "tags": [
@@ -584,60 +626,18 @@
       "Nature News"
     ],
     "sourceUrls": [
-      "https://www.nature.com/articles/d41586-026-02958-8"
+      "https://www.nature.com/articles/d41586-026-03042-x"
     ]
   },
   {
-    "id": "rss-29-ddede14ad81f",
-    "category": "science",
-    "importance": 6,
-    "sourcesCount": 1,
-    "titleZh": "The super El Niño is cooking coral reefs — can lullabies and probiotics save them?",
-    "titleEn": "The super El Niño is cooking coral reefs — can lullabies and probiotics save them?",
-    "summaryZh": "Nature, Published online: 30 September 2026; doi:10.1038/d41586-026-02965-9 Researchers are trying everything they can to help coral reefs to survive severe heat stress from climat",
-    "summaryEn": "Nature, Published online: 30 September 2026; doi:10.1038/d41586-026-02965-9 Researchers are trying everything they can to help coral reefs to survive severe heat stress from climate change, including playing sounds underwater.",
-    "detailZh": "来源：Nature News。这是基于 RSS 摘要生成的待加工条目。接入大模型后，系统会进一步完成中文改写、事实核对、背景补充和多源合并。",
-    "detailEn": "Source: Nature News. This is an RSS-based draft. After an LLM is configured, the pipeline will rewrite, fact-check, enrich and merge reports about the same event.",
-    "tags": [
-      "科学健康"
-    ],
-    "sources": [
-      "Nature News"
-    ],
-    "sourceUrls": [
-      "https://www.nature.com/articles/d41586-026-02965-9"
-    ]
-  },
-  {
-    "id": "rss-30-aa558f9a98a5",
-    "category": "tech",
-    "importance": 6,
-    "sourcesCount": 1,
-    "titleZh": "This award-winning microscopy image used AI — igniting controversy in a prestigious competition",
-    "titleEn": "This award-winning microscopy image used AI — igniting controversy in a prestigious competition",
-    "summaryZh": "Nature, Published online: 30 September 2026; doi:10.1038/d41586-026-03086-z Researchers say that using artificial-intelligence tools to visualize scientific images can become probl",
-    "summaryEn": "Nature, Published online: 30 September 2026; doi:10.1038/d41586-026-03086-z Researchers say that using artificial-intelligence tools to visualize scientific images can become problematic when models misrepresent the underlying data.",
-    "detailZh": "来源：Nature News。这是基于 RSS 摘要生成的待加工条目。接入大模型后，系统会进一步完成中文改写、事实核对、背景补充和多源合并。",
-    "detailEn": "Source: Nature News. This is an RSS-based draft. After an LLM is configured, the pipeline will rewrite, fact-check, enrich and merge reports about the same event.",
-    "tags": [
-      "科技"
-    ],
-    "sources": [
-      "Nature News"
-    ],
-    "sourceUrls": [
-      "https://www.nature.com/articles/d41586-026-03086-z"
-    ]
-  },
-  {
-    "id": "rss-31-44fb4973ccdd",
+    "id": "rss-31-28cb26cce6d8",
     "category": "security",
     "importance": 6,
     "sourcesCount": 1,
-    "titleZh": "It’s the ‘closest thing to an HIV vaccine’, but who gets access?",
-    "titleEn": "It’s the ‘closest thing to an HIV vaccine’, but who gets access?",
-    "summaryZh": "A twice-yearly injection could revolutionise HIV prevention, but who gets access raises bigger questions.",
-    "summaryEn": "A twice-yearly injection could revolutionise HIV prevention, but who gets access raises bigger questions.",
+    "titleZh": "Tyson Fury vs Anthony Joshua fight confirmed, but is the bout too late?",
+    "titleEn": "Tyson Fury vs Anthony Joshua fight confirmed, but is the bout too late?",
+    "summaryZh": "As Fury and Joshua confirm long-awaited boxing fight, Al Jazeera explains the delays and exchanges between the sides.",
+    "summaryEn": "As Fury and Joshua confirm long-awaited boxing fight, Al Jazeera explains the delays and exchanges between the sides.",
     "detailZh": "来源：Al Jazeera。这是基于 RSS 摘要生成的待加工条目。接入大模型后，系统会进一步完成中文改写、事实核对、背景补充和多源合并。",
     "detailEn": "Source: Al Jazeera. This is an RSS-based draft. After an LLM is configured, the pipeline will rewrite, fact-check, enrich and merge reports about the same event.",
     "tags": [
@@ -647,18 +647,18 @@
       "Al Jazeera"
     ],
     "sourceUrls": [
-      "https://www.aljazeera.com/video/newsfeed/2026/9/30/its-the-closest-thing-to-an-hiv-vaccine-but-who-gets-access?traffic_source=rss"
+      "https://www.aljazeera.com/sports/2026/10/1/tyson-fury-vs-anthony-joshua-fight-confirmed-but-is-the-bout-too-late?traffic_source=rss"
     ]
   },
   {
-    "id": "rss-32-fe0c09a90242",
+    "id": "rss-32-91b24f984f1f",
     "category": "tech",
     "importance": 6,
     "sourcesCount": 1,
-    "titleZh": "Trump administration files complaint against judges over media comments",
-    "titleEn": "Trump administration files complaint against judges over media comments",
-    "summaryZh": "Seven Minnesota judges face ethics complaint after speaking publicly about US president's immigration crackdown.",
-    "summaryEn": "Seven Minnesota judges face ethics complaint after speaking publicly about US president's immigration crackdown.",
+    "titleZh": "Flydubai co-pilot ‘assaulted’ captain before landing: Initial Saudi probe",
+    "titleEn": "Flydubai co-pilot ‘assaulted’ captain before landing: Initial Saudi probe",
+    "summaryZh": "Saudi Arabia's Interior Ministry says pilots were returned to the UAE with an Emirati security team.",
+    "summaryEn": "Saudi Arabia's Interior Ministry says pilots were returned to the UAE with an Emirati security team.",
     "detailZh": "来源：Al Jazeera。这是基于 RSS 摘要生成的待加工条目。接入大模型后，系统会进一步完成中文改写、事实核对、背景补充和多源合并。",
     "detailEn": "Source: Al Jazeera. This is an RSS-based draft. After an LLM is configured, the pipeline will rewrite, fact-check, enrich and merge reports about the same event.",
     "tags": [
@@ -668,18 +668,18 @@
       "Al Jazeera"
     ],
     "sourceUrls": [
-      "https://www.aljazeera.com/news/2026/9/30/trump-administration-files-complaint-against-judges-over-media-comments?traffic_source=rss"
+      "https://www.aljazeera.com/news/2026/10/1/flydubai-co-pilot-assaulted-captain-before-landing-initial-saudi-probe?traffic_source=rss"
     ]
   },
   {
-    "id": "rss-33-392f43e32709",
+    "id": "rss-33-943059aaf69b",
     "category": "tech",
     "importance": 6,
     "sourcesCount": 1,
-    "titleZh": "Flydubai passengers arrive in Tel Aviv after pilot stabbing",
-    "titleEn": "Flydubai passengers arrive in Tel Aviv after pilot stabbing",
-    "summaryZh": "A replacement Flydubai aircraft has landed in Israel, carrying passengers from the flight on which a pilot was stabbed.",
-    "summaryEn": "A replacement Flydubai aircraft has landed in Israel, carrying passengers from the flight on which a pilot was stabbed.",
+    "titleZh": "Russia’s Putin rules out ceasefire with Ukraine during speech in Moscow",
+    "titleEn": "Russia’s Putin rules out ceasefire with Ukraine during speech in Moscow",
+    "summaryZh": "Putin warned the West he would deploy nuclear weapons if necessary to defend the Russian Baltic exclave of Kaliningrad.",
+    "summaryEn": "Putin warned the West he would deploy nuclear weapons if necessary to defend the Russian Baltic exclave of Kaliningrad.",
     "detailZh": "来源：Al Jazeera。这是基于 RSS 摘要生成的待加工条目。接入大模型后，系统会进一步完成中文改写、事实核对、背景补充和多源合并。",
     "detailEn": "Source: Al Jazeera. This is an RSS-based draft. After an LLM is configured, the pipeline will rewrite, fact-check, enrich and merge reports about the same event.",
     "tags": [
@@ -689,18 +689,18 @@
       "Al Jazeera"
     ],
     "sourceUrls": [
-      "https://www.aljazeera.com/video/newsfeed/2026/9/30/flydubai-passengers-arrive-in-tel-aviv-after-pilot-stabbing?traffic_source=rss"
+      "https://www.aljazeera.com/news/2026/10/1/russias-putin-rules-out-ceasefire-with-ukraine-during-speech-in-moscow?traffic_source=rss"
     ]
   },
   {
-    "id": "rss-34-736e296f2597",
+    "id": "rss-34-c11609a4687a",
     "category": "security",
     "importance": 6,
     "sourcesCount": 1,
-    "titleZh": "Gas pipeline explodes in Syria, knocks three power plants offline",
-    "titleEn": "Gas pipeline explodes in Syria, knocks three power plants offline",
-    "summaryZh": "Powe rationing hours are to increase as a result of the blast.",
-    "summaryEn": "Powe rationing hours are to increase as a result of the blast.",
+    "titleZh": "Joy for Germany and Klopp as Ronaldo-less Portugal win in Denmark",
+    "titleEn": "Joy for Germany and Klopp as Ronaldo-less Portugal win in Denmark",
+    "summaryZh": "Jurgen Klopp secures first win as Germany manager, while Cristiano Ronaldo's absence not felt by Portugal in Austria.",
+    "summaryEn": "Jurgen Klopp secures first win as Germany manager, while Cristiano Ronaldo's absence not felt by Portugal in Austria.",
     "detailZh": "来源：Al Jazeera。这是基于 RSS 摘要生成的待加工条目。接入大模型后，系统会进一步完成中文改写、事实核对、背景补充和多源合并。",
     "detailEn": "Source: Al Jazeera. This is an RSS-based draft. After an LLM is configured, the pipeline will rewrite, fact-check, enrich and merge reports about the same event.",
     "tags": [
@@ -710,18 +710,18 @@
       "Al Jazeera"
     ],
     "sourceUrls": [
-      "https://www.aljazeera.com/news/2026/9/30/gas-pipeline-explodes-in-syria-knocks-three-power-plants-offline?traffic_source=rss"
+      "https://www.aljazeera.com/sports/2026/10/1/joy-for-germany-as-ronaldo-less-portugal-win-in-denmark?traffic_source=rss"
     ]
   },
   {
-    "id": "rss-35-b9aafb3b2adf",
+    "id": "rss-35-7e357996230c",
     "category": "security",
     "importance": 6,
     "sourcesCount": 1,
-    "titleZh": "Israeli attacks across Gaza kill at least eight",
-    "titleEn": "Israeli attacks across Gaza kill at least eight",
-    "summaryZh": "Israeli attacks on residential areas across Gaza killed at least eight civilians and wounded others on Wednesday",
-    "summaryEn": "Israeli attacks on residential areas across Gaza killed at least eight civilians and wounded others on Wednesday",
+    "titleZh": "Protesters halt game as calls grow on Ireland to boycott second Israel game",
+    "titleEn": "Protesters halt game as calls grow on Ireland to boycott second Israel game",
+    "summaryZh": "Republic of Ireland's game halted by tennis balls thrown and invader with Palestine flags amid Israel boycott demand.",
+    "summaryEn": "Republic of Ireland's game halted by tennis balls thrown and invader with Palestine flags amid Israel boycott demand.",
     "detailZh": "来源：Al Jazeera。这是基于 RSS 摘要生成的待加工条目。接入大模型后，系统会进一步完成中文改写、事实核对、背景补充和多源合并。",
     "detailEn": "Source: Al Jazeera. This is an RSS-based draft. After an LLM is configured, the pipeline will rewrite, fact-check, enrich and merge reports about the same event.",
     "tags": [
@@ -731,7 +731,7 @@
       "Al Jazeera"
     ],
     "sourceUrls": [
-      "https://www.aljazeera.com/video/newsfeed/2026/9/30/israeli-attacks-across-gaza-kill-at-least-eight?traffic_source=rss"
+      "https://www.aljazeera.com/sports/2026/10/1/protesters-halt-game-as-calls-grow-on-ireland-to-boycott-second-israel-game?traffic_source=rss"
     ]
   }
 ]
