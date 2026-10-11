@@ -1,13 +1,13 @@
 [
   {
-    "id": "rss-1-8fd635139c0b",
+    "id": "rss-1-551382d9bff4",
     "category": "tech",
     "importance": 6,
     "sourcesCount": 1,
-    "titleZh": "'Time for Ukraine to get new president,' says Trump after Zelensky condemns diesel deal",
-    "titleEn": "'Time for Ukraine to get new president,' says Trump after Zelensky condemns diesel deal",
-    "summaryZh": "Ukraine's leader had said the deal with Russia to release diesel into the US would help Moscow fund the war.",
-    "summaryEn": "Ukraine's leader had said the deal with Russia to release diesel into the US would help Moscow fund the war.",
+    "titleZh": "Trump's 'energy ceasefire' claim welcomed by Zelensky but Russia silent",
+    "titleEn": "Trump's 'energy ceasefire' claim welcomed by Zelensky but Russia silent",
+    "summaryZh": "Zelensky says Kyiv would support such a truce. Moscow has yet to comment.",
+    "summaryEn": "Zelensky says Kyiv would support such a truce. Moscow has yet to comment.",
     "detailZh": "来源：BBC News。这是基于 RSS 摘要生成的待加工条目。接入大模型后，系统会进一步完成中文改写、事实核对、背景补充和多源合并。",
     "detailEn": "Source: BBC News. This is an RSS-based draft. After an LLM is configured, the pipeline will rewrite, fact-check, enrich and merge reports about the same event.",
     "tags": [
@@ -17,39 +17,18 @@
       "BBC News"
     ],
     "sourceUrls": [
-      "https://www.bbc.co.uk/news/articles/cqe8r5l7n92jo?at_medium=RSS&at_campaign=rss"
+      "https://www.bbc.co.uk/news/articles/c6pvg4jyz1m0o?at_medium=RSS&at_campaign=rss"
     ]
   },
   {
-    "id": "rss-2-146f2c9cb8c7",
-    "category": "security",
-    "importance": 6,
-    "sourcesCount": 1,
-    "titleZh": "Russian glide bomb attack on Zaporizhzhia kills at least 20 people",
-    "titleEn": "Russian glide bomb attack on Zaporizhzhia kills at least 20 people",
-    "summaryZh": "Volodymyr Zelensky says the attack, which left children dead, was Russia expressing its \"thanks\" for a US diesel deal.",
-    "summaryEn": "Volodymyr Zelensky says the attack, which left children dead, was Russia expressing its \"thanks\" for a US diesel deal.",
-    "detailZh": "来源：BBC News。这是基于 RSS 摘要生成的待加工条目。接入大模型后，系统会进一步完成中文改写、事实核对、背景补充和多源合并。",
-    "detailEn": "Source: BBC News. This is an RSS-based draft. After an LLM is configured, the pipeline will rewrite, fact-check, enrich and merge reports about the same event.",
-    "tags": [
-      "冲突与安全"
-    ],
-    "sources": [
-      "BBC News"
-    ],
-    "sourceUrls": [
-      "https://www.bbc.co.uk/news/articles/cwvgdpv642g5o?at_medium=RSS&at_campaign=rss"
-    ]
-  },
-  {
-    "id": "rss-3-e4256e6327a7",
+    "id": "rss-2-a4f40d791855",
     "category": "tech",
     "importance": 6,
     "sourcesCount": 1,
-    "titleZh": "Several injured in attack on airport in Saudi capital Riyadh",
-    "titleEn": "Several injured in attack on airport in Saudi capital Riyadh",
-    "summaryZh": "The US embassy says it is \"aware of attacks on King Khalid International Airport\", which come days after Yemen's Houthis said they had struck it.",
-    "summaryEn": "The US embassy says it is \"aware of attacks on King Khalid International Airport\", which come days after Yemen's Houthis said they had struck it.",
+    "titleZh": "Saudi capital airport hit by second Houthi strike in two days",
+    "titleEn": "Saudi capital airport hit by second Houthi strike in two days",
+    "summaryZh": "The Yemeni group says it carried out attacks that killed 13 people in Riyadh over the weekend and targeted two airports and oil facilities.",
+    "summaryEn": "The Yemeni group says it carried out attacks that killed 13 people in Riyadh over the weekend and targeted two airports and oil facilities.",
     "detailZh": "来源：BBC News。这是基于 RSS 摘要生成的待加工条目。接入大模型后，系统会进一步完成中文改写、事实核对、背景补充和多源合并。",
     "detailEn": "Source: BBC News. This is an RSS-based draft. After an LLM is configured, the pipeline will rewrite, fact-check, enrich and merge reports about the same event.",
     "tags": [
@@ -59,18 +38,18 @@
       "BBC News"
     ],
     "sourceUrls": [
-      "https://www.bbc.co.uk/news/articles/cw33x4y8k82no?at_medium=RSS&at_campaign=rss"
+      "https://www.bbc.co.uk/news/articles/cr93znyk44e1o?at_medium=RSS&at_campaign=rss"
     ]
   },
   {
-    "id": "rss-4-9010f2c29372",
+    "id": "rss-3-3566ee1decd0",
     "category": "tech",
     "importance": 6,
     "sourcesCount": 1,
-    "titleZh": "US murderer Christa Pike discharged from hospital 10 days after failed execution",
-    "titleEn": "US murderer Christa Pike discharged from hospital 10 days after failed execution",
-    "summaryZh": "Pike's lawyers say she is \"grateful\" to the medical team who cared for her after she survived two lethal injections last month.",
-    "summaryEn": "Pike's lawyers say she is \"grateful\" to the medical team who cared for her after she survived two lethal injections last month.",
+    "titleZh": "Poland detains man suspected of planning assassination of PM Tusk",
+    "titleEn": "Poland detains man suspected of planning assassination of PM Tusk",
+    "summaryZh": "Police received credible information about possible attacks against Donald Tusk and his defence minister.",
+    "summaryEn": "Police received credible information about possible attacks against Donald Tusk and his defence minister.",
     "detailZh": "来源：BBC News。这是基于 RSS 摘要生成的待加工条目。接入大模型后，系统会进一步完成中文改写、事实核对、背景补充和多源合并。",
     "detailEn": "Source: BBC News. This is an RSS-based draft. After an LLM is configured, the pipeline will rewrite, fact-check, enrich and merge reports about the same event.",
     "tags": [
@@ -80,39 +59,81 @@
       "BBC News"
     ],
     "sourceUrls": [
-      "https://www.bbc.co.uk/news/articles/cmlyle97pqd7o?at_medium=RSS&at_campaign=rss"
+      "https://www.bbc.co.uk/news/articles/c6n9rvynl5p5o?at_medium=RSS&at_campaign=rss"
     ]
   },
   {
-    "id": "rss-5-b2308317d69b",
-    "category": "tech",
-    "importance": 6,
-    "sourcesCount": 1,
-    "titleZh": "Four dead and thousands without power after Hurricane Isaias lashes US",
-    "titleEn": "Four dead and thousands without power after Hurricane Isaias lashes US",
-    "summaryZh": "Roofs were ripped off buildings after Isaias barrelled into the US on Friday evening, before it weakened to a post-tropical cyclone.",
-    "summaryEn": "Roofs were ripped off buildings after Isaias barrelled into the US on Friday evening, before it weakened to a post-tropical cyclone.",
-    "detailZh": "来源：BBC News。这是基于 RSS 摘要生成的待加工条目。接入大模型后，系统会进一步完成中文改写、事实核对、背景补充和多源合并。",
-    "detailEn": "Source: BBC News. This is an RSS-based draft. After an LLM is configured, the pipeline will rewrite, fact-check, enrich and merge reports about the same event.",
-    "tags": [
-      "科技"
-    ],
-    "sources": [
-      "BBC News"
-    ],
-    "sourceUrls": [
-      "https://www.bbc.co.uk/news/articles/cmje5x80yg70o?at_medium=RSS&at_campaign=rss"
-    ]
-  },
-  {
-    "id": "rss-6-739b758eb78c",
+    "id": "rss-4-8fc810011682",
     "category": "world",
     "importance": 6,
     "sourcesCount": 1,
-    "titleZh": "Bayeux Tapestry's London tour spurs enthusiasts to Battle of Hastings reenactment",
-    "titleEn": "Bayeux Tapestry's London tour spurs enthusiasts to Battle of Hastings reenactment",
-    "summaryZh": "A reenactment of the Battle of Hastings, which took place almost a millennium ago, is drawing crowds of enthusiasts in the UK.",
-    "summaryEn": "A reenactment of the Battle of Hastings, which took place almost a millennium ago, is drawing crowds of enthusiasts in the UK.",
+    "titleZh": "Dozens of gold prospectors killed in strikes on Egypt-Sudan border, rights group says",
+    "titleEn": "Dozens of gold prospectors killed in strikes on Egypt-Sudan border, rights group says",
+    "summaryZh": "Neither Egypt nor Sudan has commented on the alleged strikes on an artisanal mining camp on Saturday.",
+    "summaryEn": "Neither Egypt nor Sudan has commented on the alleged strikes on an artisanal mining camp on Saturday.",
+    "detailZh": "来源：BBC News。这是基于 RSS 摘要生成的待加工条目。接入大模型后，系统会进一步完成中文改写、事实核对、背景补充和多源合并。",
+    "detailEn": "Source: BBC News. This is an RSS-based draft. After an LLM is configured, the pipeline will rewrite, fact-check, enrich and merge reports about the same event.",
+    "tags": [
+      "国际时政"
+    ],
+    "sources": [
+      "BBC News"
+    ],
+    "sourceUrls": [
+      "https://www.bbc.co.uk/news/articles/cqy43vrk8wv8o?at_medium=RSS&at_campaign=rss"
+    ]
+  },
+  {
+    "id": "rss-5-a76b56ec58c6",
+    "category": "world",
+    "importance": 6,
+    "sourcesCount": 1,
+    "titleZh": "Homes and bridges swept away as fresh floods hit Nepal",
+    "titleEn": "Homes and bridges swept away as fresh floods hit Nepal",
+    "summaryZh": "Nepal is still trying to recover from catastrophic floods that hit less than two months ago, leaving thousands dead and missing.",
+    "summaryEn": "Nepal is still trying to recover from catastrophic floods that hit less than two months ago, leaving thousands dead and missing.",
+    "detailZh": "来源：BBC News。这是基于 RSS 摘要生成的待加工条目。接入大模型后，系统会进一步完成中文改写、事实核对、背景补充和多源合并。",
+    "detailEn": "Source: BBC News. This is an RSS-based draft. After an LLM is configured, the pipeline will rewrite, fact-check, enrich and merge reports about the same event.",
+    "tags": [
+      "国际时政"
+    ],
+    "sources": [
+      "BBC News"
+    ],
+    "sourceUrls": [
+      "https://www.bbc.co.uk/news/articles/ck86zppejjw3o?at_medium=RSS&at_campaign=rss"
+    ]
+  },
+  {
+    "id": "rss-6-5e4369ccbe9c",
+    "category": "tech",
+    "importance": 6,
+    "sourcesCount": 1,
+    "titleZh": "Seafarer's union official says crews offered big money to transit Strait of Hormuz",
+    "titleEn": "Seafarer's union official says crews offered big money to transit Strait of Hormuz",
+    "summaryZh": "As attacks continue to mount on shipping vessels transiting the Strait of Hormuz, a seafarer's union official says some crews are being offered big rewards for making the crossing.",
+    "summaryEn": "As attacks continue to mount on shipping vessels transiting the Strait of Hormuz, a seafarer's union official says some crews are being offered big rewards for making the crossing.",
+    "detailZh": "来源：NPR World。这是基于 RSS 摘要生成的待加工条目。接入大模型后，系统会进一步完成中文改写、事实核对、背景补充和多源合并。",
+    "detailEn": "Source: NPR World. This is an RSS-based draft. After an LLM is configured, the pipeline will rewrite, fact-check, enrich and merge reports about the same event.",
+    "tags": [
+      "科技"
+    ],
+    "sources": [
+      "NPR World"
+    ],
+    "sourceUrls": [
+      "https://www.npr.org/2026/10/11/nx-s1-5995186/seafarers-union-official-says-crews-offered-big-money-to-transit-strait-of-hormuz"
+    ]
+  },
+  {
+    "id": "rss-7-311195766ef8",
+    "category": "world",
+    "importance": 6,
+    "sourcesCount": 1,
+    "titleZh": "Harrowing accounts of violence and sex abuse in women's prison told in new podcast",
+    "titleEn": "Harrowing accounts of violence and sex abuse in women's prison told in new podcast",
+    "summaryZh": "Madi Bolanos and Anna Sussman's new podcast We Are Jane Doe, by KQED and Snap Studios, investigates rampant sex abuse at the Central California Women's Facility in Chowchilla, Ca.",
+    "summaryEn": "Madi Bolanos and Anna Sussman's new podcast We Are Jane Doe, by KQED and Snap Studios, investigates rampant sex abuse at the Central California Women's Facility in Chowchilla, Ca.",
     "detailZh": "来源：NPR World。这是基于 RSS 摘要生成的待加工条目。接入大模型后，系统会进一步完成中文改写、事实核对、背景补充和多源合并。",
     "detailEn": "Source: NPR World. This is an RSS-based draft. After an LLM is configured, the pipeline will rewrite, fact-check, enrich and merge reports about the same event.",
     "tags": [
@@ -122,18 +143,18 @@
       "NPR World"
     ],
     "sourceUrls": [
-      "https://www.npr.org/2026/10/10/nx-s1-5993847/bayeux-tapestrys-london-tour-spurs-enthusiasts-to-battle-of-hastings-re-enactment"
+      "https://www.npr.org/2026/10/11/nx-s1-5994363/harrowing-accounts-of-violence-and-sex-abuse-in-womens-prison-told-in-new-podcast"
     ]
   },
   {
-    "id": "rss-7-dcc48233c883",
+    "id": "rss-8-2021f2d8c839",
     "category": "tech",
     "importance": 6,
     "sourcesCount": 1,
-    "titleZh": "Trump weighs joining the fight against Houthis after Riyadh airport attack",
-    "titleEn": "Trump weighs joining the fight against Houthis after Riyadh airport attack",
-    "summaryZh": "The surge in attacks, including against other Saudi airports, military facilities and oil infrastructure, has come in the week since a Saudi-led coalition launched a major military",
-    "summaryEn": "The surge in attacks, including against other Saudi airports, military facilities and oil infrastructure, has come in the week since a Saudi-led coalition launched a major military offensive against the Houthis.",
+    "titleZh": "Ukrainian MP calls U.S.-Russia diesel deal a 'betrayal'",
+    "titleEn": "Ukrainian MP calls U.S.-Russia diesel deal a 'betrayal'",
+    "summaryZh": "NPR's Joel Rose speaks with Ukrainian Minister of Parliament, Oleksandr Merezhko, about the U.S.'s diesel deal with Russia will impact Ukraine.",
+    "summaryEn": "NPR's Joel Rose speaks with Ukrainian Minister of Parliament, Oleksandr Merezhko, about the U.S.'s diesel deal with Russia will impact Ukraine.",
     "detailZh": "来源：NPR World。这是基于 RSS 摘要生成的待加工条目。接入大模型后，系统会进一步完成中文改写、事实核对、背景补充和多源合并。",
     "detailEn": "Source: NPR World. This is an RSS-based draft. After an LLM is configured, the pipeline will rewrite, fact-check, enrich and merge reports about the same event.",
     "tags": [
@@ -143,39 +164,18 @@
       "NPR World"
     ],
     "sourceUrls": [
-      "https://www.npr.org/2026/10/10/nx-s1-5997512/saudi-arabia-riyadh-airport-bombing-attack"
+      "https://www.npr.org/2026/10/11/nx-s1-5997466/ukrainian-mp-calls-u-s-russia-diesel-deal-a-betrayal"
     ]
   },
   {
-    "id": "rss-8-62dabd521c4f",
-    "category": "tech",
-    "importance": 6,
-    "sourcesCount": 1,
-    "titleZh": "Protests against voter roll revisions rock capital of world's largest democracy",
-    "titleEn": "Protests against voter roll revisions rock capital of world's largest democracy",
-    "summaryZh": "Parts of the capital city of India, the world's largest democracy, are on lockdown. Protests over sweeping revisions to the voter rolls were met with a massive police crackdown.",
-    "summaryEn": "Parts of the capital city of India, the world's largest democracy, are on lockdown. Protests over sweeping revisions to the voter rolls were met with a massive police crackdown.",
-    "detailZh": "来源：NPR World。这是基于 RSS 摘要生成的待加工条目。接入大模型后，系统会进一步完成中文改写、事实核对、背景补充和多源合并。",
-    "detailEn": "Source: NPR World. This is an RSS-based draft. After an LLM is configured, the pipeline will rewrite, fact-check, enrich and merge reports about the same event.",
-    "tags": [
-      "科技"
-    ],
-    "sources": [
-      "NPR World"
-    ],
-    "sourceUrls": [
-      "https://www.npr.org/2026/10/10/nx-s1-5995118/protests-against-voter-roll-revisions-rock-capital-of-worlds-largest-democracy"
-    ]
-  },
-  {
-    "id": "rss-9-c8ab81a97194",
+    "id": "rss-9-9eb37f9ea69b",
     "category": "world",
     "importance": 6,
     "sourcesCount": 1,
-    "titleZh": "U.S. and Russia tout diesel deal to ease sanctions and reopen fuel flows",
-    "titleEn": "U.S. and Russia tout diesel deal to ease sanctions and reopen fuel flows",
-    "summaryZh": "Moscow and Washington tout a diesel deal to ease sanctions and reopen fuel flows, but few details leave questions on price impacts and U.S. policy, sparking anger from Ukraine and ",
-    "summaryEn": "Moscow and Washington tout a diesel deal to ease sanctions and reopen fuel flows, but few details leave questions on price impacts and U.S. policy, sparking anger from Ukraine and allies.",
+    "titleZh": "Pope Leo XIV to undergo lung surgery this week",
+    "titleEn": "Pope Leo XIV to undergo lung surgery this week",
+    "summaryZh": "Pope Leo XIV said he would undergo surgery after doctors found a \"localized nodule\" in his lung.",
+    "summaryEn": "Pope Leo XIV said he would undergo surgery after doctors found a \"localized nodule\" in his lung.",
     "detailZh": "来源：NPR World。这是基于 RSS 摘要生成的待加工条目。接入大模型后，系统会进一步完成中文改写、事实核对、背景补充和多源合并。",
     "detailEn": "Source: NPR World. This is an RSS-based draft. After an LLM is configured, the pipeline will rewrite, fact-check, enrich and merge reports about the same event.",
     "tags": [
@@ -185,18 +185,18 @@
       "NPR World"
     ],
     "sourceUrls": [
-      "https://www.npr.org/2026/10/10/nx-s1-5996938/u-s-and-russia-tout-diesel-deal-to-ease-sanctions-and-reopen-fuel-flows"
+      "https://www.npr.org/2026/10/11/nx-s1-5998027/pope-leo-xiv-to-undergo-lung-surgery-this-week"
     ]
   },
   {
-    "id": "rss-10-d5c1cd5f0467",
+    "id": "rss-10-4b3e66090cf9",
     "category": "world",
     "importance": 6,
     "sourcesCount": 1,
-    "titleZh": "Photos: What a year of ceasefire in Gaza looks like",
-    "titleEn": "Photos: What a year of ceasefire in Gaza looks like",
-    "summaryZh": "It has been one year since Hamas released the remaining Israeli hostages and President Trump promised an end to the war, but Palestinians say the past 12 months have been a ceasefi",
-    "summaryEn": "It has been one year since Hamas released the remaining Israeli hostages and President Trump promised an end to the war, but Palestinians say the past 12 months have been a ceasefire in name only.",
+    "titleZh": "She was a global star: Teen bikes 700 miles carrying injured dad. Where is she now?",
+    "titleEn": "She was a global star: Teen bikes 700 miles carrying injured dad. Where is she now?",
+    "summaryZh": "Her epic ride — carrying her injured dad on her $20 hot pink bicycle — made headlines. Promises were made — financial help, training for a cycling career, even a movie deal. Were a",
+    "summaryEn": "Her epic ride — carrying her injured dad on her $20 hot pink bicycle — made headlines. Promises were made — financial help, training for a cycling career, even a movie deal. Were any of them kept?",
     "detailZh": "来源：NPR World。这是基于 RSS 摘要生成的待加工条目。接入大模型后，系统会进一步完成中文改写、事实核对、背景补充和多源合并。",
     "detailEn": "Source: NPR World. This is an RSS-based draft. After an LLM is configured, the pipeline will rewrite, fact-check, enrich and merge reports about the same event.",
     "tags": [
@@ -206,7 +206,7 @@
       "NPR World"
     ],
     "sourceUrls": [
-      "https://www.npr.org/sections/the-picture-show/2026/10/10/nx-s1-5991619/gaza-ceasefire-israel-life"
+      "https://www.npr.org/2026/10/11/g-s1-147267/bicycle-teenager-india-pandemic"
     ]
   },
   {
@@ -420,14 +420,14 @@
     ]
   },
   {
-    "id": "rss-21-d05facb80f7a",
+    "id": "rss-21-2a599db62b35",
     "category": "tech",
     "importance": 6,
     "sourcesCount": 1,
-    "titleZh": "Microsoft’s Satya Nadella says AI models need an ‘emergency brake’",
-    "titleEn": "Microsoft’s Satya Nadella says AI models need an ‘emergency brake’",
-    "summaryZh": "In a Saturday morning post, Microsoft's CEO wrote that it’s time “to step back and assess the trust architecture” of AI.",
-    "summaryEn": "In a Saturday morning post, Microsoft's CEO wrote that it’s time “to step back and assess the trust architecture” of AI.",
+    "titleZh": "Will the HomeView be Apple’s first smart home success?",
+    "titleEn": "Will the HomeView be Apple’s first smart home success?",
+    "summaryZh": "Apple will announce a new smart home hub on Tuesday called the HomeView, according to Bloomberg’s Mark Gurman. Over the past couple of years, we’ve seen There have been multiple re",
+    "summaryEn": "Apple will announce a new smart home hub on Tuesday called the HomeView, according to Bloomberg’s Mark Gurman. Over the past couple of years, we’ve seen There have been multiple reports that Apple was working on a new smart home product, but now it seems the p",
     "detailZh": "来源：TechCrunch。这是基于 RSS 摘要生成的待加工条目。接入大模型后，系统会进一步完成中文改写、事实核对、背景补充和多源合并。",
     "detailEn": "Source: TechCrunch. This is an RSS-based draft. After an LLM is configured, the pipeline will rewrite, fact-check, enrich and merge reports about the same event.",
     "tags": [
@@ -437,18 +437,18 @@
       "TechCrunch"
     ],
     "sourceUrls": [
-      "https://techcrunch.com/2026/10/10/microsofts-satya-nadella-says-ai-models-need-an-emergency-brake/"
+      "https://techcrunch.com/2026/10/11/will-the-homeview-be-apples-first-smart-home-success/"
     ]
   },
   {
-    "id": "rss-22-9fe15a12a7df",
+    "id": "rss-22-46e54f4e03d8",
     "category": "tech",
     "importance": 6,
     "sourcesCount": 1,
-    "titleZh": "Apple discloses deal to hire team and license tech from personalized podcast startup Huxe",
-    "titleEn": "Apple discloses deal to hire team and license tech from personalized podcast startup Huxe",
-    "summaryZh": "Is Apple hoping to get into the AI-generated podcast business?",
-    "summaryEn": "Is Apple hoping to get into the AI-generated podcast business?",
+    "titleZh": "Aaron Sorkin’s ‘Social Reckoning’ is off to a weak start",
+    "titleEn": "Aaron Sorkin’s ‘Social Reckoning’ is off to a weak start",
+    "summaryZh": "What does this mean for a fall full of movies starring villainous tech CEOs?",
+    "summaryEn": "What does this mean for a fall full of movies starring villainous tech CEOs?",
     "detailZh": "来源：TechCrunch。这是基于 RSS 摘要生成的待加工条目。接入大模型后，系统会进一步完成中文改写、事实核对、背景补充和多源合并。",
     "detailEn": "Source: TechCrunch. This is an RSS-based draft. After an LLM is configured, the pipeline will rewrite, fact-check, enrich and merge reports about the same event.",
     "tags": [
@@ -458,18 +458,18 @@
       "TechCrunch"
     ],
     "sourceUrls": [
-      "https://techcrunch.com/2026/10/10/apple-discloses-deal-to-hire-team-and-license-tech-from-personalized-podcast-startup-huxe/"
+      "https://techcrunch.com/2026/10/11/aaron-sorkins-social-reckoning-is-off-to-a-weak-start/"
     ]
   },
   {
-    "id": "rss-23-858e15a4e46b",
+    "id": "rss-23-e380f02bc291",
     "category": "tech",
     "importance": 6,
     "sourcesCount": 1,
-    "titleZh": "Petra Power looks to modernize energy for data centers and defense vehicles",
-    "titleEn": "Petra Power looks to modernize energy for data centers and defense vehicles",
-    "summaryZh": "The startup says its fuel cells are super efficient and cut fuel costs during a time when the tech industry can’t get enough electricity.",
-    "summaryEn": "The startup says its fuel cells are super efficient and cut fuel costs during a time when the tech industry can’t get enough electricity.",
+    "titleZh": "48 hours to TechCrunch Disrupt 2026 — hear directly from the people building what’s next",
+    "titleEn": "48 hours to TechCrunch Disrupt 2026 — hear directly from the people building what’s next",
+    "summaryZh": "Less than 48 hours, TechCrunch Disrupt 2026 starts in San Francisco’s Moscone West. Save up to $100 on your pass before prices increase at the door, plus get 50% on a second pass. ",
+    "summaryEn": "Less than 48 hours, TechCrunch Disrupt 2026 starts in San Francisco’s Moscone West. Save up to $100 on your pass before prices increase at the door, plus get 50% on a second pass. Or score other deals.",
     "detailZh": "来源：TechCrunch。这是基于 RSS 摘要生成的待加工条目。接入大模型后，系统会进一步完成中文改写、事实核对、背景补充和多源合并。",
     "detailEn": "Source: TechCrunch. This is an RSS-based draft. After an LLM is configured, the pipeline will rewrite, fact-check, enrich and merge reports about the same event.",
     "tags": [
@@ -479,18 +479,18 @@
       "TechCrunch"
     ],
     "sourceUrls": [
-      "https://techcrunch.com/2026/10/10/petra-power-looks-to-modernize-energy-for-data-centers-and-defense-vehicles/"
+      "https://techcrunch.com/2026/10/11/48-hours-to-techcrunch-disrupt-2026-hear-directly-from-the-people-building-whats-next/"
     ]
   },
   {
-    "id": "rss-24-df771d277c46",
+    "id": "rss-24-e958c286c130",
     "category": "tech",
     "importance": 6,
     "sourcesCount": 1,
-    "titleZh": "Cloudflare acquires Deno to improve its Workers programming model",
-    "titleEn": "Cloudflare acquires Deno to improve its Workers programming model",
-    "summaryZh": "Cloudflare will use this acquisition to improve its Workers programming model and platform.",
-    "summaryEn": "Cloudflare will use this acquisition to improve its Workers programming model and platform.",
+    "titleZh": "The investor’s guide to TechCrunch Disrupt 2026: Everything you need to know",
+    "titleEn": "The investor’s guide to TechCrunch Disrupt 2026: Everything you need to know",
+    "summaryZh": "Year after year, investors who've explored the Expo Halls, met founders, and learned from peers have proven why you need to be on the ground at Disrupt Oct. 13.",
+    "summaryEn": "Year after year, investors who've explored the Expo Halls, met founders, and learned from peers have proven why you need to be on the ground at Disrupt Oct. 13.",
     "detailZh": "来源：TechCrunch。这是基于 RSS 摘要生成的待加工条目。接入大模型后，系统会进一步完成中文改写、事实核对、背景补充和多源合并。",
     "detailEn": "Source: TechCrunch. This is an RSS-based draft. After an LLM is configured, the pipeline will rewrite, fact-check, enrich and merge reports about the same event.",
     "tags": [
@@ -500,18 +500,18 @@
       "TechCrunch"
     ],
     "sourceUrls": [
-      "https://techcrunch.com/2026/10/10/cloudflare-acquires-deno-to-improve-its-workers-programming-model/"
+      "https://techcrunch.com/2026/10/11/the-investors-guide-to-techcrunch-disrupt-2026-everything-you-need-to-know/"
     ]
   },
   {
-    "id": "rss-25-6801da099ead",
+    "id": "rss-25-70688ea0e7a5",
     "category": "tech",
     "importance": 6,
     "sourcesCount": 1,
-    "titleZh": "3 days to TechCrunch Disrupt 2026: Meet the startups before they hit mainstream",
-    "titleEn": "3 days to TechCrunch Disrupt 2026: Meet the startups before they hit mainstream",
-    "summaryZh": "TechCrunch Disrupt 2026 takes place October 13-15 in San Francisco. Over 300 startups will show what they’ve built to 10,000 tech leaders. Plus, 250+ speakers are ready to share in",
-    "summaryEn": "TechCrunch Disrupt 2026 takes place October 13-15 in San Francisco. Over 300 startups will show what they’ve built to 10,000 tech leaders. Plus, 250+ speakers are ready to share insights across 200+ sessions. Register before doors open to save up to $100 and g",
+    "titleZh": "Can the AI industry persuade data center opponents by getting rid of NDAs?",
+    "titleEn": "Can the AI industry persuade data center opponents by getting rid of NDAs?",
+    "summaryZh": "On Equity, we debate the impact of data center moratoriums and whether the AI industry has a communication problem.",
+    "summaryEn": "On Equity, we debate the impact of data center moratoriums and whether the AI industry has a communication problem.",
     "detailZh": "来源：TechCrunch。这是基于 RSS 摘要生成的待加工条目。接入大模型后，系统会进一步完成中文改写、事实核对、背景补充和多源合并。",
     "detailEn": "Source: TechCrunch. This is an RSS-based draft. After an LLM is configured, the pipeline will rewrite, fact-check, enrich and merge reports about the same event.",
     "tags": [
@@ -521,7 +521,7 @@
       "TechCrunch"
     ],
     "sourceUrls": [
-      "https://techcrunch.com/2026/10/10/3-days-to-disrupt-2026-meet-the-startups-before-they-hit-mainstream/"
+      "https://techcrunch.com/2026/10/11/can-the-ai-industry-persuade-data-center-opponents-by-getting-rid-of-ndas/"
     ]
   },
   {
@@ -630,14 +630,77 @@
     ]
   },
   {
-    "id": "rss-31-1b46cd680532",
+    "id": "rss-31-6b893681dde5",
+    "category": "security",
+    "importance": 6,
+    "sourcesCount": 1,
+    "titleZh": "Waves crash into homes as excavators try to protect California properties",
+    "titleEn": "Waves crash into homes as excavators try to protect California properties",
+    "summaryZh": "Construction crews were seen trying to block waves entering homes along California's coast",
+    "summaryEn": "Construction crews were seen trying to block waves entering homes along California's coast",
+    "detailZh": "来源：Al Jazeera。这是基于 RSS 摘要生成的待加工条目。接入大模型后，系统会进一步完成中文改写、事实核对、背景补充和多源合并。",
+    "detailEn": "Source: Al Jazeera. This is an RSS-based draft. After an LLM is configured, the pipeline will rewrite, fact-check, enrich and merge reports about the same event.",
+    "tags": [
+      "冲突与安全"
+    ],
+    "sources": [
+      "Al Jazeera"
+    ],
+    "sourceUrls": [
+      "https://www.aljazeera.com/video/newsfeed/2026/10/11/waves-crash-into-homes-as-excavators-try-to-protect-california-properties?traffic_source=rss"
+    ]
+  },
+  {
+    "id": "rss-32-969661c31484",
+    "category": "security",
+    "importance": 6,
+    "sourcesCount": 1,
+    "titleZh": "UK Greens leader seeks rule change after party declares Zionism is racism",
+    "titleEn": "UK Greens leader seeks rule change after party declares Zionism is racism",
+    "summaryZh": "Zack Polanski calls for internal rule reforms to give party leaders greater control over policy after Zionism vote.",
+    "summaryEn": "Zack Polanski calls for internal rule reforms to give party leaders greater control over policy after Zionism vote.",
+    "detailZh": "来源：Al Jazeera。这是基于 RSS 摘要生成的待加工条目。接入大模型后，系统会进一步完成中文改写、事实核对、背景补充和多源合并。",
+    "detailEn": "Source: Al Jazeera. This is an RSS-based draft. After an LLM is configured, the pipeline will rewrite, fact-check, enrich and merge reports about the same event.",
+    "tags": [
+      "冲突与安全"
+    ],
+    "sources": [
+      "Al Jazeera"
+    ],
+    "sourceUrls": [
+      "https://www.aljazeera.com/news/2026/10/11/uk-greens-leader-seeks-rule-change-after-party-declares-zionism-is-racism?traffic_source=rss"
+    ]
+  },
+  {
+    "id": "rss-33-4dd4779052a4",
+    "category": "security",
+    "importance": 6,
+    "sourcesCount": 1,
+    "titleZh": "Two killed near Israeli-occupied area in south Lebanon",
+    "titleEn": "Two killed near Israeli-occupied area in south Lebanon",
+    "summaryZh": "Despite ceasefire reached between Israel and Lebanon in June, Israeli attacks continue.",
+    "summaryEn": "Despite ceasefire reached between Israel and Lebanon in June, Israeli attacks continue.",
+    "detailZh": "来源：Al Jazeera。这是基于 RSS 摘要生成的待加工条目。接入大模型后，系统会进一步完成中文改写、事实核对、背景补充和多源合并。",
+    "detailEn": "Source: Al Jazeera. This is an RSS-based draft. After an LLM is configured, the pipeline will rewrite, fact-check, enrich and merge reports about the same event.",
+    "tags": [
+      "冲突与安全"
+    ],
+    "sources": [
+      "Al Jazeera"
+    ],
+    "sourceUrls": [
+      "https://www.aljazeera.com/news/2026/10/11/two-killed-near-israeli-occupied-area-in-south-lebanon?traffic_source=rss"
+    ]
+  },
+  {
+    "id": "rss-34-3471c18fd6ed",
     "category": "tech",
     "importance": 6,
     "sourcesCount": 1,
-    "titleZh": "Real Madrid beat Villarreal 1-0 but Vinicius sent off for hair pull",
-    "titleEn": "Real Madrid beat Villarreal 1-0 but Vinicius sent off for hair pull",
-    "summaryZh": "Real Madrid forward Vinicius Junior sent off for pulling Villarreal player's hair in 1-0 La Liga victory.",
-    "summaryEn": "Real Madrid forward Vinicius Junior sent off for pulling Villarreal player's hair in 1-0 La Liga victory.",
+    "titleZh": "Deadly air strike kills dozens at Sudan gold mine near Egypt border",
+    "titleEn": "Deadly air strike kills dozens at Sudan gold mine near Egypt border",
+    "summaryZh": "An air strike hit a gold mine near Sudan’s border with Egypt, killing at least 72 people and injuring more than 50.",
+    "summaryEn": "An air strike hit a gold mine near Sudan’s border with Egypt, killing at least 72 people and injuring more than 50.",
     "detailZh": "来源：Al Jazeera。这是基于 RSS 摘要生成的待加工条目。接入大模型后，系统会进一步完成中文改写、事实核对、背景补充和多源合并。",
     "detailEn": "Source: Al Jazeera. This is an RSS-based draft. After an LLM is configured, the pipeline will rewrite, fact-check, enrich and merge reports about the same event.",
     "tags": [
@@ -647,39 +710,18 @@
       "Al Jazeera"
     ],
     "sourceUrls": [
-      "https://www.aljazeera.com/sports/2026/10/10/real-madrid-beat-villarreal-but-vinicius-sent-off-for-hair-pull?traffic_source=rss"
+      "https://www.aljazeera.com/video/newsfeed/2026/10/11/deadly-air-strike-kills-dozens-at-sudan-gold-mine-near-egypt-border?traffic_source=rss"
     ]
   },
   {
-    "id": "rss-32-7e0c06cfc7ea",
-    "category": "science",
-    "importance": 6,
-    "sourcesCount": 1,
-    "titleZh": "Hundreds of doctors demand World Medical Association suspend Israel",
-    "titleEn": "Hundreds of doctors demand World Medical Association suspend Israel",
-    "summaryZh": "Physicians accuse Israeli Medical Association of remaining silent as Palestinian healthcare is systematically destroyed.",
-    "summaryEn": "Physicians accuse Israeli Medical Association of remaining silent as Palestinian healthcare is systematically destroyed.",
-    "detailZh": "来源：Al Jazeera。这是基于 RSS 摘要生成的待加工条目。接入大模型后，系统会进一步完成中文改写、事实核对、背景补充和多源合并。",
-    "detailEn": "Source: Al Jazeera. This is an RSS-based draft. After an LLM is configured, the pipeline will rewrite, fact-check, enrich and merge reports about the same event.",
-    "tags": [
-      "科学健康"
-    ],
-    "sources": [
-      "Al Jazeera"
-    ],
-    "sourceUrls": [
-      "https://www.aljazeera.com/news/2026/10/10/hundreds-of-doctors-demand-world-medical-association-suspend-israel?traffic_source=rss"
-    ]
-  },
-  {
-    "id": "rss-33-8932af01a83e",
+    "id": "rss-35-b28a1a3b8c3c",
     "category": "security",
     "importance": 6,
     "sourcesCount": 1,
-    "titleZh": "Malawi motorists queue for days as fuel shortage bites",
-    "titleEn": "Malawi motorists queue for days as fuel shortage bites",
-    "summaryZh": "Malawi’s fuel shortage has brought daily life in the capital Lilongwe to a halt.",
-    "summaryEn": "Malawi’s fuel shortage has brought daily life in the capital Lilongwe to a halt.",
+    "titleZh": "How Man City beat Liverpool after guilty verdict",
+    "titleEn": "How Man City beat Liverpool after guilty verdict",
+    "summaryZh": "Al Jazeera’s Rahul Pathak was at Anfield, where fans reminded City of their guilty verdict after the match.",
+    "summaryEn": "Al Jazeera’s Rahul Pathak was at Anfield, where fans reminded City of their guilty verdict after the match.",
     "detailZh": "来源：Al Jazeera。这是基于 RSS 摘要生成的待加工条目。接入大模型后，系统会进一步完成中文改写、事实核对、背景补充和多源合并。",
     "detailEn": "Source: Al Jazeera. This is an RSS-based draft. After an LLM is configured, the pipeline will rewrite, fact-check, enrich and merge reports about the same event.",
     "tags": [
@@ -689,49 +731,7 @@
       "Al Jazeera"
     ],
     "sourceUrls": [
-      "https://www.aljazeera.com/video/newsfeed/2026/10/10/malawi-motorists-queue-for-days-as-fuel-shortage-bites?traffic_source=rss"
-    ]
-  },
-  {
-    "id": "rss-34-06728c974ddb",
-    "category": "security",
-    "importance": 6,
-    "sourcesCount": 1,
-    "titleZh": "Hurricane Simon strengthens to Category 4 off Mexico’s Pacific coast",
-    "titleEn": "Hurricane Simon strengthens to Category 4 off Mexico’s Pacific coast",
-    "summaryZh": "Puerto Vallarta businesses board up windows as Hurricane Simon threatens Mexico’s west-central coast.",
-    "summaryEn": "Puerto Vallarta businesses board up windows as Hurricane Simon threatens Mexico’s west-central coast.",
-    "detailZh": "来源：Al Jazeera。这是基于 RSS 摘要生成的待加工条目。接入大模型后，系统会进一步完成中文改写、事实核对、背景补充和多源合并。",
-    "detailEn": "Source: Al Jazeera. This is an RSS-based draft. After an LLM is configured, the pipeline will rewrite, fact-check, enrich and merge reports about the same event.",
-    "tags": [
-      "冲突与安全"
-    ],
-    "sources": [
-      "Al Jazeera"
-    ],
-    "sourceUrls": [
-      "https://www.aljazeera.com/news/2026/10/10/hurricane-simon-strengthens-to-category-4-off-mexicos-pacific-coast?traffic_source=rss"
-    ]
-  },
-  {
-    "id": "rss-35-f14f76a3acf6",
-    "category": "security",
-    "importance": 6,
-    "sourcesCount": 1,
-    "titleZh": "Yemen’s Houthis release video of drone attacks on gov’t forces",
-    "titleEn": "Yemen’s Houthis release video of drone attacks on gov’t forces",
-    "summaryZh": "Yemen’s Houthis have released drone video said to show attacks on Saudi-backed Yemeni government forces.",
-    "summaryEn": "Yemen’s Houthis have released drone video said to show attacks on Saudi-backed Yemeni government forces.",
-    "detailZh": "来源：Al Jazeera。这是基于 RSS 摘要生成的待加工条目。接入大模型后，系统会进一步完成中文改写、事实核对、背景补充和多源合并。",
-    "detailEn": "Source: Al Jazeera. This is an RSS-based draft. After an LLM is configured, the pipeline will rewrite, fact-check, enrich and merge reports about the same event.",
-    "tags": [
-      "冲突与安全"
-    ],
-    "sources": [
-      "Al Jazeera"
-    ],
-    "sourceUrls": [
-      "https://www.aljazeera.com/video/2026/10/10/yemens-houthis-release-video-of-drone-attacks-on-govt-forces?traffic_source=rss"
+      "https://www.aljazeera.com/video/newsfeed/2026/10/11/how-man-city-beat-liverpool-after-guilty-verdict?traffic_source=rss"
     ]
   }
 ]
