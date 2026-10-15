@@ -1,13 +1,13 @@
 [
   {
-    "id": "rss-1-714d1f0b729f",
+    "id": "rss-1-00114a70b39a",
     "category": "tech",
     "importance": 6,
     "sourcesCount": 1,
-    "titleZh": "Musk says any limits on Ukraine's Starlink access down to US, not his firm",
-    "titleEn": "Musk says any limits on Ukraine's Starlink access down to US, not his firm",
-    "summaryZh": "Ukraine says Starlink access has improved but it is still facing speed limits which are disrupting its battlefield \"missions\".",
-    "summaryEn": "Ukraine says Starlink access has improved but it is still facing speed limits which are disrupting its battlefield \"missions\".",
+    "titleZh": "Bus hits train stopped on French side of Channel Tunnel, with 19 injured",
+    "titleEn": "Bus hits train stopped on French side of Channel Tunnel, with 19 injured",
+    "summaryZh": "Two people were severely injured and evacuated by helicopter but no one's life appeared to be in danger, officials said.",
+    "summaryEn": "Two people were severely injured and evacuated by helicopter but no one's life appeared to be in danger, officials said.",
     "detailZh": "来源：BBC News。这是基于 RSS 摘要生成的待加工条目。接入大模型后，系统会进一步完成中文改写、事实核对、背景补充和多源合并。",
     "detailEn": "Source: BBC News. This is an RSS-based draft. After an LLM is configured, the pipeline will rewrite, fact-check, enrich and merge reports about the same event.",
     "tags": [
@@ -17,18 +17,18 @@
       "BBC News"
     ],
     "sourceUrls": [
-      "https://www.bbc.co.uk/news/articles/c8wy9veedgygo?at_medium=RSS&at_campaign=rss"
+      "https://www.bbc.co.uk/news/articles/c6wyrnmgzn01o?at_medium=RSS&at_campaign=rss"
     ]
   },
   {
-    "id": "rss-2-2eb83a2c23e7",
+    "id": "rss-2-4732b5d0bc28",
     "category": "security",
     "importance": 6,
     "sourcesCount": 1,
-    "titleZh": "Student protesters attack government buildings in Tirana",
-    "titleEn": "Student protesters attack government buildings in Tirana",
-    "summaryZh": "Thousands of students in Albania are calling for better university conditions and job prospects, but buildings have been set on fire in the unrest.",
-    "summaryEn": "Thousands of students in Albania are calling for better university conditions and job prospects, but buildings have been set on fire in the unrest.",
+    "titleZh": "Trump calls off livestream of Fort Hood attacker's execution by firing squad",
+    "titleEn": "Trump calls off livestream of Fort Hood attacker's execution by firing squad",
+    "summaryZh": "Trump said some would \"rather not watch\" the killing of Nidal Hasan, the first military execution in over 60 years.",
+    "summaryEn": "Trump said some would \"rather not watch\" the killing of Nidal Hasan, the first military execution in over 60 years.",
     "detailZh": "来源：BBC News。这是基于 RSS 摘要生成的待加工条目。接入大模型后，系统会进一步完成中文改写、事实核对、背景补充和多源合并。",
     "detailEn": "Source: BBC News. This is an RSS-based draft. After an LLM is configured, the pipeline will rewrite, fact-check, enrich and merge reports about the same event.",
     "tags": [
@@ -38,60 +38,18 @@
       "BBC News"
     ],
     "sourceUrls": [
-      "https://www.bbc.co.uk/news/articles/cq80zk5k2ep4o?at_medium=RSS&at_campaign=rss"
+      "https://www.bbc.co.uk/news/articles/crx23qlnj27qo?at_medium=RSS&at_campaign=rss"
     ]
   },
   {
-    "id": "rss-3-221c6cb39d0d",
-    "category": "world",
-    "importance": 6,
-    "sourcesCount": 1,
-    "titleZh": "Pope walking and recovering 'as expected' after surgery, doctors say",
-    "titleEn": "Pope walking and recovering 'as expected' after surgery, doctors say",
-    "summaryZh": "The 71-year-old Pope was diagnosed with lung cancer after the 90-minute procedure on Tuesday.",
-    "summaryEn": "The 71-year-old Pope was diagnosed with lung cancer after the 90-minute procedure on Tuesday.",
-    "detailZh": "来源：BBC News。这是基于 RSS 摘要生成的待加工条目。接入大模型后，系统会进一步完成中文改写、事实核对、背景补充和多源合并。",
-    "detailEn": "Source: BBC News. This is an RSS-based draft. After an LLM is configured, the pipeline will rewrite, fact-check, enrich and merge reports about the same event.",
-    "tags": [
-      "国际时政"
-    ],
-    "sources": [
-      "BBC News"
-    ],
-    "sourceUrls": [
-      "https://www.bbc.co.uk/news/articles/cwx28r0zvm6lo?at_medium=RSS&at_campaign=rss"
-    ]
-  },
-  {
-    "id": "rss-4-928277f3a9d0",
-    "category": "world",
-    "importance": 6,
-    "sourcesCount": 1,
-    "titleZh": "US inflation rises more than expected - here's what is happening with prices",
-    "titleEn": "US inflation rises more than expected - here's what is happening with prices",
-    "summaryZh": "The pace of price rises increased to 3.7% in the year to September, driving by higher motor fuel costs.",
-    "summaryEn": "The pace of price rises increased to 3.7% in the year to September, driving by higher motor fuel costs.",
-    "detailZh": "来源：BBC News。这是基于 RSS 摘要生成的待加工条目。接入大模型后，系统会进一步完成中文改写、事实核对、背景补充和多源合并。",
-    "detailEn": "Source: BBC News. This is an RSS-based draft. After an LLM is configured, the pipeline will rewrite, fact-check, enrich and merge reports about the same event.",
-    "tags": [
-      "国际时政"
-    ],
-    "sources": [
-      "BBC News"
-    ],
-    "sourceUrls": [
-      "https://www.bbc.co.uk/news/articles/cwy8lx3pg4k2o?at_medium=RSS&at_campaign=rss"
-    ]
-  },
-  {
-    "id": "rss-5-881c1b6b7738",
+    "id": "rss-3-98fb856ff261",
     "category": "tech",
     "importance": 6,
     "sourcesCount": 1,
-    "titleZh": "Germany puts Ukrainian on trial accused of blowing up Nord Stream pipelines",
-    "titleEn": "Germany puts Ukrainian on trial accused of blowing up Nord Stream pipelines",
-    "summaryZh": "Four years after the attacks, Serhii Kuznetsov appears in court accused of a plot to destroy Russia's gas pipelines to Germany.",
-    "summaryEn": "Four years after the attacks, Serhii Kuznetsov appears in court accused of a plot to destroy Russia's gas pipelines to Germany.",
+    "titleZh": "Russia accuses Ukraine of attacking oil refinery after Zelensky says strikes to resume",
+    "titleEn": "Russia accuses Ukraine of attacking oil refinery after Zelensky says strikes to resume",
+    "summaryZh": "Ukraine's president says a pause on striking energy sites is over following fresh Russian attacks.",
+    "summaryEn": "Ukraine's president says a pause on striking energy sites is over following fresh Russian attacks.",
     "detailZh": "来源：BBC News。这是基于 RSS 摘要生成的待加工条目。接入大模型后，系统会进一步完成中文改写、事实核对、背景补充和多源合并。",
     "detailEn": "Source: BBC News. This is an RSS-based draft. After an LLM is configured, the pipeline will rewrite, fact-check, enrich and merge reports about the same event.",
     "tags": [
@@ -101,60 +59,81 @@
       "BBC News"
     ],
     "sourceUrls": [
-      "https://www.bbc.co.uk/news/articles/cw99zpmnxzmjo?at_medium=RSS&at_campaign=rss"
+      "https://www.bbc.co.uk/news/articles/cqwyrnwd9dw1o?at_medium=RSS&at_campaign=rss"
     ]
   },
   {
-    "id": "rss-6-896b2092ec60",
+    "id": "rss-4-4251365e091b",
     "category": "world",
     "importance": 6,
     "sourcesCount": 1,
-    "titleZh": "Aboard an icebreaker, a writer got a closer look at the Arctic's 'Sea Change'",
-    "titleEn": "Aboard an icebreaker, a writer got a closer look at the Arctic's 'Sea Change'",
-    "summaryZh": "As polar ice melts in the Arctic, shipping lanes are opening up, making the region a new zone of superpower competition. Writer Rana Foroohar explains the stakes in Sea Change.",
-    "summaryEn": "As polar ice melts in the Arctic, shipping lanes are opening up, making the region a new zone of superpower competition. Writer Rana Foroohar explains the stakes in Sea Change.",
+    "titleZh": "Maduro pleads not guilty to new torture-related charges in New York",
+    "titleEn": "Maduro pleads not guilty to new torture-related charges in New York",
+    "summaryZh": "\"I reject this document entirely,\" Maduro said in court, responding to newly added torture-related charges.",
+    "summaryEn": "\"I reject this document entirely,\" Maduro said in court, responding to newly added torture-related charges.",
+    "detailZh": "来源：BBC News。这是基于 RSS 摘要生成的待加工条目。接入大模型后，系统会进一步完成中文改写、事实核对、背景补充和多源合并。",
+    "detailEn": "Source: BBC News. This is an RSS-based draft. After an LLM is configured, the pipeline will rewrite, fact-check, enrich and merge reports about the same event.",
+    "tags": [
+      "国际时政"
+    ],
+    "sources": [
+      "BBC News"
+    ],
+    "sourceUrls": [
+      "https://www.bbc.co.uk/news/articles/cqwyrn1l74zro?at_medium=RSS&at_campaign=rss"
+    ]
+  },
+  {
+    "id": "rss-5-4dfeead038ca",
+    "category": "world",
+    "importance": 6,
+    "sourcesCount": 1,
+    "titleZh": "At least 33 pupils and teacher killed after school roof collapses in Pakistan",
+    "titleEn": "At least 33 pupils and teacher killed after school roof collapses in Pakistan",
+    "summaryZh": "Children were buried under the debris after the roof crashed through three classrooms, police say.",
+    "summaryEn": "Children were buried under the debris after the roof crashed through three classrooms, police say.",
+    "detailZh": "来源：BBC News。这是基于 RSS 摘要生成的待加工条目。接入大模型后，系统会进一步完成中文改写、事实核对、背景补充和多源合并。",
+    "detailEn": "Source: BBC News. This is an RSS-based draft. After an LLM is configured, the pipeline will rewrite, fact-check, enrich and merge reports about the same event.",
+    "tags": [
+      "国际时政"
+    ],
+    "sources": [
+      "BBC News"
+    ],
+    "sourceUrls": [
+      "https://www.bbc.co.uk/news/articles/cked326llddgo?at_medium=RSS&at_campaign=rss"
+    ]
+  },
+  {
+    "id": "rss-6-1083b8525e01",
+    "category": "security",
+    "importance": 6,
+    "sourcesCount": 1,
+    "titleZh": "Social Security benefits to get a boost. And, Hasan Piker defends his rhetoric",
+    "titleEn": "Social Security benefits to get a boost. And, Hasan Piker defends his rhetoric",
+    "summaryZh": "Social Security benefits are set to get a boost to offset rising consumer prices. And, streamer Hasan Piker says the GOP's \"guilt-by-association politics\" won't drag Democrats down",
+    "summaryEn": "Social Security benefits are set to get a boost to offset rising consumer prices. And, streamer Hasan Piker says the GOP's \"guilt-by-association politics\" won't drag Democrats down in the midterms.",
     "detailZh": "来源：NPR World。这是基于 RSS 摘要生成的待加工条目。接入大模型后，系统会进一步完成中文改写、事实核对、背景补充和多源合并。",
     "detailEn": "Source: NPR World. This is an RSS-based draft. After an LLM is configured, the pipeline will rewrite, fact-check, enrich and merge reports about the same event.",
     "tags": [
-      "国际时政"
+      "冲突与安全"
     ],
     "sources": [
       "NPR World"
     ],
     "sourceUrls": [
-      "https://www.npr.org/2026/10/14/nx-s1-6001592/arctic-sea-change-rana-foroohar"
+      "https://www.npr.org/2026/10/15/g-s1-148199/up-first-newsletter-inflation-social-security-ukraine-russia-yemen-saudi-arabia"
     ]
   },
   {
-    "id": "rss-7-e877a5cc587a",
-    "category": "world",
-    "importance": 6,
-    "sourcesCount": 1,
-    "titleZh": "Zelenskyy sits down with NPR. And, Pope Leo diagnosed with lung cancer",
-    "titleEn": "Zelenskyy sits down with NPR. And, Pope Leo diagnosed with lung cancer",
-    "summaryZh": "Ukrainian President Volodymyr Zelenskyy has a sit-down interview with NPR as Russia's full-scale invasion nears the 5-year mark. And, Pope Leo XIV has been diagnosed with lung canc",
-    "summaryEn": "Ukrainian President Volodymyr Zelenskyy has a sit-down interview with NPR as Russia's full-scale invasion nears the 5-year mark. And, Pope Leo XIV has been diagnosed with lung cancer.",
-    "detailZh": "来源：NPR World。这是基于 RSS 摘要生成的待加工条目。接入大模型后，系统会进一步完成中文改写、事实核对、背景补充和多源合并。",
-    "detailEn": "Source: NPR World. This is an RSS-based draft. After an LLM is configured, the pipeline will rewrite, fact-check, enrich and merge reports about the same event.",
-    "tags": [
-      "国际时政"
-    ],
-    "sources": [
-      "NPR World"
-    ],
-    "sourceUrls": [
-      "https://www.npr.org/2026/10/14/g-s1-148040/up-first-newsletter-volodymyr-zelenskyy-pope-leo-kimberly-guilfoyle-media-free-speech"
-    ]
-  },
-  {
-    "id": "rss-8-c9f47f694849",
+    "id": "rss-7-d8b18e03256d",
     "category": "tech",
     "importance": 6,
     "sourcesCount": 1,
-    "titleZh": "Diplomat Richard Haass discusses the Russia-Ukraine war and Trump's role",
-    "titleEn": "Diplomat Richard Haass discusses the Russia-Ukraine war and Trump's role",
-    "summaryZh": "NPR's Steve Inskeep speaks with veteran diplomat Richard Haass about the Russia-Ukraine war and the role President Trump is playing.",
-    "summaryEn": "NPR's Steve Inskeep speaks with veteran diplomat Richard Haass about the Russia-Ukraine war and the role President Trump is playing.",
+    "titleZh": "Ukraine resumes attacks on Russian oil refineries, officials say, after brief truce",
+    "titleEn": "Ukraine resumes attacks on Russian oil refineries, officials say, after brief truce",
+    "summaryZh": "Ukrainian drones attacked a refinery in Russia's Ryazan region early Thursday, hours after Ukrainian President Volodymyr Zelenskyy said that a brief truce spurned by Moscow was ove",
+    "summaryEn": "Ukrainian drones attacked a refinery in Russia's Ryazan region early Thursday, hours after Ukrainian President Volodymyr Zelenskyy said that a brief truce spurned by Moscow was over.",
     "detailZh": "来源：NPR World。这是基于 RSS 摘要生成的待加工条目。接入大模型后，系统会进一步完成中文改写、事实核对、背景补充和多源合并。",
     "detailEn": "Source: NPR World. This is an RSS-based draft. After an LLM is configured, the pipeline will rewrite, fact-check, enrich and merge reports about the same event.",
     "tags": [
@@ -164,18 +143,18 @@
       "NPR World"
     ],
     "sourceUrls": [
-      "https://www.npr.org/2026/10/14/nx-s1-6000164/diplomat-richard-haass-discusses-the-russia-ukraine-war-and-trumps-role"
+      "https://www.npr.org/2026/10/15/g-s1-148194/russia-ukraine-war"
     ]
   },
   {
-    "id": "rss-9-e41ef7b85867",
+    "id": "rss-8-babacb5a9ed1",
     "category": "tech",
     "importance": 6,
     "sourcesCount": 1,
-    "titleZh": "These workers help train robots who could one day steal their jobs",
-    "titleEn": "These workers help train robots who could one day steal their jobs",
-    "summaryZh": "Factory workers in India are being asked to wear GoPro cameras to record the way they do their jobs. The ultimate goal is to train robots to take over. Will it work?",
-    "summaryEn": "Factory workers in India are being asked to wear GoPro cameras to record the way they do their jobs. The ultimate goal is to train robots to take over. Will it work?",
+    "titleZh": "Greetings from Mexico City, where a bullfighting ban doesn't stop this matador training",
+    "titleEn": "Greetings from Mexico City, where a bullfighting ban doesn't stop this matador training",
+    "summaryZh": "One plays the bull, the other the bullfighter, as a pair practices a dance of death in a sport that's prohibited in the Mexican capital city.",
+    "summaryEn": "One plays the bull, the other the bullfighter, as a pair practices a dance of death in a sport that's prohibited in the Mexican capital city.",
     "detailZh": "来源：NPR World。这是基于 RSS 摘要生成的待加工条目。接入大模型后，系统会进一步完成中文改写、事实核对、背景补充和多源合并。",
     "detailEn": "Source: NPR World. This is an RSS-based draft. After an LLM is configured, the pipeline will rewrite, fact-check, enrich and merge reports about the same event.",
     "tags": [
@@ -185,32 +164,74 @@
       "NPR World"
     ],
     "sourceUrls": [
-      "https://www.npr.org/2026/10/14/g-s1-146907/these-workers-help-train-robots-who-could-one-day-steal-their-jobs"
+      "https://www.npr.org/2026/10/15/nx-s1-6001550/mexico-city-bullfighting-ban-matador-training"
     ]
   },
   {
-    "id": "rss-10-ab59beee9b9b",
-    "category": "world",
+    "id": "rss-9-d6e446bdaa51",
+    "category": "tech",
     "importance": 6,
     "sourcesCount": 1,
-    "titleZh": "Trump's ambassador to Greece, Kimberly Guilfoyle, resigns after allegations of improper conduct",
-    "titleEn": "Trump's ambassador to Greece, Kimberly Guilfoyle, resigns after allegations of improper conduct",
-    "summaryZh": "The White House publicly asked for U.S. Ambassador to Greece Kimberly Guilfoyle's resignation on Tuesday as she faced mounting accusations of improper conduct.",
-    "summaryEn": "The White House publicly asked for U.S. Ambassador to Greece Kimberly Guilfoyle's resignation on Tuesday as she faced mounting accusations of improper conduct.",
+    "titleZh": "Ukraine says its Starshield access is back",
+    "titleEn": "Ukraine says its Starshield access is back",
+    "summaryZh": "Ukraine says its access to SpaceX's Starshield has been restored. It's the system the country uses for its offensive drone attacks on Russia.",
+    "summaryEn": "Ukraine says its access to SpaceX's Starshield has been restored. It's the system the country uses for its offensive drone attacks on Russia.",
     "detailZh": "来源：NPR World。这是基于 RSS 摘要生成的待加工条目。接入大模型后，系统会进一步完成中文改写、事实核对、背景补充和多源合并。",
     "detailEn": "Source: NPR World. This is an RSS-based draft. After an LLM is configured, the pipeline will rewrite, fact-check, enrich and merge reports about the same event.",
     "tags": [
-      "国际时政"
+      "科技"
     ],
     "sources": [
       "NPR World"
     ],
     "sourceUrls": [
-      "https://www.npr.org/2026/10/14/g-s1-148027/trump-ambassador-greece-resignation"
+      "https://www.npr.org/2026/10/15/nx-s1-6002949/ukraine-says-its-starshield-access-is-back"
     ]
   },
   {
-    "id": "rss-11-1c06cb477f7a",
+    "id": "rss-10-7534eaeadcba",
+    "category": "tech",
+    "importance": 6,
+    "sourcesCount": 1,
+    "titleZh": "Rep. Mike Quigley, D-Ill., on reports Ukraine's Starshield access was restricted",
+    "titleEn": "Rep. Mike Quigley, D-Ill., on reports Ukraine's Starshield access was restricted",
+    "summaryZh": "NPR's Michel Martin speaks with Democratic Rep. Mike Quigley of Illinois about reports that SpaceX temporarily restricted access to its Starshield in Ukraine, affecting the country",
+    "summaryEn": "NPR's Michel Martin speaks with Democratic Rep. Mike Quigley of Illinois about reports that SpaceX temporarily restricted access to its Starshield in Ukraine, affecting the country's war efforts.",
+    "detailZh": "来源：NPR World。这是基于 RSS 摘要生成的待加工条目。接入大模型后，系统会进一步完成中文改写、事实核对、背景补充和多源合并。",
+    "detailEn": "Source: NPR World. This is an RSS-based draft. After an LLM is configured, the pipeline will rewrite, fact-check, enrich and merge reports about the same event.",
+    "tags": [
+      "科技"
+    ],
+    "sources": [
+      "NPR World"
+    ],
+    "sourceUrls": [
+      "https://www.npr.org/2026/10/15/nx-s1-6001653/rep-mike-quigley-d-ill-on-reports-ukraines-starshield-access-was-restricted"
+    ]
+  },
+  {
+    "id": "rss-11-d2ccff900c14",
+    "category": "world",
+    "importance": 6,
+    "sourcesCount": 1,
+    "titleZh": "LGBTQ+ people go into hiding in Senegal as hundreds are arrested",
+    "titleEn": "LGBTQ+ people go into hiding in Senegal as hundreds are arrested",
+    "summaryZh": "At least 320 people detained for ‘acts against nature’ after law criminalising homosexuality toughened, HRW reports Mass arrests, forced HIV testing and barriers to legal represent",
+    "summaryEn": "At least 320 people detained for ‘acts against nature’ after law criminalising homosexuality toughened, HRW reports Mass arrests, forced HIV testing and barriers to legal representation are part of an escalating crackdown against LGBTQ+ people in Senegal, acco",
+    "detailZh": "来源：The Guardian。这是基于 RSS 摘要生成的待加工条目。接入大模型后，系统会进一步完成中文改写、事实核对、背景补充和多源合并。",
+    "detailEn": "Source: The Guardian. This is an RSS-based draft. After an LLM is configured, the pipeline will rewrite, fact-check, enrich and merge reports about the same event.",
+    "tags": [
+      "国际时政"
+    ],
+    "sources": [
+      "The Guardian"
+    ],
+    "sourceUrls": [
+      "https://www.theguardian.com/global-development/2026/oct/15/senegal-homosexuality-criminalised-anti-lgbtq-arrests-hiv-testing-human-rights-watch"
+    ]
+  },
+  {
+    "id": "rss-12-1c06cb477f7a",
     "category": "tech",
     "importance": 6,
     "sourcesCount": 1,
@@ -231,7 +252,7 @@
     ]
   },
   {
-    "id": "rss-12-01e64b80ae93",
+    "id": "rss-13-01e64b80ae93",
     "category": "world",
     "importance": 6,
     "sourcesCount": 1,
@@ -252,7 +273,7 @@
     ]
   },
   {
-    "id": "rss-13-7c8126ec26be",
+    "id": "rss-14-7c8126ec26be",
     "category": "world",
     "importance": 6,
     "sourcesCount": 1,
@@ -273,7 +294,7 @@
     ]
   },
   {
-    "id": "rss-14-1f36d06a3b96",
+    "id": "rss-15-1f36d06a3b96",
     "category": "world",
     "importance": 6,
     "sourcesCount": 1,
@@ -294,35 +315,14 @@
     ]
   },
   {
-    "id": "rss-15-f3d80bae88ad",
-    "category": "tech",
-    "importance": 6,
-    "sourcesCount": 1,
-    "titleZh": "Isaias strengthens to become first Atlantic hurricane of 2026 season",
-    "titleEn": "Isaias strengthens to become first Atlantic hurricane of 2026 season",
-    "summaryZh": "Storm expected to make landfall on US’s northern Gulf coast with risk of flash floods and isolated river flooding Isaias has become the first Atlantic hurricane of the 2026 season,",
-    "summaryEn": "Storm expected to make landfall on US’s northern Gulf coast with risk of flash floods and isolated river flooding Isaias has become the first Atlantic hurricane of the 2026 season, with wind speeds of 80mph and a minimum pressure of 975mb. It is expected to st",
-    "detailZh": "来源：The Guardian。这是基于 RSS 摘要生成的待加工条目。接入大模型后，系统会进一步完成中文改写、事实核对、背景补充和多源合并。",
-    "detailEn": "Source: The Guardian. This is an RSS-based draft. After an LLM is configured, the pipeline will rewrite, fact-check, enrich and merge reports about the same event.",
-    "tags": [
-      "科技"
-    ],
-    "sources": [
-      "The Guardian"
-    ],
-    "sourceUrls": [
-      "https://www.theguardian.com/environment/2026/oct/09/isaias-strengthens-first-atlantic-hurricane-2026"
-    ]
-  },
-  {
-    "id": "rss-16-481e35200bed",
+    "id": "rss-16-2a4b124b15f4",
     "category": "economy",
     "importance": 6,
     "sourcesCount": 1,
-    "titleZh": "How high inflation became a 'fact of life' in the U.S.",
-    "titleEn": "How high inflation became a 'fact of life' in the U.S.",
-    "summaryZh": "U.S. inflation has stayed elevated for years, raising concern at the Federal Reserve that consumers may come to expect stubbornly high prices.",
-    "summaryEn": "U.S. inflation has stayed elevated for years, raising concern at the Federal Reserve that consumers may come to expect stubbornly high prices.",
+    "titleZh": "Economists: Hot PPI shows Fed's work is not done",
+    "titleEn": "Economists: Hot PPI shows Fed's work is not done",
+    "summaryZh": "'We see real risks the Fed will deliver another rate hike in two weeks' time,' one Fedwatcher warns",
+    "summaryEn": "'We see real risks the Fed will deliver another rate hike in two weeks' time,' one Fedwatcher warns",
     "detailZh": "来源：CNBC Economy。这是基于 RSS 摘要生成的待加工条目。接入大模型后，系统会进一步完成中文改写、事实核对、背景补充和多源合并。",
     "detailEn": "Source: CNBC Economy. This is an RSS-based draft. After an LLM is configured, the pipeline will rewrite, fact-check, enrich and merge reports about the same event.",
     "tags": [
@@ -332,18 +332,60 @@
       "CNBC Economy"
     ],
     "sourceUrls": [
-      "https://www.cnbc.com/2026/10/14/high-inflation-fed-expectations.html"
+      "https://www.cnbc.com/2026/10/15/pce-ppi-september-fed-reserve-rate-hike.html"
     ]
   },
   {
-    "id": "rss-17-b8d785fa3db1",
+    "id": "rss-17-ff782c5db956",
+    "category": "security",
+    "importance": 6,
+    "sourcesCount": 1,
+    "titleZh": "U.S. Treasury dismisses IMF debt warning and 'messy' forecasting",
+    "titleEn": "U.S. Treasury dismisses IMF debt warning and 'messy' forecasting",
+    "summaryZh": "The exchange comes as U.S. debt exceeds $40 trillion and 10-year Treasury yields remain above 5%, intensifying scrutiny of the fiscal outlook.",
+    "summaryEn": "The exchange comes as U.S. debt exceeds $40 trillion and 10-year Treasury yields remain above 5%, intensifying scrutiny of the fiscal outlook.",
+    "detailZh": "来源：CNBC Economy。这是基于 RSS 摘要生成的待加工条目。接入大模型后，系统会进一步完成中文改写、事实核对、背景补充和多源合并。",
+    "detailEn": "Source: CNBC Economy. This is an RSS-based draft. After an LLM is configured, the pipeline will rewrite, fact-check, enrich and merge reports about the same event.",
+    "tags": [
+      "冲突与安全"
+    ],
+    "sources": [
+      "CNBC Economy"
+    ],
+    "sourceUrls": [
+      "https://www.cnbc.com/2026/10/15/zervos-imf-us-debt-warning.html"
+    ]
+  },
+  {
+    "id": "rss-18-6b4e4c13e764",
+    "category": "tech",
+    "importance": 6,
+    "sourcesCount": 1,
+    "titleZh": "Wholesale prices jumped 6.3% annually in September, biggest gain since 2022",
+    "titleEn": "Wholesale prices jumped 6.3% annually in September, biggest gain since 2022",
+    "summaryZh": "September producer prices were expected to increase 0.6% month over month and 5.5% annually, according to the consensus estimate by Dow Jones.",
+    "summaryEn": "September producer prices were expected to increase 0.6% month over month and 5.5% annually, according to the consensus estimate by Dow Jones.",
+    "detailZh": "来源：CNBC Economy。这是基于 RSS 摘要生成的待加工条目。接入大模型后，系统会进一步完成中文改写、事实核对、背景补充和多源合并。",
+    "detailEn": "Source: CNBC Economy. This is an RSS-based draft. After an LLM is configured, the pipeline will rewrite, fact-check, enrich and merge reports about the same event.",
+    "tags": [
+      "科技"
+    ],
+    "sources": [
+      "CNBC Economy"
+    ],
+    "sourceUrls": [
+      "https://www.cnbc.com/2026/10/15/september-producer-price-index-retail-sales-data.html"
+    ]
+  },
+  {
+    "id": "rss-19-d311eb6241a5",
     "category": "economy",
     "importance": 6,
     "sourcesCount": 1,
-    "titleZh": "Consumer prices rose 3.7% annually in September as gas prices skyrocket",
-    "titleEn": "Consumer prices rose 3.7% annually in September as gas prices skyrocket",
-    "summaryZh": "The consumer price index was expected to increase 0.6% in September on a monthly basis and 3.6% from a year ago, according to the Dow Jones consensus forecast.",
-    "summaryEn": "The consumer price index was expected to increase 0.6% in September on a monthly basis and 3.6% from a year ago, according to the Dow Jones consensus forecast.",
+    "titleZh": "Analysis: Why a $2 trillion deficit and 5% Treasury yields are becoming America's biggest economic challenge",
+    "titleEn": "Analysis: Why a $2 trillion deficit and 5% Treasury yields are becoming America's biggest economic challenge",
+    "summaryZh": "Treasury yields above 5% are raising borrowing costs for households and the federal government, highlighting the challenge of financing $2 trillion deficits.",
+    "summaryEn": "Treasury yields above 5% are raising borrowing costs for households and the federal government, highlighting the challenge of financing $2 trillion deficits.",
     "detailZh": "来源：CNBC Economy。这是基于 RSS 摘要生成的待加工条目。接入大模型后，系统会进一步完成中文改写、事实核对、背景补充和多源合并。",
     "detailEn": "Source: CNBC Economy. This is an RSS-based draft. After an LLM is configured, the pipeline will rewrite, fact-check, enrich and merge reports about the same event.",
     "tags": [
@@ -353,18 +395,18 @@
       "CNBC Economy"
     ],
     "sourceUrls": [
-      "https://www.cnbc.com/2026/10/14/cpi-inflation-report-september-2026.html"
+      "https://www.cnbc.com/2026/10/15/treasury-yields-deficit-national-debt-ai.html"
     ]
   },
   {
-    "id": "rss-18-9712dba7721b",
+    "id": "rss-20-aeb64afea494",
     "category": "economy",
     "importance": 6,
     "sourcesCount": 1,
-    "titleZh": "'Godzilla El Niño' is wreaking havoc with Philippine central bank's inflation forecasts",
-    "titleEn": "'Godzilla El Niño' is wreaking havoc with Philippine central bank's inflation forecasts",
-    "summaryZh": "The Philippine central bank is running policy scenarios for a severe El Niño on top of the oil shock, with inflation at a three-year high.",
-    "summaryEn": "The Philippine central bank is running policy scenarios for a severe El Niño on top of the oil shock, with inflation at a three-year high.",
+    "titleZh": "China indicates rare earths will keep flowing to EU, regardless of U.S. trade deal expiration",
+    "titleEn": "China indicates rare earths will keep flowing to EU, regardless of U.S. trade deal expiration",
+    "summaryZh": "European trade commissioner Maroš Sefčovič met with Chinese Commerce Minister Wang Wentao in Beijing last week.",
+    "summaryEn": "European trade commissioner Maroš Sefčovič met with Chinese Commerce Minister Wang Wentao in Beijing last week.",
     "detailZh": "来源：CNBC Economy。这是基于 RSS 摘要生成的待加工条目。接入大模型后，系统会进一步完成中文改写、事实核对、背景补充和多源合并。",
     "detailEn": "Source: CNBC Economy. This is an RSS-based draft. After an LLM is configured, the pipeline will rewrite, fact-check, enrich and merge reports about the same event.",
     "tags": [
@@ -374,60 +416,18 @@
       "CNBC Economy"
     ],
     "sourceUrls": [
-      "https://www.cnbc.com/2026/10/14/godzilla-el-nino-asia-inflation-philippines.html"
+      "https://www.cnbc.com/2026/10/15/china-rare-earth-exports-europe.html"
     ]
   },
   {
-    "id": "rss-19-00ce41192e2f",
-    "category": "economy",
-    "importance": 6,
-    "sourcesCount": 1,
-    "titleZh": "The latest inflation data is expected to show price increases are accelerating",
-    "titleEn": "The latest inflation data is expected to show price increases are accelerating",
-    "summaryZh": "Economists expect the consumer price index for September to rise 0.6% on the month and 3.6% year over year.",
-    "summaryEn": "Economists expect the consumer price index for September to rise 0.6% on the month and 3.6% year over year.",
-    "detailZh": "来源：CNBC Economy。这是基于 RSS 摘要生成的待加工条目。接入大模型后，系统会进一步完成中文改写、事实核对、背景补充和多源合并。",
-    "detailEn": "Source: CNBC Economy. This is an RSS-based draft. After an LLM is configured, the pipeline will rewrite, fact-check, enrich and merge reports about the same event.",
-    "tags": [
-      "经济财经"
-    ],
-    "sources": [
-      "CNBC Economy"
-    ],
-    "sourceUrls": [
-      "https://www.cnbc.com/2026/10/13/september-consumer-price-index-inflation.html"
-    ]
-  },
-  {
-    "id": "rss-20-0baad3e4a99c",
-    "category": "economy",
-    "importance": 6,
-    "sourcesCount": 1,
-    "titleZh": "In charts: How one of the world's biggest economies got trapped by debt",
-    "titleEn": "In charts: How one of the world's biggest economies got trapped by debt",
-    "summaryZh": "France opens debate on its 2027 budget as high deficits, rising debt and student protests intensify pressure on lawmakers.",
-    "summaryEn": "France opens debate on its 2027 budget as high deficits, rising debt and student protests intensify pressure on lawmakers.",
-    "detailZh": "来源：CNBC Economy。这是基于 RSS 摘要生成的待加工条目。接入大模型后，系统会进一步完成中文改写、事实核对、背景补充和多源合并。",
-    "detailEn": "Source: CNBC Economy. This is an RSS-based draft. After an LLM is configured, the pipeline will rewrite, fact-check, enrich and merge reports about the same event.",
-    "tags": [
-      "经济财经"
-    ],
-    "sources": [
-      "CNBC Economy"
-    ],
-    "sourceUrls": [
-      "https://www.cnbc.com/2026/10/13/france-2027-budget-debt.html"
-    ]
-  },
-  {
-    "id": "rss-21-d8faa45b2d0c",
+    "id": "rss-21-cf6f64f0e4c0",
     "category": "tech",
     "importance": 6,
     "sourcesCount": 1,
-    "titleZh": "CedarDB wants one database to handle both transactions and analytics, as AI agents raise the stakes",
-    "titleEn": "CedarDB wants one database to handle both transactions and analytics, as AI agents raise the stakes",
-    "summaryZh": "Databases have traditionally been designed either for analytical data or for operational data. But database engine CedarDB supports both, and its approach has gained relevance with",
-    "summaryEn": "Databases have traditionally been designed either for analytical data or for operational data. But database engine CedarDB supports both, and its approach has gained relevance with the rise of agentic AI.",
+    "titleZh": "Amazon devices chief Panos Panay on the importance of failure and bouncing back from it",
+    "titleEn": "Amazon devices chief Panos Panay on the importance of failure and bouncing back from it",
+    "summaryZh": "Panay said that it's possible to recover and learn from all sorts of failures, even catastrophic ones, when building products.",
+    "summaryEn": "Panay said that it's possible to recover and learn from all sorts of failures, even catastrophic ones, when building products.",
     "detailZh": "来源：TechCrunch。这是基于 RSS 摘要生成的待加工条目。接入大模型后，系统会进一步完成中文改写、事实核对、背景补充和多源合并。",
     "detailEn": "Source: TechCrunch. This is an RSS-based draft. After an LLM is configured, the pipeline will rewrite, fact-check, enrich and merge reports about the same event.",
     "tags": [
@@ -437,18 +437,18 @@
       "TechCrunch"
     ],
     "sourceUrls": [
-      "https://techcrunch.com/2026/10/14/cedardb-wants-one-database-to-handle-both-transactions-and-analytics-as-ai-agents-raise-the-stakes/"
+      "https://techcrunch.com/2026/10/15/amazon-devices-chief-panos-panay-on-the-importance-of-failure-and-bouncing-back-from-it/"
     ]
   },
   {
-    "id": "rss-22-5a1b833317ef",
+    "id": "rss-22-21e3505542d9",
     "category": "tech",
     "importance": 6,
     "sourcesCount": 1,
-    "titleZh": "Ambani’s Jio seeks to raise $3.2B in what could be India’s biggest IPO",
-    "titleEn": "Ambani’s Jio seeks to raise $3.2B in what could be India’s biggest IPO",
-    "summaryZh": "Jio plans to use most of its IPO proceeds to repay debt as it expands beyond telecom.",
-    "summaryEn": "Jio plans to use most of its IPO proceeds to repay debt as it expands beyond telecom.",
+    "titleZh": "Meta launches an open-weight AI model that runs on Macs",
+    "titleEn": "Meta launches an open-weight AI model that runs on Macs",
+    "summaryZh": "Meta and Apple have teamed up for the launch of the social media giant's newest model, Muse Spark Open, which will run locally on Apple silicon.",
+    "summaryEn": "Meta and Apple have teamed up for the launch of the social media giant's newest model, Muse Spark Open, which will run locally on Apple silicon.",
     "detailZh": "来源：TechCrunch。这是基于 RSS 摘要生成的待加工条目。接入大模型后，系统会进一步完成中文改写、事实核对、背景补充和多源合并。",
     "detailEn": "Source: TechCrunch. This is an RSS-based draft. After an LLM is configured, the pipeline will rewrite, fact-check, enrich and merge reports about the same event.",
     "tags": [
@@ -458,18 +458,18 @@
       "TechCrunch"
     ],
     "sourceUrls": [
-      "https://techcrunch.com/2026/10/14/ambanis-jio-seeks-to-raise-3-2b-in-what-could-be-indias-biggest-ipo/"
+      "https://techcrunch.com/2026/10/15/meta-launches-an-open-weight-model-that-runs-on-macs/"
     ]
   },
   {
-    "id": "rss-23-bd61b92171ac",
+    "id": "rss-23-69334bf7d586",
     "category": "tech",
     "importance": 6,
     "sourcesCount": 1,
-    "titleZh": "Flock CEO says its microphones detect ‘just gunshots’ — its website says different",
-    "titleEn": "Flock CEO says its microphones detect ‘just gunshots’ — its website says different",
-    "summaryZh": "Langley’s comments come amid mounting scrutiny of Flock from privacy advocates, including the ACLU, and members of the public who are concerned about the misuse of its technology.",
-    "summaryEn": "Langley’s comments come amid mounting scrutiny of Flock from privacy advocates, including the ACLU, and members of the public who are concerned about the misuse of its technology.",
+    "titleZh": "Amazon devices chief Panos Panay sees a future where AI devices replace the need to use apps",
+    "titleEn": "Amazon devices chief Panos Panay sees a future where AI devices replace the need to use apps",
+    "summaryZh": "Speaking at TechCrunch Disrupt, Amazon devices chief Panos Panay described a future where ambient AI devices work in the background, anticipating users' needs instead of waiting fo",
+    "summaryEn": "Speaking at TechCrunch Disrupt, Amazon devices chief Panos Panay described a future where ambient AI devices work in the background, anticipating users' needs instead of waiting for commands.",
     "detailZh": "来源：TechCrunch。这是基于 RSS 摘要生成的待加工条目。接入大模型后，系统会进一步完成中文改写、事实核对、背景补充和多源合并。",
     "detailEn": "Source: TechCrunch. This is an RSS-based draft. After an LLM is configured, the pipeline will rewrite, fact-check, enrich and merge reports about the same event.",
     "tags": [
@@ -479,18 +479,18 @@
       "TechCrunch"
     ],
     "sourceUrls": [
-      "https://techcrunch.com/2026/10/14/flock-ceo-says-its-microphones-detect-just-gunshots-its-website-says-different/"
+      "https://techcrunch.com/2026/10/15/amazon-devices-chief-panos-panay-sees-a-future-where-ai-devices-replace-the-need-to-use-apps/"
     ]
   },
   {
-    "id": "rss-24-13af89011174",
+    "id": "rss-24-b3c1c339e3cb",
     "category": "tech",
     "importance": 6,
     "sourcesCount": 1,
-    "titleZh": "Colossal Biosciences announces new AI platform to help accelerate de-extinction efforts",
-    "titleEn": "Colossal Biosciences announces new AI platform to help accelerate de-extinction efforts",
-    "summaryZh": "Colossal announced a new AI platform to help accelerate its de-extinction efforts and Peter Diamandis has launched a new fund to back startups who use it.",
-    "summaryEn": "Colossal announced a new AI platform to help accelerate its de-extinction efforts and Peter Diamandis has launched a new fund to back startups who use it.",
+    "titleZh": "Bluesky wants to make it easier to buy, sell, and fundraise on the network",
+    "titleEn": "Bluesky wants to make it easier to buy, sell, and fundraise on the network",
+    "summaryZh": "The executives argued that advertising isn’t the only path to monetization, and that there are alternative models that are feasible when it comes to monetization.",
+    "summaryEn": "The executives argued that advertising isn’t the only path to monetization, and that there are alternative models that are feasible when it comes to monetization.",
     "detailZh": "来源：TechCrunch。这是基于 RSS 摘要生成的待加工条目。接入大模型后，系统会进一步完成中文改写、事实核对、背景补充和多源合并。",
     "detailEn": "Source: TechCrunch. This is an RSS-based draft. After an LLM is configured, the pipeline will rewrite, fact-check, enrich and merge reports about the same event.",
     "tags": [
@@ -500,39 +500,60 @@
       "TechCrunch"
     ],
     "sourceUrls": [
-      "https://techcrunch.com/2026/10/14/colossal-biosciences-announces-new-ai-platform-to-help-accelerate-de-extinction-efforts/"
+      "https://techcrunch.com/2026/10/15/bluesky-wants-to-make-it-easier-to-buy-sell-and-fundraise-on-the-network/"
     ]
   },
   {
-    "id": "rss-25-720cb8abffa1",
-    "category": "tech",
-    "importance": 6,
-    "sourcesCount": 1,
-    "titleZh": "Flock CEO: We haven’t ‘fired’ any police departments as customers",
-    "titleEn": "Flock CEO: We haven’t ‘fired’ any police departments as customers",
-    "summaryZh": "Flock CEO Garrett Langley said that the surveillance company has not canceled contracts of any police department or law enforcement agency, despite reports of abuse.",
-    "summaryEn": "Flock CEO Garrett Langley said that the surveillance company has not canceled contracts of any police department or law enforcement agency, despite reports of abuse.",
-    "detailZh": "来源：TechCrunch。这是基于 RSS 摘要生成的待加工条目。接入大模型后，系统会进一步完成中文改写、事实核对、背景补充和多源合并。",
-    "detailEn": "Source: TechCrunch. This is an RSS-based draft. After an LLM is configured, the pipeline will rewrite, fact-check, enrich and merge reports about the same event.",
-    "tags": [
-      "科技"
-    ],
-    "sources": [
-      "TechCrunch"
-    ],
-    "sourceUrls": [
-      "https://techcrunch.com/2026/10/14/flock-ceo-we-havent-fired-any-police-departments-as-customers/"
-    ]
-  },
-  {
-    "id": "rss-26-553a02cffebc",
+    "id": "rss-25-031cee9ab4e6",
     "category": "science",
     "importance": 6,
     "sourcesCount": 1,
-    "titleZh": "Catalytic transfer of carbon atoms enables spirofusion of C–C σ-bonds",
-    "titleEn": "Catalytic transfer of carbon atoms enables spirofusion of C–C σ-bonds",
-    "summaryZh": "Nature, Published online: 14 October 2026; doi:10.1038/s41586-026-11242-8 Catalytic transfer of carbon atoms enables spirofusion of C–C σ-bonds",
-    "summaryEn": "Nature, Published online: 14 October 2026; doi:10.1038/s41586-026-11242-8 Catalytic transfer of carbon atoms enables spirofusion of C–C σ-bonds",
+    "titleZh": "Anthropic is letting METR researchers look under the hood with employee-level access",
+    "titleEn": "Anthropic is letting METR researchers look under the hood with employee-level access",
+    "summaryZh": "METR will publish its own assessments of Anthropic’s risks, incidents, and practices, and the frontier AI model maker has given up the right to block them.",
+    "summaryEn": "METR will publish its own assessments of Anthropic’s risks, incidents, and practices, and the frontier AI model maker has given up the right to block them.",
+    "detailZh": "来源：TechCrunch。这是基于 RSS 摘要生成的待加工条目。接入大模型后，系统会进一步完成中文改写、事实核对、背景补充和多源合并。",
+    "detailEn": "Source: TechCrunch. This is an RSS-based draft. After an LLM is configured, the pipeline will rewrite, fact-check, enrich and merge reports about the same event.",
+    "tags": [
+      "科学健康"
+    ],
+    "sources": [
+      "TechCrunch"
+    ],
+    "sourceUrls": [
+      "https://techcrunch.com/2026/10/15/anthropic-is-letting-metr-researchers-look-under-the-hood-with-employee-level-access/"
+    ]
+  },
+  {
+    "id": "rss-26-908902235bc3",
+    "category": "tech",
+    "importance": 6,
+    "sourcesCount": 1,
+    "titleZh": "Is AI eroding PhD students’ critical thinking and analysis skills?",
+    "titleEn": "Is AI eroding PhD students’ critical thinking and analysis skills?",
+    "summaryZh": "Nature, Published online: 15 October 2026; doi:10.1038/d41586-026-03178-w An expert panel debates the impact of artificial intelligence on doctoral programmes.",
+    "summaryEn": "Nature, Published online: 15 October 2026; doi:10.1038/d41586-026-03178-w An expert panel debates the impact of artificial intelligence on doctoral programmes.",
+    "detailZh": "来源：Nature News。这是基于 RSS 摘要生成的待加工条目。接入大模型后，系统会进一步完成中文改写、事实核对、背景补充和多源合并。",
+    "detailEn": "Source: Nature News. This is an RSS-based draft. After an LLM is configured, the pipeline will rewrite, fact-check, enrich and merge reports about the same event.",
+    "tags": [
+      "科技"
+    ],
+    "sources": [
+      "Nature News"
+    ],
+    "sourceUrls": [
+      "https://www.nature.com/articles/d41586-026-03178-w"
+    ]
+  },
+  {
+    "id": "rss-27-bb232744e662",
+    "category": "science",
+    "importance": 6,
+    "sourcesCount": 1,
+    "titleZh": "World’s timekeepers upend how they adjust time to avoid catastrophic ‘negative second’",
+    "titleEn": "World’s timekeepers upend how they adjust time to avoid catastrophic ‘negative second’",
+    "summaryZh": "Nature, Published online: 15 October 2026; doi:10.1038/d41586-026-03329-z Governments have voted to abolish the leap second immediately and replace it with a leap hour.",
+    "summaryEn": "Nature, Published online: 15 October 2026; doi:10.1038/d41586-026-03329-z Governments have voted to abolish the leap second immediately and replace it with a leap hour.",
     "detailZh": "来源：Nature News。这是基于 RSS 摘要生成的待加工条目。接入大模型后，系统会进一步完成中文改写、事实核对、背景补充和多源合并。",
     "detailEn": "Source: Nature News. This is an RSS-based draft. After an LLM is configured, the pipeline will rewrite, fact-check, enrich and merge reports about the same event.",
     "tags": [
@@ -542,18 +563,18 @@
       "Nature News"
     ],
     "sourceUrls": [
-      "https://www.nature.com/articles/s41586-026-11242-8"
+      "https://www.nature.com/articles/d41586-026-03329-z"
     ]
   },
   {
-    "id": "rss-27-75b257bca817",
+    "id": "rss-28-3201af1752bf",
     "category": "science",
     "importance": 6,
     "sourcesCount": 1,
-    "titleZh": "This is why butterflies are so hard to catch",
-    "titleEn": "This is why butterflies are so hard to catch",
-    "summaryZh": "Nature, Published online: 14 October 2026; doi:10.1038/d41586-026-03301-x High-speed camera footage reveals the visual tricks butterflies use to evade predators.",
-    "summaryEn": "Nature, Published online: 14 October 2026; doi:10.1038/d41586-026-03301-x High-speed camera footage reveals the visual tricks butterflies use to evade predators.",
+    "titleZh": "Orangutan mothers arrange play dates for their babies",
+    "titleEn": "Orangutan mothers arrange play dates for their babies",
+    "summaryZh": "Nature, Published online: 15 October 2026; doi:10.1038/d41586-026-03238-1 Solitary primates spend energy and time travelling to patches of forest for get-togethers.",
+    "summaryEn": "Nature, Published online: 15 October 2026; doi:10.1038/d41586-026-03238-1 Solitary primates spend energy and time travelling to patches of forest for get-togethers.",
     "detailZh": "来源：Nature News。这是基于 RSS 摘要生成的待加工条目。接入大模型后，系统会进一步完成中文改写、事实核对、背景补充和多源合并。",
     "detailEn": "Source: Nature News. This is an RSS-based draft. After an LLM is configured, the pipeline will rewrite, fact-check, enrich and merge reports about the same event.",
     "tags": [
@@ -563,18 +584,18 @@
       "Nature News"
     ],
     "sourceUrls": [
-      "https://www.nature.com/articles/d41586-026-03301-x"
+      "https://www.nature.com/articles/d41586-026-03238-1"
     ]
   },
   {
-    "id": "rss-28-b02aa6586944",
+    "id": "rss-29-515f55426f82",
     "category": "science",
     "importance": 6,
     "sourcesCount": 1,
-    "titleZh": "Biomedical engineering is growing rapidly, but will it help patients?",
-    "titleEn": "Biomedical engineering is growing rapidly, but will it help patients?",
-    "summaryZh": "Nature, Published online: 14 October 2026; doi:10.1038/d41586-026-03202-z Assimilating the latest technology into health systems is a key challenge facing the field.",
-    "summaryEn": "Nature, Published online: 14 October 2026; doi:10.1038/d41586-026-03202-z Assimilating the latest technology into health systems is a key challenge facing the field.",
+    "titleZh": "Nearly half of reef-building corals face elevated relative risk of extinction",
+    "titleEn": "Nearly half of reef-building corals face elevated relative risk of extinction",
+    "summaryZh": "Nature, Published online: 15 October 2026; doi:10.1038/s41586-026-11263-3 Nearly half of reef-building corals face elevated relative risk of extinction",
+    "summaryEn": "Nature, Published online: 15 October 2026; doi:10.1038/s41586-026-11263-3 Nearly half of reef-building corals face elevated relative risk of extinction",
     "detailZh": "来源：Nature News。这是基于 RSS 摘要生成的待加工条目。接入大模型后，系统会进一步完成中文改写、事实核对、背景补充和多源合并。",
     "detailEn": "Source: Nature News. This is an RSS-based draft. After an LLM is configured, the pipeline will rewrite, fact-check, enrich and merge reports about the same event.",
     "tags": [
@@ -584,18 +605,18 @@
       "Nature News"
     ],
     "sourceUrls": [
-      "https://www.nature.com/articles/d41586-026-03202-z"
+      "https://www.nature.com/articles/s41586-026-11263-3"
     ]
   },
   {
-    "id": "rss-29-d8695fce9325",
+    "id": "rss-30-bf3f9bc84d00",
     "category": "science",
     "importance": 6,
     "sourcesCount": 1,
-    "titleZh": "Author Correction: Wafer-scale epitaxy growth of high-mobility p-type boron carbon nitride",
-    "titleEn": "Author Correction: Wafer-scale epitaxy growth of high-mobility p-type boron carbon nitride",
-    "summaryZh": "Nature, Published online: 14 October 2026; doi:10.1038/s41586-026-11267-z Author Correction: Wafer-scale epitaxy growth of high-mobility p-type boron carbon nitride",
-    "summaryEn": "Nature, Published online: 14 October 2026; doi:10.1038/s41586-026-11267-z Author Correction: Wafer-scale epitaxy growth of high-mobility p-type boron carbon nitride",
+    "titleZh": "Give me the good news: four science stories to brighten your day",
+    "titleEn": "Give me the good news: four science stories to brighten your day",
+    "summaryZh": "Nature, Published online: 15 October 2026; doi:10.1038/d41586-026-03152-6 Drugs that can reverse multiple sclerosis in mice and a new species of penguin are just the beginning.",
+    "summaryEn": "Nature, Published online: 15 October 2026; doi:10.1038/d41586-026-03152-6 Drugs that can reverse multiple sclerosis in mice and a new species of penguin are just the beginning.",
     "detailZh": "来源：Nature News。这是基于 RSS 摘要生成的待加工条目。接入大模型后，系统会进一步完成中文改写、事实核对、背景补充和多源合并。",
     "detailEn": "Source: Nature News. This is an RSS-based draft. After an LLM is configured, the pipeline will rewrite, fact-check, enrich and merge reports about the same event.",
     "tags": [
@@ -605,81 +626,18 @@
       "Nature News"
     ],
     "sourceUrls": [
-      "https://www.nature.com/articles/s41586-026-11267-z"
+      "https://www.nature.com/articles/d41586-026-03152-6"
     ]
   },
   {
-    "id": "rss-30-bc586fafed27",
+    "id": "rss-31-77b262294725",
     "category": "tech",
     "importance": 6,
     "sourcesCount": 1,
-    "titleZh": "Growing plane and ship traffic degrade the air of western North America",
-    "titleEn": "Growing plane and ship traffic degrade the air of western North America",
-    "summaryZh": "Nature, Published online: 14 October 2026; doi:10.1038/d41586-026-03239-0 Pollution from transport across the Pacific Ocean is raising ozone levels above a region whose own emissio",
-    "summaryEn": "Nature, Published online: 14 October 2026; doi:10.1038/d41586-026-03239-0 Pollution from transport across the Pacific Ocean is raising ozone levels above a region whose own emissions have dropped.",
-    "detailZh": "来源：Nature News。这是基于 RSS 摘要生成的待加工条目。接入大模型后，系统会进一步完成中文改写、事实核对、背景补充和多源合并。",
-    "detailEn": "Source: Nature News. This is an RSS-based draft. After an LLM is configured, the pipeline will rewrite, fact-check, enrich and merge reports about the same event.",
-    "tags": [
-      "科技"
-    ],
-    "sources": [
-      "Nature News"
-    ],
-    "sourceUrls": [
-      "https://www.nature.com/articles/d41586-026-03239-0"
-    ]
-  },
-  {
-    "id": "rss-31-cbc7694e9e5f",
-    "category": "security",
-    "importance": 6,
-    "sourcesCount": 1,
-    "titleZh": "Real Madrid come from 3-1 down to beat Roma on Champions League travels",
-    "titleEn": "Real Madrid come from 3-1 down to beat Roma on Champions League travels",
-    "summaryZh": "Real Madrid ease pressure on manager Jose Mourinho with a 4-3 win at his former club Roma in a Champions League classic.",
-    "summaryEn": "Real Madrid ease pressure on manager Jose Mourinho with a 4-3 win at his former club Roma in a Champions League classic.",
-    "detailZh": "来源：Al Jazeera。这是基于 RSS 摘要生成的待加工条目。接入大模型后，系统会进一步完成中文改写、事实核对、背景补充和多源合并。",
-    "detailEn": "Source: Al Jazeera. This is an RSS-based draft. After an LLM is configured, the pipeline will rewrite, fact-check, enrich and merge reports about the same event.",
-    "tags": [
-      "冲突与安全"
-    ],
-    "sources": [
-      "Al Jazeera"
-    ],
-    "sourceUrls": [
-      "https://www.aljazeera.com/sports/2026/10/14/real-madrid-come-from-3-1-down-to-beat-roma-on-champions-league-travels?traffic_source=rss"
-    ]
-  },
-  {
-    "id": "rss-32-5762db19fc05",
-    "category": "security",
-    "importance": 6,
-    "sourcesCount": 1,
-    "titleZh": "PSG beat Man City 4-2 in Champions League thriller",
-    "titleEn": "PSG beat Man City 4-2 in Champions League thriller",
-    "summaryZh": "PSG score three first-half goals, but an Erling Haaland brace nearly drags Manchester City back into the match.",
-    "summaryEn": "PSG score three first-half goals, but an Erling Haaland brace nearly drags Manchester City back into the match.",
-    "detailZh": "来源：Al Jazeera。这是基于 RSS 摘要生成的待加工条目。接入大模型后，系统会进一步完成中文改写、事实核对、背景补充和多源合并。",
-    "detailEn": "Source: Al Jazeera. This is an RSS-based draft. After an LLM is configured, the pipeline will rewrite, fact-check, enrich and merge reports about the same event.",
-    "tags": [
-      "冲突与安全"
-    ],
-    "sources": [
-      "Al Jazeera"
-    ],
-    "sourceUrls": [
-      "https://www.aljazeera.com/sports/2026/10/14/psg-beat-man-city-4-2-in-champions-league-thriller?traffic_source=rss"
-    ]
-  },
-  {
-    "id": "rss-33-7b2ccfda155b",
-    "category": "tech",
-    "importance": 6,
-    "sourcesCount": 1,
-    "titleZh": "Colombia opposition groups launch protest against de la Espriella’s cuts",
-    "titleEn": "Colombia opposition groups launch protest against de la Espriella’s cuts",
-    "summaryZh": "Former President Gustavo Petro joined thousands of demonstrators in Bogota in march against austerity, Israel ties.",
-    "summaryEn": "Former President Gustavo Petro joined thousands of demonstrators in Bogota in march against austerity, Israel ties.",
+    "titleZh": "Israel halts commercial goods from entering Gaza; Hamas denies tax claims",
+    "titleEn": "Israel halts commercial goods from entering Gaza; Hamas denies tax claims",
+    "summaryZh": "The halt to commercial shipments, including fruit and winter clothing, cuts off a key source of critical supplies.",
+    "summaryEn": "The halt to commercial shipments, including fruit and winter clothing, cuts off a key source of critical supplies.",
     "detailZh": "来源：Al Jazeera。这是基于 RSS 摘要生成的待加工条目。接入大模型后，系统会进一步完成中文改写、事实核对、背景补充和多源合并。",
     "detailEn": "Source: Al Jazeera. This is an RSS-based draft. After an LLM is configured, the pipeline will rewrite, fact-check, enrich and merge reports about the same event.",
     "tags": [
@@ -689,18 +647,18 @@
       "Al Jazeera"
     ],
     "sourceUrls": [
-      "https://www.aljazeera.com/news/2026/10/14/colombia-opposition-groups-launch-protest-against-de-la-espriellas-cuts?traffic_source=rss"
+      "https://www.aljazeera.com/news/2026/10/15/israel-halts-commercial-goods-from-entering-gaza-hamas-denies-tax-claims?traffic_source=rss"
     ]
   },
   {
-    "id": "rss-34-a843694835a0",
+    "id": "rss-32-e8bacff0cd82",
     "category": "security",
     "importance": 6,
     "sourcesCount": 1,
-    "titleZh": "West Indies beat India to level T20 series as Hope continues record run",
-    "titleEn": "West Indies beat India to level T20 series as Hope continues record run",
-    "summaryZh": "Shai Hope’s 102 gives West Indies a 24-run series-leveling win over India in fourth cricket T20 as another record falls.",
-    "summaryEn": "Shai Hope’s 102 gives West Indies a 24-run series-leveling win over India in fourth cricket T20 as another record falls.",
+    "titleZh": "Man United’s Martinez apologises for outburst after talks with Carrick",
+    "titleEn": "Man United’s Martinez apologises for outburst after talks with Carrick",
+    "summaryZh": "Lisandro Martinez meets Manchester United manager Michael Carrick before apologising for his criticism of the club.",
+    "summaryEn": "Lisandro Martinez meets Manchester United manager Michael Carrick before apologising for his criticism of the club.",
     "detailZh": "来源：Al Jazeera。这是基于 RSS 摘要生成的待加工条目。接入大模型后，系统会进一步完成中文改写、事实核对、背景补充和多源合并。",
     "detailEn": "Source: Al Jazeera. This is an RSS-based draft. After an LLM is configured, the pipeline will rewrite, fact-check, enrich and merge reports about the same event.",
     "tags": [
@@ -710,18 +668,18 @@
       "Al Jazeera"
     ],
     "sourceUrls": [
-      "https://www.aljazeera.com/sports/2026/10/14/west-indies-beat-india-to-level-series-as-hope-continues-record-run?traffic_source=rss"
+      "https://www.aljazeera.com/sports/2026/10/15/martinez-apologises-for-man-united-outburst-after-carrick-talks?traffic_source=rss"
     ]
   },
   {
-    "id": "rss-35-63d0577920bc",
+    "id": "rss-33-137c7f1201fc",
     "category": "security",
     "importance": 6,
     "sourcesCount": 1,
-    "titleZh": "Israeli quadcopter drone drops bomb in Lebanon",
-    "titleEn": "Israeli quadcopter drone drops bomb in Lebanon",
-    "summaryZh": "An Israeli quadcopter drone was filmed dropping a bomb on the outskirts of the village of Zibqin in southern Lebanon.",
-    "summaryEn": "An Israeli quadcopter drone was filmed dropping a bomb on the outskirts of the village of Zibqin in southern Lebanon.",
+    "titleZh": "Trump administration sues California over noncitizens on voter rolls",
+    "titleEn": "Trump administration sues California over noncitizens on voter rolls",
+    "summaryZh": "Lawsuit comes weeks before midterm elections and follows debunked claims of noncitizens voting in various states.",
+    "summaryEn": "Lawsuit comes weeks before midterm elections and follows debunked claims of noncitizens voting in various states.",
     "detailZh": "来源：Al Jazeera。这是基于 RSS 摘要生成的待加工条目。接入大模型后，系统会进一步完成中文改写、事实核对、背景补充和多源合并。",
     "detailEn": "Source: Al Jazeera. This is an RSS-based draft. After an LLM is configured, the pipeline will rewrite, fact-check, enrich and merge reports about the same event.",
     "tags": [
@@ -731,7 +689,49 @@
       "Al Jazeera"
     ],
     "sourceUrls": [
-      "https://www.aljazeera.com/video/newsfeed/2026/10/14/israeli-quadcopter-drone-drops-bomb-in-lebanon?traffic_source=rss"
+      "https://www.aljazeera.com/news/2026/10/15/trump-administration-sues-california-over-noncitizens-on-voter-rolls?traffic_source=rss"
+    ]
+  },
+  {
+    "id": "rss-34-2d75b068cb40",
+    "category": "security",
+    "importance": 6,
+    "sourcesCount": 1,
+    "titleZh": "Several people dead or missing after Istanbul floods",
+    "titleEn": "Several people dead or missing after Istanbul floods",
+    "summaryZh": "Three people have died and several are reported missing after torrential rain triggered severe flooding across Istanbul",
+    "summaryEn": "Three people have died and several are reported missing after torrential rain triggered severe flooding across Istanbul",
+    "detailZh": "来源：Al Jazeera。这是基于 RSS 摘要生成的待加工条目。接入大模型后，系统会进一步完成中文改写、事实核对、背景补充和多源合并。",
+    "detailEn": "Source: Al Jazeera. This is an RSS-based draft. After an LLM is configured, the pipeline will rewrite, fact-check, enrich and merge reports about the same event.",
+    "tags": [
+      "冲突与安全"
+    ],
+    "sources": [
+      "Al Jazeera"
+    ],
+    "sourceUrls": [
+      "https://www.aljazeera.com/video/newsfeed/2026/10/15/several-people-dead-or-missing-after-istanbul-floods?traffic_source=rss"
+    ]
+  },
+  {
+    "id": "rss-35-3d9fef9e774f",
+    "category": "security",
+    "importance": 6,
+    "sourcesCount": 1,
+    "titleZh": "Israeli ‘ad’ firm helped infect spyware into Al Jazeera devices",
+    "titleEn": "Israeli ‘ad’ firm helped infect spyware into Al Jazeera devices",
+    "summaryZh": "An Israeli spyware disguised as a digital advertisement firm has targeted journalists’ devices at Al Jazeera.",
+    "summaryEn": "An Israeli spyware disguised as a digital advertisement firm has targeted journalists’ devices at Al Jazeera.",
+    "detailZh": "来源：Al Jazeera。这是基于 RSS 摘要生成的待加工条目。接入大模型后，系统会进一步完成中文改写、事实核对、背景补充和多源合并。",
+    "detailEn": "Source: Al Jazeera. This is an RSS-based draft. After an LLM is configured, the pipeline will rewrite, fact-check, enrich and merge reports about the same event.",
+    "tags": [
+      "冲突与安全"
+    ],
+    "sources": [
+      "Al Jazeera"
+    ],
+    "sourceUrls": [
+      "https://www.aljazeera.com/video/newsfeed/2026/10/15/israeli-ad-firm-helped-infect-spyware-into-al-jazeera-devices?traffic_source=rss"
     ]
   }
 ]
