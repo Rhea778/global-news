@@ -1,13 +1,34 @@
 [
   {
-    "id": "rss-1-acc3dc264d52",
+    "id": "rss-1-677a5979cfb8",
+    "category": "world",
+    "importance": 6,
+    "sourcesCount": 1,
+    "titleZh": "Violent clashes, looting and buildings ablaze in France as over 1,000 arrested after protests",
+    "titleEn": "Violent clashes, looting and buildings ablaze in France as over 1,000 arrested after protests",
+    "summaryZh": "Disorder broke out in cities across the country on a day in which more than half a million joined cost of living protests.",
+    "summaryEn": "Disorder broke out in cities across the country on a day in which more than half a million joined cost of living protests.",
+    "detailZh": "来源：BBC News。这是基于 RSS 摘要生成的待加工条目。接入大模型后，系统会进一步完成中文改写、事实核对、背景补充和多源合并。",
+    "detailEn": "Source: BBC News. This is an RSS-based draft. After an LLM is configured, the pipeline will rewrite, fact-check, enrich and merge reports about the same event.",
+    "tags": [
+      "国际时政"
+    ],
+    "sources": [
+      "BBC News"
+    ],
+    "sourceUrls": [
+      "https://www.bbc.co.uk/news/articles/c6d937wedj7jo?at_medium=RSS&at_campaign=rss"
+    ]
+  },
+  {
+    "id": "rss-2-b6bb1637df09",
     "category": "tech",
     "importance": 6,
     "sourcesCount": 1,
-    "titleZh": "Inside Ukrainian offensive pushing Russia back - with Starlink playing a key role",
-    "titleEn": "Inside Ukrainian offensive pushing Russia back - with Starlink playing a key role",
-    "summaryZh": "The BBC joins Ukraine's Operation Vivaldi as it regains crucial territory in the Donbas, but optimism has been dampened by souring relations with President Trump.",
-    "summaryEn": "The BBC joins Ukraine's Operation Vivaldi as it regains crucial territory in the Donbas, but optimism has been dampened by souring relations with President Trump.",
+    "titleZh": "Trump waives several Russia sanctions as row with Zelensky intensifies",
+    "titleEn": "Trump waives several Russia sanctions as row with Zelensky intensifies",
+    "summaryZh": "The US president temporarily ends many restrictions on Moscow recently passed by Congress over \"national security\" concerns.",
+    "summaryEn": "The US president temporarily ends many restrictions on Moscow recently passed by Congress over \"national security\" concerns.",
     "detailZh": "来源：BBC News。这是基于 RSS 摘要生成的待加工条目。接入大模型后，系统会进一步完成中文改写、事实核对、背景补充和多源合并。",
     "detailEn": "Source: BBC News. This is an RSS-based draft. After an LLM is configured, the pipeline will rewrite, fact-check, enrich and merge reports about the same event.",
     "tags": [
@@ -17,18 +38,18 @@
       "BBC News"
     ],
     "sourceUrls": [
-      "https://www.bbc.co.uk/news/articles/cvx284w16z1po?at_medium=RSS&at_campaign=rss"
+      "https://www.bbc.co.uk/news/articles/cxr5yvzv7rp0o?at_medium=RSS&at_campaign=rss"
     ]
   },
   {
-    "id": "rss-2-363fbc099b39",
+    "id": "rss-3-46647e002280",
     "category": "economy",
     "importance": 6,
     "sourcesCount": 1,
-    "titleZh": "Palestinians and US journalist injured by Israeli settlers in West Bank harvest attack",
-    "titleEn": "Palestinians and US journalist injured by Israeli settlers in West Bank harvest attack",
-    "summaryZh": "The BBC sees masked settlers attack Palestinians trying to harvest olives, amid a surge in similar incidents.",
-    "summaryEn": "The BBC sees masked settlers attack Palestinians trying to harvest olives, amid a surge in similar incidents.",
+    "titleZh": "European diplomats attacked by Israeli settlers in West Bank",
+    "titleEn": "European diplomats attacked by Israeli settlers in West Bank",
+    "summaryZh": "The Israeli military condemns the violence but the prime minister's office says it is part of a \"smear\" campaign.",
+    "summaryEn": "The Israeli military condemns the violence but the prime minister's office says it is part of a \"smear\" campaign.",
     "detailZh": "来源：BBC News。这是基于 RSS 摘要生成的待加工条目。接入大模型后，系统会进一步完成中文改写、事实核对、背景补充和多源合并。",
     "detailEn": "Source: BBC News. This is an RSS-based draft. After an LLM is configured, the pipeline will rewrite, fact-check, enrich and merge reports about the same event.",
     "tags": [
@@ -38,39 +59,18 @@
       "BBC News"
     ],
     "sourceUrls": [
-      "https://www.bbc.co.uk/news/articles/c65ynk7212vqo?at_medium=RSS&at_campaign=rss"
+      "https://www.bbc.co.uk/news/articles/c962ydpmjm3zo?at_medium=RSS&at_campaign=rss"
     ]
   },
   {
-    "id": "rss-3-0e2aa49c3ad6",
-    "category": "tech",
-    "importance": 6,
-    "sourcesCount": 1,
-    "titleZh": "Trump denies limiting Ukraine access to Starlink network",
-    "titleEn": "Trump denies limiting Ukraine access to Starlink network",
-    "summaryZh": "Speed curbs limited Ukraine's defences against deadly Russian attacks on Tuesday night.",
-    "summaryEn": "Speed curbs limited Ukraine's defences against deadly Russian attacks on Tuesday night.",
-    "detailZh": "来源：BBC News。这是基于 RSS 摘要生成的待加工条目。接入大模型后，系统会进一步完成中文改写、事实核对、背景补充和多源合并。",
-    "detailEn": "Source: BBC News. This is an RSS-based draft. After an LLM is configured, the pipeline will rewrite, fact-check, enrich and merge reports about the same event.",
-    "tags": [
-      "科技"
-    ],
-    "sources": [
-      "BBC News"
-    ],
-    "sourceUrls": [
-      "https://www.bbc.co.uk/news/articles/ckz65g34wyd8o?at_medium=RSS&at_campaign=rss"
-    ]
-  },
-  {
-    "id": "rss-4-89cb380fa6fc",
+    "id": "rss-4-471ee3079028",
     "category": "world",
     "importance": 6,
     "sourcesCount": 1,
-    "titleZh": "Pope pictured for first time since surgery and cancer diagnosis",
-    "titleEn": "Pope pictured for first time since surgery and cancer diagnosis",
-    "summaryZh": "The pontiff was diagnosed with lung cancer after having surgery at Rome's Gemelli Hospital on Tuesday.",
-    "summaryEn": "The pontiff was diagnosed with lung cancer after having surgery at Rome's Gemelli Hospital on Tuesday.",
+    "titleZh": "Anti-government protesters battle with police in Albania",
+    "titleEn": "Anti-government protesters battle with police in Albania",
+    "summaryZh": "There were violent clashes between demonstrators and riot police throughout Saturday in the capital Tirana.",
+    "summaryEn": "There were violent clashes between demonstrators and riot police throughout Saturday in the capital Tirana.",
     "detailZh": "来源：BBC News。这是基于 RSS 摘要生成的待加工条目。接入大模型后，系统会进一步完成中文改写、事实核对、背景补充和多源合并。",
     "detailEn": "Source: BBC News. This is an RSS-based draft. After an LLM is configured, the pipeline will rewrite, fact-check, enrich and merge reports about the same event.",
     "tags": [
@@ -80,60 +80,39 @@
       "BBC News"
     ],
     "sourceUrls": [
-      "https://www.bbc.co.uk/news/articles/cw146ej00yn7o?at_medium=RSS&at_campaign=rss"
+      "https://www.bbc.co.uk/news/articles/crwydey50xeno?at_medium=RSS&at_campaign=rss"
     ]
   },
   {
-    "id": "rss-5-83e985e65aeb",
-    "category": "tech",
+    "id": "rss-5-a3ac7fe502ba",
+    "category": "world",
     "importance": 6,
     "sourcesCount": 1,
-    "titleZh": "India's 'cockroach' party founder detained ahead of protest",
-    "titleEn": "India's 'cockroach' party founder detained ahead of protest",
-    "summaryZh": "The youth-led movement had called for a Delhi protest after mass detentions last week and the jailing of two leaders.",
-    "summaryEn": "The youth-led movement had called for a Delhi protest after mass detentions last week and the jailing of two leaders.",
+    "titleZh": "At least 17 dead in crush at Hindu festival event in India",
+    "titleEn": "At least 17 dead in crush at Hindu festival event in India",
+    "summaryZh": "Many more have been injured at an event in the Indian city of Kolkata to mark a Hindu festival.",
+    "summaryEn": "Many more have been injured at an event in the Indian city of Kolkata to mark a Hindu festival.",
     "detailZh": "来源：BBC News。这是基于 RSS 摘要生成的待加工条目。接入大模型后，系统会进一步完成中文改写、事实核对、背景补充和多源合并。",
     "detailEn": "Source: BBC News. This is an RSS-based draft. After an LLM is configured, the pipeline will rewrite, fact-check, enrich and merge reports about the same event.",
     "tags": [
-      "科技"
+      "国际时政"
     ],
     "sources": [
       "BBC News"
     ],
     "sourceUrls": [
-      "https://www.bbc.co.uk/news/articles/cmx237n1y9lzo?at_medium=RSS&at_campaign=rss"
+      "https://www.bbc.co.uk/news/articles/c820vwq7qg2ko?at_medium=RSS&at_campaign=rss"
     ]
   },
   {
-    "id": "rss-6-7b1dfea50832",
-    "category": "economy",
-    "importance": 6,
-    "sourcesCount": 1,
-    "titleZh": "Israeli settlers beat Palestinians and a U.S. photojournalist in West Bank attacks",
-    "titleEn": "Israeli settlers beat Palestinians and a U.S. photojournalist in West Bank attacks",
-    "summaryZh": "Masked Israeli settlers attacked Palestinians as they were harvesting olives in the occupied West Bank on Friday, injuring several people including a photojournalist working for Th",
-    "summaryEn": "Masked Israeli settlers attacked Palestinians as they were harvesting olives in the occupied West Bank on Friday, injuring several people including a photojournalist working for The Washington Post .",
-    "detailZh": "来源：NPR World。这是基于 RSS 摘要生成的待加工条目。接入大模型后，系统会进一步完成中文改写、事实核对、背景补充和多源合并。",
-    "detailEn": "Source: NPR World. This is an RSS-based draft. After an LLM is configured, the pipeline will rewrite, fact-check, enrich and merge reports about the same event.",
-    "tags": [
-      "经济财经"
-    ],
-    "sources": [
-      "NPR World"
-    ],
-    "sourceUrls": [
-      "https://www.npr.org/2026/10/16/nx-s1-6004904/israeli-settlers-beat-us-photojournalist-washington-post-west-bank"
-    ]
-  },
-  {
-    "id": "rss-7-6f80f42b8e3f",
+    "id": "rss-6-ad207f8c622c",
     "category": "world",
     "importance": 6,
     "sourcesCount": 1,
-    "titleZh": "Crowds throng New Delhi and wave Indian flags amid escalating protests",
-    "titleEn": "Crowds throng New Delhi and wave Indian flags amid escalating protests",
-    "summaryZh": "Protests have intensified over a review of voter lists that critics say is politically motivated and threatens to disenfranchise voters. The Election Commission and Modi's administ",
-    "summaryEn": "Protests have intensified over a review of voter lists that critics say is politically motivated and threatens to disenfranchise voters. The Election Commission and Modi's administration deny these allegations.",
+    "titleZh": "Student protests widen into greater social unrest in France",
+    "titleEn": "Student protests widen into greater social unrest in France",
+    "summaryZh": "Hundreds of protests took place in cities across France. Most of them were peaceful but some turned chaotic and violent.",
+    "summaryEn": "Hundreds of protests took place in cities across France. Most of them were peaceful but some turned chaotic and violent.",
     "detailZh": "来源：NPR World。这是基于 RSS 摘要生成的待加工条目。接入大模型后，系统会进一步完成中文改写、事实核对、背景补充和多源合并。",
     "detailEn": "Source: NPR World. This is an RSS-based draft. After an LLM is configured, the pipeline will rewrite, fact-check, enrich and merge reports about the same event.",
     "tags": [
@@ -143,18 +122,18 @@
       "NPR World"
     ],
     "sourceUrls": [
-      "https://www.npr.org/2026/10/16/g-s1-148383/crowds-throng-new-delhi-and-wave-indian-flags-amid-escalating-protests"
+      "https://www.npr.org/2026/10/17/nx-s1-6006735/student-protests-widen-into-greater-social-unrest-in-france"
     ]
   },
   {
-    "id": "rss-8-3aa553f998bf",
+    "id": "rss-7-683343adcdfc",
     "category": "world",
     "importance": 6,
     "sourcesCount": 1,
-    "titleZh": "Sally Rooney's books will no longer be sold in U.K. after Palestinian Action support",
-    "titleEn": "Sally Rooney's books will no longer be sold in U.K. after Palestinian Action support",
-    "summaryZh": "The Irish author said her books can no longer be sold in the UK after she pledged the royalties to a banned pro-Palestinian group.",
-    "summaryEn": "The Irish author said her books can no longer be sold in the UK after she pledged the royalties to a banned pro-Palestinian group.",
+    "titleZh": "The state of the State Department in the wake of the Kimberly Guilfoyle scandal",
+    "titleEn": "The state of the State Department in the wake of the Kimberly Guilfoyle scandal",
+    "summaryZh": "NPR's Joel Rose talks with James B. Story, former U.S. Ambassador to Venezuela, about the state of the State Department in the wake of the Kimberly Guilfoyle scandal.",
+    "summaryEn": "NPR's Joel Rose talks with James B. Story, former U.S. Ambassador to Venezuela, about the state of the State Department in the wake of the Kimberly Guilfoyle scandal.",
     "detailZh": "来源：NPR World。这是基于 RSS 摘要生成的待加工条目。接入大模型后，系统会进一步完成中文改写、事实核对、背景补充和多源合并。",
     "detailEn": "Source: NPR World. This is an RSS-based draft. After an LLM is configured, the pipeline will rewrite, fact-check, enrich and merge reports about the same event.",
     "tags": [
@@ -164,49 +143,70 @@
       "NPR World"
     ],
     "sourceUrls": [
-      "https://www.npr.org/2026/10/16/nx-s1-6004838/sally-rooney-books-uk-palestinian-action-support"
+      "https://www.npr.org/2026/10/17/nx-s1-6001729/the-state-of-the-state-department-in-the-wake-of-the-kimberly-guilfoyle-scandal"
     ]
   },
   {
-    "id": "rss-9-e46fc248ce9b",
-    "category": "tech",
+    "id": "rss-8-5a4c6ba69608",
+    "category": "world",
     "importance": 6,
     "sourcesCount": 1,
-    "titleZh": "Russia's view amid Ukraine's strikes and Zelenskyy's growing rift with the U.S.",
-    "titleEn": "Russia's view amid Ukraine's strikes and Zelenskyy's growing rift with the U.S.",
-    "summaryZh": "Russian authorities say Ukraine struck a major oil refinery southeast of Moscow Thursday. The strike was in response to Russia's attacks on Ukrainian energy infrastructure.",
-    "summaryEn": "Russian authorities say Ukraine struck a major oil refinery southeast of Moscow Thursday. The strike was in response to Russia's attacks on Ukrainian energy infrastructure.",
+    "titleZh": "Scuffles and fires break out as protesters rally across France, joining students",
+    "titleEn": "Scuffles and fires break out as protesters rally across France, joining students",
+    "summaryZh": "Demonstrators across France converged with students Saturday to protest rising living costs, as the country's fiscal crisis deepens.",
+    "summaryEn": "Demonstrators across France converged with students Saturday to protest rising living costs, as the country's fiscal crisis deepens.",
     "detailZh": "来源：NPR World。这是基于 RSS 摘要生成的待加工条目。接入大模型后，系统会进一步完成中文改写、事实核对、背景补充和多源合并。",
     "detailEn": "Source: NPR World. This is an RSS-based draft. After an LLM is configured, the pipeline will rewrite, fact-check, enrich and merge reports about the same event.",
     "tags": [
-      "科技"
+      "国际时政"
     ],
     "sources": [
       "NPR World"
     ],
     "sourceUrls": [
-      "https://www.npr.org/2026/10/16/nx-s1-6004281/russias-view-amid-ukraines-strikes-and-zelenskyys-growing-rift-with-the-u-s"
+      "https://www.npr.org/2026/10/17/nx-s1-6006773/student-protests-france"
     ]
   },
   {
-    "id": "rss-10-ee3eec845236",
-    "category": "tech",
+    "id": "rss-9-fab603b3d3d9",
+    "category": "world",
     "importance": 6,
     "sourcesCount": 1,
-    "titleZh": "How Putin may react to the rift between the U.S. and Ukraine",
-    "titleEn": "How Putin may react to the rift between the U.S. and Ukraine",
-    "summaryZh": "Journalist and Russia analyst Julia Ioffe lays out how Vladimir Putin might be trying to exploit the current divide between the U.S. and Ukraine over striking Russian oil refinerie",
-    "summaryEn": "Journalist and Russia analyst Julia Ioffe lays out how Vladimir Putin might be trying to exploit the current divide between the U.S. and Ukraine over striking Russian oil refineries.",
+    "titleZh": "Pope Leo XIV leaves hospital days after lung cancer surgery",
+    "titleEn": "Pope Leo XIV leaves hospital days after lung cancer surgery",
+    "summaryZh": "The Pope left Rome's Gemelli Hospital Saturday, days after surgery for lung cancer removed the lower lobe of his right lung. He is currently scheduled to travel to Latin America in",
+    "summaryEn": "The Pope left Rome's Gemelli Hospital Saturday, days after surgery for lung cancer removed the lower lobe of his right lung. He is currently scheduled to travel to Latin America in November.",
     "detailZh": "来源：NPR World。这是基于 RSS 摘要生成的待加工条目。接入大模型后，系统会进一步完成中文改写、事实核对、背景补充和多源合并。",
     "detailEn": "Source: NPR World. This is an RSS-based draft. After an LLM is configured, the pipeline will rewrite, fact-check, enrich and merge reports about the same event.",
     "tags": [
-      "科技"
+      "国际时政"
     ],
     "sources": [
       "NPR World"
     ],
     "sourceUrls": [
-      "https://www.npr.org/2026/10/16/nx-s1-6003665/how-putin-may-react-to-the-rift-between-the-u-s-and-ukraine"
+      "https://www.npr.org/2026/10/17/nx-s1-6006762/pope-leo-xiv-leaves-hospital-days-after-lung-cancer-surgery"
+    ]
+  },
+  {
+    "id": "rss-10-79f6bbd497cf",
+    "category": "world",
+    "importance": 6,
+    "sourcesCount": 1,
+    "titleZh": "Zelenskyy urges support for new US sanctions on Russia after Trump puts them on hold",
+    "titleEn": "Zelenskyy urges support for new US sanctions on Russia after Trump puts them on hold",
+    "summaryZh": "Zelenskyy described the move as unfortunate, adding it would encourage Russia to continue its assault. Trump told Congress that the pause was in the national interest but gave no f",
+    "summaryEn": "Zelenskyy described the move as unfortunate, adding it would encourage Russia to continue its assault. Trump told Congress that the pause was in the national interest but gave no further details.",
+    "detailZh": "来源：NPR World。这是基于 RSS 摘要生成的待加工条目。接入大模型后，系统会进一步完成中文改写、事实核对、背景补充和多源合并。",
+    "detailEn": "Source: NPR World. This is an RSS-based draft. After an LLM is configured, the pipeline will rewrite, fact-check, enrich and merge reports about the same event.",
+    "tags": [
+      "国际时政"
+    ],
+    "sources": [
+      "NPR World"
+    ],
+    "sourceUrls": [
+      "https://www.npr.org/2026/10/17/nx-s1-6006745/us-sanctions-russia"
     ]
   },
   {
@@ -420,14 +420,14 @@
     ]
   },
   {
-    "id": "rss-21-d0f11237d1f3",
+    "id": "rss-21-568162b981af",
     "category": "tech",
     "importance": 6,
     "sourcesCount": 1,
-    "titleZh": "Replit is no longer working with Anthropic, CEO says",
-    "titleEn": "Replit is no longer working with Anthropic, CEO says",
-    "summaryZh": "Masad said the decision was made for a number of different reasons, including cost. Replit announced a partnership with OpenAI in August, but there was never any indication that it",
-    "summaryEn": "Masad said the decision was made for a number of different reasons, including cost. Replit announced a partnership with OpenAI in August, but there was never any indication that it was no longer with Anthropic.",
+    "titleZh": "Meta removes language that raised scraping and AI training concerns",
+    "titleEn": "Meta removes language that raised scraping and AI training concerns",
+    "summaryZh": "A Meta spokesperson insisted that the updated terms did not reflect a change in the way Meta crawls the web.",
+    "summaryEn": "A Meta spokesperson insisted that the updated terms did not reflect a change in the way Meta crawls the web.",
     "detailZh": "来源：TechCrunch。这是基于 RSS 摘要生成的待加工条目。接入大模型后，系统会进一步完成中文改写、事实核对、背景补充和多源合并。",
     "detailEn": "Source: TechCrunch. This is an RSS-based draft. After an LLM is configured, the pipeline will rewrite, fact-check, enrich and merge reports about the same event.",
     "tags": [
@@ -437,18 +437,18 @@
       "TechCrunch"
     ],
     "sourceUrls": [
-      "https://techcrunch.com/2026/10/16/replit-is-no-longer-working-with-anthropic-ceo-says/"
+      "https://techcrunch.com/2026/10/17/meta-removes-language-that-raised-scraping-and-ai-training-concerns/"
     ]
   },
   {
-    "id": "rss-22-050801934044",
+    "id": "rss-22-5c37b2406edd",
     "category": "tech",
     "importance": 6,
     "sourcesCount": 1,
-    "titleZh": "Porsche’s electric Macan Turbo is an automotive existential crisis",
-    "titleEn": "Porsche’s electric Macan Turbo is an automotive existential crisis",
-    "summaryZh": "The 2026 Porsche Macan Turbo EV is a two-row crossover with 630 horsepower and a 100-kilowatt-hour battery.",
-    "summaryEn": "The 2026 Porsche Macan Turbo EV is a two-row crossover with 630 horsepower and a 100-kilowatt-hour battery.",
+    "titleZh": "TikTok permanently bans ‘Musk’ documentary advertising account",
+    "titleEn": "TikTok permanently bans ‘Musk’ documentary advertising account",
+    "summaryZh": "A four-hour documentary about Elon Musk continues to meet resistance from social media platforms.",
+    "summaryEn": "A four-hour documentary about Elon Musk continues to meet resistance from social media platforms.",
     "detailZh": "来源：TechCrunch。这是基于 RSS 摘要生成的待加工条目。接入大模型后，系统会进一步完成中文改写、事实核对、背景补充和多源合并。",
     "detailEn": "Source: TechCrunch. This is an RSS-based draft. After an LLM is configured, the pipeline will rewrite, fact-check, enrich and merge reports about the same event.",
     "tags": [
@@ -458,18 +458,18 @@
       "TechCrunch"
     ],
     "sourceUrls": [
-      "https://techcrunch.com/2026/10/16/porsches-electric-macan-turbo-is-an-automotive-existential-crisis/"
+      "https://techcrunch.com/2026/10/17/tiktok-permanently-bans-musk-documentary-advertising-account/"
     ]
   },
   {
-    "id": "rss-23-bfa998e6f2ba",
+    "id": "rss-23-b769f5e984a3",
     "category": "tech",
     "importance": 6,
     "sourcesCount": 1,
-    "titleZh": "India becomes the latest country to report rogue AI agent activity",
-    "titleEn": "India becomes the latest country to report rogue AI agent activity",
-    "summaryZh": "The agents got in through credentials and connection settings left exposed in app configurations, public code repositories, and overly permissive cloud roles.",
-    "summaryEn": "The agents got in through credentials and connection settings left exposed in app configurations, public code repositories, and overly permissive cloud roles.",
+    "titleZh": "Anthropic says its workforce has become less junior and is spending more time in meetings",
+    "titleEn": "Anthropic says its workforce has become less junior and is spending more time in meetings",
+    "summaryZh": "The composition of Anthropic’s workforce and the type of work getting done have changed significantly in the past year.",
+    "summaryEn": "The composition of Anthropic’s workforce and the type of work getting done have changed significantly in the past year.",
     "detailZh": "来源：TechCrunch。这是基于 RSS 摘要生成的待加工条目。接入大模型后，系统会进一步完成中文改写、事实核对、背景补充和多源合并。",
     "detailEn": "Source: TechCrunch. This is an RSS-based draft. After an LLM is configured, the pipeline will rewrite, fact-check, enrich and merge reports about the same event.",
     "tags": [
@@ -479,18 +479,18 @@
       "TechCrunch"
     ],
     "sourceUrls": [
-      "https://techcrunch.com/2026/10/16/india-becomes-the-latest-country-to-report-rogue-ai-agent-activity/"
+      "https://techcrunch.com/2026/10/17/anthropic-says-its-workforce-has-become-less-junior-and-is-spending-more-time-in-meetings/"
     ]
   },
   {
-    "id": "rss-24-1f9b468e8642",
+    "id": "rss-24-51c1c9a5e48b",
     "category": "tech",
     "importance": 6,
     "sourcesCount": 1,
-    "titleZh": "An Nvidia insider-turned-VC on why robotics hasn’t hit its ChatGPT moment, yet",
-    "titleEn": "An Nvidia insider-turned-VC on why robotics hasn’t hit its ChatGPT moment, yet",
-    "summaryZh": "Amulya Vishwanath, who spent seven years leading product marketing for NVIDIA’s robotics platforms, says robotics is currently in its “Lego era,” with the basic building blocks lik",
-    "summaryEn": "Amulya Vishwanath, who spent seven years leading product marketing for NVIDIA’s robotics platforms, says robotics is currently in its “Lego era,” with the basic building blocks like actuators, robotic hands, software, and safety standards still being rebuilt. ",
+    "titleZh": "Replit makes OpenAI its default over Anthropic, CEO says",
+    "titleEn": "Replit makes OpenAI its default over Anthropic, CEO says",
+    "summaryZh": "Over the weekend, Masad clarified that OpenAI would replace Anthropic as its default model provider. Claude will still be available to customers on the platform.",
+    "summaryEn": "Over the weekend, Masad clarified that OpenAI would replace Anthropic as its default model provider. Claude will still be available to customers on the platform.",
     "detailZh": "来源：TechCrunch。这是基于 RSS 摘要生成的待加工条目。接入大模型后，系统会进一步完成中文改写、事实核对、背景补充和多源合并。",
     "detailEn": "Source: TechCrunch. This is an RSS-based draft. After an LLM is configured, the pipeline will rewrite, fact-check, enrich and merge reports about the same event.",
     "tags": [
@@ -500,18 +500,18 @@
       "TechCrunch"
     ],
     "sourceUrls": [
-      "https://techcrunch.com/video/a-nvidia-insider-turned-vc-on-why-robotics-hasnt-hit-its-chatgpt-moment-yet/"
+      "https://techcrunch.com/2026/10/17/replit-is-no-longer-working-with-anthropic-ceo-says/"
     ]
   },
   {
-    "id": "rss-25-3b83b2b77ed5",
+    "id": "rss-25-9c715d5779cd",
     "category": "tech",
     "importance": 6,
     "sourcesCount": 1,
-    "titleZh": "Waymo’s robotaxis are headed to Canada",
-    "titleEn": "Waymo’s robotaxis are headed to Canada",
-    "summaryZh": "The company will start off by testing its self-driving vehicles on Toronto's streets.",
-    "summaryEn": "The company will start off by testing its self-driving vehicles on Toronto's streets.",
+    "titleZh": "Ember’s new temperature-controlled mug makes my nightly tea ritual even better",
+    "titleEn": "Ember’s new temperature-controlled mug makes my nightly tea ritual even better",
+    "summaryZh": "The biggest change about Ember's new mug is that you no longer have to open the app to adjust your drink’s temperature.",
+    "summaryEn": "The biggest change about Ember's new mug is that you no longer have to open the app to adjust your drink’s temperature.",
     "detailZh": "来源：TechCrunch。这是基于 RSS 摘要生成的待加工条目。接入大模型后，系统会进一步完成中文改写、事实核对、背景补充和多源合并。",
     "detailEn": "Source: TechCrunch. This is an RSS-based draft. After an LLM is configured, the pipeline will rewrite, fact-check, enrich and merge reports about the same event.",
     "tags": [
@@ -521,7 +521,7 @@
       "TechCrunch"
     ],
     "sourceUrls": [
-      "https://techcrunch.com/2026/10/16/waymos-robotaxis-are-headed-to-canada/"
+      "https://techcrunch.com/2026/10/17/embers-new-temperature-controlled-mug-makes-my-nightly-tea-ritual-even-better/"
     ]
   },
   {
@@ -630,35 +630,14 @@
     ]
   },
   {
-    "id": "rss-31-7e81afa93b26",
-    "category": "tech",
-    "importance": 6,
-    "sourcesCount": 1,
-    "titleZh": "Yemen’s government says Houthis fired two missiles at Aden airport",
-    "titleEn": "Yemen’s government says Houthis fired two missiles at Aden airport",
-    "summaryZh": "Attack comes as Yemeni gov't forces claim advances in Marib and say they 'neutralised' 430 Houthi fighters in 24 hours.",
-    "summaryEn": "Attack comes as Yemeni gov't forces claim advances in Marib and say they 'neutralised' 430 Houthi fighters in 24 hours.",
-    "detailZh": "来源：Al Jazeera。这是基于 RSS 摘要生成的待加工条目。接入大模型后，系统会进一步完成中文改写、事实核对、背景补充和多源合并。",
-    "detailEn": "Source: Al Jazeera. This is an RSS-based draft. After an LLM is configured, the pipeline will rewrite, fact-check, enrich and merge reports about the same event.",
-    "tags": [
-      "科技"
-    ],
-    "sources": [
-      "Al Jazeera"
-    ],
-    "sourceUrls": [
-      "https://www.aljazeera.com/news/2026/10/16/yemens-government-says-houthis-fired-two-missiles-at-aden-airport?traffic_source=rss"
-    ]
-  },
-  {
-    "id": "rss-32-032d57f317ac",
+    "id": "rss-31-861039d89acc",
     "category": "security",
     "importance": 6,
     "sourcesCount": 1,
-    "titleZh": "Meta employees say Lula’s accounts restricted in Brazil election: Report",
-    "titleEn": "Meta employees say Lula’s accounts restricted in Brazil election: Report",
-    "summaryZh": "The messages, reported by a Brazilian daily, say the platform recommended Bolsonaro's profile and his WhatsApp channel.",
-    "summaryEn": "The messages, reported by a Brazilian daily, say the platform recommended Bolsonaro's profile and his WhatsApp channel.",
+    "titleZh": "US ambassador urges Israel to prosecute attackers of American journalist",
+    "titleEn": "US ambassador urges Israel to prosecute attackers of American journalist",
+    "summaryZh": "Trump-appointed Ambassador Mike Huckabee calls the attack on Heidi Levine a 'despicable act of terror'.",
+    "summaryEn": "Trump-appointed Ambassador Mike Huckabee calls the attack on Heidi Levine a 'despicable act of terror'.",
     "detailZh": "来源：Al Jazeera。这是基于 RSS 摘要生成的待加工条目。接入大模型后，系统会进一步完成中文改写、事实核对、背景补充和多源合并。",
     "detailEn": "Source: Al Jazeera. This is an RSS-based draft. After an LLM is configured, the pipeline will rewrite, fact-check, enrich and merge reports about the same event.",
     "tags": [
@@ -668,18 +647,18 @@
       "Al Jazeera"
     ],
     "sourceUrls": [
-      "https://www.aljazeera.com/economy/2026/10/16/meta-employees-say-lulas-accounts-restricted-in-brazil-election-report?traffic_source=rss"
+      "https://www.aljazeera.com/news/2026/10/17/us-ambassador-calls-on-israel-to-prosecute-settlers-over-journalist-attack?traffic_source=rss"
     ]
   },
   {
-    "id": "rss-33-5a01bc5399a3",
+    "id": "rss-32-ba52249f4c28",
     "category": "security",
     "importance": 6,
     "sourcesCount": 1,
-    "titleZh": "How Israeli spyware used ‘zero click’ hack on Al Jazeera staff",
-    "titleEn": "How Israeli spyware used ‘zero click’ hack on Al Jazeera staff",
-    "summaryZh": "Israeli spyware firms hacked into Al Jazeera devices in 2024 using a new ‘adfection’ method. Here's how it works.",
-    "summaryEn": "Israeli spyware firms hacked into Al Jazeera devices in 2024 using a new ‘adfection’ method. Here's how it works.",
+    "titleZh": "Saudi-led coalition intercepts drones as Egypt weighs sending help",
+    "titleEn": "Saudi-led coalition intercepts drones as Egypt weighs sending help",
+    "summaryZh": "Forces intercepted and destroyed four drones over Saudi Arabia's Riyadh, Eastern Province and southern region.",
+    "summaryEn": "Forces intercepted and destroyed four drones over Saudi Arabia's Riyadh, Eastern Province and southern region.",
     "detailZh": "来源：Al Jazeera。这是基于 RSS 摘要生成的待加工条目。接入大模型后，系统会进一步完成中文改写、事实核对、背景补充和多源合并。",
     "detailEn": "Source: Al Jazeera. This is an RSS-based draft. After an LLM is configured, the pipeline will rewrite, fact-check, enrich and merge reports about the same event.",
     "tags": [
@@ -689,18 +668,18 @@
       "Al Jazeera"
     ],
     "sourceUrls": [
-      "https://www.aljazeera.com/video/newsfeed/2026/10/16/how-israeli-spyware-used-zero-click-hack-on-al-jazeera-staff?traffic_source=rss"
+      "https://www.aljazeera.com/news/2026/10/17/saudi-led-coalition-intercepts-drones-as-egypt-weighs-sending-help?traffic_source=rss"
     ]
   },
   {
-    "id": "rss-34-2a06f637a045",
+    "id": "rss-33-34b34eba5d8c",
     "category": "security",
     "importance": 6,
     "sourcesCount": 1,
-    "titleZh": "Students in Europe are rising up to call for better education",
-    "titleEn": "Students in Europe are rising up to call for better education",
-    "summaryZh": "Violent unrest is gripping several countries across Europe, as student activists demand better education systems.",
-    "summaryEn": "Violent unrest is gripping several countries across Europe, as student activists demand better education systems.",
+    "titleZh": "Photos: No Kings rallies in US urge midterm voters to cast ballots early",
+    "titleEn": "Photos: No Kings rallies in US urge midterm voters to cast ballots early",
+    "summaryZh": "Thousands gathered at events throughout the country on Saturday, building on two years of No Kings marches.",
+    "summaryEn": "Thousands gathered at events throughout the country on Saturday, building on two years of No Kings marches.",
     "detailZh": "来源：Al Jazeera。这是基于 RSS 摘要生成的待加工条目。接入大模型后，系统会进一步完成中文改写、事实核对、背景补充和多源合并。",
     "detailEn": "Source: Al Jazeera. This is an RSS-based draft. After an LLM is configured, the pipeline will rewrite, fact-check, enrich and merge reports about the same event.",
     "tags": [
@@ -710,18 +689,18 @@
       "Al Jazeera"
     ],
     "sourceUrls": [
-      "https://www.aljazeera.com/video/newsfeed/2026/10/16/students-in-europe-are-rising-up-to-call-for-better-education?traffic_source=rss"
+      "https://www.aljazeera.com/gallery/2026/10/17/photos-no-kings-rallies-in-us-urge-midterm-voters-to-cast-ballots-early?traffic_source=rss"
     ]
   },
   {
-    "id": "rss-35-66fc04881404",
+    "id": "rss-34-80f78d68a97f",
     "category": "security",
     "importance": 6,
     "sourcesCount": 1,
-    "titleZh": "Food affordability fears plague Gaza as Israel halts commercial goods",
-    "titleEn": "Food affordability fears plague Gaza as Israel halts commercial goods",
-    "summaryZh": "Commercial goods, such as fresh fruit, vegetables, meat and winter clothing, have not entered Gaza for two days.",
-    "summaryEn": "Commercial goods, such as fresh fruit, vegetables, meat and winter clothing, have not entered Gaza for two days.",
+    "titleZh": "Cost of living protests hit Belgium, Italy, Portugal and France",
+    "titleEn": "Cost of living protests hit Belgium, Italy, Portugal and France",
+    "summaryZh": "Hundreds of thousands took to the streets for separate demonstrations, putting pressure on governments across the EU.",
+    "summaryEn": "Hundreds of thousands took to the streets for separate demonstrations, putting pressure on governments across the EU.",
     "detailZh": "来源：Al Jazeera。这是基于 RSS 摘要生成的待加工条目。接入大模型后，系统会进一步完成中文改写、事实核对、背景补充和多源合并。",
     "detailEn": "Source: Al Jazeera. This is an RSS-based draft. After an LLM is configured, the pipeline will rewrite, fact-check, enrich and merge reports about the same event.",
     "tags": [
@@ -731,7 +710,28 @@
       "Al Jazeera"
     ],
     "sourceUrls": [
-      "https://www.aljazeera.com/video/newsfeed/2026/10/16/food-affordability-fears-plague-gaza-as-israel-halts-commercial-goods?traffic_source=rss"
+      "https://www.aljazeera.com/news/2026/10/17/cost-of-living-protests-hit-belgium-italy-portugal-and-france?traffic_source=rss"
+    ]
+  },
+  {
+    "id": "rss-35-06f98abbd63a",
+    "category": "security",
+    "importance": 6,
+    "sourcesCount": 1,
+    "titleZh": "Ten killed in fire at beach resort in Bangladesh",
+    "titleEn": "Ten killed in fire at beach resort in Bangladesh",
+    "summaryZh": "Ten people, including six members of the same family, were killed in a fire at a beach resort in Bangladesh.",
+    "summaryEn": "Ten people, including six members of the same family, were killed in a fire at a beach resort in Bangladesh.",
+    "detailZh": "来源：Al Jazeera。这是基于 RSS 摘要生成的待加工条目。接入大模型后，系统会进一步完成中文改写、事实核对、背景补充和多源合并。",
+    "detailEn": "Source: Al Jazeera. This is an RSS-based draft. After an LLM is configured, the pipeline will rewrite, fact-check, enrich and merge reports about the same event.",
+    "tags": [
+      "冲突与安全"
+    ],
+    "sources": [
+      "Al Jazeera"
+    ],
+    "sourceUrls": [
+      "https://www.aljazeera.com/video/newsfeed/2026/10/17/17-10-sv-coxsbazaar-hotel-blaze-_-bd?traffic_source=rss"
     ]
   }
 ]
