@@ -1,55 +1,13 @@
 [
   {
-    "id": "rss-1-550a37e4dbfb",
-    "category": "world",
-    "importance": 6,
-    "sourcesCount": 1,
-    "titleZh": "Hospitals deliberately targeted by Sudan's RSF fighters, BBC investigation finds",
-    "titleEn": "Hospitals deliberately targeted by Sudan's RSF fighters, BBC investigation finds",
-    "summaryZh": "The UN human rights chief Volker Türk says the multiple attacks may amount to war crimes.",
-    "summaryEn": "The UN human rights chief Volker Türk says the multiple attacks may amount to war crimes.",
-    "detailZh": "来源：BBC News。这是基于 RSS 摘要生成的待加工条目。接入大模型后，系统会进一步完成中文改写、事实核对、背景补充和多源合并。",
-    "detailEn": "Source: BBC News. This is an RSS-based draft. After an LLM is configured, the pipeline will rewrite, fact-check, enrich and merge reports about the same event.",
-    "tags": [
-      "国际时政"
-    ],
-    "sources": [
-      "BBC News"
-    ],
-    "sourceUrls": [
-      "https://www.bbc.co.uk/news/articles/c54g1kxw4nvvo?at_medium=RSS&at_campaign=rss"
-    ]
-  },
-  {
-    "id": "rss-2-9c464aa25357",
-    "category": "tech",
-    "importance": 6,
-    "sourcesCount": 1,
-    "titleZh": "Trump says Musk has restored access to Ukraine's Starlink network",
-    "titleEn": "Trump says Musk has restored access to Ukraine's Starlink network",
-    "summaryZh": "Ukraine relies on Starlink for a range of military uses - its owner Elon Musk has repeatedly denied restricting access.",
-    "summaryEn": "Ukraine relies on Starlink for a range of military uses - its owner Elon Musk has repeatedly denied restricting access.",
-    "detailZh": "来源：BBC News。这是基于 RSS 摘要生成的待加工条目。接入大模型后，系统会进一步完成中文改写、事实核对、背景补充和多源合并。",
-    "detailEn": "Source: BBC News. This is an RSS-based draft. After an LLM is configured, the pipeline will rewrite, fact-check, enrich and merge reports about the same event.",
-    "tags": [
-      "科技"
-    ],
-    "sources": [
-      "BBC News"
-    ],
-    "sourceUrls": [
-      "https://www.bbc.co.uk/news/articles/cq74pjpmx0e8o?at_medium=RSS&at_campaign=rss"
-    ]
-  },
-  {
-    "id": "rss-3-8487bcceecf1",
+    "id": "rss-1-d7c780964626",
     "category": "security",
     "importance": 6,
     "sourcesCount": 1,
-    "titleZh": "Newborn twins fight for survival as conflict fuels Yemen's hunger crisis",
-    "titleEn": "Newborn twins fight for survival as conflict fuels Yemen's hunger crisis",
-    "summaryZh": "Raghad and Raad's family had to flee their home on foot because of the fighting between pro-government forces and the Houthis.",
-    "summaryEn": "Raghad and Raad's family had to flee their home on foot because of the fighting between pro-government forces and the Houthis.",
+    "titleZh": "Deadly shooting near Paris is a 'racist terrorist attack', Macron says",
+    "titleEn": "Deadly shooting near Paris is a 'racist terrorist attack', Macron says",
+    "summaryZh": "One person is killed and five wounded in a series of attacks. The suspected gunman has been apprehended.",
+    "summaryEn": "One person is killed and five wounded in a series of attacks. The suspected gunman has been apprehended.",
     "detailZh": "来源：BBC News。这是基于 RSS 摘要生成的待加工条目。接入大模型后，系统会进一步完成中文改写、事实核对、背景补充和多源合并。",
     "detailEn": "Source: BBC News. This is an RSS-based draft. After an LLM is configured, the pipeline will rewrite, fact-check, enrich and merge reports about the same event.",
     "tags": [
@@ -59,18 +17,18 @@
       "BBC News"
     ],
     "sourceUrls": [
-      "https://www.bbc.co.uk/news/articles/cr5ynl63v0pyo?at_medium=RSS&at_campaign=rss"
+      "https://www.bbc.co.uk/news/articles/c6ev38dj1g8zo?at_medium=RSS&at_campaign=rss"
     ]
   },
   {
-    "id": "rss-4-bc35bf371d86",
+    "id": "rss-2-45f546718dbb",
     "category": "world",
     "importance": 6,
     "sourcesCount": 1,
-    "titleZh": "Powerful earthquake hits Tibet killing 16 people, reports say",
-    "titleEn": "Powerful earthquake hits Tibet killing 16 people, reports say",
-    "summaryZh": "The quake hit a mountainous, sparsely-populated area in what China calls the Tibet Autonomous Region.",
-    "summaryEn": "The quake hit a mountainous, sparsely-populated area in what China calls the Tibet Autonomous Region.",
+    "titleZh": "Seven shot dead by gunmen at church funeral in Jordan, officials say",
+    "titleEn": "Seven shot dead by gunmen at church funeral in Jordan, officials say",
+    "summaryZh": "Thirty-four people are also injured in the attack in southern Karak governorate, and a manhunt is now under way.",
+    "summaryEn": "Thirty-four people are also injured in the attack in southern Karak governorate, and a manhunt is now under way.",
     "detailZh": "来源：BBC News。这是基于 RSS 摘要生成的待加工条目。接入大模型后，系统会进一步完成中文改写、事实核对、背景补充和多源合并。",
     "detailEn": "Source: BBC News. This is an RSS-based draft. After an LLM is configured, the pipeline will rewrite, fact-check, enrich and merge reports about the same event.",
     "tags": [
@@ -80,18 +38,39 @@
       "BBC News"
     ],
     "sourceUrls": [
-      "https://www.bbc.co.uk/news/articles/ck5ynd1z6e83o?at_medium=RSS&at_campaign=rss"
+      "https://www.bbc.co.uk/news/articles/ck87zlpzny15o?at_medium=RSS&at_campaign=rss"
     ]
   },
   {
-    "id": "rss-5-84738a388b9c",
+    "id": "rss-3-e30bbbd76536",
+    "category": "tech",
+    "importance": 6,
+    "sourcesCount": 1,
+    "titleZh": "Freed US citizen was tortured in Russian jail, former Ukrainian prisoners say",
+    "titleEn": "Freed US citizen was tortured in Russian jail, former Ukrainian prisoners say",
+    "summaryZh": "Ukrainians held alongside the American say they witnessed beatings and sexual humiliation by Russian guards during his detention.",
+    "summaryEn": "Ukrainians held alongside the American say they witnessed beatings and sexual humiliation by Russian guards during his detention.",
+    "detailZh": "来源：BBC News。这是基于 RSS 摘要生成的待加工条目。接入大模型后，系统会进一步完成中文改写、事实核对、背景补充和多源合并。",
+    "detailEn": "Source: BBC News. This is an RSS-based draft. After an LLM is configured, the pipeline will rewrite, fact-check, enrich and merge reports about the same event.",
+    "tags": [
+      "科技"
+    ],
+    "sources": [
+      "BBC News"
+    ],
+    "sourceUrls": [
+      "https://www.bbc.co.uk/news/articles/cx7vpmn6qzmlo?at_medium=RSS&at_campaign=rss"
+    ]
+  },
+  {
+    "id": "rss-4-7718246191f0",
     "category": "world",
     "importance": 6,
     "sourcesCount": 1,
-    "titleZh": "L'Oreal says weight loss drugs are impacting beauty and skin care sales",
-    "titleEn": "L'Oreal says weight loss drugs are impacting beauty and skin care sales",
-    "summaryZh": "The beauty giant's CEO says the use of GLP-1s is \"a very important phenomenon for us\".",
-    "summaryEn": "The beauty giant's CEO says the use of GLP-1s is \"a very important phenomenon for us\".",
+    "titleZh": "Israeli forces begin demolishing Palestinian buildings in Hebron after two Israeli soldiers shot dead",
+    "titleEn": "Israeli forces begin demolishing Palestinian buildings in Hebron after two Israeli soldiers shot dead",
+    "summaryZh": "The soldiers were killed in an attack by two Palestinian gunmen at a checkpoint outside the West Bank city on Friday morning.",
+    "summaryEn": "The soldiers were killed in an attack by two Palestinian gunmen at a checkpoint outside the West Bank city on Friday morning.",
     "detailZh": "来源：BBC News。这是基于 RSS 摘要生成的待加工条目。接入大模型后，系统会进一步完成中文改写、事实核对、背景补充和多源合并。",
     "detailEn": "Source: BBC News. This is an RSS-based draft. After an LLM is configured, the pipeline will rewrite, fact-check, enrich and merge reports about the same event.",
     "tags": [
@@ -101,39 +80,39 @@
       "BBC News"
     ],
     "sourceUrls": [
-      "https://www.bbc.co.uk/news/articles/cvglwgwpgrlpo?at_medium=RSS&at_campaign=rss"
+      "https://www.bbc.co.uk/news/articles/cq4g1p974wxko?at_medium=RSS&at_campaign=rss"
     ]
   },
   {
-    "id": "rss-6-80f21d241088",
-    "category": "security",
+    "id": "rss-5-f8deac049ef3",
+    "category": "tech",
     "importance": 6,
     "sourcesCount": 1,
-    "titleZh": "What we know about war plans that Trump and Netanyahu are drawing up",
-    "titleEn": "What we know about war plans that Trump and Netanyahu are drawing up",
-    "summaryZh": "Could the U.S. and Israel be on the verge of launching a new attack on Iran? President Trump and Prime Minister Benjamin Netanyahu have been suggesting that's on the table.",
-    "summaryEn": "Could the U.S. and Israel be on the verge of launching a new attack on Iran? President Trump and Prime Minister Benjamin Netanyahu have been suggesting that's on the table.",
-    "detailZh": "来源：NPR World。这是基于 RSS 摘要生成的待加工条目。接入大模型后，系统会进一步完成中文改写、事实核对、背景补充和多源合并。",
-    "detailEn": "Source: NPR World. This is an RSS-based draft. After an LLM is configured, the pipeline will rewrite, fact-check, enrich and merge reports about the same event.",
+    "titleZh": "White House says Melania Trump brokered truce for Ukraine city 'on brink of disaster'",
+    "titleEn": "White House says Melania Trump brokered truce for Ukraine city 'on brink of disaster'",
+    "summaryZh": "Ukraine and Russia confirm the truce in Russian-occupied Oleshky, where residents have had to eat garden weeds to survive.",
+    "summaryEn": "Ukraine and Russia confirm the truce in Russian-occupied Oleshky, where residents have had to eat garden weeds to survive.",
+    "detailZh": "来源：BBC News。这是基于 RSS 摘要生成的待加工条目。接入大模型后，系统会进一步完成中文改写、事实核对、背景补充和多源合并。",
+    "detailEn": "Source: BBC News. This is an RSS-based draft. After an LLM is configured, the pipeline will rewrite, fact-check, enrich and merge reports about the same event.",
     "tags": [
-      "冲突与安全"
+      "科技"
     ],
     "sources": [
-      "NPR World"
+      "BBC News"
     ],
     "sourceUrls": [
-      "https://www.npr.org/2026/10/22/nx-s1-6012306/what-we-know-about-war-plans-that-trump-and-netanyahu-are-drawing-up"
+      "https://www.bbc.co.uk/news/articles/c6vgxkvl4w5eo?at_medium=RSS&at_campaign=rss"
     ]
   },
   {
-    "id": "rss-7-993b96077412",
+    "id": "rss-6-274b664a49a6",
     "category": "world",
     "importance": 6,
     "sourcesCount": 1,
-    "titleZh": "Greetings from the Brazil-Argentina border, where waterfalls are flowing at near-record rates",
-    "titleEn": "Greetings from the Brazil-Argentina border, where waterfalls are flowing at near-record rates",
-    "summaryZh": "The Iguazú Falls span more than a mile across both countries. A rain-soaked October, which scientists link to the Super El Niño, has sent near-record volumes of water surging over ",
-    "summaryEn": "The Iguazú Falls span more than a mile across both countries. A rain-soaked October, which scientists link to the Super El Niño, has sent near-record volumes of water surging over the towering cliffs.",
+    "titleZh": "Authorities investigating whether first Kenya and Nigeria Ebola cases crossed paths",
+    "titleEn": "Authorities investigating whether first Kenya and Nigeria Ebola cases crossed paths",
+    "summaryZh": "Nigeria this week recorded its first case of Ebola in the current outbreak, which has spread from the epicenter in Congo to several other African countries.",
+    "summaryEn": "Nigeria this week recorded its first case of Ebola in the current outbreak, which has spread from the epicenter in Congo to several other African countries.",
     "detailZh": "来源：NPR World。这是基于 RSS 摘要生成的待加工条目。接入大模型后，系统会进一步完成中文改写、事实核对、背景补充和多源合并。",
     "detailEn": "Source: NPR World. This is an RSS-based draft. After an LLM is configured, the pipeline will rewrite, fact-check, enrich and merge reports about the same event.",
     "tags": [
@@ -143,18 +122,18 @@
       "NPR World"
     ],
     "sourceUrls": [
-      "https://www.npr.org/2026/10/22/g-s1-148553/argentina-brazil-iguazu-falls-waterfalls-super-el-nino"
+      "https://www.npr.org/2026/10/23/g-s1-149515/africa-ebola-outbreak"
     ]
   },
   {
-    "id": "rss-8-4212a5c7dadf",
+    "id": "rss-7-537af07b2733",
     "category": "security",
     "importance": 6,
     "sourcesCount": 1,
-    "titleZh": "U.S., Israel may attack Iran post-elections. And, SpaceX and Tesla consider merging",
-    "titleEn": "U.S., Israel may attack Iran post-elections. And, SpaceX and Tesla consider merging",
-    "summaryZh": "The U.S. and Israel are planning for a possible post-elections attack on Iran, an anonymous source tells NPR. And, Elon Musk considers merging his companies SpaceX and Tesla.",
-    "summaryEn": "The U.S. and Israel are planning for a possible post-elections attack on Iran, an anonymous source tells NPR. And, Elon Musk considers merging his companies SpaceX and Tesla.",
+    "titleZh": "Military reinforcements move to Mideast. And, millions of Americans vote early",
+    "titleEn": "Military reinforcements move to Mideast. And, millions of Americans vote early",
+    "summaryZh": "Military reinforcements are heading to the Middle East and some personnel have left the region, pointing to a potential attack on Iran. And, millions of Americans have already vote",
+    "summaryEn": "Military reinforcements are heading to the Middle East and some personnel have left the region, pointing to a potential attack on Iran. And, millions of Americans have already voted in the midterms.",
     "detailZh": "来源：NPR World。这是基于 RSS 摘要生成的待加工条目。接入大模型后，系统会进一步完成中文改写、事实核对、背景补充和多源合并。",
     "detailEn": "Source: NPR World. This is an RSS-based draft. After an LLM is configured, the pipeline will rewrite, fact-check, enrich and merge reports about the same event.",
     "tags": [
@@ -164,53 +143,95 @@
       "NPR World"
     ],
     "sourceUrls": [
-      "https://www.npr.org/2026/10/22/g-s1-149315/up-first-newsletter-midterm-campaign-israel-iran-elon-musk-spacex-tesla"
+      "https://www.npr.org/2026/10/23/g-s1-149514/up-first-newsletter-iran-war-midterm-voting-trump-bbc"
     ]
   },
   {
-    "id": "rss-9-42ffcebca90b",
-    "category": "tech",
+    "id": "rss-8-a059d5ec8f95",
+    "category": "security",
     "importance": 6,
     "sourcesCount": 1,
-    "titleZh": "Former U.S. Ambassador to Ukraine William Taylor on Trump's embrace of Russia",
-    "titleEn": "Former U.S. Ambassador to Ukraine William Taylor on Trump's embrace of Russia",
-    "summaryZh": "NPR's Steve Inskeep asks former U.S. Ambassador to Ukraine William Taylor about President Trump's embrace of Russia as envoy Steve Witkoff visits Moscow after meeting Ukraine's Vol",
-    "summaryEn": "NPR's Steve Inskeep asks former U.S. Ambassador to Ukraine William Taylor about President Trump's embrace of Russia as envoy Steve Witkoff visits Moscow after meeting Ukraine's Volodymyr Zelenskyy.",
+    "titleZh": "Retired general discusses the U.S. and Israeli plan for possible attack on Iran",
+    "titleEn": "Retired general discusses the U.S. and Israeli plan for possible attack on Iran",
+    "summaryZh": "NPR'S Leila Fadel speaks with retired four-star Gen. Joseph Votel about the war in Iran and the U.S. and Israeli objectives for a potential post-election bombing campaign.",
+    "summaryEn": "NPR'S Leila Fadel speaks with retired four-star Gen. Joseph Votel about the war in Iran and the U.S. and Israeli objectives for a potential post-election bombing campaign.",
     "detailZh": "来源：NPR World。这是基于 RSS 摘要生成的待加工条目。接入大模型后，系统会进一步完成中文改写、事实核对、背景补充和多源合并。",
     "detailEn": "Source: NPR World. This is an RSS-based draft. After an LLM is configured, the pipeline will rewrite, fact-check, enrich and merge reports about the same event.",
     "tags": [
-      "科技"
+      "冲突与安全"
     ],
     "sources": [
       "NPR World"
     ],
     "sourceUrls": [
-      "https://www.npr.org/2026/10/22/nx-s1-6010509/former-u-s-ambassador-to-ukraine-william-taylor-on-trumps-embrace-of-russia"
+      "https://www.npr.org/2026/10/23/nx-s1-6012303/retired-general-discusses-the-u-s-and-israeli-plan-for-possible-attack-on-iran"
     ]
   },
   {
-    "id": "rss-10-28f5ef20ac5c",
-    "category": "tech",
+    "id": "rss-9-ba57adb7a991",
+    "category": "economy",
     "importance": 6,
     "sourcesCount": 1,
-    "titleZh": "See how Big Tech is transforming Spain's landscape",
-    "titleEn": "See how Big Tech is transforming Spain's landscape",
-    "summaryZh": "A drought-stricken region of northeast Spain has become a focus for American companies searching for locations to place their data centers.",
-    "summaryEn": "A drought-stricken region of northeast Spain has become a focus for American companies searching for locations to place their data centers.",
+    "titleZh": "Israel orders closure of West Bank after soldiers kill 2 men behind an alleged attack",
+    "titleEn": "Israel orders closure of West Bank after soldiers kill 2 men behind an alleged attack",
+    "summaryZh": "Israeli soldiers shot and killed two men who the military said had launched an attack near the city of Hebron in the occupied West Bank on Friday morning. At least five people were",
+    "summaryEn": "Israeli soldiers shot and killed two men who the military said had launched an attack near the city of Hebron in the occupied West Bank on Friday morning. At least five people were injured, including some critically.",
     "detailZh": "来源：NPR World。这是基于 RSS 摘要生成的待加工条目。接入大模型后，系统会进一步完成中文改写、事实核对、背景补充和多源合并。",
     "detailEn": "Source: NPR World. This is an RSS-based draft. After an LLM is configured, the pipeline will rewrite, fact-check, enrich and merge reports about the same event.",
     "tags": [
-      "科技"
+      "经济财经"
     ],
     "sources": [
       "NPR World"
     ],
     "sourceUrls": [
-      "https://www.npr.org/2026/10/22/nx-s1-5991641/ai-data-centers-spain-environmental-impact"
+      "https://www.npr.org/2026/10/23/nx-s1-6013333/netanyahu-closure-west-bank"
     ]
   },
   {
-    "id": "rss-11-db55da87d9a9",
+    "id": "rss-10-77fd204f109f",
+    "category": "world",
+    "importance": 6,
+    "sourcesCount": 1,
+    "titleZh": "Hacking attempts rise after flaws found in program affecting 70% of websites",
+    "titleEn": "Hacking attempts rise after flaws found in program affecting 70% of websites",
+    "summaryZh": "Governments around the world are rushing to implement safety measures after AI technology found \"severe\" vulnerabilities in a key programming language called PHP.",
+    "summaryEn": "Governments around the world are rushing to implement safety measures after AI technology found \"severe\" vulnerabilities in a key programming language called PHP.",
+    "detailZh": "来源：NPR World。这是基于 RSS 摘要生成的待加工条目。接入大模型后，系统会进一步完成中文改写、事实核对、背景补充和多源合并。",
+    "detailEn": "Source: NPR World. This is an RSS-based draft. After an LLM is configured, the pipeline will rewrite, fact-check, enrich and merge reports about the same event.",
+    "tags": [
+      "国际时政"
+    ],
+    "sources": [
+      "NPR World"
+    ],
+    "sourceUrls": [
+      "https://www.npr.org/2026/10/23/g-s1-149503/hacking-php-flaws"
+    ]
+  },
+  {
+    "id": "rss-11-9cd41a2cc7c2",
+    "category": "world",
+    "importance": 6,
+    "sourcesCount": 1,
+    "titleZh": "Mystery over source of Ebola infection in Nigeria fuels concern about spread of virus",
+    "titleEn": "Mystery over source of Ebola infection in Nigeria fuels concern about spread of virus",
+    "summaryZh": "Switzerland says patient is wife of Swiss diplomat and believed to have contracted virus while travelling in Uganda Health officials across Africa are racing to determine how Niger",
+    "summaryEn": "Switzerland says patient is wife of Swiss diplomat and believed to have contracted virus while travelling in Uganda Health officials across Africa are racing to determine how Nigeria’s first Ebola patient ⁠in more than a decade ⁠became infected, amid fears ​th",
+    "detailZh": "来源：The Guardian。这是基于 RSS 摘要生成的待加工条目。接入大模型后，系统会进一步完成中文改写、事实核对、背景补充和多源合并。",
+    "detailEn": "Source: The Guardian. This is an RSS-based draft. After an LLM is configured, the pipeline will rewrite, fact-check, enrich and merge reports about the same event.",
+    "tags": [
+      "国际时政"
+    ],
+    "sources": [
+      "The Guardian"
+    ],
+    "sourceUrls": [
+      "https://www.theguardian.com/world/2026/oct/23/ebola-swiss-patient-nigeria-dr-congo-concerns-virus-spread"
+    ]
+  },
+  {
+    "id": "rss-12-db55da87d9a9",
     "category": "tech",
     "importance": 6,
     "sourcesCount": 1,
@@ -231,7 +252,7 @@
     ]
   },
   {
-    "id": "rss-12-37df3a7841b8",
+    "id": "rss-13-37df3a7841b8",
     "category": "world",
     "importance": 6,
     "sourcesCount": 1,
@@ -252,7 +273,7 @@
     ]
   },
   {
-    "id": "rss-13-37b8f8578362",
+    "id": "rss-14-37b8f8578362",
     "category": "tech",
     "importance": 6,
     "sourcesCount": 1,
@@ -273,7 +294,7 @@
     ]
   },
   {
-    "id": "rss-14-4031aa1963a5",
+    "id": "rss-15-4031aa1963a5",
     "category": "world",
     "importance": 6,
     "sourcesCount": 1,
@@ -291,27 +312,6 @@
     ],
     "sourceUrls": [
       "https://www.theguardian.com/world/2026/oct/21/nigeria-first-ebola-case-africa-outbreak-latest"
-    ]
-  },
-  {
-    "id": "rss-15-800e7aa0264c",
-    "category": "tech",
-    "importance": 6,
-    "sourcesCount": 1,
-    "titleZh": "RFK Jr’s ‘deities of vaccine research’ raided by police in Guinea-Bissau",
-    "titleEn": "RFK Jr’s ‘deities of vaccine research’ raided by police in Guinea-Bissau",
-    "summaryZh": "Police seize doses of hepatitis B vaccine from people at center of dispute over research on African newborns Controversial vaccine researchers who have been praised by Robert F Ken",
-    "summaryEn": "Police seize doses of hepatitis B vaccine from people at center of dispute over research on African newborns Controversial vaccine researchers who have been praised by Robert F Kennedy Jr, the US Department of Health and Human Services (HHS) secretary, had the",
-    "detailZh": "来源：The Guardian。这是基于 RSS 摘要生成的待加工条目。接入大模型后，系统会进一步完成中文改写、事实核对、背景补充和多源合并。",
-    "detailEn": "Source: The Guardian. This is an RSS-based draft. After an LLM is configured, the pipeline will rewrite, fact-check, enrich and merge reports about the same event.",
-    "tags": [
-      "科技"
-    ],
-    "sources": [
-      "The Guardian"
-    ],
-    "sourceUrls": [
-      "https://www.theguardian.com/world/2026/oct/20/rfk-jr-vaccine-researchers-offices-raided-guinea-bissau"
     ]
   },
   {
@@ -420,14 +420,14 @@
     ]
   },
   {
-    "id": "rss-21-de3d1bfecca2",
+    "id": "rss-21-5d9a6526c739",
     "category": "tech",
     "importance": 6,
     "sourcesCount": 1,
-    "titleZh": "Mark Zuckerberg’s creative plan to pay California’s proposed billionaire tax without losing control of Meta",
-    "titleEn": "Mark Zuckerberg’s creative plan to pay California’s proposed billionaire tax without losing control of Meta",
-    "summaryZh": "A newly launched stock class being offered was partially engineered to help Meta founder and CEO Mark Zuckerberg pay the \"billionaire's tax,\" should the measure be voted into law.",
-    "summaryEn": "A newly launched stock class being offered was partially engineered to help Meta founder and CEO Mark Zuckerberg pay the \"billionaire's tax,\" should the measure be voted into law.",
+    "titleZh": "Startups don’t need to go viral to win customers",
+    "titleEn": "Startups don’t need to go viral to win customers",
+    "summaryZh": "At TechCrunch Disrupt last week, two founders and a VC discussed how to not just gain an early following but keep one.",
+    "summaryEn": "At TechCrunch Disrupt last week, two founders and a VC discussed how to not just gain an early following but keep one.",
     "detailZh": "来源：TechCrunch。这是基于 RSS 摘要生成的待加工条目。接入大模型后，系统会进一步完成中文改写、事实核对、背景补充和多源合并。",
     "detailEn": "Source: TechCrunch. This is an RSS-based draft. After an LLM is configured, the pipeline will rewrite, fact-check, enrich and merge reports about the same event.",
     "tags": [
@@ -437,18 +437,18 @@
       "TechCrunch"
     ],
     "sourceUrls": [
-      "https://techcrunch.com/2026/10/22/mark-zuckerbergs-creative-plan-to-pay-californias-proposed-billionaire-tax-without-losing-control-of-meta/"
+      "https://techcrunch.com/2026/10/23/startups-dont-need-to-go-viral-to-win-customers/"
     ]
   },
   {
-    "id": "rss-22-e7817df0f1c1",
+    "id": "rss-22-b15a6fb9671b",
     "category": "tech",
     "importance": 6,
     "sourcesCount": 1,
-    "titleZh": "Warhound raises $200M to engineer war dogs and arm them with Anduril gear",
-    "titleEn": "Warhound raises $200M to engineer war dogs and arm them with Anduril gear",
-    "summaryZh": "Warhound, the brainchild of Ben Lamm and Palmer Luckey, emerges from stealth to genetically engineer dogs for military and law enforcement.",
-    "summaryEn": "Warhound, the brainchild of Ben Lamm and Palmer Luckey, emerges from stealth to genetically engineer dogs for military and law enforcement.",
+    "titleZh": "OpenAI says it will no longer train its AI models on the live internet, citing “significant risks”",
+    "titleEn": "OpenAI says it will no longer train its AI models on the live internet, citing “significant risks”",
+    "summaryZh": "OpenAI will cut frontier models off from the internet weeks after one of its engineers said that solution wouldn't work.",
+    "summaryEn": "OpenAI will cut frontier models off from the internet weeks after one of its engineers said that solution wouldn't work.",
     "detailZh": "来源：TechCrunch。这是基于 RSS 摘要生成的待加工条目。接入大模型后，系统会进一步完成中文改写、事实核对、背景补充和多源合并。",
     "detailEn": "Source: TechCrunch. This is an RSS-based draft. After an LLM is configured, the pipeline will rewrite, fact-check, enrich and merge reports about the same event.",
     "tags": [
@@ -458,18 +458,18 @@
       "TechCrunch"
     ],
     "sourceUrls": [
-      "https://techcrunch.com/2026/10/22/ben-lamm-raises-200m-for-warhound-to-engineer-war-dogs-and-arm-them-with-anduril-gear/"
+      "https://techcrunch.com/2026/10/23/openai-says-it-will-no-longer-train-its-ai-models-on-the-live-internet-citing-significant-risks/"
     ]
   },
   {
-    "id": "rss-23-e1ac4e45982b",
+    "id": "rss-23-f782f2bc9618",
     "category": "tech",
     "importance": 6,
     "sourcesCount": 1,
-    "titleZh": "As blockchain investing falls out of vogue, a16z Crypto rebrands as a16z Frontier",
-    "titleEn": "As blockchain investing falls out of vogue, a16z Crypto rebrands as a16z Frontier",
-    "summaryZh": "The digital asset unit, helmed by Chris Dixon, broadens its scope.",
-    "summaryEn": "The digital asset unit, helmed by Chris Dixon, broadens its scope.",
+    "titleZh": "Hottest toy for Christmas? Nvidia CEO plays with adorable Microduck robots, 20,000 sell",
+    "titleEn": "Hottest toy for Christmas? Nvidia CEO plays with adorable Microduck robots, 20,000 sell",
+    "summaryZh": "The robots, stomping their little feet and making tiny R2-D2 noises, sat, fell down dead for a \"nap,\" and summersaulted on voice command.",
+    "summaryEn": "The robots, stomping their little feet and making tiny R2-D2 noises, sat, fell down dead for a \"nap,\" and summersaulted on voice command.",
     "detailZh": "来源：TechCrunch。这是基于 RSS 摘要生成的待加工条目。接入大模型后，系统会进一步完成中文改写、事实核对、背景补充和多源合并。",
     "detailEn": "Source: TechCrunch. This is an RSS-based draft. After an LLM is configured, the pipeline will rewrite, fact-check, enrich and merge reports about the same event.",
     "tags": [
@@ -479,18 +479,18 @@
       "TechCrunch"
     ],
     "sourceUrls": [
-      "https://techcrunch.com/2026/10/22/as-blockchain-investing-falls-out-of-vogue-a16z-crypto-rebrands-as-a16z-frontier/"
+      "https://techcrunch.com/2026/10/23/hottest-toy-for-christmas-nvidia-ceo-plays-with-adorable-microduck-robots-20000-sell/"
     ]
   },
   {
-    "id": "rss-24-d73c3fbf5a8b",
+    "id": "rss-24-ad69af1a098e",
     "category": "tech",
     "importance": 6,
     "sourcesCount": 1,
-    "titleZh": "OpenAI working on new $30B raise at $1.25T valuation ahead of IPO",
-    "titleEn": "OpenAI working on new $30B raise at $1.25T valuation ahead of IPO",
-    "summaryZh": "Should OpenAI command an over $1 trillion valuation with this round, it would break records as the most highly valued private company ever.",
-    "summaryEn": "Should OpenAI command an over $1 trillion valuation with this round, it would break records as the most highly valued private company ever.",
+    "titleZh": "VCs, Superhuman Mail founder share red flags about product-market fit",
+    "titleEn": "VCs, Superhuman Mail founder share red flags about product-market fit",
+    "summaryZh": "Top investors from Iconiq and Sapphire Ventures, along with Rahul Vohra, the founder of Superhuman Mail, share the do's and don'ts for building hit products.",
+    "summaryEn": "Top investors from Iconiq and Sapphire Ventures, along with Rahul Vohra, the founder of Superhuman Mail, share the do's and don'ts for building hit products.",
     "detailZh": "来源：TechCrunch。这是基于 RSS 摘要生成的待加工条目。接入大模型后，系统会进一步完成中文改写、事实核对、背景补充和多源合并。",
     "detailEn": "Source: TechCrunch. This is an RSS-based draft. After an LLM is configured, the pipeline will rewrite, fact-check, enrich and merge reports about the same event.",
     "tags": [
@@ -500,18 +500,18 @@
       "TechCrunch"
     ],
     "sourceUrls": [
-      "https://techcrunch.com/2026/10/22/openai-working-on-new-30b-raise-at-1-25t-valuation-ahead-of-ipo/"
+      "https://techcrunch.com/2026/10/23/vcs-superhuman-mail-founder-share-red-flags-about-product-market-fit/"
     ]
   },
   {
-    "id": "rss-25-ec73a13041d6",
+    "id": "rss-25-558979392053",
     "category": "tech",
     "importance": 6,
     "sourcesCount": 1,
-    "titleZh": "Rivian buys world model startup to accelerate self-driving ambitions",
-    "titleEn": "Rivian buys world model startup to accelerate self-driving ambitions",
-    "summaryZh": "Third Dimension's technology uses AI to match the physical world, which when combined with Rivian's reams of data could turn into a valuable simulator.",
-    "summaryEn": "Third Dimension's technology uses AI to match the physical world, which when combined with Rivian's reams of data could turn into a valuable simulator.",
+    "titleZh": "TechCrunch Founder Summit 2026 roundtables: Go deeper on the challenges founders are solving right now",
+    "titleEn": "TechCrunch Founder Summit 2026 roundtables: Go deeper on the challenges founders are solving right now",
+    "summaryZh": "TechCrunch Founder Summit 2026 is coming to SoWa Power Station in Boston on November 4, bringing founders, investors, and operators together for a full day of candid conversations,",
+    "summaryEn": "TechCrunch Founder Summit 2026 is coming to SoWa Power Station in Boston on November 4, bringing founders, investors, and operators together for a full day of candid conversations, practical sessions, live pitching, networking, and smaller roundtables built fo",
     "detailZh": "来源：TechCrunch。这是基于 RSS 摘要生成的待加工条目。接入大模型后，系统会进一步完成中文改写、事实核对、背景补充和多源合并。",
     "detailEn": "Source: TechCrunch. This is an RSS-based draft. After an LLM is configured, the pipeline will rewrite, fact-check, enrich and merge reports about the same event.",
     "tags": [
@@ -521,18 +521,18 @@
       "TechCrunch"
     ],
     "sourceUrls": [
-      "https://techcrunch.com/2026/10/22/rivian-buys-world-model-startup-to-accelerate-self-driving-ambitions/"
+      "https://techcrunch.com/2026/10/23/techcrunch-founder-summit-2026-roundtables-go-deeper-on-the-challenges-founders-are-solving-right-now/"
     ]
   },
   {
-    "id": "rss-26-b99d9b821501",
+    "id": "rss-26-eae185076172",
     "category": "science",
     "importance": 6,
     "sourcesCount": 1,
-    "titleZh": "Can a 'lullaby' save coral reefs from extinction?",
-    "titleEn": "Can a 'lullaby' save coral reefs from extinction?",
-    "summaryZh": "Nature, Published online: 22 October 2026; doi:10.1038/d41586-026-03414-3 From underwater speakers to growing super-corals, scientists battle to save reefs around the world.",
-    "summaryEn": "Nature, Published online: 22 October 2026; doi:10.1038/d41586-026-03414-3 From underwater speakers to growing super-corals, scientists battle to save reefs around the world.",
+    "titleZh": "Author Correction: DYNLL1 binds to MRE11 to limit DNA end resection in BRCA1-deficient cells",
+    "titleEn": "Author Correction: DYNLL1 binds to MRE11 to limit DNA end resection in BRCA1-deficient cells",
+    "summaryZh": "Nature, Published online: 23 October 2026; doi:10.1038/s41586-026-11303-y Author Correction: DYNLL1 binds to MRE11 to limit DNA end resection in BRCA1-deficient cells",
+    "summaryEn": "Nature, Published online: 23 October 2026; doi:10.1038/s41586-026-11303-y Author Correction: DYNLL1 binds to MRE11 to limit DNA end resection in BRCA1-deficient cells",
     "detailZh": "来源：Nature News。这是基于 RSS 摘要生成的待加工条目。接入大模型后，系统会进一步完成中文改写、事实核对、背景补充和多源合并。",
     "detailEn": "Source: Nature News. This is an RSS-based draft. After an LLM is configured, the pipeline will rewrite, fact-check, enrich and merge reports about the same event.",
     "tags": [
@@ -542,18 +542,18 @@
       "Nature News"
     ],
     "sourceUrls": [
-      "https://www.nature.com/articles/d41586-026-03414-3"
+      "https://www.nature.com/articles/s41586-026-11303-y"
     ]
   },
   {
-    "id": "rss-27-b908ce2f90c3",
+    "id": "rss-27-e8fab22f43a7",
     "category": "science",
     "importance": 6,
     "sourcesCount": 1,
-    "titleZh": "A first for CRISPR: powerful prime editing alters DNA directly in the human body",
-    "titleEn": "A first for CRISPR: powerful prime editing alters DNA directly in the human body",
-    "summaryZh": "Nature, Published online: 22 October 2026; doi:10.1038/d41586-026-03371-x Application of the high-precision technique is part of a clinical trial to treat a genetic disease that ca",
-    "summaryEn": "Nature, Published online: 22 October 2026; doi:10.1038/d41586-026-03371-x Application of the high-precision technique is part of a clinical trial to treat a genetic disease that can cause liver and nerve damage.",
+    "titleZh": "Elusive snow leopards and evasive particles: Books in brief",
+    "titleEn": "Elusive snow leopards and evasive particles: Books in brief",
+    "summaryZh": "Nature, Published online: 23 October 2026; doi:10.1038/d41586-026-03395-3 Andrew Robinson reviews five of the best science picks.",
+    "summaryEn": "Nature, Published online: 23 October 2026; doi:10.1038/d41586-026-03395-3 Andrew Robinson reviews five of the best science picks.",
     "detailZh": "来源：Nature News。这是基于 RSS 摘要生成的待加工条目。接入大模型后，系统会进一步完成中文改写、事实核对、背景补充和多源合并。",
     "detailEn": "Source: Nature News. This is an RSS-based draft. After an LLM is configured, the pipeline will rewrite, fact-check, enrich and merge reports about the same event.",
     "tags": [
@@ -563,60 +563,18 @@
       "Nature News"
     ],
     "sourceUrls": [
-      "https://www.nature.com/articles/d41586-026-03371-x"
+      "https://www.nature.com/articles/d41586-026-03395-3"
     ]
   },
   {
-    "id": "rss-28-79bea2ddc22e",
-    "category": "tech",
-    "importance": 6,
-    "sourcesCount": 1,
-    "titleZh": "Teen depression and anxiety predicted by childhood brain development",
-    "titleEn": "Teen depression and anxiety predicted by childhood brain development",
-    "summaryZh": "Nature, Published online: 22 October 2026; doi:10.1038/d41586-026-03357-9 Analysis of nearly 30,000 brain scans yields detailed timeline of how the brain matures — and hints at the",
-    "summaryEn": "Nature, Published online: 22 October 2026; doi:10.1038/d41586-026-03357-9 Analysis of nearly 30,000 brain scans yields detailed timeline of how the brain matures — and hints at the consequences of disrupting it.",
-    "detailZh": "来源：Nature News。这是基于 RSS 摘要生成的待加工条目。接入大模型后，系统会进一步完成中文改写、事实核对、背景补充和多源合并。",
-    "detailEn": "Source: Nature News. This is an RSS-based draft. After an LLM is configured, the pipeline will rewrite, fact-check, enrich and merge reports about the same event.",
-    "tags": [
-      "科技"
-    ],
-    "sources": [
-      "Nature News"
-    ],
-    "sourceUrls": [
-      "https://www.nature.com/articles/d41586-026-03357-9"
-    ]
-  },
-  {
-    "id": "rss-29-1b821a44df09",
-    "category": "tech",
-    "importance": 6,
-    "sourcesCount": 1,
-    "titleZh": "Can maths survive AI? Fields medallist Terence Tao calls for a ‘Maths 2.0’ world",
-    "titleEn": "Can maths survive AI? Fields medallist Terence Tao calls for a ‘Maths 2.0’ world",
-    "summaryZh": "Nature, Published online: 22 October 2026; doi:10.1038/d41586-026-03389-1 As machines race ahead in solving problems, mathematicians must establish a new era that prizes human unde",
-    "summaryEn": "Nature, Published online: 22 October 2026; doi:10.1038/d41586-026-03389-1 As machines race ahead in solving problems, mathematicians must establish a new era that prizes human understanding over simply publishing more solutions.",
-    "detailZh": "来源：Nature News。这是基于 RSS 摘要生成的待加工条目。接入大模型后，系统会进一步完成中文改写、事实核对、背景补充和多源合并。",
-    "detailEn": "Source: Nature News. This is an RSS-based draft. After an LLM is configured, the pipeline will rewrite, fact-check, enrich and merge reports about the same event.",
-    "tags": [
-      "科技"
-    ],
-    "sources": [
-      "Nature News"
-    ],
-    "sourceUrls": [
-      "https://www.nature.com/articles/d41586-026-03389-1"
-    ]
-  },
-  {
-    "id": "rss-30-38a1025854dc",
+    "id": "rss-28-4b83af2eac77",
     "category": "science",
     "importance": 6,
     "sourcesCount": 1,
-    "titleZh": "Current-Driven Molecular Machine with Rotation-Enhanced Conductance",
-    "titleEn": "Current-Driven Molecular Machine with Rotation-Enhanced Conductance",
-    "summaryZh": "Nature, Published online: 22 October 2026; doi:10.1038/s41586-026-11312-x Current-Driven Molecular Machine with Rotation-Enhanced Conductance",
-    "summaryEn": "Nature, Published online: 22 October 2026; doi:10.1038/s41586-026-11312-x Current-Driven Molecular Machine with Rotation-Enhanced Conductance",
+    "titleZh": "Sleep declines in rural communities after electricity arrives",
+    "titleEn": "Sleep declines in rural communities after electricity arrives",
+    "summaryZh": "Nature, Published online: 23 October 2026; doi:10.1038/d41586-026-03318-2 Scientists tracked the changing sleep patterns of Indigenous people in Argentina who gained access to main",
+    "summaryEn": "Nature, Published online: 23 October 2026; doi:10.1038/d41586-026-03318-2 Scientists tracked the changing sleep patterns of Indigenous people in Argentina who gained access to mains electricity — and smart phones.",
     "detailZh": "来源：Nature News。这是基于 RSS 摘要生成的待加工条目。接入大模型后，系统会进一步完成中文改写、事实核对、背景补充和多源合并。",
     "detailEn": "Source: Nature News. This is an RSS-based draft. After an LLM is configured, the pipeline will rewrite, fact-check, enrich and merge reports about the same event.",
     "tags": [
@@ -626,18 +584,60 @@
       "Nature News"
     ],
     "sourceUrls": [
-      "https://www.nature.com/articles/s41586-026-11312-x"
+      "https://www.nature.com/articles/d41586-026-03318-2"
     ]
   },
   {
-    "id": "rss-31-465972919286",
+    "id": "rss-29-6a935a96806a",
+    "category": "science",
+    "importance": 6,
+    "sourcesCount": 1,
+    "titleZh": "Briefing Chat: How physicists successfully trapped the electron's antimatter equivalent",
+    "titleEn": "Briefing Chat: How physicists successfully trapped the electron's antimatter equivalent",
+    "summaryZh": "Nature, Published online: 23 October 2026; doi:10.1038/d41586-026-03418-z Nature staff discuss how precisely measuring a positron could shed light on one of physics’ greatest myste",
+    "summaryEn": "Nature, Published online: 23 October 2026; doi:10.1038/d41586-026-03418-z Nature staff discuss how precisely measuring a positron could shed light on one of physics’ greatest mysteries — plus, the latest on an ambitious mission to a Martian moon.",
+    "detailZh": "来源：Nature News。这是基于 RSS 摘要生成的待加工条目。接入大模型后，系统会进一步完成中文改写、事实核对、背景补充和多源合并。",
+    "detailEn": "Source: Nature News. This is an RSS-based draft. After an LLM is configured, the pipeline will rewrite, fact-check, enrich and merge reports about the same event.",
+    "tags": [
+      "科学健康"
+    ],
+    "sources": [
+      "Nature News"
+    ],
+    "sourceUrls": [
+      "https://www.nature.com/articles/d41586-026-03418-z"
+    ]
+  },
+  {
+    "id": "rss-30-98f430df60ac",
+    "category": "science",
+    "importance": 6,
+    "sourcesCount": 1,
+    "titleZh": "First person infected with rare Shamonda virus: what we know",
+    "titleEn": "First person infected with rare Shamonda virus: what we know",
+    "summaryZh": "Nature, Published online: 23 October 2026; doi:10.1038/d41586-026-03416-1 Infectious-disease researchers say the risk of the livestock pathogen moving between people is low.",
+    "summaryEn": "Nature, Published online: 23 October 2026; doi:10.1038/d41586-026-03416-1 Infectious-disease researchers say the risk of the livestock pathogen moving between people is low.",
+    "detailZh": "来源：Nature News。这是基于 RSS 摘要生成的待加工条目。接入大模型后，系统会进一步完成中文改写、事实核对、背景补充和多源合并。",
+    "detailEn": "Source: Nature News. This is an RSS-based draft. After an LLM is configured, the pipeline will rewrite, fact-check, enrich and merge reports about the same event.",
+    "tags": [
+      "科学健康"
+    ],
+    "sources": [
+      "Nature News"
+    ],
+    "sourceUrls": [
+      "https://www.nature.com/articles/d41586-026-03416-1"
+    ]
+  },
+  {
+    "id": "rss-31-1bbc15ef5df1",
     "category": "security",
     "importance": 6,
     "sourcesCount": 1,
-    "titleZh": "Iran war live: Trump hints new strikes, says US knocked ‘hell out’ of Iran",
-    "titleEn": "Iran war live: Trump hints new strikes, says US knocked ‘hell out’ of Iran",
-    "summaryZh": "Trump indicates new strikes on Iran, saying the US has knocked the 'hell out' of the country.",
-    "summaryEn": "Trump indicates new strikes on Iran, saying the US has knocked the 'hell out' of the country.",
+    "titleZh": "Iran war live: Israel launches ‘targeted’ Hebron operation after attack",
+    "titleEn": "Iran war live: Israel launches ‘targeted’ Hebron operation after attack",
+    "summaryZh": "Israeli army launches a 'targeted' operation in Hebron after a shooting killed two soldiers.",
+    "summaryEn": "Israeli army launches a 'targeted' operation in Hebron after a shooting killed two soldiers.",
     "detailZh": "来源：Al Jazeera。这是基于 RSS 摘要生成的待加工条目。接入大模型后，系统会进一步完成中文改写、事实核对、背景补充和多源合并。",
     "detailEn": "Source: Al Jazeera. This is an RSS-based draft. After an LLM is configured, the pipeline will rewrite, fact-check, enrich and merge reports about the same event.",
     "tags": [
@@ -647,18 +647,18 @@
       "Al Jazeera"
     ],
     "sourceUrls": [
-      "https://www.aljazeera.com/news/liveblog/2026/10/23/trump-hints-new-strikes-says-us-knocked-hell-out-of-iran?traffic_source=rss"
+      "https://www.aljazeera.com/news/liveblog/2026/10/24/iran-war-live-israel-launches-targeted-hebron-operation-after-attack?traffic_source=rss"
     ]
   },
   {
-    "id": "rss-32-9e090bd54744",
+    "id": "rss-32-210456cfdaec",
     "category": "security",
     "importance": 6,
     "sourcesCount": 1,
-    "titleZh": "UK Conservative Party leader responds to Al Jazeera investigation",
-    "titleEn": "UK Conservative Party leader responds to Al Jazeera investigation",
-    "summaryZh": "UK Conservative Party MP says the party does not condone former member's conduct, revealed in Al Jazeera investigation.",
-    "summaryEn": "UK Conservative Party MP says the party does not condone former member's conduct, revealed in Al Jazeera investigation.",
+    "titleZh": "Macklemore: ‘I say free Palestine’ as he kicks off a new tour",
+    "titleEn": "Macklemore: ‘I say free Palestine’ as he kicks off a new tour",
+    "summaryZh": "Macklemore says ‘being human is not complicated’ as he kicked off his Free Palestine tour on Thursday night.",
+    "summaryEn": "Macklemore says ‘being human is not complicated’ as he kicked off his Free Palestine tour on Thursday night.",
     "detailZh": "来源：Al Jazeera。这是基于 RSS 摘要生成的待加工条目。接入大模型后，系统会进一步完成中文改写、事实核对、背景补充和多源合并。",
     "detailEn": "Source: Al Jazeera. This is an RSS-based draft. After an LLM is configured, the pipeline will rewrite, fact-check, enrich and merge reports about the same event.",
     "tags": [
@@ -668,18 +668,39 @@
       "Al Jazeera"
     ],
     "sourceUrls": [
-      "https://www.aljazeera.com/video/newsfeed/2026/10/22/uk-conservative-party-leader-responds-to-al-jazeera-investigation?traffic_source=rss"
+      "https://www.aljazeera.com/video/newsfeed/2026/10/23/macklemore-i-say-free-palestine-as-he-kicks-off-a-new-tour?traffic_source=rss"
     ]
   },
   {
-    "id": "rss-33-212482c882de",
+    "id": "rss-33-0258491472d0",
+    "category": "tech",
+    "importance": 6,
+    "sourcesCount": 1,
+    "titleZh": "Typhoon Champi hits Taiwan, killing one and injuring 350",
+    "titleEn": "Typhoon Champi hits Taiwan, killing one and injuring 350",
+    "summaryZh": "Authorities warn of 'destructive winds' and urge residents to shelter as the storm passes the island's northeast.",
+    "summaryEn": "Authorities warn of 'destructive winds' and urge residents to shelter as the storm passes the island's northeast.",
+    "detailZh": "来源：Al Jazeera。这是基于 RSS 摘要生成的待加工条目。接入大模型后，系统会进一步完成中文改写、事实核对、背景补充和多源合并。",
+    "detailEn": "Source: Al Jazeera. This is an RSS-based draft. After an LLM is configured, the pipeline will rewrite, fact-check, enrich and merge reports about the same event.",
+    "tags": [
+      "科技"
+    ],
+    "sources": [
+      "Al Jazeera"
+    ],
+    "sourceUrls": [
+      "https://www.aljazeera.com/news/2026/10/23/typhoon-champi-hits-taiwan-killing-one-and-injuring-350?traffic_source=rss"
+    ]
+  },
+  {
+    "id": "rss-34-cb6bdf02f8d6",
     "category": "security",
     "importance": 6,
     "sourcesCount": 1,
-    "titleZh": "Almost all shallow-water coral reefs now face extinction risk, study warns",
-    "titleEn": "Almost all shallow-water coral reefs now face extinction risk, study warns",
-    "summaryZh": "World authority on threatened wildlife classifies 96 percent of assessed coral reef systems as \"critically endangered\".",
-    "summaryEn": "World authority on threatened wildlife classifies 96 percent of assessed coral reef systems as \"critically endangered\".",
+    "titleZh": "Kenya announces second Ebola death, says ‘no evidence’ of community spread",
+    "titleEn": "Kenya announces second Ebola death, says ‘no evidence’ of community spread",
+    "summaryZh": "The Ebola outbreak has now spread to four countries across eastern, central ⁠⁠and western Africa.",
+    "summaryEn": "The Ebola outbreak has now spread to four countries across eastern, central ⁠⁠and western Africa.",
     "detailZh": "来源：Al Jazeera。这是基于 RSS 摘要生成的待加工条目。接入大模型后，系统会进一步完成中文改写、事实核对、背景补充和多源合并。",
     "detailEn": "Source: Al Jazeera. This is an RSS-based draft. After an LLM is configured, the pipeline will rewrite, fact-check, enrich and merge reports about the same event.",
     "tags": [
@@ -689,18 +710,18 @@
       "Al Jazeera"
     ],
     "sourceUrls": [
-      "https://www.aljazeera.com/news/2026/10/22/almost-all-shallow-water-coral-reefs-now-face-extinction-risk-study-warns?traffic_source=rss"
+      "https://www.aljazeera.com/news/2026/10/23/kenya-announces-second-ebola-death-says-no-evidence-of-community-spread?traffic_source=rss"
     ]
   },
   {
-    "id": "rss-34-e1d8adef607e",
+    "id": "rss-35-8b48db5000f3",
     "category": "security",
     "importance": 6,
     "sourcesCount": 1,
-    "titleZh": "Hundreds of Ethiopians cross into Kenya to flee regional fighting",
-    "titleEn": "Hundreds of Ethiopians cross into Kenya to flee regional fighting",
-    "summaryZh": "Dispute over raising flag of Somali Regional State devolves into fighting between regional forces.",
-    "summaryEn": "Dispute over raising flag of Somali Regional State devolves into fighting between regional forces.",
+    "titleZh": "Why is Israel increasing its presence in the Balkans?",
+    "titleEn": "Why is Israel increasing its presence in the Balkans?",
+    "summaryZh": "In the Balkans, leaders are deepening ties with Israel through defence, surveillance, and political backing. But why?",
+    "summaryEn": "In the Balkans, leaders are deepening ties with Israel through defence, surveillance, and political backing. But why?",
     "detailZh": "来源：Al Jazeera。这是基于 RSS 摘要生成的待加工条目。接入大模型后，系统会进一步完成中文改写、事实核对、背景补充和多源合并。",
     "detailEn": "Source: Al Jazeera. This is an RSS-based draft. After an LLM is configured, the pipeline will rewrite, fact-check, enrich and merge reports about the same event.",
     "tags": [
@@ -710,28 +731,7 @@
       "Al Jazeera"
     ],
     "sourceUrls": [
-      "https://www.aljazeera.com/news/2026/10/22/hundreds-of-ethiopians-cross-into-kenya-to-flee-regional-fighting?traffic_source=rss"
-    ]
-  },
-  {
-    "id": "rss-35-49e39bb54b03",
-    "category": "security",
-    "importance": 6,
-    "sourcesCount": 1,
-    "titleZh": "US-sanctioned ICC wins Sakharov Prize, EU’s top human rights award",
-    "titleEn": "US-sanctioned ICC wins Sakharov Prize, EU’s top human rights award",
-    "summaryZh": "The prize comes less than two weeks after US President Donald Trump announced sanctions against the court.",
-    "summaryEn": "The prize comes less than two weeks after US President Donald Trump announced sanctions against the court.",
-    "detailZh": "来源：Al Jazeera。这是基于 RSS 摘要生成的待加工条目。接入大模型后，系统会进一步完成中文改写、事实核对、背景补充和多源合并。",
-    "detailEn": "Source: Al Jazeera. This is an RSS-based draft. After an LLM is configured, the pipeline will rewrite, fact-check, enrich and merge reports about the same event.",
-    "tags": [
-      "冲突与安全"
-    ],
-    "sources": [
-      "Al Jazeera"
-    ],
-    "sourceUrls": [
-      "https://www.aljazeera.com/news/2026/10/22/us-sanctioned-icc-wins-sakharov-prize-eus-top-human-rights-award?traffic_source=rss"
+      "https://www.aljazeera.com/video/newsfeed/2026/10/23/why-is-israel-increasing-its-presence-in-the-balkans?traffic_source=rss"
     ]
   }
 ]
