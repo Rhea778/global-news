@@ -1,13 +1,13 @@
 [
   {
-    "id": "rss-1-0a5bd0ce690d",
+    "id": "rss-1-81bc7b0e59c4",
     "category": "world",
     "importance": 6,
     "sourcesCount": 1,
-    "titleZh": "Almost 1,000 arrested as clashes follow another day of mass protests across France",
-    "titleEn": "Almost 1,000 arrested as clashes follow another day of mass protests across France",
-    "summaryZh": "Officials have so far managed to avoid a repeat of last weekend's rioting and looting as hundreds of thousands took part in demonstrations.",
-    "summaryEn": "Officials have so far managed to avoid a repeat of last weekend's rioting and looting as hundreds of thousands took part in demonstrations.",
+    "titleZh": "Serbia's veteran ruler Vučić concedes election to student-led protest movement",
+    "titleEn": "Serbia's veteran ruler Vučić concedes election to student-led protest movement",
+    "summaryZh": "The populist right-wing leader of 12 years says it is \"clear\" his party has lost the vote billed as a referendum on the country's future.",
+    "summaryEn": "The populist right-wing leader of 12 years says it is \"clear\" his party has lost the vote billed as a referendum on the country's future.",
     "detailZh": "来源：BBC News。这是基于 RSS 摘要生成的待加工条目。接入大模型后，系统会进一步完成中文改写、事实核对、背景补充和多源合并。",
     "detailEn": "Source: BBC News. This is an RSS-based draft. After an LLM is configured, the pipeline will rewrite, fact-check, enrich and merge reports about the same event.",
     "tags": [
@@ -17,39 +17,18 @@
       "BBC News"
     ],
     "sourceUrls": [
-      "https://www.bbc.co.uk/news/articles/c95ynd587ynzo?at_medium=RSS&at_campaign=rss"
+      "https://www.bbc.co.uk/news/articles/cw5yn3xlprpmo?at_medium=RSS&at_campaign=rss"
     ]
   },
   {
-    "id": "rss-2-8b4dc9f3945d",
-    "category": "tech",
-    "importance": 6,
-    "sourcesCount": 1,
-    "titleZh": "Ukraine says Starlink connection 'now stable' after network limits",
-    "titleEn": "Ukraine says Starlink connection 'now stable' after network limits",
-    "summaryZh": "The slowed Starlink connections had affected the Ukraine's military and drone operations for a week.",
-    "summaryEn": "The slowed Starlink connections had affected the Ukraine's military and drone operations for a week.",
-    "detailZh": "来源：BBC News。这是基于 RSS 摘要生成的待加工条目。接入大模型后，系统会进一步完成中文改写、事实核对、背景补充和多源合并。",
-    "detailEn": "Source: BBC News. This is an RSS-based draft. After an LLM is configured, the pipeline will rewrite, fact-check, enrich and merge reports about the same event.",
-    "tags": [
-      "科技"
-    ],
-    "sources": [
-      "BBC News"
-    ],
-    "sourceUrls": [
-      "https://www.bbc.co.uk/news/articles/cwkg5md14j8go?at_medium=RSS&at_campaign=rss"
-    ]
-  },
-  {
-    "id": "rss-3-32151483ad18",
+    "id": "rss-2-d33d24266c27",
     "category": "world",
     "importance": 6,
     "sourcesCount": 1,
-    "titleZh": "Palestinian families displaced as Israeli forces demolish Hebron homes",
-    "titleEn": "Palestinian families displaced as Israeli forces demolish Hebron homes",
-    "summaryZh": "The crackdown follows the killing of two Israeli soldiers by two Palestinian gunmen on Friday - and comes just days ahead of Israel's election.",
-    "summaryEn": "The crackdown follows the killing of two Israeli soldiers by two Palestinian gunmen on Friday - and comes just days ahead of Israel's election.",
+    "titleZh": "Deeply divided Israel braces for pivotal election",
+    "titleEn": "Deeply divided Israel braces for pivotal election",
+    "summaryZh": "After three years of regional war, this is a battle Israel always knew was coming, writes Lucy Williamson.",
+    "summaryEn": "After three years of regional war, this is a battle Israel always knew was coming, writes Lucy Williamson.",
     "detailZh": "来源：BBC News。这是基于 RSS 摘要生成的待加工条目。接入大模型后，系统会进一步完成中文改写、事实核对、背景补充和多源合并。",
     "detailEn": "Source: BBC News. This is an RSS-based draft. After an LLM is configured, the pipeline will rewrite, fact-check, enrich and merge reports about the same event.",
     "tags": [
@@ -59,39 +38,18 @@
       "BBC News"
     ],
     "sourceUrls": [
-      "https://www.bbc.co.uk/news/articles/cqd09k1k7532o?at_medium=RSS&at_campaign=rss"
+      "https://www.bbc.co.uk/news/articles/ckpdgy6pl7xlo?at_medium=RSS&at_campaign=rss"
     ]
   },
   {
-    "id": "rss-4-3c59e84754ba",
-    "category": "tech",
-    "importance": 6,
-    "sourcesCount": 1,
-    "titleZh": "Man arrested after fire at Hitler's mountaintop Eagle's Nest retreat",
-    "titleEn": "Man arrested after fire at Hitler's mountaintop Eagle's Nest retreat",
-    "summaryZh": "Some 200 emergency personnel were deployed to fight the blaze at the Nazi dictator's Alpine residence in Germany.",
-    "summaryEn": "Some 200 emergency personnel were deployed to fight the blaze at the Nazi dictator's Alpine residence in Germany.",
-    "detailZh": "来源：BBC News。这是基于 RSS 摘要生成的待加工条目。接入大模型后，系统会进一步完成中文改写、事实核对、背景补充和多源合并。",
-    "detailEn": "Source: BBC News. This is an RSS-based draft. After an LLM is configured, the pipeline will rewrite, fact-check, enrich and merge reports about the same event.",
-    "tags": [
-      "科技"
-    ],
-    "sources": [
-      "BBC News"
-    ],
-    "sourceUrls": [
-      "https://www.bbc.co.uk/news/articles/cr93zwjw1k4qo?at_medium=RSS&at_campaign=rss"
-    ]
-  },
-  {
-    "id": "rss-5-33a36b73982c",
+    "id": "rss-3-b4c30b6342df",
     "category": "world",
     "importance": 6,
     "sourcesCount": 1,
-    "titleZh": "Father who killed Oregon school gunman describes anguish over children he couldn't save",
-    "titleEn": "Father who killed Oregon school gunman describes anguish over children he couldn't save",
-    "summaryZh": "Kaylub Giamanco has been hailed as a hero for killing a teenager who fatally shot three children and a teacher.",
-    "summaryEn": "Kaylub Giamanco has been hailed as a hero for killing a teenager who fatally shot three children and a teacher.",
+    "titleZh": "Venezuelan opposition leader María Machado returns after months in exile",
+    "titleEn": "Venezuelan opposition leader María Machado returns after months in exile",
+    "summaryZh": "Machado had left the country just a month before the US government seized Venezuelan President Nicolás Maduro.",
+    "summaryEn": "Machado had left the country just a month before the US government seized Venezuelan President Nicolás Maduro.",
     "detailZh": "来源：BBC News。这是基于 RSS 摘要生成的待加工条目。接入大模型后，系统会进一步完成中文改写、事实核对、背景补充和多源合并。",
     "detailEn": "Source: BBC News. This is an RSS-based draft. After an LLM is configured, the pipeline will rewrite, fact-check, enrich and merge reports about the same event.",
     "tags": [
@@ -101,39 +59,60 @@
       "BBC News"
     ],
     "sourceUrls": [
-      "https://www.bbc.co.uk/news/articles/crgj9ndwvj9jo?at_medium=RSS&at_campaign=rss"
+      "https://www.bbc.co.uk/news/articles/cq8ez592pp0eo?at_medium=RSS&at_campaign=rss"
     ]
   },
   {
-    "id": "rss-6-5595aadb526c",
+    "id": "rss-4-2f7ad053a046",
     "category": "tech",
     "importance": 6,
     "sourcesCount": 1,
-    "titleZh": "Protests roil France once again as police seek to quell violence",
-    "titleEn": "Protests roil France once again as police seek to quell violence",
-    "summaryZh": "Hundreds of thousands turned out across France to protest everything from the lack of school funding to economic inequality. Police also were out in force to prevent a repeat of la",
-    "summaryEn": "Hundreds of thousands turned out across France to protest everything from the lack of school funding to economic inequality. Police also were out in force to prevent a repeat of last week's violence.",
-    "detailZh": "来源：NPR World。这是基于 RSS 摘要生成的待加工条目。接入大模型后，系统会进一步完成中文改写、事实核对、背景补充和多源合并。",
-    "detailEn": "Source: NPR World. This is an RSS-based draft. After an LLM is configured, the pipeline will rewrite, fact-check, enrich and merge reports about the same event.",
+    "titleZh": "Musk says SpaceX restricted Ukraine's Starlink connection as service restored",
+    "titleEn": "Musk says SpaceX restricted Ukraine's Starlink connection as service restored",
+    "summaryZh": "The tech billionaire accuses Ukraine of violating its terms of service by using the network for military activity.",
+    "summaryEn": "The tech billionaire accuses Ukraine of violating its terms of service by using the network for military activity.",
+    "detailZh": "来源：BBC News。这是基于 RSS 摘要生成的待加工条目。接入大模型后，系统会进一步完成中文改写、事实核对、背景补充和多源合并。",
+    "detailEn": "Source: BBC News. This is an RSS-based draft. After an LLM is configured, the pipeline will rewrite, fact-check, enrich and merge reports about the same event.",
     "tags": [
       "科技"
     ],
     "sources": [
-      "NPR World"
+      "BBC News"
     ],
     "sourceUrls": [
-      "https://www.npr.org/2026/10/24/nx-s1-6014520/protests-roil-france-once-again-as-police-seek-to-quell-violence"
+      "https://www.bbc.co.uk/news/articles/cvx28ljp8n4xo?at_medium=RSS&at_campaign=rss"
     ]
   },
   {
-    "id": "rss-7-74e6f302850b",
+    "id": "rss-5-fa795b3ffb0b",
     "category": "world",
     "importance": 6,
     "sourcesCount": 1,
-    "titleZh": "Why a far-right cabinet minister in Israel has Netanyahu's ear",
-    "titleEn": "Why a far-right cabinet minister in Israel has Netanyahu's ear",
-    "summaryZh": "Israel's most far-right cabinet minister helped dictate hardline policies toward Palestinians in recent years. Benjamin Netanyahu vows to give him a senior position if Netanyahu is",
-    "summaryEn": "Israel's most far-right cabinet minister helped dictate hardline policies toward Palestinians in recent years. Benjamin Netanyahu vows to give him a senior position if Netanyahu is reelected next week.",
+    "titleZh": "Suspect in deadly Paris suburb shooting sent for psychiatric observation",
+    "titleEn": "Suspect in deadly Paris suburb shooting sent for psychiatric observation",
+    "summaryZh": "He will be observed to evaluate whether his \"psychiatric health is compatible with pursuing his interrogation\", authorities said.",
+    "summaryEn": "He will be observed to evaluate whether his \"psychiatric health is compatible with pursuing his interrogation\", authorities said.",
+    "detailZh": "来源：BBC News。这是基于 RSS 摘要生成的待加工条目。接入大模型后，系统会进一步完成中文改写、事实核对、背景补充和多源合并。",
+    "detailEn": "Source: BBC News. This is an RSS-based draft. After an LLM is configured, the pipeline will rewrite, fact-check, enrich and merge reports about the same event.",
+    "tags": [
+      "国际时政"
+    ],
+    "sources": [
+      "BBC News"
+    ],
+    "sourceUrls": [
+      "https://www.bbc.co.uk/news/articles/c6e3xek2457wo?at_medium=RSS&at_campaign=rss"
+    ]
+  },
+  {
+    "id": "rss-6-7a27886ce0cf",
+    "category": "world",
+    "importance": 6,
+    "sourcesCount": 1,
+    "titleZh": "U.S. influence in Latin America at stake in runoff election in Brazil",
+    "titleEn": "U.S. influence in Latin America at stake in runoff election in Brazil",
+    "summaryZh": "A polarizing presidential election runoff in Latin America's largest economy and biggest democracy pits leftist Lula da Silva's legacy against Trump ally Flavio Bolsonaro, son of t",
+    "summaryEn": "A polarizing presidential election runoff in Latin America's largest economy and biggest democracy pits leftist Lula da Silva's legacy against Trump ally Flavio Bolsonaro, son of the former Brazilian president.",
     "detailZh": "来源：NPR World。这是基于 RSS 摘要生成的待加工条目。接入大模型后，系统会进一步完成中文改写、事实核对、背景补充和多源合并。",
     "detailEn": "Source: NPR World. This is an RSS-based draft. After an LLM is configured, the pipeline will rewrite, fact-check, enrich and merge reports about the same event.",
     "tags": [
@@ -143,39 +122,18 @@
       "NPR World"
     ],
     "sourceUrls": [
-      "https://www.npr.org/2026/10/24/nx-s1-6010464/why-a-far-right-cabinet-minister-in-israel-has-netanyahus-ear"
+      "https://www.npr.org/2026/10/25/nx-s1-6011223/u-s-influence-in-latin-america-at-stake-in-runoff-election-in-brazil"
     ]
   },
   {
-    "id": "rss-8-19c0d49aeb1d",
-    "category": "tech",
-    "importance": 6,
-    "sourcesCount": 1,
-    "titleZh": "Ukraine says Starlink is back to normal after disruptions",
-    "titleEn": "Ukraine says Starlink is back to normal after disruptions",
-    "summaryZh": "Ukrainian President Volodymyr Zelenskyy said that normal Starlink operating speeds were restored after more than a week of disruptions.",
-    "summaryEn": "Ukrainian President Volodymyr Zelenskyy said that normal Starlink operating speeds were restored after more than a week of disruptions.",
-    "detailZh": "来源：NPR World。这是基于 RSS 摘要生成的待加工条目。接入大模型后，系统会进一步完成中文改写、事实核对、背景补充和多源合并。",
-    "detailEn": "Source: NPR World. This is an RSS-based draft. After an LLM is configured, the pipeline will rewrite, fact-check, enrich and merge reports about the same event.",
-    "tags": [
-      "科技"
-    ],
-    "sources": [
-      "NPR World"
-    ],
-    "sourceUrls": [
-      "https://www.npr.org/2026/10/24/nx-s1-6015482/ukraine-starlink-working-after-disruptions"
-    ]
-  },
-  {
-    "id": "rss-9-45b93fa6540e",
+    "id": "rss-7-5e9d6cca1bc6",
     "category": "world",
     "importance": 6,
     "sourcesCount": 1,
-    "titleZh": "Gunmen open fire at a church during a funeral in Jordan, killing 7 and wounding 40",
-    "titleEn": "Gunmen open fire at a church during a funeral in Jordan, killing 7 and wounding 40",
-    "summaryZh": "Footage broadcast on Jordanian state television showed three gunmen firing shots at a Greek Orthodox church in the city of Karak on Friday.",
-    "summaryEn": "Footage broadcast on Jordanian state television showed three gunmen firing shots at a Greek Orthodox church in the city of Karak on Friday.",
+    "titleZh": "This center-right former general could unseat Netanyahu as Prime Minister in Israel",
+    "titleEn": "This center-right former general could unseat Netanyahu as Prime Minister in Israel",
+    "summaryZh": "A former Israeli general is the main center-right challenger hoping to unseat Prime Minister Benjamin Netanyahu in Israeli elections this week.",
+    "summaryEn": "A former Israeli general is the main center-right challenger hoping to unseat Prime Minister Benjamin Netanyahu in Israeli elections this week.",
     "detailZh": "来源：NPR World。这是基于 RSS 摘要生成的待加工条目。接入大模型后，系统会进一步完成中文改写、事实核对、背景补充和多源合并。",
     "detailEn": "Source: NPR World. This is an RSS-based draft. After an LLM is configured, the pipeline will rewrite, fact-check, enrich and merge reports about the same event.",
     "tags": [
@@ -185,28 +143,70 @@
       "NPR World"
     ],
     "sourceUrls": [
-      "https://www.npr.org/2026/10/24/nx-s1-6015414/shooting-church-jordan"
+      "https://www.npr.org/2026/10/25/nx-s1-6011185/this-center-right-former-general-could-unseat-netanyahu-as-prime-minister-in-israel"
     ]
   },
   {
-    "id": "rss-10-d4be46f47ff6",
-    "category": "tech",
+    "id": "rss-8-06d77fb4748a",
+    "category": "world",
     "importance": 6,
     "sourcesCount": 1,
-    "titleZh": "European student protests take aim at Serbia's elections",
-    "titleEn": "European student protests take aim at Serbia's elections",
-    "summaryZh": "Students have been protesting across Europe. In Serbia, they've selected candidates to run for parliament in Sunday's elections. And they're aiming to end 14 years of government by",
-    "summaryEn": "Students have been protesting across Europe. In Serbia, they've selected candidates to run for parliament in Sunday's elections. And they're aiming to end 14 years of government by the populist leader Aleksandar Vucic.",
+    "titleZh": "Venezuela's opposition leader María Corina Machado returns after months in exile",
+    "titleEn": "Venezuela's opposition leader María Corina Machado returns after months in exile",
+    "summaryZh": "Machado announced her arrival on social media, writing \"I am here. With you.\"",
+    "summaryEn": "Machado announced her arrival on social media, writing \"I am here. With you.\"",
     "detailZh": "来源：NPR World。这是基于 RSS 摘要生成的待加工条目。接入大模型后，系统会进一步完成中文改写、事实核对、背景补充和多源合并。",
     "detailEn": "Source: NPR World. This is an RSS-based draft. After an LLM is configured, the pipeline will rewrite, fact-check, enrich and merge reports about the same event.",
     "tags": [
-      "科技"
+      "国际时政"
     ],
     "sources": [
       "NPR World"
     ],
     "sourceUrls": [
-      "https://www.npr.org/2026/10/24/nx-s1-6012799/european-student-protests-take-aim-at-serbias-elections"
+      "https://www.npr.org/2026/10/25/nx-s1-6016222/venezuela-maria-corina-machado-leader-returns-exile"
+    ]
+  },
+  {
+    "id": "rss-9-874917b14fe9",
+    "category": "world",
+    "importance": 6,
+    "sourcesCount": 1,
+    "titleZh": "Israelis have changed. Will they change their leadership?",
+    "titleEn": "Israelis have changed. Will they change their leadership?",
+    "summaryZh": "Israel is holding a general election this week after years of war. For many Israelis, shaken by the Oct. 7, 2023, attacks and years of war, it is the most consequential in decades.",
+    "summaryEn": "Israel is holding a general election this week after years of war. For many Israelis, shaken by the Oct. 7, 2023, attacks and years of war, it is the most consequential in decades.",
+    "detailZh": "来源：NPR World。这是基于 RSS 摘要生成的待加工条目。接入大模型后，系统会进一步完成中文改写、事实核对、背景补充和多源合并。",
+    "detailEn": "Source: NPR World. This is an RSS-based draft. After an LLM is configured, the pipeline will rewrite, fact-check, enrich and merge reports about the same event.",
+    "tags": [
+      "国际时政"
+    ],
+    "sources": [
+      "NPR World"
+    ],
+    "sourceUrls": [
+      "https://www.npr.org/2026/10/25/g-s1-149563/israel-election-war-netanyahu"
+    ]
+  },
+  {
+    "id": "rss-10-90e508f8fc16",
+    "category": "world",
+    "importance": 6,
+    "sourcesCount": 1,
+    "titleZh": "This College of Magic turns ordinary kids into cool magicians",
+    "titleEn": "This College of Magic turns ordinary kids into cool magicians",
+    "summaryZh": "The students, many from marginalized communities, learn to conjure up candy, do card tricks — and face the world with a confident, creative and resilient mindset.",
+    "summaryEn": "The students, many from marginalized communities, learn to conjure up candy, do card tricks — and face the world with a confident, creative and resilient mindset.",
+    "detailZh": "来源：NPR World。这是基于 RSS 摘要生成的待加工条目。接入大模型后，系统会进一步完成中文改写、事实核对、背景补充和多源合并。",
+    "detailEn": "Source: NPR World. This is an RSS-based draft. After an LLM is configured, the pipeline will rewrite, fact-check, enrich and merge reports about the same event.",
+    "tags": [
+      "国际时政"
+    ],
+    "sources": [
+      "NPR World"
+    ],
+    "sourceUrls": [
+      "https://www.npr.org/2026/10/25/g-s1-149089/magic-magicians-south-africa-school-students"
     ]
   },
   {
@@ -420,14 +420,14 @@
     ]
   },
   {
-    "id": "rss-21-9355f9f27997",
+    "id": "rss-21-a6feae291b1a",
     "category": "tech",
     "importance": 6,
     "sourcesCount": 1,
-    "titleZh": "Starlink seems to be working normally again in Ukraine",
-    "titleEn": "Starlink seems to be working normally again in Ukraine",
-    "summaryZh": "Elon Musk reportedly ordered SpaceX to throttle Ukraine's Starlink access.",
-    "summaryEn": "Elon Musk reportedly ordered SpaceX to throttle Ukraine's Starlink access.",
+    "titleZh": "Grok releases the first seven minutes of its AI-generated ‘Odyssey’",
+    "titleEn": "Grok releases the first seven minutes of its AI-generated ‘Odyssey’",
+    "summaryZh": "The footage looks okay, as long as you're not seeking artistry, inspiration, or human interest.",
+    "summaryEn": "The footage looks okay, as long as you're not seeking artistry, inspiration, or human interest.",
     "detailZh": "来源：TechCrunch。这是基于 RSS 摘要生成的待加工条目。接入大模型后，系统会进一步完成中文改写、事实核对、背景补充和多源合并。",
     "detailEn": "Source: TechCrunch. This is an RSS-based draft. After an LLM is configured, the pipeline will rewrite, fact-check, enrich and merge reports about the same event.",
     "tags": [
@@ -437,18 +437,18 @@
       "TechCrunch"
     ],
     "sourceUrls": [
-      "https://techcrunch.com/2026/10/24/starlink-seems-to-be-working-normally-again-in-ukraine/"
+      "https://techcrunch.com/2026/10/25/grok-releases-the-first-seven-minutes-of-its-ai-generated-odyssey/"
     ]
   },
   {
-    "id": "rss-22-770c71828f23",
+    "id": "rss-22-960d56865066",
     "category": "tech",
     "importance": 6,
     "sourcesCount": 1,
-    "titleZh": "Will AI expose the rickety infrastructure of the internet?",
-    "titleEn": "Will AI expose the rickety infrastructure of the internet?",
-    "summaryZh": "The moment you realize the internet is \"held together by glue and dreams.\"",
-    "summaryEn": "The moment you realize the internet is \"held together by glue and dreams.\"",
+    "titleZh": "‘Cyberselfish’ author takes aim at techno-libertarianism as her book returns from the dead",
+    "titleEn": "‘Cyberselfish’ author takes aim at techno-libertarianism as her book returns from the dead",
+    "summaryZh": "\"That's a 12-year-old view of the world.\"",
+    "summaryEn": "\"That's a 12-year-old view of the world.\"",
     "detailZh": "来源：TechCrunch。这是基于 RSS 摘要生成的待加工条目。接入大模型后，系统会进一步完成中文改写、事实核对、背景补充和多源合并。",
     "detailEn": "Source: TechCrunch. This is an RSS-based draft. After an LLM is configured, the pipeline will rewrite, fact-check, enrich and merge reports about the same event.",
     "tags": [
@@ -458,18 +458,18 @@
       "TechCrunch"
     ],
     "sourceUrls": [
-      "https://techcrunch.com/2026/10/24/will-ai-expose-the-rickety-infrastructure-of-the-internet/"
+      "https://techcrunch.com/2026/10/25/cyberselfish-author-takes-aim-at-techno-libertarianism-as-her-book-returns-from-the-dead/"
     ]
   },
   {
-    "id": "rss-23-b0af889ad05f",
+    "id": "rss-23-71334093a413",
     "category": "tech",
     "importance": 6,
     "sourcesCount": 1,
-    "titleZh": "The AI graveyard: a running list of projects and startups that didn’t make it",
-    "titleEn": "The AI graveyard: a running list of projects and startups that didn’t make it",
-    "summaryZh": "From Apple's repeatedly delayed Siri AI to OpenAI's messy \"super app\" launch, here's a look at the AI projects that shut down or missed expectations.",
-    "summaryEn": "From Apple's repeatedly delayed Siri AI to OpenAI's messy \"super app\" launch, here's a look at the AI projects that shut down or missed expectations.",
+    "titleZh": "AI delivers ‘zero financial payoff’ to most companies, Apollo economist says",
+    "titleEn": "AI delivers ‘zero financial payoff’ to most companies, Apollo economist says",
+    "summaryZh": "\"Despite massive investments and widespread hype around artificial intelligence, the technology has delivered zero financial payoff to corporate America outside of tech.\"",
+    "summaryEn": "\"Despite massive investments and widespread hype around artificial intelligence, the technology has delivered zero financial payoff to corporate America outside of tech.\"",
     "detailZh": "来源：TechCrunch。这是基于 RSS 摘要生成的待加工条目。接入大模型后，系统会进一步完成中文改写、事实核对、背景补充和多源合并。",
     "detailEn": "Source: TechCrunch. This is an RSS-based draft. After an LLM is configured, the pipeline will rewrite, fact-check, enrich and merge reports about the same event.",
     "tags": [
@@ -479,18 +479,18 @@
       "TechCrunch"
     ],
     "sourceUrls": [
-      "https://techcrunch.com/2026/10/24/the-ai-graveyard-a-running-list-of-projects-and-startups-that-didnt-make-it/"
+      "https://techcrunch.com/2026/10/25/ai-delivers-zero-financial-payoff-to-most-companies-according-to-apollo-economist/"
     ]
   },
   {
-    "id": "rss-24-5bc2bc3d4d40",
+    "id": "rss-24-ee351496911a",
     "category": "tech",
     "importance": 6,
     "sourcesCount": 1,
-    "titleZh": "Instacart reportedly discussed selling itself with DoorDash and Uber",
-    "titleEn": "Instacart reportedly discussed selling itself with DoorDash and Uber",
-    "summaryZh": "Instacart might sell itself to a larger competitor.",
-    "summaryEn": "Instacart might sell itself to a larger competitor.",
+    "titleZh": "TechCrunch Mobility: Blue-green is the color of autonomy",
+    "titleEn": "TechCrunch Mobility: Blue-green is the color of autonomy",
+    "summaryZh": "Welcome back to TechCrunch Mobility, your hub for the future of transportation and now, more than ever, the role AI is playing in it.",
+    "summaryEn": "Welcome back to TechCrunch Mobility, your hub for the future of transportation and now, more than ever, the role AI is playing in it.",
     "detailZh": "来源：TechCrunch。这是基于 RSS 摘要生成的待加工条目。接入大模型后，系统会进一步完成中文改写、事实核对、背景补充和多源合并。",
     "detailEn": "Source: TechCrunch. This is an RSS-based draft. After an LLM is configured, the pipeline will rewrite, fact-check, enrich and merge reports about the same event.",
     "tags": [
@@ -500,18 +500,18 @@
       "TechCrunch"
     ],
     "sourceUrls": [
-      "https://techcrunch.com/2026/10/24/instacart-reportedly-discussed-selling-itself-with-doordash-and-uber/"
+      "https://techcrunch.com/2026/10/25/techcrunch-mobility-blue-green-is-the-color-of-autonomy/"
     ]
   },
   {
-    "id": "rss-25-35d668020c86",
+    "id": "rss-25-4262d71f08be",
     "category": "tech",
     "importance": 6,
     "sourcesCount": 1,
-    "titleZh": "Block’s new voice model sounds eerily human",
-    "titleEn": "Block’s new voice model sounds eerily human",
-    "summaryZh": "Block said that the voice model can run locally on a MacBook M4 Max",
-    "summaryEn": "Block said that the voice model can run locally on a MacBook M4 Max",
+    "titleZh": "The hottest AI wearables and gadgets you should know about",
+    "titleEn": "The hottest AI wearables and gadgets you should know about",
+    "summaryZh": "We compiled a list of all the hottest AI wearables, including Muse Charm, Bee, Friend, Plaud, and more.",
+    "summaryEn": "We compiled a list of all the hottest AI wearables, including Muse Charm, Bee, Friend, Plaud, and more.",
     "detailZh": "来源：TechCrunch。这是基于 RSS 摘要生成的待加工条目。接入大模型后，系统会进一步完成中文改写、事实核对、背景补充和多源合并。",
     "detailEn": "Source: TechCrunch. This is an RSS-based draft. After an LLM is configured, the pipeline will rewrite, fact-check, enrich and merge reports about the same event.",
     "tags": [
@@ -521,11 +521,32 @@
       "TechCrunch"
     ],
     "sourceUrls": [
-      "https://techcrunch.com/2026/10/24/blocks-new-voice-model-sounds-eerily-human/"
+      "https://techcrunch.com/2026/10/25/the-hottest-ai-wearables-and-gadgets-you-should-know-about/"
     ]
   },
   {
-    "id": "rss-26-eae185076172",
+    "id": "rss-26-4305735af089",
+    "category": "science",
+    "importance": 6,
+    "sourcesCount": 1,
+    "titleZh": "ctDNA clearance and outcomes for resectable lung cancer from NeoCOAST-2",
+    "titleEn": "ctDNA clearance and outcomes for resectable lung cancer from NeoCOAST-2",
+    "summaryZh": "Nature, Published online: 25 October 2026; doi:10.1038/s41586-026-11328-3 ctDNA clearance and outcomes for resectable lung cancer from NeoCOAST-2",
+    "summaryEn": "Nature, Published online: 25 October 2026; doi:10.1038/s41586-026-11328-3 ctDNA clearance and outcomes for resectable lung cancer from NeoCOAST-2",
+    "detailZh": "来源：Nature News。这是基于 RSS 摘要生成的待加工条目。接入大模型后，系统会进一步完成中文改写、事实核对、背景补充和多源合并。",
+    "detailEn": "Source: Nature News. This is an RSS-based draft. After an LLM is configured, the pipeline will rewrite, fact-check, enrich and merge reports about the same event.",
+    "tags": [
+      "科学健康"
+    ],
+    "sources": [
+      "Nature News"
+    ],
+    "sourceUrls": [
+      "https://www.nature.com/articles/s41586-026-11328-3"
+    ]
+  },
+  {
+    "id": "rss-27-eae185076172",
     "category": "science",
     "importance": 6,
     "sourcesCount": 1,
@@ -546,7 +567,7 @@
     ]
   },
   {
-    "id": "rss-27-e8fab22f43a7",
+    "id": "rss-28-e8fab22f43a7",
     "category": "science",
     "importance": 6,
     "sourcesCount": 1,
@@ -567,7 +588,7 @@
     ]
   },
   {
-    "id": "rss-28-4b83af2eac77",
+    "id": "rss-29-4b83af2eac77",
     "category": "science",
     "importance": 6,
     "sourcesCount": 1,
@@ -588,7 +609,7 @@
     ]
   },
   {
-    "id": "rss-29-6a935a96806a",
+    "id": "rss-30-6a935a96806a",
     "category": "science",
     "importance": 6,
     "sourcesCount": 1,
@@ -609,35 +630,56 @@
     ]
   },
   {
-    "id": "rss-30-98f430df60ac",
-    "category": "science",
+    "id": "rss-31-118985db23fb",
+    "category": "security",
     "importance": 6,
     "sourcesCount": 1,
-    "titleZh": "First person infected with rare Shamonda virus: what we know",
-    "titleEn": "First person infected with rare Shamonda virus: what we know",
-    "summaryZh": "Nature, Published online: 23 October 2026; doi:10.1038/d41586-026-03416-1 Infectious-disease researchers say the risk of the livestock pathogen moving between people is low.",
-    "summaryEn": "Nature, Published online: 23 October 2026; doi:10.1038/d41586-026-03416-1 Infectious-disease researchers say the risk of the livestock pathogen moving between people is low.",
-    "detailZh": "来源：Nature News。这是基于 RSS 摘要生成的待加工条目。接入大模型后，系统会进一步完成中文改写、事实核对、背景补充和多源合并。",
-    "detailEn": "Source: Nature News. This is an RSS-based draft. After an LLM is configured, the pipeline will rewrite, fact-check, enrich and merge reports about the same event.",
+    "titleZh": "Bulgaria election heads to a run-off amid low voter turnout",
+    "titleEn": "Bulgaria election heads to a run-off amid low voter turnout",
+    "summaryZh": "Bulgarians will now choose between President Iliana Yotova and former caretaker Prime Minister Andrey Gyurov next week.",
+    "summaryEn": "Bulgarians will now choose between President Iliana Yotova and former caretaker Prime Minister Andrey Gyurov next week.",
+    "detailZh": "来源：Al Jazeera。这是基于 RSS 摘要生成的待加工条目。接入大模型后，系统会进一步完成中文改写、事实核对、背景补充和多源合并。",
+    "detailEn": "Source: Al Jazeera. This is an RSS-based draft. After an LLM is configured, the pipeline will rewrite, fact-check, enrich and merge reports about the same event.",
     "tags": [
-      "科学健康"
+      "冲突与安全"
     ],
     "sources": [
-      "Nature News"
+      "Al Jazeera"
     ],
     "sourceUrls": [
-      "https://www.nature.com/articles/d41586-026-03416-1"
+      "https://www.aljazeera.com/news/2026/10/25/bulgaria-election-heads-to-a-run-off-amid-low-voter-turnout?traffic_source=rss"
     ]
   },
   {
-    "id": "rss-31-21d813484d13",
+    "id": "rss-32-98b22644aa7a",
+    "category": "security",
+    "importance": 6,
+    "sourcesCount": 1,
+    "titleZh": "Real Madrid beat Barcelona 2-1 at Camp Nou to halve gap to La Liga leaders",
+    "titleEn": "Real Madrid beat Barcelona 2-1 at Camp Nou to halve gap to La Liga leaders",
+    "summaryZh": "French superstar Kylian Mbappe scores a brace for Madrid to inflict Barcelona's first domestic defeat of the campaign.",
+    "summaryEn": "French superstar Kylian Mbappe scores a brace for Madrid to inflict Barcelona's first domestic defeat of the campaign.",
+    "detailZh": "来源：Al Jazeera。这是基于 RSS 摘要生成的待加工条目。接入大模型后，系统会进一步完成中文改写、事实核对、背景补充和多源合并。",
+    "detailEn": "Source: Al Jazeera. This is an RSS-based draft. After an LLM is configured, the pipeline will rewrite, fact-check, enrich and merge reports about the same event.",
+    "tags": [
+      "冲突与安全"
+    ],
+    "sources": [
+      "Al Jazeera"
+    ],
+    "sourceUrls": [
+      "https://www.aljazeera.com/sports/2026/10/25/real-madrid-beat-barcelona-2-1-at-camp-nou-to-halve-gap-to-la-liga-leaders?traffic_source=rss"
+    ]
+  },
+  {
+    "id": "rss-33-4e5945a0ba0e",
     "category": "tech",
     "importance": 6,
     "sourcesCount": 1,
-    "titleZh": "Trump lauds Melania over Russia-Ukraine localised ceasefire deal",
-    "titleEn": "Trump lauds Melania over Russia-Ukraine localised ceasefire deal",
-    "summaryZh": "Donald Trump praised First Lady as 'better than professionals' after a localised Russia-Ukraine ceasefire in Oleshky.",
-    "summaryEn": "Donald Trump praised First Lady as 'better than professionals' after a localised Russia-Ukraine ceasefire in Oleshky.",
+    "titleZh": "Marine Le Pen vows French ‘renaissance’ as far right eyes seat of power",
+    "titleEn": "Marine Le Pen vows French ‘renaissance’ as far right eyes seat of power",
+    "summaryZh": "National Rally's Le Pen launches presidential campaign against backdrop of protests and social, economic discontent.",
+    "summaryEn": "National Rally's Le Pen launches presidential campaign against backdrop of protests and social, economic discontent.",
     "detailZh": "来源：Al Jazeera。这是基于 RSS 摘要生成的待加工条目。接入大模型后，系统会进一步完成中文改写、事实核对、背景补充和多源合并。",
     "detailEn": "Source: Al Jazeera. This is an RSS-based draft. After an LLM is configured, the pipeline will rewrite, fact-check, enrich and merge reports about the same event.",
     "tags": [
@@ -647,18 +689,18 @@
       "Al Jazeera"
     ],
     "sourceUrls": [
-      "https://www.aljazeera.com/video/newsfeed/2026/10/24/trump-lauds-melania-over-russia-ukraine-localised-ceasefire-deal?traffic_source=rss"
+      "https://www.aljazeera.com/news/2026/10/25/marine-le-pen-vows-a-french-renaissance-as-far-right-eyes-seat-of-power?traffic_source=rss"
     ]
   },
   {
-    "id": "rss-32-8586632337f3",
+    "id": "rss-34-8a527a46b925",
     "category": "security",
     "importance": 6,
     "sourcesCount": 1,
-    "titleZh": "Gunmen kill at least 10 people in eastern Nigeria, police say",
-    "titleEn": "Gunmen kill at least 10 people in eastern Nigeria, police say",
-    "summaryZh": "Nigerian police say a large group carried out the attack on Binnari village in Taraba State.",
-    "summaryEn": "Nigerian police say a large group carried out the attack on Binnari village in Taraba State.",
+    "titleZh": "US Attorney General Todd Blanche defends Alaska Senate election lawsuit",
+    "titleEn": "US Attorney General Todd Blanche defends Alaska Senate election lawsuit",
+    "summaryZh": "The Department of Justice has faced criticism that its lawsuit is aimed at blocking a Democratic victory in a key race.",
+    "summaryEn": "The Department of Justice has faced criticism that its lawsuit is aimed at blocking a Democratic victory in a key race.",
     "detailZh": "来源：Al Jazeera。这是基于 RSS 摘要生成的待加工条目。接入大模型后，系统会进一步完成中文改写、事实核对、背景补充和多源合并。",
     "detailEn": "Source: Al Jazeera. This is an RSS-based draft. After an LLM is configured, the pipeline will rewrite, fact-check, enrich and merge reports about the same event.",
     "tags": [
@@ -668,70 +710,28 @@
       "Al Jazeera"
     ],
     "sourceUrls": [
-      "https://www.aljazeera.com/news/2026/10/24/gunmen-kill-at-least-10-people-in-eastern-nigeria-police-say?traffic_source=rss"
+      "https://www.aljazeera.com/news/2026/10/25/us-attorney-general-todd-blanche-defends-alaska-senate-election-lawsuit?traffic_source=rss"
     ]
   },
   {
-    "id": "rss-33-b5e8121a445c",
-    "category": "security",
+    "id": "rss-35-d72c94e3f4a4",
+    "category": "tech",
     "importance": 6,
     "sourcesCount": 1,
-    "titleZh": "How have Democrats’ policies shifted since the last major US election?",
-    "titleEn": "How have Democrats’ policies shifted since the last major US election?",
-    "summaryZh": "From trans rights to Israel's war on Gaza, the party's candidates have responded to voter shifts on a slew of issues.",
-    "summaryEn": "From trans rights to Israel's war on Gaza, the party's candidates have responded to voter shifts on a slew of issues.",
+    "titleZh": "Marine Le Pen launches French presidential campaign",
+    "titleEn": "Marine Le Pen launches French presidential campaign",
+    "summaryZh": "Marine Le Pen launches French presidential campaign",
+    "summaryEn": "Marine Le Pen launches French presidential campaign",
     "detailZh": "来源：Al Jazeera。这是基于 RSS 摘要生成的待加工条目。接入大模型后，系统会进一步完成中文改写、事实核对、背景补充和多源合并。",
     "detailEn": "Source: Al Jazeera. This is an RSS-based draft. After an LLM is configured, the pipeline will rewrite, fact-check, enrich and merge reports about the same event.",
     "tags": [
-      "冲突与安全"
+      "科技"
     ],
     "sources": [
       "Al Jazeera"
     ],
     "sourceUrls": [
-      "https://www.aljazeera.com/economy/2026/10/24/how-have-democrats-policies-shifted-since-the-last-major-us-election?traffic_source=rss"
-    ]
-  },
-  {
-    "id": "rss-34-75f599f360ac",
-    "category": "security",
-    "importance": 6,
-    "sourcesCount": 1,
-    "titleZh": "Brazil’s Lula, Bolsonaro draw thousands to election-eve rallies",
-    "titleEn": "Brazil’s Lula, Bolsonaro draw thousands to election-eve rallies",
-    "summaryZh": "The pivotal run-off will determine whether Brazilians stick with their left-wing leader or shift towards the right.",
-    "summaryEn": "The pivotal run-off will determine whether Brazilians stick with their left-wing leader or shift towards the right.",
-    "detailZh": "来源：Al Jazeera。这是基于 RSS 摘要生成的待加工条目。接入大模型后，系统会进一步完成中文改写、事实核对、背景补充和多源合并。",
-    "detailEn": "Source: Al Jazeera. This is an RSS-based draft. After an LLM is configured, the pipeline will rewrite, fact-check, enrich and merge reports about the same event.",
-    "tags": [
-      "冲突与安全"
-    ],
-    "sources": [
-      "Al Jazeera"
-    ],
-    "sourceUrls": [
-      "https://www.aljazeera.com/news/2026/10/24/brazils-lula-bolsonaro-draw-thousands-to-election-eve-rallies?traffic_source=rss"
-    ]
-  },
-  {
-    "id": "rss-35-4b98dfed139f",
-    "category": "security",
-    "importance": 6,
-    "sourcesCount": 1,
-    "titleZh": "Brazil’s candidates hold final rallies before knife-edge run off",
-    "titleEn": "Brazil’s candidates hold final rallies before knife-edge run off",
-    "summaryZh": "Brazil’s candidates hold final rallies before knife-edge run off",
-    "summaryEn": "Brazil’s candidates hold final rallies before knife-edge run off",
-    "detailZh": "来源：Al Jazeera。这是基于 RSS 摘要生成的待加工条目。接入大模型后，系统会进一步完成中文改写、事实核对、背景补充和多源合并。",
-    "detailEn": "Source: Al Jazeera. This is an RSS-based draft. After an LLM is configured, the pipeline will rewrite, fact-check, enrich and merge reports about the same event.",
-    "tags": [
-      "冲突与安全"
-    ],
-    "sources": [
-      "Al Jazeera"
-    ],
-    "sourceUrls": [
-      "https://www.aljazeera.com/video/newsfeed/2026/10/24/brazils-candidates-hold-final-rallies-before-knife-edge-run-off?traffic_source=rss"
+      "https://www.aljazeera.com/video/newsfeed/2026/10/25/marine-le-pen-launches-french-presidential-campaign?traffic_source=rss"
     ]
   }
 ]
