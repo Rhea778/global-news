@@ -1,34 +1,13 @@
 [
   {
-    "id": "rss-1-5da481dc97b7",
-    "category": "world",
-    "importance": 6,
-    "sourcesCount": 1,
-    "titleZh": "Norway and Finland leaders hold rare call with Putin",
-    "titleEn": "Norway and Finland leaders hold rare call with Putin",
-    "summaryZh": "An end to the conflict in Ukraine \"will not be achieved through silence,\" Finland's President Alexander Stubb said.",
-    "summaryEn": "An end to the conflict in Ukraine \"will not be achieved through silence,\" Finland's President Alexander Stubb said.",
-    "detailZh": "来源：BBC News。这是基于 RSS 摘要生成的待加工条目。接入大模型后，系统会进一步完成中文改写、事实核对、背景补充和多源合并。",
-    "detailEn": "Source: BBC News. This is an RSS-based draft. After an LLM is configured, the pipeline will rewrite, fact-check, enrich and merge reports about the same event.",
-    "tags": [
-      "国际时政"
-    ],
-    "sources": [
-      "BBC News"
-    ],
-    "sourceUrls": [
-      "https://www.bbc.co.uk/news/articles/c6vgj813mlelo?at_medium=RSS&at_campaign=rss"
-    ]
-  },
-  {
-    "id": "rss-2-4ce40386cade",
+    "id": "rss-1-57cf444b547f",
     "category": "tech",
     "importance": 6,
     "sourcesCount": 1,
-    "titleZh": "Ceasefire extended across Ukraine's Kherson region, officials say",
-    "titleEn": "Ceasefire extended across Ukraine's Kherson region, officials say",
-    "summaryZh": "The truce was originally planned for the stranded residents of Oleshky, and Russia and Ukraine say no breaches have been reported.",
-    "summaryEn": "The truce was originally planned for the stranded residents of Oleshky, and Russia and Ukraine say no breaches have been reported.",
+    "titleZh": "High-speed train crash kills at least 68 people in Spain",
+    "titleEn": "High-speed train crash kills at least 68 people in Spain",
+    "summaryZh": "The crash, between a moving train and another that was stopped further up the track, was caused by an \"inexplicable\" error, the transport minister said.",
+    "summaryEn": "The crash, between a moving train and another that was stopped further up the track, was caused by an \"inexplicable\" error, the transport minister said.",
     "detailZh": "来源：BBC News。这是基于 RSS 摘要生成的待加工条目。接入大模型后，系统会进一步完成中文改写、事实核对、背景补充和多源合并。",
     "detailEn": "Source: BBC News. This is an RSS-based draft. After an LLM is configured, the pipeline will rewrite, fact-check, enrich and merge reports about the same event.",
     "tags": [
@@ -38,18 +17,39 @@
       "BBC News"
     ],
     "sourceUrls": [
-      "https://www.bbc.co.uk/news/articles/c6lye1w9p2l8o?at_medium=RSS&at_campaign=rss"
+      "https://www.bbc.co.uk/news/articles/c6p3g84kjqjlo?at_medium=RSS&at_campaign=rss"
     ]
   },
   {
-    "id": "rss-3-f8a0b434e80f",
+    "id": "rss-2-c2cf1e6fc552",
+    "category": "tech",
+    "importance": 6,
+    "sourcesCount": 1,
+    "titleZh": "Bloodied, dazed and angry - how passengers' rail journey turned to disaster in Spain",
+    "titleEn": "Bloodied, dazed and angry - how passengers' rail journey turned to disaster in Spain",
+    "summaryZh": "Survivors of the train crash in Spain have spoken of their shock, panic and anger at the accident in Toledo province on Wednesday.",
+    "summaryEn": "Survivors of the train crash in Spain have spoken of their shock, panic and anger at the accident in Toledo province on Wednesday.",
+    "detailZh": "来源：BBC News。这是基于 RSS 摘要生成的待加工条目。接入大模型后，系统会进一步完成中文改写、事实核对、背景补充和多源合并。",
+    "detailEn": "Source: BBC News. This is an RSS-based draft. After an LLM is configured, the pipeline will rewrite, fact-check, enrich and merge reports about the same event.",
+    "tags": [
+      "科技"
+    ],
+    "sources": [
+      "BBC News"
+    ],
+    "sourceUrls": [
+      "https://www.bbc.co.uk/news/articles/cm9qzd47ng98o?at_medium=RSS&at_campaign=rss"
+    ]
+  },
+  {
+    "id": "rss-3-a813b60a7f3c",
     "category": "world",
     "importance": 6,
     "sourcesCount": 1,
-    "titleZh": "Mbappé sorry for 'ill-judged' Mao remark after backlash in China",
-    "titleEn": "Mbappé sorry for 'ill-judged' Mao remark after backlash in China",
-    "summaryZh": "The France star had referred to the former Chinese leader as a \"dictator\" during an interview about memes.",
-    "summaryEn": "The France star had referred to the former Chinese leader as a \"dictator\" during an interview about memes.",
+    "titleZh": "Flávio Bolsonaro denies fleeing Brazil after landing in Miami",
+    "titleEn": "Flávio Bolsonaro denies fleeing Brazil after landing in Miami",
+    "summaryZh": "The defeated Brazilian candidate claims to be the victim of a coup d’état and political persecution, recycling unsubstantiated allegations of “electoral fraud”.",
+    "summaryEn": "The defeated Brazilian candidate claims to be the victim of a coup d’état and political persecution, recycling unsubstantiated allegations of “electoral fraud”.",
     "detailZh": "来源：BBC News。这是基于 RSS 摘要生成的待加工条目。接入大模型后，系统会进一步完成中文改写、事实核对、背景补充和多源合并。",
     "detailEn": "Source: BBC News. This is an RSS-based draft. After an LLM is configured, the pipeline will rewrite, fact-check, enrich and merge reports about the same event.",
     "tags": [
@@ -59,18 +59,18 @@
       "BBC News"
     ],
     "sourceUrls": [
-      "https://www.bbc.co.uk/news/articles/cv62yg0erp8zo?at_medium=RSS&at_campaign=rss"
+      "https://www.bbc.co.uk/news/articles/c6kglwe4lxwzo?at_medium=RSS&at_campaign=rss"
     ]
   },
   {
-    "id": "rss-4-4ad22d4bdfab",
+    "id": "rss-4-066ab2051e99",
     "category": "world",
     "importance": 6,
     "sourcesCount": 1,
-    "titleZh": "Lula's comeback in Brazil dents Trump's ambitions for Latin America",
-    "titleEn": "Lula's comeback in Brazil dents Trump's ambitions for Latin America",
-    "summaryZh": "The Trump-Lula relationship may have thawed, but several issues could reignite tensions between the two leaders.",
-    "summaryEn": "The Trump-Lula relationship may have thawed, but several issues could reignite tensions between the two leaders.",
+    "titleZh": "Netanyahu's bloc leading Israel election but short of majority, partial results show",
+    "titleEn": "Netanyahu's bloc leading Israel election but short of majority, partial results show",
+    "summaryZh": "With 85% of ballots counted, Netanyahu's Likud party and its allies are set to win 53 seats in the 120-seat Knesset.",
+    "summaryEn": "With 85% of ballots counted, Netanyahu's Likud party and its allies are set to win 53 seats in the 120-seat Knesset.",
     "detailZh": "来源：BBC News。这是基于 RSS 摘要生成的待加工条目。接入大模型后，系统会进一步完成中文改写、事实核对、背景补充和多源合并。",
     "detailEn": "Source: BBC News. This is an RSS-based draft. After an LLM is configured, the pipeline will rewrite, fact-check, enrich and merge reports about the same event.",
     "tags": [
@@ -80,18 +80,18 @@
       "BBC News"
     ],
     "sourceUrls": [
-      "https://www.bbc.co.uk/news/articles/cq62yg6rggj0o?at_medium=RSS&at_campaign=rss"
+      "https://www.bbc.co.uk/news/articles/cmdx3knq1xexo?at_medium=RSS&at_campaign=rss"
     ]
   },
   {
-    "id": "rss-5-fae31ffd8e1b",
+    "id": "rss-5-4429b62108ed",
     "category": "world",
     "importance": 6,
     "sourcesCount": 1,
-    "titleZh": "Dutch zookeeper dies after being mauled by leopard",
-    "titleEn": "Dutch zookeeper dies after being mauled by leopard",
-    "summaryZh": "The woman began her career at the park when she was 17 and had worked there on-and-off for four decades.",
-    "summaryEn": "The woman began her career at the park when she was 17 and had worked there on-and-off for four decades.",
+    "titleZh": "How could Israel break election deadlock? Here are four scenarios",
+    "titleEn": "How could Israel break election deadlock? Here are four scenarios",
+    "summaryZh": "With 85% of votes counted, all signs point to an impasse. The most likely outcome may be new elections.",
+    "summaryEn": "With 85% of votes counted, all signs point to an impasse. The most likely outcome may be new elections.",
     "detailZh": "来源：BBC News。这是基于 RSS 摘要生成的待加工条目。接入大模型后，系统会进一步完成中文改写、事实核对、背景补充和多源合并。",
     "detailEn": "Source: BBC News. This is an RSS-based draft. After an LLM is configured, the pipeline will rewrite, fact-check, enrich and merge reports about the same event.",
     "tags": [
@@ -101,18 +101,18 @@
       "BBC News"
     ],
     "sourceUrls": [
-      "https://www.bbc.co.uk/news/articles/crwyq90gwg8jo?at_medium=RSS&at_campaign=rss"
+      "https://www.bbc.co.uk/news/articles/cm62y46d97wwo?at_medium=RSS&at_campaign=rss"
     ]
   },
   {
-    "id": "rss-6-ecdb20565190",
+    "id": "rss-6-bbc898ce3ab1",
     "category": "world",
     "importance": 6,
     "sourcesCount": 1,
-    "titleZh": "Israel's election turnout soars, lifting opposition hopes of beating Netanyahu",
-    "titleEn": "Israel's election turnout soars, lifting opposition hopes of beating Netanyahu",
-    "summaryZh": "Israelis voted in their highest numbers in over two decades in a tense national election to decide whether to stick with Prime Minister Benjamin Netanyahu's far-right coalition.",
-    "summaryEn": "Israelis voted in their highest numbers in over two decades in a tense national election to decide whether to stick with Prime Minister Benjamin Netanyahu's far-right coalition.",
+    "titleZh": "Brazilian political drama unfolds as defeated Flavio Bolsonaro arrives in Miami",
+    "titleEn": "Brazilian political drama unfolds as defeated Flavio Bolsonaro arrives in Miami",
+    "summaryZh": "Defeated presidential candidate Flavio Bolsonaro and his family have arrived in the U.S. after Brazilian authorities ordered him to surrender his passport. He is facing multiple in",
+    "summaryEn": "Defeated presidential candidate Flavio Bolsonaro and his family have arrived in the U.S. after Brazilian authorities ordered him to surrender his passport. He is facing multiple investigations in Brazil.",
     "detailZh": "来源：NPR World。这是基于 RSS 摘要生成的待加工条目。接入大模型后，系统会进一步完成中文改写、事实核对、背景补充和多源合并。",
     "detailEn": "Source: NPR World. This is an RSS-based draft. After an LLM is configured, the pipeline will rewrite, fact-check, enrich and merge reports about the same event.",
     "tags": [
@@ -122,18 +122,18 @@
       "NPR World"
     ],
     "sourceUrls": [
-      "https://www.npr.org/2026/10/27/nx-s1-6019381/israel-elections"
+      "https://www.npr.org/2026/10/28/nx-s1-6020518/brazilian-political-drama-unfolds-as-defeated-flavio-bolsonaro-arrives-in-miami"
     ]
   },
   {
-    "id": "rss-7-e93362d7cbbb",
+    "id": "rss-7-382de5bc4735",
     "category": "world",
     "importance": 6,
     "sourcesCount": 1,
-    "titleZh": "The Ebola outbreak is breaking records -- and just marked a grim milestone",
-    "titleEn": "The Ebola outbreak is breaking records -- and just marked a grim milestone",
-    "summaryZh": "The current outbreak, first identified in the Democratic Republic of Congo, has now counted 10,000 patients and has spread with great speed. How can it be stopped?",
-    "summaryEn": "The current outbreak, first identified in the Democratic Republic of Congo, has now counted 10,000 patients and has spread with great speed. How can it be stopped?",
+    "titleZh": "Israel's election too close to call. And, the Ebola outbreak reaches grim milestone",
+    "titleEn": "Israel's election too close to call. And, the Ebola outbreak reaches grim milestone",
+    "summaryZh": "Israeli voters turned out in record numbers, and the results remain too close to call. And, more than 10,000 people have been infected with Ebola since the outbreak was first decla",
+    "summaryEn": "Israeli voters turned out in record numbers, and the results remain too close to call. And, more than 10,000 people have been infected with Ebola since the outbreak was first declared in May.",
     "detailZh": "来源：NPR World。这是基于 RSS 摘要生成的待加工条目。接入大模型后，系统会进一步完成中文改写、事实核对、背景补充和多源合并。",
     "detailEn": "Source: NPR World. This is an RSS-based draft. After an LLM is configured, the pipeline will rewrite, fact-check, enrich and merge reports about the same event.",
     "tags": [
@@ -143,18 +143,39 @@
       "NPR World"
     ],
     "sourceUrls": [
-      "https://www.npr.org/2026/10/27/g-s1-150136/ebola-outbreak-milestone-democratic-republic-congo-vaccine"
+      "https://www.npr.org/2026/10/28/g-s1-150313/up-first-newsletter-midterm-campaign-trump-israel-elections-federal-reserve-ebola-outbreak"
     ]
   },
   {
-    "id": "rss-8-1d859680790b",
+    "id": "rss-8-a0836c3558e3",
+    "category": "tech",
+    "importance": 6,
+    "sourcesCount": 1,
+    "titleZh": "Dozens are dead in a high-speed train crash in Spain",
+    "titleEn": "Dozens are dead in a high-speed train crash in Spain",
+    "summaryZh": "The toll is rising after a high-speed train between slammed into the rear of another train that had stopped south of Madrid, derailing two cars. It was Spain's second major train a",
+    "summaryEn": "The toll is rising after a high-speed train between slammed into the rear of another train that had stopped south of Madrid, derailing two cars. It was Spain's second major train accident this year.",
+    "detailZh": "来源：NPR World。这是基于 RSS 摘要生成的待加工条目。接入大模型后，系统会进一步完成中文改写、事实核对、背景补充和多源合并。",
+    "detailEn": "Source: NPR World. This is an RSS-based draft. After an LLM is configured, the pipeline will rewrite, fact-check, enrich and merge reports about the same event.",
+    "tags": [
+      "科技"
+    ],
+    "sources": [
+      "NPR World"
+    ],
+    "sourceUrls": [
+      "https://www.npr.org/2026/10/28/nx-s1-6020217/spain-train-disaster"
+    ]
+  },
+  {
+    "id": "rss-9-62bbd5d967b8",
     "category": "world",
     "importance": 6,
     "sourcesCount": 1,
-    "titleZh": "Bolsonaro's party accepts Brazil election defeat, but he refuses to concede",
-    "titleEn": "Bolsonaro's party accepts Brazil election defeat, but he refuses to concede",
-    "summaryZh": "Brazil's opposition party accepts President Luiz Inácio Lula da Silva's election victory, but Flávio Bolsonaro won't concede, while President Trump calls the vote \"rigged\" without ",
-    "summaryEn": "Brazil's opposition party accepts President Luiz Inácio Lula da Silva's election victory, but Flávio Bolsonaro won't concede, while President Trump calls the vote \"rigged\" without offering evidence.",
+    "titleZh": "Trump's relationship with Putin comes under fire ahead of the midterms",
+    "titleEn": "Trump's relationship with Putin comes under fire ahead of the midterms",
+    "summaryZh": "President Trump's relationship with Russia's Vladimir Putin is under scrutiny again as the president makes deals with Moscow ahead of the midterms.",
+    "summaryEn": "President Trump's relationship with Russia's Vladimir Putin is under scrutiny again as the president makes deals with Moscow ahead of the midterms.",
     "detailZh": "来源：NPR World。这是基于 RSS 摘要生成的待加工条目。接入大模型后，系统会进一步完成中文改写、事实核对、背景补充和多源合并。",
     "detailEn": "Source: NPR World. This is an RSS-based draft. After an LLM is configured, the pipeline will rewrite, fact-check, enrich and merge reports about the same event.",
     "tags": [
@@ -164,39 +185,18 @@
       "NPR World"
     ],
     "sourceUrls": [
-      "https://www.npr.org/2026/10/27/nx-s1-6019217/bolsonaro-flavio-lula-brazil-election-trump"
+      "https://www.npr.org/2026/10/28/nx-s1-6009262/trumps-relationship-with-putin-comes-under-fire-ahead-of-the-midterms"
     ]
   },
   {
-    "id": "rss-9-7ebdb3ae7c08",
-    "category": "security",
-    "importance": 6,
-    "sourcesCount": 1,
-    "titleZh": "A 'Green Army' is out to thwart El Niño flooding",
-    "titleEn": "A 'Green Army' is out to thwart El Niño flooding",
-    "summaryZh": "In Nairobi, a city prone to floods, workers in the \"Green Army\" are making preparations to prevent disaster when El Niño arrives.",
-    "summaryEn": "In Nairobi, a city prone to floods, workers in the \"Green Army\" are making preparations to prevent disaster when El Niño arrives.",
-    "detailZh": "来源：NPR World。这是基于 RSS 摘要生成的待加工条目。接入大模型后，系统会进一步完成中文改写、事实核对、背景补充和多源合并。",
-    "detailEn": "Source: NPR World. This is an RSS-based draft. After an LLM is configured, the pipeline will rewrite, fact-check, enrich and merge reports about the same event.",
-    "tags": [
-      "冲突与安全"
-    ],
-    "sources": [
-      "NPR World"
-    ],
-    "sourceUrls": [
-      "https://www.npr.org/2026/10/27/nx-s1-6010370/el-nino-floods-nairobi-green-army"
-    ]
-  },
-  {
-    "id": "rss-10-4f3521a9cd3d",
+    "id": "rss-10-14706a40d645",
     "category": "world",
     "importance": 6,
     "sourcesCount": 1,
-    "titleZh": "Democrats have a midterm edge, poll shows. And, Israelis vote in high-stakes election",
-    "titleEn": "Democrats have a midterm edge, poll shows. And, Israelis vote in high-stakes election",
-    "summaryZh": "Democrats are still holding a slight edge with Election Day a week away, according to a new NPR/PBS News/Marist poll. And, Israelis are casting their votes in an election that coul",
-    "summaryEn": "Democrats are still holding a slight edge with Election Day a week away, according to a new NPR/PBS News/Marist poll. And, Israelis are casting their votes in an election that could change leadership.",
+    "titleZh": "Partial results from Israel's contentious election show no clear winner",
+    "titleEn": "Partial results from Israel's contentious election show no clear winner",
+    "summaryZh": "Prime Minister Benjamin Netanyahu's right-wing bloc was leading opposition rival Gadi Eisenkot. Arab parties had a strong showing, and a key question now is whether Eisenkot's bloc",
+    "summaryEn": "Prime Minister Benjamin Netanyahu's right-wing bloc was leading opposition rival Gadi Eisenkot. Arab parties had a strong showing, and a key question now is whether Eisenkot's bloc will consider forming a coalition with them.",
     "detailZh": "来源：NPR World。这是基于 RSS 摘要生成的待加工条目。接入大模型后，系统会进一步完成中文改写、事实核对、背景补充和多源合并。",
     "detailEn": "Source: NPR World. This is an RSS-based draft. After an LLM is configured, the pipeline will rewrite, fact-check, enrich and merge reports about the same event.",
     "tags": [
@@ -206,11 +206,53 @@
       "NPR World"
     ],
     "sourceUrls": [
-      "https://www.npr.org/2026/10/27/g-s1-150052/up-first-newsletter-midterms-polling-data-voter-fraud-israel-prime-minister-elections"
+      "https://www.npr.org/2026/10/28/nx-s1-6019423/israel-election-results"
     ]
   },
   {
-    "id": "rss-11-f85225e6ef5d",
+    "id": "rss-11-73a6520b75a6",
+    "category": "world",
+    "importance": 6,
+    "sourcesCount": 1,
+    "titleZh": "Egypt fines prominent editor Lina Attalah and shuts independent news outlet Mada Masr",
+    "titleEn": "Egypt fines prominent editor Lina Attalah and shuts independent news outlet Mada Masr",
+    "summaryZh": "Warnings of escalating clampdown on press freedom come after Cairo court convicts Attalah of managing an unlicensed website Lina Attalah, a prominent Egyptian journalist and the ed",
+    "summaryEn": "Warnings of escalating clampdown on press freedom come after Cairo court convicts Attalah of managing an unlicensed website Lina Attalah, a prominent Egyptian journalist and the editor-in-chief of the news outlet Mada Masr, has been released from detention by ",
+    "detailZh": "来源：The Guardian。这是基于 RSS 摘要生成的待加工条目。接入大模型后，系统会进一步完成中文改写、事实核对、背景补充和多源合并。",
+    "detailEn": "Source: The Guardian. This is an RSS-based draft. After an LLM is configured, the pipeline will rewrite, fact-check, enrich and merge reports about the same event.",
+    "tags": [
+      "国际时政"
+    ],
+    "sources": [
+      "The Guardian"
+    ],
+    "sourceUrls": [
+      "https://www.theguardian.com/world/2026/oct/28/egypt-lina-attalah-mada-masr-press-freedom-clampdown"
+    ]
+  },
+  {
+    "id": "rss-12-7d394da3018e",
+    "category": "science",
+    "importance": 6,
+    "sourcesCount": 1,
+    "titleZh": "Africa’s ‘unprecedented’ Ebola outbreak could reach UK, says top health official",
+    "titleEn": "Africa’s ‘unprecedented’ Ebola outbreak could reach UK, says top health official",
+    "summaryZh": "Jean Kaseya, of the Africa CDC, warns of the illness spreading like Covid unless more funding is secured to increase preparedness and possible treatment The “unprecedented” spread ",
+    "summaryEn": "Jean Kaseya, of the Africa CDC, warns of the illness spreading like Covid unless more funding is secured to increase preparedness and possible treatment The “unprecedented” spread of the Ebola outbreak means it could reach the UK and other countries, according",
+    "detailZh": "来源：The Guardian。这是基于 RSS 摘要生成的待加工条目。接入大模型后，系统会进一步完成中文改写、事实核对、背景补充和多源合并。",
+    "detailEn": "Source: The Guardian. This is an RSS-based draft. After an LLM is configured, the pipeline will rewrite, fact-check, enrich and merge reports about the same event.",
+    "tags": [
+      "科学健康"
+    ],
+    "sources": [
+      "The Guardian"
+    ],
+    "sourceUrls": [
+      "https://www.theguardian.com/global-development/2026/oct/28/africa-ebola-outbreak-could-reach-uk-says-top-health-official"
+    ]
+  },
+  {
+    "id": "rss-13-f85225e6ef5d",
     "category": "tech",
     "importance": 6,
     "sourcesCount": 1,
@@ -231,7 +273,7 @@
     ]
   },
   {
-    "id": "rss-12-7c5e755dd893",
+    "id": "rss-14-7c5e755dd893",
     "category": "world",
     "importance": 6,
     "sourcesCount": 1,
@@ -252,7 +294,7 @@
     ]
   },
   {
-    "id": "rss-13-37448fd2d892",
+    "id": "rss-15-37448fd2d892",
     "category": "security",
     "importance": 6,
     "sourcesCount": 1,
@@ -273,49 +315,70 @@
     ]
   },
   {
-    "id": "rss-14-90d947258172",
+    "id": "rss-16-f4d01aeebf8c",
+    "category": "security",
+    "importance": 6,
+    "sourcesCount": 1,
+    "titleZh": "Here are five key takeaways from the Fed rate decision and Warsh news conference",
+    "titleEn": "Here are five key takeaways from the Fed rate decision and Warsh news conference",
+    "summaryZh": "Even though the interest-rate vote went as expected, there were a few surprises out of this week's Federal Open Market Committee meeting.",
+    "summaryEn": "Even though the interest-rate vote went as expected, there were a few surprises out of this week's Federal Open Market Committee meeting.",
+    "detailZh": "来源：CNBC Economy。这是基于 RSS 摘要生成的待加工条目。接入大模型后，系统会进一步完成中文改写、事实核对、背景补充和多源合并。",
+    "detailEn": "Source: CNBC Economy. This is an RSS-based draft. After an LLM is configured, the pipeline will rewrite, fact-check, enrich and merge reports about the same event.",
+    "tags": [
+      "冲突与安全"
+    ],
+    "sources": [
+      "CNBC Economy"
+    ],
+    "sourceUrls": [
+      "https://www.cnbc.com/2026/10/28/fed-rate-decision-warsh-takeaways.html"
+    ]
+  },
+  {
+    "id": "rss-17-dd353ac63993",
     "category": "tech",
     "importance": 6,
     "sourcesCount": 1,
-    "titleZh": "UK poised to miss reduced aid spending target of 0.3% of national income",
-    "titleEn": "UK poised to miss reduced aid spending target of 0.3% of national income",
-    "summaryZh": "Calculations from the Center for Global Development say spending next year is likely to be £410m less than anticipated The UK is on course to miss its target of spending 0.3% of na",
-    "summaryEn": "Calculations from the Center for Global Development say spending next year is likely to be £410m less than anticipated The UK is on course to miss its target of spending 0.3% of national income on international aid by an estimated £400m by the end of next year",
-    "detailZh": "来源：The Guardian。这是基于 RSS 摘要生成的待加工条目。接入大模型后，系统会进一步完成中文改写、事实核对、背景补充和多源合并。",
-    "detailEn": "Source: The Guardian. This is an RSS-based draft. After an LLM is configured, the pipeline will rewrite, fact-check, enrich and merge reports about the same event.",
+    "titleZh": "Bessent says 'not necessarily' a mistake if the Fed hikes again",
+    "titleEn": "Bessent says 'not necessarily' a mistake if the Fed hikes again",
+    "summaryZh": "Treasury Secretary Scott Bessent joined CNBC for an interview on Oct. 28, 2026.",
+    "summaryEn": "Treasury Secretary Scott Bessent joined CNBC for an interview on Oct. 28, 2026.",
+    "detailZh": "来源：CNBC Economy。这是基于 RSS 摘要生成的待加工条目。接入大模型后，系统会进一步完成中文改写、事实核对、背景补充和多源合并。",
+    "detailEn": "Source: CNBC Economy. This is an RSS-based draft. After an LLM is configured, the pipeline will rewrite, fact-check, enrich and merge reports about the same event.",
     "tags": [
       "科技"
     ],
     "sources": [
-      "The Guardian"
+      "CNBC Economy"
     ],
     "sourceUrls": [
-      "https://www.theguardian.com/politics/2026/oct/26/uk-international-aid-target-spending-shortfall-budget-research"
+      "https://www.cnbc.com/2026/10/28/scott-bessent-interview.html"
     ]
   },
   {
-    "id": "rss-15-9cd41a2cc7c2",
-    "category": "world",
+    "id": "rss-18-8d7f3964b06c",
+    "category": "economy",
     "importance": 6,
     "sourcesCount": 1,
-    "titleZh": "Mystery over source of Ebola infection in Nigeria fuels concern about spread of virus",
-    "titleEn": "Mystery over source of Ebola infection in Nigeria fuels concern about spread of virus",
-    "summaryZh": "Switzerland says patient is wife of Swiss diplomat and believed to have contracted virus while travelling in Uganda Health officials across Africa are racing to determine how Niger",
-    "summaryEn": "Switzerland says patient is wife of Swiss diplomat and believed to have contracted virus while travelling in Uganda Health officials across Africa are racing to determine how Nigeria’s first Ebola patient ⁠in more than a decade ⁠became infected, amid fears ​th",
-    "detailZh": "来源：The Guardian。这是基于 RSS 摘要生成的待加工条目。接入大模型后，系统会进一步完成中文改写、事实核对、背景补充和多源合并。",
-    "detailEn": "Source: The Guardian. This is an RSS-based draft. After an LLM is configured, the pipeline will rewrite, fact-check, enrich and merge reports about the same event.",
+    "titleZh": "The UK cuts energy bills, taxes banks and boosts defense in high-stakes budget",
+    "titleEn": "The UK cuts energy bills, taxes banks and boosts defense in high-stakes budget",
+    "summaryZh": "The U.K. budget cuts household energy costs, raises taxes on banks and directs billions toward defense, Ukraine and artificial intelligence",
+    "summaryEn": "The U.K. budget cuts household energy costs, raises taxes on banks and directs billions toward defense, Ukraine and artificial intelligence",
+    "detailZh": "来源：CNBC Economy。这是基于 RSS 摘要生成的待加工条目。接入大模型后，系统会进一步完成中文改写、事实核对、背景补充和多源合并。",
+    "detailEn": "Source: CNBC Economy. This is an RSS-based draft. After an LLM is configured, the pipeline will rewrite, fact-check, enrich and merge reports about the same event.",
     "tags": [
-      "国际时政"
+      "经济财经"
     ],
     "sources": [
-      "The Guardian"
+      "CNBC Economy"
     ],
     "sourceUrls": [
-      "https://www.theguardian.com/world/2026/oct/23/ebola-swiss-patient-nigeria-dr-congo-concerns-virus-spread"
+      "https://www.cnbc.com/2026/10/28/uk-autumn-budget-cost-living-defense-ai.html"
     ]
   },
   {
-    "id": "rss-16-07203f589a75",
+    "id": "rss-19-07203f589a75",
     "category": "tech",
     "importance": 6,
     "sourcesCount": 1,
@@ -336,7 +399,7 @@
     ]
   },
   {
-    "id": "rss-17-3f7b97fe8636",
+    "id": "rss-20-3f7b97fe8636",
     "category": "economy",
     "importance": 6,
     "sourcesCount": 1,
@@ -357,77 +420,14 @@
     ]
   },
   {
-    "id": "rss-18-dd0ce14df0cf",
+    "id": "rss-21-533b5df47158",
     "category": "tech",
     "importance": 6,
     "sourcesCount": 1,
-    "titleZh": "Jobless claims near the lowest since the 1960s as low-fire trend continues",
-    "titleEn": "Jobless claims near the lowest since the 1960s as low-fire trend continues",
-    "summaryZh": "Initial filings for unemployment insurance slipped to a seasonally adjusted 194,000.",
-    "summaryEn": "Initial filings for unemployment insurance slipped to a seasonally adjusted 194,000.",
-    "detailZh": "来源：CNBC Economy。这是基于 RSS 摘要生成的待加工条目。接入大模型后，系统会进一步完成中文改写、事实核对、背景补充和多源合并。",
-    "detailEn": "Source: CNBC Economy. This is an RSS-based draft. After an LLM is configured, the pipeline will rewrite, fact-check, enrich and merge reports about the same event.",
-    "tags": [
-      "科技"
-    ],
-    "sources": [
-      "CNBC Economy"
-    ],
-    "sourceUrls": [
-      "https://www.cnbc.com/2026/10/22/jobless-claims-record-low-weekly.html"
-    ]
-  },
-  {
-    "id": "rss-19-69f578ee4a88",
-    "category": "economy",
-    "importance": 6,
-    "sourcesCount": 1,
-    "titleZh": "Trump's approval rating on economy hits all-time low as midterm looms: CNBC survey",
-    "titleEn": "Trump's approval rating on economy hits all-time low as midterm looms: CNBC survey",
-    "summaryZh": "Eight out of 10 Americans now rate the economy as fair or poor, one of several findings in a CNBC poll that show why Republican candidates face uphill battles.",
-    "summaryEn": "Eight out of 10 Americans now rate the economy as fair or poor, one of several findings in a CNBC poll that show why Republican candidates face uphill battles.",
-    "detailZh": "来源：CNBC Economy。这是基于 RSS 摘要生成的待加工条目。接入大模型后，系统会进一步完成中文改写、事实核对、背景补充和多源合并。",
-    "detailEn": "Source: CNBC Economy. This is an RSS-based draft. After an LLM is configured, the pipeline will rewrite, fact-check, enrich and merge reports about the same event.",
-    "tags": [
-      "经济财经"
-    ],
-    "sources": [
-      "CNBC Economy"
-    ],
-    "sourceUrls": [
-      "https://www.cnbc.com/2026/10/22/trump-economic-approval-rating-midterms-poll.html"
-    ]
-  },
-  {
-    "id": "rss-20-b4a8274ead94",
-    "category": "economy",
-    "importance": 6,
-    "sourcesCount": 1,
-    "titleZh": "UK inflation jumps to 3.5% — cementing rate hike expectations",
-    "titleEn": "UK inflation jumps to 3.5% — cementing rate hike expectations",
-    "summaryZh": "U.K. inflation rose by a hotter-than-expected 3.5% in the 12 months to September, driven by the surging cost of motor fuels.",
-    "summaryEn": "U.K. inflation rose by a hotter-than-expected 3.5% in the 12 months to September, driven by the surging cost of motor fuels.",
-    "detailZh": "来源：CNBC Economy。这是基于 RSS 摘要生成的待加工条目。接入大模型后，系统会进一步完成中文改写、事实核对、背景补充和多源合并。",
-    "detailEn": "Source: CNBC Economy. This is an RSS-based draft. After an LLM is configured, the pipeline will rewrite, fact-check, enrich and merge reports about the same event.",
-    "tags": [
-      "经济财经"
-    ],
-    "sources": [
-      "CNBC Economy"
-    ],
-    "sourceUrls": [
-      "https://www.cnbc.com/2026/10/21/inflation-uk-cpi-interest-rates.html"
-    ]
-  },
-  {
-    "id": "rss-21-6210b5315dda",
-    "category": "tech",
-    "importance": 6,
-    "sourcesCount": 1,
-    "titleZh": "Parents sue OpenAI, alleging GPT-4o coached their daughter off seizure medication",
-    "titleEn": "Parents sue OpenAI, alleging GPT-4o coached their daughter off seizure medication",
-    "summaryZh": "A family is suing OpenAI, saying ChatGPT coached their daughter to quietly taper off her seizure medication and keep it from her doctors before she died in February.",
-    "summaryEn": "A family is suing OpenAI, saying ChatGPT coached their daughter to quietly taper off her seizure medication and keep it from her doctors before she died in February.",
+    "titleZh": "Upwind raises $400M after walking away from Datadog acquisition offer",
+    "titleEn": "Upwind raises $400M after walking away from Datadog acquisition offer",
+    "summaryZh": "The cloud security startup raised a Series C at a $3.8B valuation, instead of selling itself for the same price.",
+    "summaryEn": "The cloud security startup raised a Series C at a $3.8B valuation, instead of selling itself for the same price.",
     "detailZh": "来源：TechCrunch。这是基于 RSS 摘要生成的待加工条目。接入大模型后，系统会进一步完成中文改写、事实核对、背景补充和多源合并。",
     "detailEn": "Source: TechCrunch. This is an RSS-based draft. After an LLM is configured, the pipeline will rewrite, fact-check, enrich and merge reports about the same event.",
     "tags": [
@@ -437,18 +437,18 @@
       "TechCrunch"
     ],
     "sourceUrls": [
-      "https://techcrunch.com/2026/10/27/parents-sue-openai-alleging-gpt-4o-coached-their-daughter-off-seizure-medication/"
+      "https://techcrunch.com/2026/10/28/upwind-raises-400m-after-walking-away-from-datadog-acquisition-offer/"
     ]
   },
   {
-    "id": "rss-22-1f592db8b086",
+    "id": "rss-22-2bce6ea0abd3",
     "category": "tech",
     "importance": 6,
     "sourcesCount": 1,
-    "titleZh": "The data center boom has an upside: innovation for the US grid",
-    "titleEn": "The data center boom has an upside: innovation for the US grid",
-    "summaryZh": "As the AI boom stresses the existing power grid, all sorts of new opportunities for grid modernization are also emerging as a result, industry insiders say.",
-    "summaryEn": "As the AI boom stresses the existing power grid, all sorts of new opportunities for grid modernization are also emerging as a result, industry insiders say.",
+    "titleZh": "Apple’s touchscreen MacBook Pro pushes laptop pricing to a new extreme",
+    "titleEn": "Apple’s touchscreen MacBook Pro pushes laptop pricing to a new extreme",
+    "summaryZh": "Prepare to cough up around $14,549 if you want the new touchscreen MacBook Pro to have every upgrade.",
+    "summaryEn": "Prepare to cough up around $14,549 if you want the new touchscreen MacBook Pro to have every upgrade.",
     "detailZh": "来源：TechCrunch。这是基于 RSS 摘要生成的待加工条目。接入大模型后，系统会进一步完成中文改写、事实核对、背景补充和多源合并。",
     "detailEn": "Source: TechCrunch. This is an RSS-based draft. After an LLM is configured, the pipeline will rewrite, fact-check, enrich and merge reports about the same event.",
     "tags": [
@@ -458,18 +458,18 @@
       "TechCrunch"
     ],
     "sourceUrls": [
-      "https://techcrunch.com/2026/10/27/the-data-center-boom-has-an-upside-innovation-for-the-us-grid/"
+      "https://techcrunch.com/2026/10/28/apples-touchscreen-macbook-pro-pushes-laptop-pricing-to-a-new-extreme/"
     ]
   },
   {
-    "id": "rss-23-f76306e1fe03",
+    "id": "rss-23-b126d7721238",
     "category": "tech",
     "importance": 6,
     "sourcesCount": 1,
-    "titleZh": "Guidewire buys Hyperexponential for $1.7B in cash",
-    "titleEn": "Guidewire buys Hyperexponential for $1.7B in cash",
-    "summaryZh": "The deal, expected to close sometime next year, is to help bring AI agents to work alongside humans to underwrite, analyze, and price decisions.",
-    "summaryEn": "The deal, expected to close sometime next year, is to help bring AI agents to work alongside humans to underwrite, analyze, and price decisions.",
+    "titleZh": "Microsoft just shared Azure’s actual revenue in dollars: $33.2 billion",
+    "titleEn": "Microsoft just shared Azure’s actual revenue in dollars: $33.2 billion",
+    "summaryZh": "Microsoft has never disclosed Azure's quarterly revenue in dollars. But for the first time, we can see just how close it is getting to besting the biggest competitor in the market,",
+    "summaryEn": "Microsoft has never disclosed Azure's quarterly revenue in dollars. But for the first time, we can see just how close it is getting to besting the biggest competitor in the market, AWS.",
     "detailZh": "来源：TechCrunch。这是基于 RSS 摘要生成的待加工条目。接入大模型后，系统会进一步完成中文改写、事实核对、背景补充和多源合并。",
     "detailEn": "Source: TechCrunch. This is an RSS-based draft. After an LLM is configured, the pipeline will rewrite, fact-check, enrich and merge reports about the same event.",
     "tags": [
@@ -479,18 +479,18 @@
       "TechCrunch"
     ],
     "sourceUrls": [
-      "https://techcrunch.com/2026/10/27/guidewire-buys-hyperexponential-for-1-7b-in-cash/"
+      "https://techcrunch.com/2026/10/28/microsoft-just-shared-azures-actual-revenue-in-dollars-33-2-billion/"
     ]
   },
   {
-    "id": "rss-24-fc56e29189bb",
+    "id": "rss-24-f348c6db37d8",
     "category": "tech",
     "importance": 6,
     "sourcesCount": 1,
-    "titleZh": "From 8VC to Benchmark, here’s what’s hiding in October SEC filings",
-    "titleEn": "From 8VC to Benchmark, here’s what’s hiding in October SEC filings",
-    "summaryZh": "A whole crop of venture capital firms are raising significant new funds.",
-    "summaryEn": "A whole crop of venture capital firms are raising significant new funds.",
+    "titleZh": "Google expands AI Search ads globally as core ad growth slows",
+    "titleEn": "Google expands AI Search ads globally as core ad growth slows",
+    "summaryZh": "The announcement came alongside parent company Alphabet's third-quarter earnings report, which saw revenue grow 25% year over year to $127.6 billion.",
+    "summaryEn": "The announcement came alongside parent company Alphabet's third-quarter earnings report, which saw revenue grow 25% year over year to $127.6 billion.",
     "detailZh": "来源：TechCrunch。这是基于 RSS 摘要生成的待加工条目。接入大模型后，系统会进一步完成中文改写、事实核对、背景补充和多源合并。",
     "detailEn": "Source: TechCrunch. This is an RSS-based draft. After an LLM is configured, the pipeline will rewrite, fact-check, enrich and merge reports about the same event.",
     "tags": [
@@ -500,18 +500,18 @@
       "TechCrunch"
     ],
     "sourceUrls": [
-      "https://techcrunch.com/2026/10/27/from-8vc-to-benchmark-heres-whats-hiding-in-october-sec-filings/"
+      "https://techcrunch.com/2026/10/28/google-expands-ai-search-ads-globally-as-core-ad-growth-slows/"
     ]
   },
   {
-    "id": "rss-25-44c4e74cc1a3",
+    "id": "rss-25-90b267becbf2",
     "category": "tech",
     "importance": 6,
     "sourcesCount": 1,
-    "titleZh": "GM is embracing hybrids now",
-    "titleEn": "GM is embracing hybrids now",
-    "summaryZh": "GM eschewed hybrids in favor of battery-electric vehicles. Now it's gearing up to offer hybrid versions of its SUVs.",
-    "summaryEn": "GM eschewed hybrids in favor of battery-electric vehicles. Now it's gearing up to offer hybrid versions of its SUVs.",
+    "titleZh": "Microsoft recorded $10 billion in revenue from OpenAI",
+    "titleEn": "Microsoft recorded $10 billion in revenue from OpenAI",
+    "summaryZh": "Microsoft said it made $10 billion in revenue from commercial arrangements with OpenAI, including revenue-sharing payments, in the quarter ending September 30. It underscores the s",
+    "summaryEn": "Microsoft said it made $10 billion in revenue from commercial arrangements with OpenAI, including revenue-sharing payments, in the quarter ending September 30. It underscores the still-enormous financial dependency of the partnership.",
     "detailZh": "来源：TechCrunch。这是基于 RSS 摘要生成的待加工条目。接入大模型后，系统会进一步完成中文改写、事实核对、背景补充和多源合并。",
     "detailEn": "Source: TechCrunch. This is an RSS-based draft. After an LLM is configured, the pipeline will rewrite, fact-check, enrich and merge reports about the same event.",
     "tags": [
@@ -521,18 +521,165 @@
       "TechCrunch"
     ],
     "sourceUrls": [
-      "https://techcrunch.com/2026/10/27/gm-is-embracing-hybrids-now/"
+      "https://techcrunch.com/2026/10/28/microsoft-recorded-10-billion-in-revenue-from-openai/"
     ]
   },
   {
-    "id": "rss-26-62f7c8ee285c",
+    "id": "rss-26-938692860ee6",
+    "category": "science",
+    "importance": 6,
+    "sourcesCount": 1,
+    "titleZh": "Switchable Chlorine Atom Transfer Radical Reactions",
+    "titleEn": "Switchable Chlorine Atom Transfer Radical Reactions",
+    "summaryZh": "Nature, Published online: 28 October 2026; doi:10.1038/s41586-026-11348-z Switchable Chlorine Atom Transfer Radical Reactions",
+    "summaryEn": "Nature, Published online: 28 October 2026; doi:10.1038/s41586-026-11348-z Switchable Chlorine Atom Transfer Radical Reactions",
+    "detailZh": "来源：Nature News。这是基于 RSS 摘要生成的待加工条目。接入大模型后，系统会进一步完成中文改写、事实核对、背景补充和多源合并。",
+    "detailEn": "Source: Nature News. This is an RSS-based draft. After an LLM is configured, the pipeline will rewrite, fact-check, enrich and merge reports about the same event.",
+    "tags": [
+      "科学健康"
+    ],
+    "sources": [
+      "Nature News"
+    ],
+    "sourceUrls": [
+      "https://www.nature.com/articles/s41586-026-11348-z"
+    ]
+  },
+  {
+    "id": "rss-27-2d959f2deb60",
+    "category": "science",
+    "importance": 6,
+    "sourcesCount": 1,
+    "titleZh": "Back-to-monomer depolymerization of silicones by deoxygenative chlorination",
+    "titleEn": "Back-to-monomer depolymerization of silicones by deoxygenative chlorination",
+    "summaryZh": "Nature, Published online: 28 October 2026; doi:10.1038/s41586-026-11335-4 Back-to-monomer depolymerization of silicones by deoxygenative chlorination",
+    "summaryEn": "Nature, Published online: 28 October 2026; doi:10.1038/s41586-026-11335-4 Back-to-monomer depolymerization of silicones by deoxygenative chlorination",
+    "detailZh": "来源：Nature News。这是基于 RSS 摘要生成的待加工条目。接入大模型后，系统会进一步完成中文改写、事实核对、背景补充和多源合并。",
+    "detailEn": "Source: Nature News. This is an RSS-based draft. After an LLM is configured, the pipeline will rewrite, fact-check, enrich and merge reports about the same event.",
+    "tags": [
+      "科学健康"
+    ],
+    "sources": [
+      "Nature News"
+    ],
+    "sourceUrls": [
+      "https://www.nature.com/articles/s41586-026-11335-4"
+    ]
+  },
+  {
+    "id": "rss-28-5890e20fcd4f",
+    "category": "science",
+    "importance": 6,
+    "sourcesCount": 1,
+    "titleZh": "Why did ancient humans avoid this lush paradise",
+    "titleEn": "Why did ancient humans avoid this lush paradise",
+    "summaryZh": "Nature, Published online: 28 October 2026; doi:10.1038/d41586-026-03486-1 A new expedition into the Rub’ al Khali desert finds no evidence of ancient human settlement.",
+    "summaryEn": "Nature, Published online: 28 October 2026; doi:10.1038/d41586-026-03486-1 A new expedition into the Rub’ al Khali desert finds no evidence of ancient human settlement.",
+    "detailZh": "来源：Nature News。这是基于 RSS 摘要生成的待加工条目。接入大模型后，系统会进一步完成中文改写、事实核对、背景补充和多源合并。",
+    "detailEn": "Source: Nature News. This is an RSS-based draft. After an LLM is configured, the pipeline will rewrite, fact-check, enrich and merge reports about the same event.",
+    "tags": [
+      "科学健康"
+    ],
+    "sources": [
+      "Nature News"
+    ],
+    "sourceUrls": [
+      "https://www.nature.com/articles/d41586-026-03486-1"
+    ]
+  },
+  {
+    "id": "rss-29-093644dec388",
+    "category": "science",
+    "importance": 6,
+    "sourcesCount": 1,
+    "titleZh": "This Arabian desert was once a lush paradise. Why did ancient humans avoid it?",
+    "titleEn": "This Arabian desert was once a lush paradise. Why did ancient humans avoid it?",
+    "summaryZh": "Nature, Published online: 28 October 2026; doi:10.1038/d41586-026-03484-3 Expedition revealed that water wasn’t enough for human settlement — plus, proposals to block sunlight get ",
+    "summaryEn": "Nature, Published online: 28 October 2026; doi:10.1038/d41586-026-03484-3 Expedition revealed that water wasn’t enough for human settlement — plus, proposals to block sunlight get serious.",
+    "detailZh": "来源：Nature News。这是基于 RSS 摘要生成的待加工条目。接入大模型后，系统会进一步完成中文改写、事实核对、背景补充和多源合并。",
+    "detailEn": "Source: Nature News. This is an RSS-based draft. After an LLM is configured, the pipeline will rewrite, fact-check, enrich and merge reports about the same event.",
+    "tags": [
+      "科学健康"
+    ],
+    "sources": [
+      "Nature News"
+    ],
+    "sourceUrls": [
+      "https://www.nature.com/articles/d41586-026-03484-3"
+    ]
+  },
+  {
+    "id": "rss-30-e817ac11b7a1",
+    "category": "science",
+    "importance": 6,
+    "sourcesCount": 1,
+    "titleZh": "Accounting of Africa’s water reveals a management gap",
+    "titleEn": "Accounting of Africa’s water reveals a management gap",
+    "summaryZh": "Nature, Published online: 28 October 2026; doi:10.1038/d41586-026-03260-3 A map of Africa’s water demand reveals that the scarcity of water is only part of the problem facing the c",
+    "summaryEn": "Nature, Published online: 28 October 2026; doi:10.1038/d41586-026-03260-3 A map of Africa’s water demand reveals that the scarcity of water is only part of the problem facing the continent — management is a separate challenge.",
+    "detailZh": "来源：Nature News。这是基于 RSS 摘要生成的待加工条目。接入大模型后，系统会进一步完成中文改写、事实核对、背景补充和多源合并。",
+    "detailEn": "Source: Nature News. This is an RSS-based draft. After an LLM is configured, the pipeline will rewrite, fact-check, enrich and merge reports about the same event.",
+    "tags": [
+      "科学健康"
+    ],
+    "sources": [
+      "Nature News"
+    ],
+    "sourceUrls": [
+      "https://www.nature.com/articles/d41586-026-03260-3"
+    ]
+  },
+  {
+    "id": "rss-31-bbb36ee048b3",
+    "category": "tech",
+    "importance": 6,
+    "sourcesCount": 1,
+    "titleZh": "Riot police deployed in Madrid as protests erupt over deadly train crash",
+    "titleEn": "Riot police deployed in Madrid as protests erupt over deadly train crash",
+    "summaryZh": "A deadly train crash fuelled anger in Spain as far-right demonstrators clashed with police",
+    "summaryEn": "A deadly train crash fuelled anger in Spain as far-right demonstrators clashed with police",
+    "detailZh": "来源：Al Jazeera。这是基于 RSS 摘要生成的待加工条目。接入大模型后，系统会进一步完成中文改写、事实核对、背景补充和多源合并。",
+    "detailEn": "Source: Al Jazeera. This is an RSS-based draft. After an LLM is configured, the pipeline will rewrite, fact-check, enrich and merge reports about the same event.",
+    "tags": [
+      "科技"
+    ],
+    "sources": [
+      "Al Jazeera"
+    ],
+    "sourceUrls": [
+      "https://www.aljazeera.com/video/newsfeed/2026/10/29/riot-police-deployed-in-madrid-as-protests-erupt-over-deadly-train-crash?traffic_source=rss"
+    ]
+  },
+  {
+    "id": "rss-32-d34cd8dfe155",
+    "category": "tech",
+    "importance": 6,
+    "sourcesCount": 1,
+    "titleZh": "Israelis rally for Jewish-Arab government after election gains",
+    "titleEn": "Israelis rally for Jewish-Arab government after election gains",
+    "summaryZh": "Israelis rallied for a Jewish-Arab gov’t after parties representing Israel’s Arab citizens made gains in the election.",
+    "summaryEn": "Israelis rallied for a Jewish-Arab gov’t after parties representing Israel’s Arab citizens made gains in the election.",
+    "detailZh": "来源：Al Jazeera。这是基于 RSS 摘要生成的待加工条目。接入大模型后，系统会进一步完成中文改写、事实核对、背景补充和多源合并。",
+    "detailEn": "Source: Al Jazeera. This is an RSS-based draft. After an LLM is configured, the pipeline will rewrite, fact-check, enrich and merge reports about the same event.",
+    "tags": [
+      "科技"
+    ],
+    "sources": [
+      "Al Jazeera"
+    ],
+    "sourceUrls": [
+      "https://www.aljazeera.com/video/newsfeed/2026/10/29/israelis-rally-for-jewish-arab-government-after-election-gains?traffic_source=rss"
+    ]
+  },
+  {
+    "id": "rss-33-93c97ed93490",
     "category": "security",
     "importance": 6,
     "sourcesCount": 1,
-    "titleZh": "Arab parties could win 18 seats in Israeli elections, exit polls suggest",
-    "titleEn": "Arab parties could win 18 seats in Israeli elections, exit polls suggest",
-    "summaryZh": "Record-breaking voter turnout among Palestinian citizens of Israel hits around 80 percent, early indications show.",
-    "summaryEn": "Record-breaking voter turnout among Palestinian citizens of Israel hits around 80 percent, early indications show.",
+    "titleZh": "No clear winner in Israel election with nearly 90 percent of votes counted",
+    "titleEn": "No clear winner in Israel election with nearly 90 percent of votes counted",
+    "summaryZh": "Netanyahu's right-wing bloc leads but is falling short of the votes needed to form a government.",
+    "summaryEn": "Netanyahu's right-wing bloc leads but is falling short of the votes needed to form a government.",
     "detailZh": "来源：Al Jazeera。这是基于 RSS 摘要生成的待加工条目。接入大模型后，系统会进一步完成中文改写、事实核对、背景补充和多源合并。",
     "detailEn": "Source: Al Jazeera. This is an RSS-based draft. After an LLM is configured, the pipeline will rewrite, fact-check, enrich and merge reports about the same event.",
     "tags": [
@@ -542,18 +689,18 @@
       "Al Jazeera"
     ],
     "sourceUrls": [
-      "https://www.aljazeera.com/news/2026/10/28/arab-parties-could-win-18-seats-in-israeli-elections-exit-polls-suggest?traffic_source=rss"
+      "https://www.aljazeera.com/news/2026/10/29/no-clear-winner-in-israeli-election-with-nearly-90-percent-of-votes-counted?traffic_source=rss"
     ]
   },
   {
-    "id": "rss-27-dd96394efbe7",
+    "id": "rss-34-ce0b2b4291c7",
     "category": "security",
     "importance": 6,
     "sourcesCount": 1,
-    "titleZh": "Exit polls trigger heated debate across Israeli political divide",
-    "titleEn": "Exit polls trigger heated debate across Israeli political divide",
-    "summaryZh": "Despite narrower exit poll figures, opposition leaders insisted the result was a defeat for the government.",
-    "summaryEn": "Despite narrower exit poll figures, opposition leaders insisted the result was a defeat for the government.",
+    "titleZh": "Iran war live: Tehran presses 7-day Hormuz plan; Trump denies peace talks",
+    "titleEn": "Iran war live: Tehran presses 7-day Hormuz plan; Trump denies peace talks",
+    "summaryZh": "Araghchi says Iran is in close contact with mediators on ideas to implement its seven-day plan to reopen Hormuz strait.",
+    "summaryEn": "Araghchi says Iran is in close contact with mediators on ideas to implement its seven-day plan to reopen Hormuz strait.",
     "detailZh": "来源：Al Jazeera。这是基于 RSS 摘要生成的待加工条目。接入大模型后，系统会进一步完成中文改写、事实核对、背景补充和多源合并。",
     "detailEn": "Source: Al Jazeera. This is an RSS-based draft. After an LLM is configured, the pipeline will rewrite, fact-check, enrich and merge reports about the same event.",
     "tags": [
@@ -563,18 +710,18 @@
       "Al Jazeera"
     ],
     "sourceUrls": [
-      "https://www.aljazeera.com/news/2026/10/28/exit-polls-trigger-heated-debate-across-israeli-political-divide?traffic_source=rss"
+      "https://www.aljazeera.com/news/liveblog/2026/10/29/iran-war-live-tehran-presses-7-day-hormuz-plan-trump-denies-peace-talks?traffic_source=rss"
     ]
   },
   {
-    "id": "rss-28-851c0fa45f38",
+    "id": "rss-35-104d3fd68f86",
     "category": "security",
     "importance": 6,
     "sourcesCount": 1,
-    "titleZh": "Israel’s Eisenkot says country voted for change",
-    "titleEn": "Israel’s Eisenkot says country voted for change",
-    "summaryZh": "Israeli opposition leader Gadi Eisenkot says millions of Israelis voted for change, tired of Netanyahu’s ‘lies’.",
-    "summaryEn": "Israeli opposition leader Gadi Eisenkot says millions of Israelis voted for change, tired of Netanyahu’s ‘lies’.",
+    "titleZh": "Romania extends pre-trial detention of far-right politician Calin Georgescu",
+    "titleEn": "Romania extends pre-trial detention of far-right politician Calin Georgescu",
+    "summaryZh": "The Bucharest court has extended the pre-trial detention of Calin Georgescu by 30 days, appealing a lower court ruling.",
+    "summaryEn": "The Bucharest court has extended the pre-trial detention of Calin Georgescu by 30 days, appealing a lower court ruling.",
     "detailZh": "来源：Al Jazeera。这是基于 RSS 摘要生成的待加工条目。接入大模型后，系统会进一步完成中文改写、事实核对、背景补充和多源合并。",
     "detailEn": "Source: Al Jazeera. This is an RSS-based draft. After an LLM is configured, the pipeline will rewrite, fact-check, enrich and merge reports about the same event.",
     "tags": [
@@ -584,49 +731,7 @@
       "Al Jazeera"
     ],
     "sourceUrls": [
-      "https://www.aljazeera.com/video/newsfeed/2026/10/28/israels-eisenkot-says-country-voted-for-change?traffic_source=rss"
-    ]
-  },
-  {
-    "id": "rss-29-37dfe89c648c",
-    "category": "security",
-    "importance": 6,
-    "sourcesCount": 1,
-    "titleZh": "‘This is America’: US envoy scolds Cuban diplomat at UN",
-    "titleEn": "‘This is America’: US envoy scolds Cuban diplomat at UN",
-    "summaryZh": "US envoy Mike Waltz repeatedly told Cuba’s UN team, ‘This is America’, during a heated clash at UN headquarters",
-    "summaryEn": "US envoy Mike Waltz repeatedly told Cuba’s UN team, ‘This is America’, during a heated clash at UN headquarters",
-    "detailZh": "来源：Al Jazeera。这是基于 RSS 摘要生成的待加工条目。接入大模型后，系统会进一步完成中文改写、事实核对、背景补充和多源合并。",
-    "detailEn": "Source: Al Jazeera. This is an RSS-based draft. After an LLM is configured, the pipeline will rewrite, fact-check, enrich and merge reports about the same event.",
-    "tags": [
-      "冲突与安全"
-    ],
-    "sources": [
-      "Al Jazeera"
-    ],
-    "sourceUrls": [
-      "https://www.aljazeera.com/video/newsfeed/2026/10/28/this-is-america-us-envoy-scolds-cuban-diplomat-at-un?traffic_source=rss"
-    ]
-  },
-  {
-    "id": "rss-30-355e5ee87207",
-    "category": "tech",
-    "importance": 6,
-    "sourcesCount": 1,
-    "titleZh": "Gaza’s women filmmakers turn pain into cinema as new academy launches",
-    "titleEn": "Gaza’s women filmmakers turn pain into cinema as new academy launches",
-    "summaryZh": "Gaza film festival highlights women's resilience through stories of war, loss and survival.",
-    "summaryEn": "Gaza film festival highlights women's resilience through stories of war, loss and survival.",
-    "detailZh": "来源：Al Jazeera。这是基于 RSS 摘要生成的待加工条目。接入大模型后，系统会进一步完成中文改写、事实核对、背景补充和多源合并。",
-    "detailEn": "Source: Al Jazeera. This is an RSS-based draft. After an LLM is configured, the pipeline will rewrite, fact-check, enrich and merge reports about the same event.",
-    "tags": [
-      "科技"
-    ],
-    "sources": [
-      "Al Jazeera"
-    ],
-    "sourceUrls": [
-      "https://www.aljazeera.com/news/2026/10/27/gazas-women-filmmakers-turn-pain-into-cinema-as-new-academy-launches?traffic_source=rss"
+      "https://www.aljazeera.com/news/2026/10/28/romania-extends-pre-trial-detention-of-far-right-politician-calin-georgescu?traffic_source=rss"
     ]
   }
 ]
