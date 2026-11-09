@@ -1,34 +1,13 @@
 [
   {
-    "id": "rss-1-10a11a207755",
-    "category": "security",
-    "importance": 6,
-    "sourcesCount": 1,
-    "titleZh": "What we know so far after Krakow gun attack",
-    "titleEn": "What we know so far after Krakow gun attack",
-    "summaryZh": "Six people were killed in a random shooting in the city's main square, and three bodies were later found at his home.",
-    "summaryEn": "Six people were killed in a random shooting in the city's main square, and three bodies were later found at his home.",
-    "detailZh": "来源：BBC News。这是基于 RSS 摘要生成的待加工条目。接入大模型后，系统会进一步完成中文改写、事实核对、背景补充和多源合并。",
-    "detailEn": "Source: BBC News. This is an RSS-based draft. After an LLM is configured, the pipeline will rewrite, fact-check, enrich and merge reports about the same event.",
-    "tags": [
-      "冲突与安全"
-    ],
-    "sources": [
-      "BBC News"
-    ],
-    "sourceUrls": [
-      "https://www.bbc.co.uk/news/articles/cmd7q15drwgeo?at_medium=RSS&at_campaign=rss"
-    ]
-  },
-  {
-    "id": "rss-2-6f06cf85fa11",
+    "id": "rss-1-97b1a1785af3",
     "category": "world",
     "importance": 6,
     "sourcesCount": 1,
-    "titleZh": "Israel's president tasks opposition leader Eisenkot with forming government",
-    "titleEn": "Israel's president tasks opposition leader Eisenkot with forming government",
-    "summaryZh": "Neither PM Benjamin Netanyahu's bloc nor that of his rival secured a majority in last week's election.",
-    "summaryEn": "Neither PM Benjamin Netanyahu's bloc nor that of his rival secured a majority in last week's election.",
+    "titleZh": "Surgeon having lunch near Krakow shooting undoubtedly saved officer's life, colleague says",
+    "titleEn": "Surgeon having lunch near Krakow shooting undoubtedly saved officer's life, colleague says",
+    "summaryZh": "Further details have emerged about two police officers hailed for preventing a Polish gunman from killing more.",
+    "summaryEn": "Further details have emerged about two police officers hailed for preventing a Polish gunman from killing more.",
     "detailZh": "来源：BBC News。这是基于 RSS 摘要生成的待加工条目。接入大模型后，系统会进一步完成中文改写、事实核对、背景补充和多源合并。",
     "detailEn": "Source: BBC News. This is an RSS-based draft. After an LLM is configured, the pipeline will rewrite, fact-check, enrich and merge reports about the same event.",
     "tags": [
@@ -38,60 +17,18 @@
       "BBC News"
     ],
     "sourceUrls": [
-      "https://www.bbc.co.uk/news/articles/cmy8367lj5xlo?at_medium=RSS&at_campaign=rss"
+      "https://www.bbc.co.uk/news/articles/c5x2vw4e1gx1o?at_medium=RSS&at_campaign=rss"
     ]
   },
   {
-    "id": "rss-3-6627ae0c0218",
-    "category": "world",
-    "importance": 6,
-    "sourcesCount": 1,
-    "titleZh": "No clear winner after tight New Zealand general election",
-    "titleEn": "No clear winner after tight New Zealand general election",
-    "summaryZh": "Weeks of coalition talks could follow after preliminary results pointed to a highly divided national parliament.",
-    "summaryEn": "Weeks of coalition talks could follow after preliminary results pointed to a highly divided national parliament.",
-    "detailZh": "来源：BBC News。这是基于 RSS 摘要生成的待加工条目。接入大模型后，系统会进一步完成中文改写、事实核对、背景补充和多源合并。",
-    "detailEn": "Source: BBC News. This is an RSS-based draft. After an LLM is configured, the pipeline will rewrite, fact-check, enrich and merge reports about the same event.",
-    "tags": [
-      "国际时政"
-    ],
-    "sources": [
-      "BBC News"
-    ],
-    "sourceUrls": [
-      "https://www.bbc.co.uk/news/articles/c3ewev11g1e0o?at_medium=RSS&at_campaign=rss"
-    ]
-  },
-  {
-    "id": "rss-4-a190c1df0327",
-    "category": "security",
-    "importance": 6,
-    "sourcesCount": 1,
-    "titleZh": "US offers $20m reward for information about Iran's nuclear programme",
-    "titleEn": "US offers $20m reward for information about Iran's nuclear programme",
-    "summaryZh": "Donald Trump has repeatedly raised the prospect of renewing strikes against Iran's nuclear facilities.",
-    "summaryEn": "Donald Trump has repeatedly raised the prospect of renewing strikes against Iran's nuclear facilities.",
-    "detailZh": "来源：BBC News。这是基于 RSS 摘要生成的待加工条目。接入大模型后，系统会进一步完成中文改写、事实核对、背景补充和多源合并。",
-    "detailEn": "Source: BBC News. This is an RSS-based draft. After an LLM is configured, the pipeline will rewrite, fact-check, enrich and merge reports about the same event.",
-    "tags": [
-      "冲突与安全"
-    ],
-    "sources": [
-      "BBC News"
-    ],
-    "sourceUrls": [
-      "https://www.bbc.co.uk/news/articles/c6d091ev3p0jo?at_medium=RSS&at_campaign=rss"
-    ]
-  },
-  {
-    "id": "rss-5-b3534df0c874",
+    "id": "rss-2-fd082421c347",
     "category": "tech",
     "importance": 6,
     "sourcesCount": 1,
-    "titleZh": "Houthis say at least 25 killed in Saudi air strike",
-    "titleEn": "Houthis say at least 25 killed in Saudi air strike",
-    "summaryZh": "Saudi Arabia, which leads a coalition fighting the Houthis in Yemen, has not commented.",
-    "summaryEn": "Saudi Arabia, which leads a coalition fighting the Houthis in Yemen, has not commented.",
+    "titleZh": "Seven dead and more than 100 injured after trains collide in Egypt",
+    "titleEn": "Seven dead and more than 100 injured after trains collide in Egypt",
+    "summaryZh": "Several carriages derailed after two trains travelling in the same direction crashed outside the city of Giza.",
+    "summaryEn": "Several carriages derailed after two trains travelling in the same direction crashed outside the city of Giza.",
     "detailZh": "来源：BBC News。这是基于 RSS 摘要生成的待加工条目。接入大模型后，系统会进一步完成中文改写、事实核对、背景补充和多源合并。",
     "detailEn": "Source: BBC News. This is an RSS-based draft. After an LLM is configured, the pipeline will rewrite, fact-check, enrich and merge reports about the same event.",
     "tags": [
@@ -101,18 +38,81 @@
       "BBC News"
     ],
     "sourceUrls": [
-      "https://www.bbc.co.uk/news/articles/c65yn1v99ypmo?at_medium=RSS&at_campaign=rss"
+      "https://www.bbc.co.uk/news/articles/cwvgr20mmmevo?at_medium=RSS&at_campaign=rss"
     ]
   },
   {
-    "id": "rss-6-5829d9d78a07",
+    "id": "rss-3-b0bc61ca0b43",
     "category": "world",
     "importance": 6,
     "sourcesCount": 1,
-    "titleZh": "Israeli president invites Netanyahu's opposition leader to broker new government",
-    "titleEn": "Israeli president invites Netanyahu's opposition leader to broker new government",
-    "summaryZh": "Israel's political landscape shifts as President Herzog hands opposition leader Gadi Eisenkot the mandate to form a government, dealing a blow to Benjamin Netanyahu's grip on power",
-    "summaryEn": "Israel's political landscape shifts as President Herzog hands opposition leader Gadi Eisenkot the mandate to form a government, dealing a blow to Benjamin Netanyahu's grip on power.",
+    "titleZh": "Homes and temples glow across India to mark Diwali",
+    "titleEn": "Homes and temples glow across India to mark Diwali",
+    "summaryZh": "Millions of Indians are marking the festival of lights with glowing lamps, fireworks and traditional sweets.",
+    "summaryEn": "Millions of Indians are marking the festival of lights with glowing lamps, fireworks and traditional sweets.",
+    "detailZh": "来源：BBC News。这是基于 RSS 摘要生成的待加工条目。接入大模型后，系统会进一步完成中文改写、事实核对、背景补充和多源合并。",
+    "detailEn": "Source: BBC News. This is an RSS-based draft. After an LLM is configured, the pipeline will rewrite, fact-check, enrich and merge reports about the same event.",
+    "tags": [
+      "国际时政"
+    ],
+    "sources": [
+      "BBC News"
+    ],
+    "sourceUrls": [
+      "https://www.bbc.co.uk/news/articles/cm70pdwz122ro?at_medium=RSS&at_campaign=rss"
+    ]
+  },
+  {
+    "id": "rss-4-221e80597e10",
+    "category": "world",
+    "importance": 6,
+    "sourcesCount": 1,
+    "titleZh": "Iran executes three men for 'armed unrest' after January protests",
+    "titleEn": "Iran executes three men for 'armed unrest' after January protests",
+    "summaryZh": "It is claimed Hassan Dioband, Hamid Kazemi and Reza Zanganeh were part of anti-government protests earlier this year.",
+    "summaryEn": "It is claimed Hassan Dioband, Hamid Kazemi and Reza Zanganeh were part of anti-government protests earlier this year.",
+    "detailZh": "来源：BBC News。这是基于 RSS 摘要生成的待加工条目。接入大模型后，系统会进一步完成中文改写、事实核对、背景补充和多源合并。",
+    "detailEn": "Source: BBC News. This is an RSS-based draft. After an LLM is configured, the pipeline will rewrite, fact-check, enrich and merge reports about the same event.",
+    "tags": [
+      "国际时政"
+    ],
+    "sources": [
+      "BBC News"
+    ],
+    "sourceUrls": [
+      "https://www.bbc.co.uk/news/articles/ckly0ex633ydo?at_medium=RSS&at_campaign=rss"
+    ]
+  },
+  {
+    "id": "rss-5-f17511fbf627",
+    "category": "world",
+    "importance": 6,
+    "sourcesCount": 1,
+    "titleZh": "Aramco Tower hit in heart of Saudi capital as Houthis launch fresh strikes",
+    "titleEn": "Aramco Tower hit in heart of Saudi capital as Houthis launch fresh strikes",
+    "summaryZh": "Footage authenticated by BBC Verify shows damage to the building in the capital's central financial district.",
+    "summaryEn": "Footage authenticated by BBC Verify shows damage to the building in the capital's central financial district.",
+    "detailZh": "来源：BBC News。这是基于 RSS 摘要生成的待加工条目。接入大模型后，系统会进一步完成中文改写、事实核对、背景补充和多源合并。",
+    "detailEn": "Source: BBC News. This is an RSS-based draft. After an LLM is configured, the pipeline will rewrite, fact-check, enrich and merge reports about the same event.",
+    "tags": [
+      "国际时政"
+    ],
+    "sources": [
+      "BBC News"
+    ],
+    "sourceUrls": [
+      "https://www.bbc.co.uk/news/articles/c6ly3mjx958eo?at_medium=RSS&at_campaign=rss"
+    ]
+  },
+  {
+    "id": "rss-6-726014e34080",
+    "category": "world",
+    "importance": 6,
+    "sourcesCount": 1,
+    "titleZh": "The world's largest telecoms firm is on trial and the outcome has global implications",
+    "titleEn": "The world's largest telecoms firm is on trial and the outcome has global implications",
+    "summaryZh": "Huawei, the world's biggest telecommunications company, is on trial in New York, accused of stealing American technology and evading US sanctions.",
+    "summaryEn": "Huawei, the world's biggest telecommunications company, is on trial in New York, accused of stealing American technology and evading US sanctions.",
     "detailZh": "来源：NPR World。这是基于 RSS 摘要生成的待加工条目。接入大模型后，系统会进一步完成中文改写、事实核对、背景补充和多源合并。",
     "detailEn": "Source: NPR World. This is an RSS-based draft. After an LLM is configured, the pipeline will rewrite, fact-check, enrich and merge reports about the same event.",
     "tags": [
@@ -122,18 +122,18 @@
       "NPR World"
     ],
     "sourceUrls": [
-      "https://www.npr.org/2026/11/07/nx-s1-6032606/israeli-president-invites-netanyahus-opposition-leader-to-broker-new-government"
+      "https://www.npr.org/2026/11/08/nx-s1-6030670/the-worlds-largest-telecoms-firm-is-on-trial-and-the-outcome-has-global-implications"
     ]
   },
   {
-    "id": "rss-7-61ee0bf649b5",
+    "id": "rss-7-862c8b614e8f",
     "category": "world",
     "importance": 6,
     "sourcesCount": 1,
-    "titleZh": "A correspondent finds Cuba's people struggling",
-    "titleEn": "A correspondent finds Cuba's people struggling",
-    "summaryZh": "Reporting from Cuba comes with distinct challenges especially amid widespread power outages and fuel shortages.",
-    "summaryEn": "Reporting from Cuba comes with distinct challenges especially amid widespread power outages and fuel shortages.",
+    "titleZh": "Trying to find true owners, Paris' Musee D'Orsay exhibits art looted by Nazis",
+    "titleEn": "Trying to find true owners, Paris' Musee D'Orsay exhibits art looted by Nazis",
+    "summaryZh": "A new permanent exhibition at Paris' Musee d'Orsay showcases works of art suspected to have been looted by Nazis during the Second World War in France. Experts are trying to find t",
+    "summaryEn": "A new permanent exhibition at Paris' Musee d'Orsay showcases works of art suspected to have been looted by Nazis during the Second World War in France. Experts are trying to find the true owners or their descendants.",
     "detailZh": "来源：NPR World。这是基于 RSS 摘要生成的待加工条目。接入大模型后，系统会进一步完成中文改写、事实核对、背景补充和多源合并。",
     "detailEn": "Source: NPR World. This is an RSS-based draft. After an LLM is configured, the pipeline will rewrite, fact-check, enrich and merge reports about the same event.",
     "tags": [
@@ -143,18 +143,39 @@
       "NPR World"
     ],
     "sourceUrls": [
-      "https://www.npr.org/2026/11/07/nx-s1-6029398/a-correspondent-finds-cubas-people-struggling"
+      "https://www.npr.org/2026/11/08/nx-s1-5928034/trying-to-find-true-owners-paris-musee-dorsay-exhibits-art-looted-by-nazis"
     ]
   },
   {
-    "id": "rss-8-d28f9d856987",
+    "id": "rss-8-1891a2a8cc94",
+    "category": "tech",
+    "importance": 6,
+    "sourcesCount": 1,
+    "titleZh": "Europe to join U.S.-brokered Ukraine talks in Abu Dhabi, defying Kremlin objections",
+    "titleEn": "Europe to join U.S.-brokered Ukraine talks in Abu Dhabi, defying Kremlin objections",
+    "summaryZh": "France says European officials will attend this week's U.S.-mediated Russia-Ukraine talks in Abu Dhabi, the first three-way round of negotiations since February.",
+    "summaryEn": "France says European officials will attend this week's U.S.-mediated Russia-Ukraine talks in Abu Dhabi, the first three-way round of negotiations since February.",
+    "detailZh": "来源：NPR World。这是基于 RSS 摘要生成的待加工条目。接入大模型后，系统会进一步完成中文改写、事实核对、背景补充和多源合并。",
+    "detailEn": "Source: NPR World. This is an RSS-based draft. After an LLM is configured, the pipeline will rewrite, fact-check, enrich and merge reports about the same event.",
+    "tags": [
+      "科技"
+    ],
+    "sources": [
+      "NPR World"
+    ],
+    "sourceUrls": [
+      "https://www.npr.org/2026/11/08/nx-s1-6034014/europe-join-us-brokered-ukraine-talks-abu-dhabi-russia"
+    ]
+  },
+  {
+    "id": "rss-9-746756c1e33d",
     "category": "world",
     "importance": 6,
     "sourcesCount": 1,
-    "titleZh": "Israel's president taps opposition candidate, not Netanyahu, to form a government",
-    "titleEn": "Israel's president taps opposition candidate, not Netanyahu, to form a government",
-    "summaryZh": "Gadi Eisenkot ran as the main rival to Prime Minister Benjamin Netanyahu, but neither won enough support to command a majority. Israel's main parties have recommended Eisenkot form",
-    "summaryEn": "Gadi Eisenkot ran as the main rival to Prime Minister Benjamin Netanyahu, but neither won enough support to command a majority. Israel's main parties have recommended Eisenkot form a new government.",
+    "titleZh": "No clear winner in New Zealand election, as leaders prepare for weeks of talks",
+    "titleEn": "No clear winner in New Zealand election, as leaders prepare for weeks of talks",
+    "summaryZh": "Prime Minister Christopher Luxon, who will lead a caretaker government while negotiations take place, said: \"I think everyone's over politics so let's all have a bit of a break for",
+    "summaryEn": "Prime Minister Christopher Luxon, who will lead a caretaker government while negotiations take place, said: \"I think everyone's over politics so let's all have a bit of a break for the next three weeks\".",
     "detailZh": "来源：NPR World。这是基于 RSS 摘要生成的待加工条目。接入大模型后，系统会进一步完成中文改写、事实核对、背景补充和多源合并。",
     "detailEn": "Source: NPR World. This is an RSS-based draft. After an LLM is configured, the pipeline will rewrite, fact-check, enrich and merge reports about the same event.",
     "tags": [
@@ -164,18 +185,18 @@
       "NPR World"
     ],
     "sourceUrls": [
-      "https://www.npr.org/2026/11/07/g-s1-152536/netanyahu-israel-government-eisenkot-herzog"
+      "https://www.npr.org/2026/11/08/nx-s1-6033999/no-clear-winner-in-new-zealand-election-as-leaders-prepare-for-weeks-of-talks"
     ]
   },
   {
-    "id": "rss-9-d74c8db696ea",
+    "id": "rss-10-e91fcdf33345",
     "category": "world",
     "importance": 6,
     "sourcesCount": 1,
-    "titleZh": "Ousted Paraguayan president appears before prosecutors",
-    "titleEn": "Ousted Paraguayan president appears before prosecutors",
-    "summaryZh": "Paraguayan President Santiago Peña was removed from office and placed under house arrest Friday. The Senate voted on his impeachment after the collapse of a state-affiliated bank.",
-    "summaryEn": "Paraguayan President Santiago Peña was removed from office and placed under house arrest Friday. The Senate voted on his impeachment after the collapse of a state-affiliated bank.",
+    "titleZh": "After a successful trip to Uruguay, Pope Leo heads to Argentina",
+    "titleEn": "After a successful trip to Uruguay, Pope Leo heads to Argentina",
+    "summaryZh": "On Sunday, tens of thousands packed the main square in Florida, Uruguay, to watch Pope Leo speak.",
+    "summaryEn": "On Sunday, tens of thousands packed the main square in Florida, Uruguay, to watch Pope Leo speak.",
     "detailZh": "来源：NPR World。这是基于 RSS 摘要生成的待加工条目。接入大模型后，系统会进一步完成中文改写、事实核对、背景补充和多源合并。",
     "detailEn": "Source: NPR World. This is an RSS-based draft. After an LLM is configured, the pipeline will rewrite, fact-check, enrich and merge reports about the same event.",
     "tags": [
@@ -185,32 +206,53 @@
       "NPR World"
     ],
     "sourceUrls": [
-      "https://www.npr.org/2026/11/07/nx-s1-6033373/paraguay-president-ousted-bank-collapse"
+      "https://www.npr.org/2026/11/08/nx-s1-6033992/after-a-successful-trip-to-uruguay-pope-leo-heads-to-argentina"
     ]
   },
   {
-    "id": "rss-10-389b46270e37",
+    "id": "rss-11-ff406199a7cc",
+    "category": "tech",
+    "importance": 6,
+    "sourcesCount": 1,
+    "titleZh": "Collision of two trains in Egypt kills at least seven",
+    "titleEn": "Collision of two trains in Egypt kills at least seven",
+    "summaryZh": "President orders prompt investigation after one train derails in collision in al-Ayyat about 50km from Cairo Seven people were killed and at least 125 injured when two trains colli",
+    "summaryEn": "President orders prompt investigation after one train derails in collision in al-Ayyat about 50km from Cairo Seven people were killed and at least 125 injured when two trains collided on Sunday south of the Egyptian capital, Cairo, officials said. The crash oc",
+    "detailZh": "来源：The Guardian。这是基于 RSS 摘要生成的待加工条目。接入大模型后，系统会进一步完成中文改写、事实核对、背景补充和多源合并。",
+    "detailEn": "Source: The Guardian. This is an RSS-based draft. After an LLM is configured, the pipeline will rewrite, fact-check, enrich and merge reports about the same event.",
+    "tags": [
+      "科技"
+    ],
+    "sources": [
+      "The Guardian"
+    ],
+    "sourceUrls": [
+      "https://www.theguardian.com/world/2026/nov/08/egypt-two-trains-deadly-collision"
+    ]
+  },
+  {
+    "id": "rss-12-62e73d35acc1",
     "category": "world",
     "importance": 6,
     "sourcesCount": 1,
-    "titleZh": "Israel's Arab-led parties in spotlight after inconclusive election",
-    "titleEn": "Israel's Arab-led parties in spotlight after inconclusive election",
-    "summaryZh": "Israel's center-right opposition has a chance to unseat Netanyahu — but backing of Arab-led parties will be key.",
-    "summaryEn": "Israel's center-right opposition has a chance to unseat Netanyahu — but backing of Arab-led parties will be key.",
-    "detailZh": "来源：NPR World。这是基于 RSS 摘要生成的待加工条目。接入大模型后，系统会进一步完成中文改写、事实核对、背景补充和多源合并。",
-    "detailEn": "Source: NPR World. This is an RSS-based draft. After an LLM is configured, the pipeline will rewrite, fact-check, enrich and merge reports about the same event.",
+    "titleZh": "How African philosophies inspired a new approach to staging film festivals in Manchester",
+    "titleEn": "How African philosophies inspired a new approach to staging film festivals in Manchester",
+    "summaryZh": "See My World, an event highlighting the pan-African thought via film, poetry and dance, builds on momentum sparked by local activists and creatives African philosophies including e",
+    "summaryEn": "See My World, an event highlighting the pan-African thought via film, poetry and dance, builds on momentum sparked by local activists and creatives African philosophies including exploring how lessons from the past can shape the present and near future have in",
+    "detailZh": "来源：The Guardian。这是基于 RSS 摘要生成的待加工条目。接入大模型后，系统会进一步完成中文改写、事实核对、背景补充和多源合并。",
+    "detailEn": "Source: The Guardian. This is an RSS-based draft. After an LLM is configured, the pipeline will rewrite, fact-check, enrich and merge reports about the same event.",
     "tags": [
       "国际时政"
     ],
     "sources": [
-      "NPR World"
+      "The Guardian"
     ],
     "sourceUrls": [
-      "https://www.npr.org/2026/11/06/g-s1-152138/israel-election-palestinian-arab-parties"
+      "https://www.theguardian.com/news/2026/nov/08/african-philosophies-see-my-world-film-festival-manchester"
     ]
   },
   {
-    "id": "rss-11-36abb8aa2fbd",
+    "id": "rss-13-36abb8aa2fbd",
     "category": "tech",
     "importance": 6,
     "sourcesCount": 1,
@@ -231,7 +273,7 @@
     ]
   },
   {
-    "id": "rss-12-79cfcadb5415",
+    "id": "rss-14-79cfcadb5415",
     "category": "world",
     "importance": 6,
     "sourcesCount": 1,
@@ -252,7 +294,7 @@
     ]
   },
   {
-    "id": "rss-13-4e302aa30a44",
+    "id": "rss-15-4e302aa30a44",
     "category": "science",
     "importance": 6,
     "sourcesCount": 1,
@@ -270,48 +312,6 @@
     ],
     "sourceUrls": [
       "https://www.theguardian.com/world/2026/nov/04/british-healthcare-worker-ebola-evacuated-drc-to-uk-document-shows"
-    ]
-  },
-  {
-    "id": "rss-14-932e5368b90e",
-    "category": "world",
-    "importance": 6,
-    "sourcesCount": 1,
-    "titleZh": "ANC faces anger over poor services as South Africans vote in local elections",
-    "titleEn": "ANC faces anger over poor services as South Africans vote in local elections",
-    "summaryZh": "Party expected to get less than a third of the vote amid frustration over water outages and power cuts The African National Congress is on course for a bruising result in South Afr",
-    "summaryEn": "Party expected to get less than a third of the vote amid frustration over water outages and power cuts The African National Congress is on course for a bruising result in South Africa’s local elections on Wednesday as voters go to the polls amid deep disconten",
-    "detailZh": "来源：The Guardian。这是基于 RSS 摘要生成的待加工条目。接入大模型后，系统会进一步完成中文改写、事实核对、背景补充和多源合并。",
-    "detailEn": "Source: The Guardian. This is an RSS-based draft. After an LLM is configured, the pipeline will rewrite, fact-check, enrich and merge reports about the same event.",
-    "tags": [
-      "国际时政"
-    ],
-    "sources": [
-      "The Guardian"
-    ],
-    "sourceUrls": [
-      "https://www.theguardian.com/world/2026/nov/04/anc-south-africa-local-elections-water-outages-power-cuts"
-    ]
-  },
-  {
-    "id": "rss-15-d5399bfb76f3",
-    "category": "world",
-    "importance": 6,
-    "sourcesCount": 1,
-    "titleZh": "Sinkholes, scarred land and scapegoats: the scourge of illegal gold mining in Johannesburg",
-    "titleEn": "Sinkholes, scarred land and scapegoats: the scourge of illegal gold mining in Johannesburg",
-    "summaryZh": "There is no end in sight for the drivers of illegal mining, while police action appears ineffective Cora Bailey has been encountering illegal miners ever since she first started tr",
-    "summaryEn": "There is no end in sight for the drivers of illegal mining, while police action appears ineffective Cora Bailey has been encountering illegal miners ever since she first started treating injured animals in the townships around Roodepoort, west of Johannesburg,",
-    "detailZh": "来源：The Guardian。这是基于 RSS 摘要生成的待加工条目。接入大模型后，系统会进一步完成中文改写、事实核对、背景补充和多源合并。",
-    "detailEn": "Source: The Guardian. This is an RSS-based draft. After an LLM is configured, the pipeline will rewrite, fact-check, enrich and merge reports about the same event.",
-    "tags": [
-      "国际时政"
-    ],
-    "sources": [
-      "The Guardian"
-    ],
-    "sourceUrls": [
-      "https://www.theguardian.com/business/2026/oct/30/sinkholes-scarred-land-scapegoats-illegal-gold-mining-johannesburg"
     ]
   },
   {
@@ -420,14 +420,14 @@
     ]
   },
   {
-    "id": "rss-21-ed263cbbe1a4",
+    "id": "rss-21-4fd45b293330",
     "category": "tech",
     "importance": 6,
     "sourcesCount": 1,
-    "titleZh": "After the midterms, things are looking rocky for Elon Musk and data centers",
-    "titleEn": "After the midterms, things are looking rocky for Elon Musk and data centers",
-    "summaryZh": "On Equity, we unpacked what the midterms mean for the tech industry.",
-    "summaryEn": "On Equity, we unpacked what the midterms mean for the tech industry.",
+    "titleZh": "Apps to distract you from the endless cycle of doomscrolling",
+    "titleEn": "Apps to distract you from the endless cycle of doomscrolling",
+    "summaryZh": "It's hard to break the cycle of doomscrolling, but there are plenty of apps that can help you spend more time on content that’s engaging and productive.",
+    "summaryEn": "It's hard to break the cycle of doomscrolling, but there are plenty of apps that can help you spend more time on content that’s engaging and productive.",
     "detailZh": "来源：TechCrunch。这是基于 RSS 摘要生成的待加工条目。接入大模型后，系统会进一步完成中文改写、事实核对、背景补充和多源合并。",
     "detailEn": "Source: TechCrunch. This is an RSS-based draft. After an LLM is configured, the pipeline will rewrite, fact-check, enrich and merge reports about the same event.",
     "tags": [
@@ -437,18 +437,18 @@
       "TechCrunch"
     ],
     "sourceUrls": [
-      "https://techcrunch.com/2026/11/07/after-the-midterms-things-are-looking-rocky-for-elon-musk-and-data-centers/"
+      "https://techcrunch.com/2026/11/08/apps-to-distract-you-from-the-endless-cycle-of-doomscrolling/"
     ]
   },
   {
-    "id": "rss-22-69c75581d56f",
+    "id": "rss-22-bc55171edc52",
     "category": "tech",
     "importance": 6,
     "sourcesCount": 1,
-    "titleZh": "Megaspeed exec was recruited to spy on Nvidia CEO, according to US intelligence memo",
-    "titleEn": "Megaspeed exec was recruited to spy on Nvidia CEO, according to US intelligence memo",
-    "summaryZh": "A memo circulated earlier this year reportedly claimed that China’s Ministry of State Security recruited a female technology executive to spy on Nvidia's CEO.",
-    "summaryEn": "A memo circulated earlier this year reportedly claimed that China’s Ministry of State Security recruited a female technology executive to spy on Nvidia's CEO.",
+    "titleZh": "Nvidia will investigate CEO Jensen Huang’s relationship with possible Chinese spy",
+    "titleEn": "Nvidia will investigate CEO Jensen Huang’s relationship with possible Chinese spy",
+    "summaryZh": "In a memo to the company, Huang admitted that he had an affair.",
+    "summaryEn": "In a memo to the company, Huang admitted that he had an affair.",
     "detailZh": "来源：TechCrunch。这是基于 RSS 摘要生成的待加工条目。接入大模型后，系统会进一步完成中文改写、事实核对、背景补充和多源合并。",
     "detailEn": "Source: TechCrunch. This is an RSS-based draft. After an LLM is configured, the pipeline will rewrite, fact-check, enrich and merge reports about the same event.",
     "tags": [
@@ -458,18 +458,18 @@
       "TechCrunch"
     ],
     "sourceUrls": [
-      "https://techcrunch.com/2026/11/07/chinese-exec-was-recruited-to-spy-on-nvidia-ceo-according-to-us-intelligence-memo/"
+      "https://techcrunch.com/2026/11/08/nvidia-says-its-investigating-ceo-jensen-huangs-relationship-with-possible-chinese-spy/"
     ]
   },
   {
-    "id": "rss-23-6653c5fed6fb",
+    "id": "rss-23-b3ef33af7be3",
     "category": "tech",
     "importance": 6,
     "sourcesCount": 1,
-    "titleZh": "Parents want safer phones for kids. These companies are answering the call.",
-    "titleEn": "Parents want safer phones for kids. These companies are answering the call.",
-    "summaryZh": "As parents look for alternatives to unrestricted smartphones, a growing number of companies are building phones designed specifically for kids, from feature-limited mobile devices ",
-    "summaryEn": "As parents look for alternatives to unrestricted smartphones, a growing number of companies are building phones designed specifically for kids, from feature-limited mobile devices to minimalist home phones.",
+    "titleZh": "If Snap’s Specs are still ridiculously expensive, they’re also a lot more comfortable than they used to be",
+    "titleEn": "If Snap’s Specs are still ridiculously expensive, they’re also a lot more comfortable than they used to be",
+    "summaryZh": "Snap's Specs, which have been in development for many years now, are going to market this fall. Will they be a hit with users?",
+    "summaryEn": "Snap's Specs, which have been in development for many years now, are going to market this fall. Will they be a hit with users?",
     "detailZh": "来源：TechCrunch。这是基于 RSS 摘要生成的待加工条目。接入大模型后，系统会进一步完成中文改写、事实核对、背景补充和多源合并。",
     "detailEn": "Source: TechCrunch. This is an RSS-based draft. After an LLM is configured, the pipeline will rewrite, fact-check, enrich and merge reports about the same event.",
     "tags": [
@@ -479,18 +479,39 @@
       "TechCrunch"
     ],
     "sourceUrls": [
-      "https://techcrunch.com/2026/11/07/parents-want-safer-phones-for-kids-these-companies-are-answering-the-call/"
+      "https://techcrunch.com/2026/11/08/if-snaps-specs-are-still-ridiculously-expensive-theyre-also-a-lot-more-comfortable-than-they-used-to-be/"
     ]
   },
   {
-    "id": "rss-24-805dafe9e984",
+    "id": "rss-24-693c6c213662",
+    "category": "science",
+    "importance": 6,
+    "sourcesCount": 1,
+    "titleZh": "Coordinated disturbances haunt grids worldwide. Here’s how researchers solved the mystery.",
+    "titleEn": "Coordinated disturbances haunt grids worldwide. Here’s how researchers solved the mystery.",
+    "summaryZh": "Mystery solved: Coordinated power drops have been haunting power grid worldwide, but a team of researchers in Germany found the culprit.",
+    "summaryEn": "Mystery solved: Coordinated power drops have been haunting power grid worldwide, but a team of researchers in Germany found the culprit.",
+    "detailZh": "来源：TechCrunch。这是基于 RSS 摘要生成的待加工条目。接入大模型后，系统会进一步完成中文改写、事实核对、背景补充和多源合并。",
+    "detailEn": "Source: TechCrunch. This is an RSS-based draft. After an LLM is configured, the pipeline will rewrite, fact-check, enrich and merge reports about the same event.",
+    "tags": [
+      "科学健康"
+    ],
+    "sources": [
+      "TechCrunch"
+    ],
+    "sourceUrls": [
+      "https://techcrunch.com/2026/11/08/coordinated-disturbances-haunt-grids-worldwide-heres-how-researchers-solved-the-mystery/"
+    ]
+  },
+  {
+    "id": "rss-25-43fec1df2c7c",
     "category": "tech",
     "importance": 6,
     "sourcesCount": 1,
-    "titleZh": "Binance CFO is leaving to ‘pursue a new venture’ after $6.3 billion hack",
-    "titleEn": "Binance CFO is leaving to ‘pursue a new venture’ after $6.3 billion hack",
-    "summaryZh": "The announcement comes barely more than a week after hackers stole $6.3 billion worth of cryptocurrency from Binance users.",
-    "summaryEn": "The announcement comes barely more than a week after hackers stole $6.3 billion worth of cryptocurrency from Binance users.",
+    "titleZh": "Sequoia partners reportedly blindsided when Roelof Botha joined SpaceX board",
+    "titleEn": "Sequoia partners reportedly blindsided when Roelof Botha joined SpaceX board",
+    "summaryZh": "A new report claims Sequoia's recent changes undo the legacy of the firm's former steward.",
+    "summaryEn": "A new report claims Sequoia's recent changes undo the legacy of the firm's former steward.",
     "detailZh": "来源：TechCrunch。这是基于 RSS 摘要生成的待加工条目。接入大模型后，系统会进一步完成中文改写、事实核对、背景补充和多源合并。",
     "detailEn": "Source: TechCrunch. This is an RSS-based draft. After an LLM is configured, the pipeline will rewrite, fact-check, enrich and merge reports about the same event.",
     "tags": [
@@ -500,39 +521,123 @@
       "TechCrunch"
     ],
     "sourceUrls": [
-      "https://techcrunch.com/2026/11/07/binance-cfo-is-leaving-to-pursue-a-new-venture-after-6-3-billion-hack/"
+      "https://techcrunch.com/2026/11/08/sequoia-partners-reportedly-blindsided-when-roelof-botha-joined-spacex-board/"
     ]
   },
   {
-    "id": "rss-25-bf69aa313637",
+    "id": "rss-26-85664c903999",
+    "category": "science",
+    "importance": 6,
+    "sourcesCount": 1,
+    "titleZh": "Medicinal plants, lessons from mushrooms and the power of smell: Books in brief",
+    "titleEn": "Medicinal plants, lessons from mushrooms and the power of smell: Books in brief",
+    "summaryZh": "Nature, Published online: 06 November 2026; doi:10.1038/d41586-026-03595-x Andrew Robinson reviews five of the best science picks.",
+    "summaryEn": "Nature, Published online: 06 November 2026; doi:10.1038/d41586-026-03595-x Andrew Robinson reviews five of the best science picks.",
+    "detailZh": "来源：Nature News。这是基于 RSS 摘要生成的待加工条目。接入大模型后，系统会进一步完成中文改写、事实核对、背景补充和多源合并。",
+    "detailEn": "Source: Nature News. This is an RSS-based draft. After an LLM is configured, the pipeline will rewrite, fact-check, enrich and merge reports about the same event.",
+    "tags": [
+      "科学健康"
+    ],
+    "sources": [
+      "Nature News"
+    ],
+    "sourceUrls": [
+      "https://www.nature.com/articles/d41586-026-03595-x"
+    ]
+  },
+  {
+    "id": "rss-27-decf446b0e40",
+    "category": "science",
+    "importance": 6,
+    "sourcesCount": 1,
+    "titleZh": "Cholera bacterium’s good deed: inspiring a glue with rare properties",
+    "titleEn": "Cholera bacterium’s good deed: inspiring a glue with rare properties",
+    "summaryZh": "Nature, Published online: 06 November 2026; doi:10.1038/d41586-026-03630-x An adhesive that binds strongly even under water was inspired by a protein made by a feared pathogen.",
+    "summaryEn": "Nature, Published online: 06 November 2026; doi:10.1038/d41586-026-03630-x An adhesive that binds strongly even under water was inspired by a protein made by a feared pathogen.",
+    "detailZh": "来源：Nature News。这是基于 RSS 摘要生成的待加工条目。接入大模型后，系统会进一步完成中文改写、事实核对、背景补充和多源合并。",
+    "detailEn": "Source: Nature News. This is an RSS-based draft. After an LLM is configured, the pipeline will rewrite, fact-check, enrich and merge reports about the same event.",
+    "tags": [
+      "科学健康"
+    ],
+    "sources": [
+      "Nature News"
+    ],
+    "sourceUrls": [
+      "https://www.nature.com/articles/d41586-026-03630-x"
+    ]
+  },
+  {
+    "id": "rss-28-50ded9b2f1c9",
+    "category": "science",
+    "importance": 6,
+    "sourcesCount": 1,
+    "titleZh": "Briefing Chat: Meet the snakes that cartwheel away from trouble",
+    "titleEn": "Briefing Chat: Meet the snakes that cartwheel away from trouble",
+    "summaryZh": "Nature, Published online: 06 November 2026; doi:10.1038/d41586-026-03632-9 Nature staff discuss an acrobatic reptile defence strategy — plus, evidence of fossilized dinosaur blood ",
+    "summaryEn": "Nature, Published online: 06 November 2026; doi:10.1038/d41586-026-03632-9 Nature staff discuss an acrobatic reptile defence strategy — plus, evidence of fossilized dinosaur blood cells.",
+    "detailZh": "来源：Nature News。这是基于 RSS 摘要生成的待加工条目。接入大模型后，系统会进一步完成中文改写、事实核对、背景补充和多源合并。",
+    "detailEn": "Source: Nature News. This is an RSS-based draft. After an LLM is configured, the pipeline will rewrite, fact-check, enrich and merge reports about the same event.",
+    "tags": [
+      "科学健康"
+    ],
+    "sources": [
+      "Nature News"
+    ],
+    "sourceUrls": [
+      "https://www.nature.com/articles/d41586-026-03632-9"
+    ]
+  },
+  {
+    "id": "rss-29-01403c4489aa",
     "category": "tech",
     "importance": 6,
     "sourcesCount": 1,
-    "titleZh": "Amazon’s new basic Kindle proves you don’t need all the bells and whistles",
-    "titleEn": "Amazon’s new basic Kindle proves you don’t need all the bells and whistles",
-    "summaryZh": "Amazon's redesigned basic Kindle costs more than before, but its lighter build and improved display make a compelling case for skipping the pricier models.",
-    "summaryEn": "Amazon's redesigned basic Kindle costs more than before, but its lighter build and improved display make a compelling case for skipping the pricier models.",
-    "detailZh": "来源：TechCrunch。这是基于 RSS 摘要生成的待加工条目。接入大模型后，系统会进一步完成中文改写、事实核对、背景补充和多源合并。",
-    "detailEn": "Source: TechCrunch. This is an RSS-based draft. After an LLM is configured, the pipeline will rewrite, fact-check, enrich and merge reports about the same event.",
+    "titleZh": "Preprint platform offers to pay researchers to review papers, but questions remain",
+    "titleEn": "Preprint platform offers to pay researchers to review papers, but questions remain",
+    "summaryZh": "Nature, Published online: 06 November 2026; doi:10.1038/d41586-026-03442-z A reviewer can earn US$200 through XSci’s scheme if they deliver their work within five days.",
+    "summaryEn": "Nature, Published online: 06 November 2026; doi:10.1038/d41586-026-03442-z A reviewer can earn US$200 through XSci’s scheme if they deliver their work within five days.",
+    "detailZh": "来源：Nature News。这是基于 RSS 摘要生成的待加工条目。接入大模型后，系统会进一步完成中文改写、事实核对、背景补充和多源合并。",
+    "detailEn": "Source: Nature News. This is an RSS-based draft. After an LLM is configured, the pipeline will rewrite, fact-check, enrich and merge reports about the same event.",
     "tags": [
       "科技"
     ],
     "sources": [
-      "TechCrunch"
+      "Nature News"
     ],
     "sourceUrls": [
-      "https://techcrunch.com/2026/11/07/amazons-new-basic-kindle-proves-you-dont-need-all-the-bells-and-whistles/"
+      "https://www.nature.com/articles/d41586-026-03442-z"
     ]
   },
   {
-    "id": "rss-26-ae905b2cfb5f",
+    "id": "rss-30-e2548616f447",
+    "category": "science",
+    "importance": 6,
+    "sourcesCount": 1,
+    "titleZh": "In Vivo CRISPR Base Editing of ANGPTL3 for Durable Lipid Lowering",
+    "titleEn": "In Vivo CRISPR Base Editing of ANGPTL3 for Durable Lipid Lowering",
+    "summaryZh": "Nature, Published online: 06 November 2026; doi:10.1038/s41586-026-11233-9 In Vivo CRISPR Base Editing of ANGPTL3 for Durable Lipid Lowering",
+    "summaryEn": "Nature, Published online: 06 November 2026; doi:10.1038/s41586-026-11233-9 In Vivo CRISPR Base Editing of ANGPTL3 for Durable Lipid Lowering",
+    "detailZh": "来源：Nature News。这是基于 RSS 摘要生成的待加工条目。接入大模型后，系统会进一步完成中文改写、事实核对、背景补充和多源合并。",
+    "detailEn": "Source: Nature News. This is an RSS-based draft. After an LLM is configured, the pipeline will rewrite, fact-check, enrich and merge reports about the same event.",
+    "tags": [
+      "科学健康"
+    ],
+    "sources": [
+      "Nature News"
+    ],
+    "sourceUrls": [
+      "https://www.nature.com/articles/s41586-026-11233-9"
+    ]
+  },
+  {
+    "id": "rss-31-34f7acf760dc",
     "category": "security",
     "importance": 6,
     "sourcesCount": 1,
-    "titleZh": "Polish PM calls deadly Krakow shooting an act of ‘terrorism’",
-    "titleEn": "Polish PM calls deadly Krakow shooting an act of ‘terrorism’",
-    "summaryZh": "Polish Prime Minister Donald Tusk describes a deadly shooting in Krakow that killed six people as an act of ‘terrorism’.",
-    "summaryEn": "Polish Prime Minister Donald Tusk describes a deadly shooting in Krakow that killed six people as an act of ‘terrorism’.",
+    "titleZh": "India’s night lights up for Diwali",
+    "titleEn": "India’s night lights up for Diwali",
+    "summaryZh": "India is celebrating Diwali with prayers, lights and fireworks marking one of the country's biggest Hindu festivals.",
+    "summaryEn": "India is celebrating Diwali with prayers, lights and fireworks marking one of the country's biggest Hindu festivals.",
     "detailZh": "来源：Al Jazeera。这是基于 RSS 摘要生成的待加工条目。接入大模型后，系统会进一步完成中文改写、事实核对、背景补充和多源合并。",
     "detailEn": "Source: Al Jazeera. This is an RSS-based draft. After an LLM is configured, the pipeline will rewrite, fact-check, enrich and merge reports about the same event.",
     "tags": [
@@ -542,18 +647,18 @@
       "Al Jazeera"
     ],
     "sourceUrls": [
-      "https://www.aljazeera.com/video/newsfeed/2026/11/8/polish-pm-calls-deadly-krakow-shooting-an-act-of?traffic_source=rss"
+      "https://www.aljazeera.com/video/2026/11/9/indias-night-lights-up-for-diwali?traffic_source=rss"
     ]
   },
   {
-    "id": "rss-27-99179248bf96",
+    "id": "rss-32-d1d86ec4c682",
     "category": "security",
     "importance": 6,
     "sourcesCount": 1,
-    "titleZh": "Iran war live: Blasts heard in Qeshm; US moves to block land supply routes",
-    "titleEn": "Iran war live: Blasts heard in Qeshm; US moves to block land supply routes",
-    "summaryZh": "Iranian state media report blasts on Qeshm Island in Strait of Hormuz and the cities of Jask, Sirik and Bandar Abbas.",
-    "summaryEn": "Iranian state media report blasts on Qeshm Island in Strait of Hormuz and the cities of Jask, Sirik and Bandar Abbas.",
+    "titleZh": "Jeffries backs Hegseth impeachment as Democrats vow probes of Trump allies",
+    "titleEn": "Jeffries backs Hegseth impeachment as Democrats vow probes of Trump allies",
+    "summaryZh": "Democratic lawmakers are mapping out their post-midterm agenda with pledges to lead committee investigations into Trump.",
+    "summaryEn": "Democratic lawmakers are mapping out their post-midterm agenda with pledges to lead committee investigations into Trump.",
     "detailZh": "来源：Al Jazeera。这是基于 RSS 摘要生成的待加工条目。接入大模型后，系统会进一步完成中文改写、事实核对、背景补充和多源合并。",
     "detailEn": "Source: Al Jazeera. This is an RSS-based draft. After an LLM is configured, the pipeline will rewrite, fact-check, enrich and merge reports about the same event.",
     "tags": [
@@ -563,18 +668,18 @@
       "Al Jazeera"
     ],
     "sourceUrls": [
-      "https://www.aljazeera.com/news/liveblog/2026/11/8/iran-war-live-explosions-hit-qeshm-us-moves-to-block-land-supply-routes?traffic_source=rss"
+      "https://www.aljazeera.com/news/2026/11/9/jeffries-backs-hegseth-impeachment-as-democrats-vow-probes-of-trump-allies?traffic_source=rss"
     ]
   },
   {
-    "id": "rss-28-c9a2b72565b6",
+    "id": "rss-33-1dd415ded767",
     "category": "security",
     "importance": 6,
     "sourcesCount": 1,
-    "titleZh": "Eisenkot chosen over Netanyahu to form Israel’s next government",
-    "titleEn": "Eisenkot chosen over Netanyahu to form Israel’s next government",
-    "summaryZh": "Israel's president asked opposition leader Gadi Eisenkot to form the next gov't over Prime Minister Benjamin Netanyahu.",
-    "summaryEn": "Israel's president asked opposition leader Gadi Eisenkot to form the next gov't over Prime Minister Benjamin Netanyahu.",
+    "titleZh": "Iran war live: Trump says ‘Iron Gate’ in effect; drone hits Iraq gasfield",
+    "titleEn": "Iran war live: Trump says ‘Iron Gate’ in effect; drone hits Iraq gasfield",
+    "summaryZh": "More than 70 percent of northern Iraq's Kurdish region is without power after a drone struck the Khor Mor gas facility.",
+    "summaryEn": "More than 70 percent of northern Iraq's Kurdish region is without power after a drone struck the Khor Mor gas facility.",
     "detailZh": "来源：Al Jazeera。这是基于 RSS 摘要生成的待加工条目。接入大模型后，系统会进一步完成中文改写、事实核对、背景补充和多源合并。",
     "detailEn": "Source: Al Jazeera. This is an RSS-based draft. After an LLM is configured, the pipeline will rewrite, fact-check, enrich and merge reports about the same event.",
     "tags": [
@@ -584,18 +689,39 @@
       "Al Jazeera"
     ],
     "sourceUrls": [
-      "https://www.aljazeera.com/video/newsfeed/2026/11/7/eisenkot-chosen-over-netanyahu-to-form-israels-next-government?traffic_source=rss"
+      "https://www.aljazeera.com/news/liveblog/2026/11/9/iran-war-live-trump-says-land-blockade-in-effect-drone-cuts-power-in-iraq?traffic_source=rss"
     ]
   },
   {
-    "id": "rss-29-7010193096d3",
+    "id": "rss-34-e2433de35733",
+    "category": "tech",
+    "importance": 6,
+    "sourcesCount": 1,
+    "titleZh": "Nvidia CEO’s affair sparks Chinese espionage probe",
+    "titleEn": "Nvidia CEO’s affair sparks Chinese espionage probe",
+    "summaryZh": "Nvidia CEO Jensen Huang has admitted to an affair with a woman suspected of spying for China.",
+    "summaryEn": "Nvidia CEO Jensen Huang has admitted to an affair with a woman suspected of spying for China.",
+    "detailZh": "来源：Al Jazeera。这是基于 RSS 摘要生成的待加工条目。接入大模型后，系统会进一步完成中文改写、事实核对、背景补充和多源合并。",
+    "detailEn": "Source: Al Jazeera. This is an RSS-based draft. After an LLM is configured, the pipeline will rewrite, fact-check, enrich and merge reports about the same event.",
+    "tags": [
+      "科技"
+    ],
+    "sources": [
+      "Al Jazeera"
+    ],
+    "sourceUrls": [
+      "https://www.aljazeera.com/video/newsfeed/2026/11/8/nvidia-ceos-affair-sparks-chinese-espionage-probe?traffic_source=rss"
+    ]
+  },
+  {
+    "id": "rss-35-3005cb1e1cf9",
     "category": "security",
     "importance": 6,
     "sourcesCount": 1,
-    "titleZh": "Real Madrid beat Valencia 3-0 to draw level with La Liga leaders Barcelona",
-    "titleEn": "Real Madrid beat Valencia 3-0 to draw level with La Liga leaders Barcelona",
-    "summaryZh": "Valverde and Guler's first-half goals put Madrid in the driving seat, and Mbappe added a third in the second half.",
-    "summaryEn": "Valverde and Guler's first-half goals put Madrid in the driving seat, and Mbappe added a third in the second half.",
+    "titleZh": "Mexican mayor found alive after hours-long abduction",
+    "titleEn": "Mexican mayor found alive after hours-long abduction",
+    "summaryZh": "Rio Bravo mayor freed by captors after being abducted in Zacatecas state, known for cartel-linked violence.",
+    "summaryEn": "Rio Bravo mayor freed by captors after being abducted in Zacatecas state, known for cartel-linked violence.",
     "detailZh": "来源：Al Jazeera。这是基于 RSS 摘要生成的待加工条目。接入大模型后，系统会进一步完成中文改写、事实核对、背景补充和多源合并。",
     "detailEn": "Source: Al Jazeera. This is an RSS-based draft. After an LLM is configured, the pipeline will rewrite, fact-check, enrich and merge reports about the same event.",
     "tags": [
@@ -605,28 +731,7 @@
       "Al Jazeera"
     ],
     "sourceUrls": [
-      "https://www.aljazeera.com/sports/2026/11/7/real-madrid-beat-valencia-3-0-to-draw-level-with-la-liga-leaders-barcelona?traffic_source=rss"
-    ]
-  },
-  {
-    "id": "rss-30-d16142210881",
-    "category": "security",
-    "importance": 6,
-    "sourcesCount": 1,
-    "titleZh": "Police clash with protesters as anti-government rallies sweep France",
-    "titleEn": "Police clash with protesters as anti-government rallies sweep France",
-    "summaryZh": "Police have clashed with protesters in Paris as Yellow Vests defied a ban on their rally, leading to arrests.",
-    "summaryEn": "Police have clashed with protesters in Paris as Yellow Vests defied a ban on their rally, leading to arrests.",
-    "detailZh": "来源：Al Jazeera。这是基于 RSS 摘要生成的待加工条目。接入大模型后，系统会进一步完成中文改写、事实核对、背景补充和多源合并。",
-    "detailEn": "Source: Al Jazeera. This is an RSS-based draft. After an LLM is configured, the pipeline will rewrite, fact-check, enrich and merge reports about the same event.",
-    "tags": [
-      "冲突与安全"
-    ],
-    "sources": [
-      "Al Jazeera"
-    ],
-    "sourceUrls": [
-      "https://www.aljazeera.com/video/newsfeed/2026/11/7/police-clash-with-protesters-as-anti-government-rallies-sweep-france?traffic_source=rss"
+      "https://www.aljazeera.com/news/2026/11/8/mexican-mayor-found-alive-after-hours-long-abduction?traffic_source=rss"
     ]
   }
 ]
