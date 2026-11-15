@@ -1,13 +1,13 @@
 [
   {
-    "id": "rss-1-e4a5ad8f9174",
+    "id": "rss-1-a34f168e066d",
     "category": "world",
     "importance": 6,
     "sourcesCount": 1,
-    "titleZh": "'Miracle on Mississippi' - All passengers rescued after New Orleans cruise ship collision",
-    "titleEn": "'Miracle on Mississippi' - All passengers rescued after New Orleans cruise ship collision",
-    "summaryZh": "The collision leaves 32 people in hospital with non-critical injuries, but no-one unaccounted for.",
-    "summaryEn": "The collision leaves 32 people in hospital with non-critical injuries, but no-one unaccounted for.",
+    "titleZh": "Copper wire upgrade caused nationwide flight suspension, US transport secretary says",
+    "titleEn": "Copper wire upgrade caused nationwide flight suspension, US transport secretary says",
+    "summaryZh": "The US government is trying to find out whether the chaos was caused by \"incompetence\" or faulty equipment.",
+    "summaryEn": "The US government is trying to find out whether the chaos was caused by \"incompetence\" or faulty equipment.",
     "detailZh": "来源：BBC News。这是基于 RSS 摘要生成的待加工条目。接入大模型后，系统会进一步完成中文改写、事实核对、背景补充和多源合并。",
     "detailEn": "Source: BBC News. This is an RSS-based draft. After an LLM is configured, the pipeline will rewrite, fact-check, enrich and merge reports about the same event.",
     "tags": [
@@ -17,39 +17,18 @@
       "BBC News"
     ],
     "sourceUrls": [
-      "https://www.bbc.co.uk/news/articles/cw20xmy0m5yyo?at_medium=RSS&at_campaign=rss"
+      "https://www.bbc.co.uk/news/articles/c6wy9lynq4qno?at_medium=RSS&at_campaign=rss"
     ]
   },
   {
-    "id": "rss-2-a20a765200c5",
-    "category": "world",
-    "importance": 6,
-    "sourcesCount": 1,
-    "titleZh": "Microsoft 'deeply sorry' for global outage after almost 24 hours of disruption",
-    "titleEn": "Microsoft 'deeply sorry' for global outage after almost 24 hours of disruption",
-    "summaryZh": "Experts say the event is a \"stark reminder\" of how heavily the world relies on a small group of big tech providers.",
-    "summaryEn": "Experts say the event is a \"stark reminder\" of how heavily the world relies on a small group of big tech providers.",
-    "detailZh": "来源：BBC News。这是基于 RSS 摘要生成的待加工条目。接入大模型后，系统会进一步完成中文改写、事实核对、背景补充和多源合并。",
-    "detailEn": "Source: BBC News. This is an RSS-based draft. After an LLM is configured, the pipeline will rewrite, fact-check, enrich and merge reports about the same event.",
-    "tags": [
-      "国际时政"
-    ],
-    "sources": [
-      "BBC News"
-    ],
-    "sourceUrls": [
-      "https://www.bbc.co.uk/news/articles/c6rrg51rkz09o?at_medium=RSS&at_campaign=rss"
-    ]
-  },
-  {
-    "id": "rss-3-e1efe6f1af4b",
+    "id": "rss-2-1476d670af2a",
     "category": "tech",
     "importance": 6,
     "sourcesCount": 1,
-    "titleZh": "Why is Microsoft's outage lasting so long and will emails be lost?",
-    "titleEn": "Why is Microsoft's outage lasting so long and will emails be lost?",
-    "summaryZh": "Microsoft says it is continuing to restore services including Outlook and Teams following a global outage.",
-    "summaryEn": "Microsoft says it is continuing to restore services including Outlook and Teams following a global outage.",
+    "titleZh": "US has floated Ukraine ceding Donbas for Nato membership, Zelensky says",
+    "titleEn": "US has floated Ukraine ceding Donbas for Nato membership, Zelensky says",
+    "summaryZh": "The US has not confirmed the Ukrainian president's comments - a US official told the BBC \"many ideas continue to be discussed\".",
+    "summaryEn": "The US has not confirmed the Ukrainian president's comments - a US official told the BBC \"many ideas continue to be discussed\".",
     "detailZh": "来源：BBC News。这是基于 RSS 摘要生成的待加工条目。接入大模型后，系统会进一步完成中文改写、事实核对、背景补充和多源合并。",
     "detailEn": "Source: BBC News. This is an RSS-based draft. After an LLM is configured, the pipeline will rewrite, fact-check, enrich and merge reports about the same event.",
     "tags": [
@@ -59,18 +38,18 @@
       "BBC News"
     ],
     "sourceUrls": [
-      "https://www.bbc.co.uk/news/articles/cwvg238zrnm5o?at_medium=RSS&at_campaign=rss"
+      "https://www.bbc.co.uk/news/articles/cwvg2l312ylqo?at_medium=RSS&at_campaign=rss"
     ]
   },
   {
-    "id": "rss-4-a18aa197b559",
+    "id": "rss-3-359fb450257d",
     "category": "world",
     "importance": 6,
     "sourcesCount": 1,
-    "titleZh": "Watch: How a server outage took down Microsoft Teams and Outlook",
-    "titleEn": "Watch: How a server outage took down Microsoft Teams and Outlook",
-    "summaryZh": "A Microsoft outage is affecting services including Teams, Outlook and AI software Copilot.",
-    "summaryEn": "A Microsoft outage is affecting services including Teams, Outlook and AI software Copilot.",
+    "titleZh": "Italy fines Meta €805m over accessing users' photos",
+    "titleEn": "Italy fines Meta €805m over accessing users' photos",
+    "summaryZh": "The social media giant is accused of not informing 20 million users it had access to their photos.",
+    "summaryEn": "The social media giant is accused of not informing 20 million users it had access to their photos.",
     "detailZh": "来源：BBC News。这是基于 RSS 摘要生成的待加工条目。接入大模型后，系统会进一步完成中文改写、事实核对、背景补充和多源合并。",
     "detailEn": "Source: BBC News. This is an RSS-based draft. After an LLM is configured, the pipeline will rewrite, fact-check, enrich and merge reports about the same event.",
     "tags": [
@@ -80,18 +59,18 @@
       "BBC News"
     ],
     "sourceUrls": [
-      "https://www.bbc.co.uk/news/videos/cqzjr903n01po?at_medium=RSS&at_campaign=rss"
+      "https://www.bbc.co.uk/news/articles/cwn83gxemk35o?at_medium=RSS&at_campaign=rss"
     ]
   },
   {
-    "id": "rss-5-713a48e07b7f",
+    "id": "rss-4-06a1e4f4652e",
     "category": "world",
     "importance": 6,
     "sourcesCount": 1,
-    "titleZh": "Setback for SpaceX Starship rocket's double-catch test",
-    "titleEn": "Setback for SpaceX Starship rocket's double-catch test",
-    "summaryZh": "Elon Musk’s company aborted an attempted catch of the rocket’s booster - instead it came down in the ocean.",
-    "summaryEn": "Elon Musk’s company aborted an attempted catch of the rocket’s booster - instead it came down in the ocean.",
+    "titleZh": "'Can you believe it?': SpaceX catches part of its Starship rocket on return to Earth",
+    "titleEn": "'Can you believe it?': SpaceX catches part of its Starship rocket on return to Earth",
+    "summaryZh": "SpaceX has performed the historic catch using mechanical arms nicknamed \"chopsticks\".",
+    "summaryEn": "SpaceX has performed the historic catch using mechanical arms nicknamed \"chopsticks\".",
     "detailZh": "来源：BBC News。这是基于 RSS 摘要生成的待加工条目。接入大模型后，系统会进一步完成中文改写、事实核对、背景补充和多源合并。",
     "detailEn": "Source: BBC News. This is an RSS-based draft. After an LLM is configured, the pipeline will rewrite, fact-check, enrich and merge reports about the same event.",
     "tags": [
@@ -101,11 +80,53 @@
       "BBC News"
     ],
     "sourceUrls": [
-      "https://www.bbc.co.uk/news/articles/ckregdgnl0xpo?at_medium=RSS&at_campaign=rss"
+      "https://www.bbc.co.uk/news/videos/cwlym2gy3y3eo?at_medium=RSS&at_campaign=rss"
     ]
   },
   {
-    "id": "rss-6-92fe297395e2",
+    "id": "rss-5-03eb88a9ba92",
+    "category": "world",
+    "importance": 6,
+    "sourcesCount": 1,
+    "titleZh": "Philippines wins first Eurovision Song Contest Asia",
+    "titleEn": "Philippines wins first Eurovision Song Contest Asia",
+    "summaryZh": "Front-runner Carmelle emerges victorious with her women's empowerment anthem Sobra-Sobra.",
+    "summaryEn": "Front-runner Carmelle emerges victorious with her women's empowerment anthem Sobra-Sobra.",
+    "detailZh": "来源：BBC News。这是基于 RSS 摘要生成的待加工条目。接入大模型后，系统会进一步完成中文改写、事实核对、背景补充和多源合并。",
+    "detailEn": "Source: BBC News. This is an RSS-based draft. After an LLM is configured, the pipeline will rewrite, fact-check, enrich and merge reports about the same event.",
+    "tags": [
+      "国际时政"
+    ],
+    "sources": [
+      "BBC News"
+    ],
+    "sourceUrls": [
+      "https://www.bbc.co.uk/news/articles/cqrlgnx9dx6eo?at_medium=RSS&at_campaign=rss"
+    ]
+  },
+  {
+    "id": "rss-6-86cee693d648",
+    "category": "world",
+    "importance": 6,
+    "sourcesCount": 1,
+    "titleZh": "Fuel crisis and protests pressure Chile's far-right president",
+    "titleEn": "Fuel crisis and protests pressure Chile's far-right president",
+    "summaryZh": "Chile's far-right President José Antonio Kast is facing mounting public anger, as rising fuel prices trigger transport strikes and protests across the country.",
+    "summaryEn": "Chile's far-right President José Antonio Kast is facing mounting public anger, as rising fuel prices trigger transport strikes and protests across the country.",
+    "detailZh": "来源：NPR World。这是基于 RSS 摘要生成的待加工条目。接入大模型后，系统会进一步完成中文改写、事实核对、背景补充和多源合并。",
+    "detailEn": "Source: NPR World. This is an RSS-based draft. After an LLM is configured, the pipeline will rewrite, fact-check, enrich and merge reports about the same event.",
+    "tags": [
+      "国际时政"
+    ],
+    "sources": [
+      "NPR World"
+    ],
+    "sourceUrls": [
+      "https://www.npr.org/2026/11/14/nx-s1-6040144/chile-protests-fuel-kast-students"
+    ]
+  },
+  {
+    "id": "rss-7-92fe297395e2",
     "category": "world",
     "importance": 6,
     "sourcesCount": 1,
@@ -126,7 +147,7 @@
     ]
   },
   {
-    "id": "rss-7-61212767e094",
+    "id": "rss-8-61212767e094",
     "category": "world",
     "importance": 6,
     "sourcesCount": 1,
@@ -147,7 +168,7 @@
     ]
   },
   {
-    "id": "rss-8-ecd2f1af1819",
+    "id": "rss-9-ecd2f1af1819",
     "category": "tech",
     "importance": 6,
     "sourcesCount": 1,
@@ -168,7 +189,7 @@
     ]
   },
   {
-    "id": "rss-9-3bf6dc30ef51",
+    "id": "rss-10-3bf6dc30ef51",
     "category": "tech",
     "importance": 6,
     "sourcesCount": 1,
@@ -186,27 +207,6 @@
     ],
     "sourceUrls": [
       "https://www.npr.org/2026/11/12/nx-s1-6038809/us-envoys-meet-putin-russia-ukraine-war-talks"
-    ]
-  },
-  {
-    "id": "rss-10-c7dc8d23584c",
-    "category": "world",
-    "importance": 6,
-    "sourcesCount": 1,
-    "titleZh": "Indonesia's VP resigns as his eligibility and academic credentials are questioned",
-    "titleEn": "Indonesia's VP resigns as his eligibility and academic credentials are questioned",
-    "summaryZh": "Raka is the son of former President Joko Widodo. The Constitutional Court and the Supreme Court ruled last month that the documents that Raka submitted regarding his overseas educa",
-    "summaryEn": "Raka is the son of former President Joko Widodo. The Constitutional Court and the Supreme Court ruled last month that the documents that Raka submitted regarding his overseas education didn't meet election requirements.",
-    "detailZh": "来源：NPR World。这是基于 RSS 摘要生成的待加工条目。接入大模型后，系统会进一步完成中文改写、事实核对、背景补充和多源合并。",
-    "detailEn": "Source: NPR World. This is an RSS-based draft. After an LLM is configured, the pipeline will rewrite, fact-check, enrich and merge reports about the same event.",
-    "tags": [
-      "国际时政"
-    ],
-    "sources": [
-      "NPR World"
-    ],
-    "sourceUrls": [
-      "https://www.npr.org/2026/11/12/g-s1-153190/indonesias-vp-resigns-as-his-eligibility-and-academic-credentials-are-questioned"
     ]
   },
   {
@@ -420,35 +420,35 @@
     ]
   },
   {
-    "id": "rss-21-57ae9f9b1f76",
-    "category": "tech",
+    "id": "rss-21-acaf00569e86",
+    "category": "security",
     "importance": 6,
     "sourcesCount": 1,
-    "titleZh": "Amazon’s new Kindle Colorsoft is a premium e-reader with a premium price",
-    "titleEn": "Amazon’s new Kindle Colorsoft is a premium e-reader with a premium price",
-    "summaryZh": "The latest model is lighter and thinner than its predecessor and features an edge-to-edge display. But if you already own the first-generation Colorsoft, there’s little reason to u",
-    "summaryEn": "The latest model is lighter and thinner than its predecessor and features an edge-to-edge display. But if you already own the first-generation Colorsoft, there’s little reason to upgrade.",
+    "titleZh": "Where was Nvidia’s security team?",
+    "titleEn": "Where was Nvidia’s security team?",
+    "summaryZh": "Nvidia’s security chief quietly left in August, and now that CEO Jensen Huang has stepped down over his relationships, including one with an executive at a company suspected of fun",
+    "summaryEn": "Nvidia’s security chief quietly left in August, and now that CEO Jensen Huang has stepped down over his relationships, including one with an executive at a company suspected of funneling chips to China, a former intelligence officer says it’s the kind of leak ",
     "detailZh": "来源：TechCrunch。这是基于 RSS 摘要生成的待加工条目。接入大模型后，系统会进一步完成中文改写、事实核对、背景补充和多源合并。",
     "detailEn": "Source: TechCrunch. This is an RSS-based draft. After an LLM is configured, the pipeline will rewrite, fact-check, enrich and merge reports about the same event.",
     "tags": [
-      "科技"
+      "冲突与安全"
     ],
     "sources": [
       "TechCrunch"
     ],
     "sourceUrls": [
-      "https://techcrunch.com/2026/11/13/amazons-new-kindle-colorsoft-is-a-premium-e-reader-with-a-premium-price/"
+      "https://techcrunch.com/2026/11/14/where-was-nvidias-security-team/"
     ]
   },
   {
-    "id": "rss-22-ec577d4c46a6",
+    "id": "rss-22-a4a92fbcda03",
     "category": "tech",
     "importance": 6,
     "sourcesCount": 1,
-    "titleZh": "Jensen Huang’s departure blasts big hole in AI startup funding, VCs and founders say",
-    "titleEn": "Jensen Huang’s departure blasts big hole in AI startup funding, VCs and founders say",
-    "summaryZh": "Nvidia poured tens of billions into AI startups under Huang. Without him at the helm, founders and VCs are bracing for smaller checks and lower valuations.",
-    "summaryEn": "Nvidia poured tens of billions into AI startups under Huang. Without him at the helm, founders and VCs are bracing for smaller checks and lower valuations.",
+    "titleZh": "Elon Musk, other tech execs sign petition calling on Nvidia to reinstate Jensen Huang",
+    "titleEn": "Elon Musk, other tech execs sign petition calling on Nvidia to reinstate Jensen Huang",
+    "summaryZh": "The petition had attracted more than 115,000 signatures as of Saturday afternoon.",
+    "summaryEn": "The petition had attracted more than 115,000 signatures as of Saturday afternoon.",
     "detailZh": "来源：TechCrunch。这是基于 RSS 摘要生成的待加工条目。接入大模型后，系统会进一步完成中文改写、事实核对、背景补充和多源合并。",
     "detailEn": "Source: TechCrunch. This is an RSS-based draft. After an LLM is configured, the pipeline will rewrite, fact-check, enrich and merge reports about the same event.",
     "tags": [
@@ -458,18 +458,18 @@
       "TechCrunch"
     ],
     "sourceUrls": [
-      "https://techcrunch.com/2026/11/13/jensen-huangs-departure-blasts-big-hole-in-ai-startup-funding-vcs-and-founders-say/"
+      "https://techcrunch.com/2026/11/14/elon-musk-other-tech-execs-sign-petition-calling-on-nvidia-to-reinstate-jensen-huang/"
     ]
   },
   {
-    "id": "rss-23-0c34c8f3387b",
+    "id": "rss-23-0f3c66386c82",
     "category": "tech",
     "importance": 6,
     "sourcesCount": 1,
-    "titleZh": "US government grounds all flights across the United States ‘due to extraordinary circumstances’",
-    "titleEn": "US government grounds all flights across the United States ‘due to extraordinary circumstances’",
-    "summaryZh": "A spokesperson for the FAA told TechCrunch that it issued the ground stop \"following communication issues impacting multiple Air Route Traffic Control Centers,\" which manage the ai",
-    "summaryEn": "A spokesperson for the FAA told TechCrunch that it issued the ground stop \"following communication issues impacting multiple Air Route Traffic Control Centers,\" which manage the airspace across the United States.",
+    "titleZh": "Tesla opens Cybercab pre-orders ‘for personal use,’ with geo restrictions and a $299 monthly fee",
+    "titleEn": "Tesla opens Cybercab pre-orders ‘for personal use,’ with geo restrictions and a $299 monthly fee",
+    "summaryZh": "Even Elon Musk said the monthly fee is \"too high.\"",
+    "summaryEn": "Even Elon Musk said the monthly fee is \"too high.\"",
     "detailZh": "来源：TechCrunch。这是基于 RSS 摘要生成的待加工条目。接入大模型后，系统会进一步完成中文改写、事实核对、背景补充和多源合并。",
     "detailEn": "Source: TechCrunch. This is an RSS-based draft. After an LLM is configured, the pipeline will rewrite, fact-check, enrich and merge reports about the same event.",
     "tags": [
@@ -479,18 +479,18 @@
       "TechCrunch"
     ],
     "sourceUrls": [
-      "https://techcrunch.com/2026/11/13/u-s-government-grounds-all-flights-across-the-united-states-due-to-extraordinary-cirumstances/"
+      "https://techcrunch.com/2026/11/14/tesla-opens-cybercab-pre-orders-for-personal-use-with-geo-restrictions-and-a-299-monthly-fee/"
     ]
   },
   {
-    "id": "rss-24-c407c87afb3e",
+    "id": "rss-24-08ed142fce60",
     "category": "tech",
     "importance": 6,
     "sourcesCount": 1,
-    "titleZh": "This young startup wants to power floating data centers with the ocean’s heat, and investors are already on board",
-    "titleEn": "This young startup wants to power floating data centers with the ocean’s heat, and investors are already on board",
-    "summaryZh": "Drogue is harvesting heat from the ocean to power data centers on floating vessels. The first prototype should be bobbing around the ocean, crunching bits, in less than two years.",
-    "summaryEn": "Drogue is harvesting heat from the ocean to power data centers on floating vessels. The first prototype should be bobbing around the ocean, crunching bits, in less than two years.",
+    "titleZh": "Got an iPhone Duo? These 9 settings make it easier to use",
+    "titleEn": "Got an iPhone Duo? These 9 settings make it easier to use",
+    "summaryZh": "From Touch ID shortcuts to smarter volume buttons and camera tricks, these tweaks make Apple's foldable iPhone easier to use every day.",
+    "summaryEn": "From Touch ID shortcuts to smarter volume buttons and camera tricks, these tweaks make Apple's foldable iPhone easier to use every day.",
     "detailZh": "来源：TechCrunch。这是基于 RSS 摘要生成的待加工条目。接入大模型后，系统会进一步完成中文改写、事实核对、背景补充和多源合并。",
     "detailEn": "Source: TechCrunch. This is an RSS-based draft. After an LLM is configured, the pipeline will rewrite, fact-check, enrich and merge reports about the same event.",
     "tags": [
@@ -500,18 +500,18 @@
       "TechCrunch"
     ],
     "sourceUrls": [
-      "https://techcrunch.com/2026/11/13/this-young-startup-wants-to-power-floating-data-centers-with-the-oceans-heat-and-investors-are-already-on-board/"
+      "https://techcrunch.com/2026/11/14/got-an-iphone-duo-these-9-settings-make-it-easier-to-use/"
     ]
   },
   {
-    "id": "rss-25-645e798427f9",
+    "id": "rss-25-2aae0ad36a1c",
     "category": "tech",
     "importance": 6,
     "sourcesCount": 1,
-    "titleZh": "AI agent startup LangChain hits $3B valuation",
-    "titleEn": "AI agent startup LangChain hits $3B valuation",
-    "summaryZh": "LangChain now claims 7,000 customers of its model and platform agnostic agent management tool LangSmith.",
-    "summaryEn": "LangChain now claims 7,000 customers of its model and platform agnostic agent management tool LangSmith.",
+    "titleZh": "Transportation secretary blames ‘routine’ equipment upgrade for grounding flights nationwide",
+    "titleEn": "Transportation secretary blames ‘routine’ equipment upgrade for grounding flights nationwide",
+    "summaryZh": "FAA administrator Bryan Bedford also said there's \"zero evidence of anything AI-related.\"",
+    "summaryEn": "FAA administrator Bryan Bedford also said there's \"zero evidence of anything AI-related.\"",
     "detailZh": "来源：TechCrunch。这是基于 RSS 摘要生成的待加工条目。接入大模型后，系统会进一步完成中文改写、事实核对、背景补充和多源合并。",
     "detailEn": "Source: TechCrunch. This is an RSS-based draft. After an LLM is configured, the pipeline will rewrite, fact-check, enrich and merge reports about the same event.",
     "tags": [
@@ -521,7 +521,7 @@
       "TechCrunch"
     ],
     "sourceUrls": [
-      "https://techcrunch.com/2026/11/13/ai-agent-startup-langchain-hits-3b-valuation/"
+      "https://techcrunch.com/2026/11/14/transportation-secretary-blames-routine-equipment-upgrade-for-grounding-flights-nationwide/"
     ]
   },
   {
@@ -630,14 +630,14 @@
     ]
   },
   {
-    "id": "rss-31-d6cdaf6e353b",
+    "id": "rss-31-d3b3321eb29c",
     "category": "tech",
     "importance": 6,
     "sourcesCount": 1,
-    "titleZh": "Tanker collision leaves riverboat passengers clinging to railings",
-    "titleEn": "Tanker collision leaves riverboat passengers clinging to railings",
-    "summaryZh": "Passengers were rescued after a tanker ship collided with a riverboat docked on the Mississippi River in New Orleans.",
-    "summaryEn": "Passengers were rescued after a tanker ship collided with a riverboat docked on the Mississippi River in New Orleans.",
+    "titleZh": "SpaceX’s Starship nails a smooth return with historic catch",
+    "titleEn": "SpaceX’s Starship nails a smooth return with historic catch",
+    "summaryZh": "SpaceX Starship made a triumphant return to Earth, caught midair by giant mechanical ‘chopsticks’.",
+    "summaryEn": "SpaceX Starship made a triumphant return to Earth, caught midair by giant mechanical ‘chopsticks’.",
     "detailZh": "来源：Al Jazeera。这是基于 RSS 摘要生成的待加工条目。接入大模型后，系统会进一步完成中文改写、事实核对、背景补充和多源合并。",
     "detailEn": "Source: Al Jazeera. This is an RSS-based draft. After an LLM is configured, the pipeline will rewrite, fact-check, enrich and merge reports about the same event.",
     "tags": [
@@ -647,18 +647,60 @@
       "Al Jazeera"
     ],
     "sourceUrls": [
-      "https://www.aljazeera.com/video/newsfeed/2026/11/14/aje-onl-nf_tanker-collision-in-new-orleans-131126?traffic_source=rss"
+      "https://www.aljazeera.com/video/newsfeed/2026/11/15/aje-onl-nf_spacexs-starship-nails-a-smooth-return-141126?traffic_source=rss"
     ]
   },
   {
-    "id": "rss-32-20af5fff831b",
+    "id": "rss-32-02c39fc80528",
+    "category": "tech",
+    "importance": 6,
+    "sourcesCount": 1,
+    "titleZh": "Israeli air strike kills senior Hamas commander in Gaza",
+    "titleEn": "Israeli air strike kills senior Hamas commander in Gaza",
+    "summaryZh": "Hamas confirms the death of Rafah brigade commander Samir Abu Younis in an attack on Khan Younis on Saturday.",
+    "summaryEn": "Hamas confirms the death of Rafah brigade commander Samir Abu Younis in an attack on Khan Younis on Saturday.",
+    "detailZh": "来源：Al Jazeera。这是基于 RSS 摘要生成的待加工条目。接入大模型后，系统会进一步完成中文改写、事实核对、背景补充和多源合并。",
+    "detailEn": "Source: Al Jazeera. This is an RSS-based draft. After an LLM is configured, the pipeline will rewrite, fact-check, enrich and merge reports about the same event.",
+    "tags": [
+      "科技"
+    ],
+    "sources": [
+      "Al Jazeera"
+    ],
+    "sourceUrls": [
+      "https://www.aljazeera.com/news/2026/11/15/israeli-air-strike-kills-senior-hamas-commander-in-gaza?traffic_source=rss"
+    ]
+  },
+  {
+    "id": "rss-33-46cd3992f87e",
+    "category": "tech",
+    "importance": 6,
+    "sourcesCount": 1,
+    "titleZh": "Hundreds of men march in Switzerland to protest violence against women",
+    "titleEn": "Hundreds of men march in Switzerland to protest violence against women",
+    "summaryZh": "Organisers say men must speak out, as Swiss study finds half of men aged 18 to 24 hold restrictive view of masculinity.",
+    "summaryEn": "Organisers say men must speak out, as Swiss study finds half of men aged 18 to 24 hold restrictive view of masculinity.",
+    "detailZh": "来源：Al Jazeera。这是基于 RSS 摘要生成的待加工条目。接入大模型后，系统会进一步完成中文改写、事实核对、背景补充和多源合并。",
+    "detailEn": "Source: Al Jazeera. This is an RSS-based draft. After an LLM is configured, the pipeline will rewrite, fact-check, enrich and merge reports about the same event.",
+    "tags": [
+      "科技"
+    ],
+    "sources": [
+      "Al Jazeera"
+    ],
+    "sourceUrls": [
+      "https://www.aljazeera.com/news/2026/11/15/hundreds-of-men-march-in-switzerland-to-protest-violence-against-women?traffic_source=rss"
+    ]
+  },
+  {
+    "id": "rss-34-809ce5879794",
     "category": "security",
     "importance": 6,
     "sourcesCount": 1,
-    "titleZh": "Former FAA official says ‘nobody really knows what is going on’",
-    "titleEn": "Former FAA official says ‘nobody really knows what is going on’",
-    "summaryZh": "Former FAA safety team representative Kyle Bailey says grounding flights is the safest course of action.",
-    "summaryEn": "Former FAA safety team representative Kyle Bailey says grounding flights is the safest course of action.",
+    "titleZh": "SpaceX’s Starship captured by launchpad arms in dramatic first",
+    "titleEn": "SpaceX’s Starship captured by launchpad arms in dramatic first",
+    "summaryZh": "SpaceX officials say catch by mechanical arms shows Starship's full reusability, crucial for rapid, low-cost recycling.",
+    "summaryEn": "SpaceX officials say catch by mechanical arms shows Starship's full reusability, crucial for rapid, low-cost recycling.",
     "detailZh": "来源：Al Jazeera。这是基于 RSS 摘要生成的待加工条目。接入大模型后，系统会进一步完成中文改写、事实核对、背景补充和多源合并。",
     "detailEn": "Source: Al Jazeera. This is an RSS-based draft. After an LLM is configured, the pipeline will rewrite, fact-check, enrich and merge reports about the same event.",
     "tags": [
@@ -668,18 +710,18 @@
       "Al Jazeera"
     ],
     "sourceUrls": [
-      "https://www.aljazeera.com/video/newsfeed/2026/11/14/former-faa-official-says-nobody-really-knows-what-is-going?traffic_source=rss"
+      "https://www.aljazeera.com/news/2026/11/15/spacexs-starship-captured-by-launchpad-arms-in-dramatic-first?traffic_source=rss"
     ]
   },
   {
-    "id": "rss-33-b8c8bd106b6c",
+    "id": "rss-35-5fb9e15e525b",
     "category": "security",
     "importance": 6,
     "sourcesCount": 1,
-    "titleZh": "UK police open sex offence probe into comedian and author David Walliams",
-    "titleEn": "UK police open sex offence probe into comedian and author David Walliams",
-    "summaryZh": "The British TV personality, 55, denies sexual assault allegations, saying he has not broken the law.",
-    "summaryEn": "The British TV personality, 55, denies sexual assault allegations, saying he has not broken the law.",
+    "titleZh": "Iran war live: Israel vows Gaza ‘offensive policy’ despite caretaker status",
+    "titleEn": "Iran war live: Israel vows Gaza ‘offensive policy’ despite caretaker status",
+    "summaryZh": "Israel has pledged to continue its 'offensive policy' on Gaza, as fighting in Yemen grips the region.",
+    "summaryEn": "Israel has pledged to continue its 'offensive policy' on Gaza, as fighting in Yemen grips the region.",
     "detailZh": "来源：Al Jazeera。这是基于 RSS 摘要生成的待加工条目。接入大模型后，系统会进一步完成中文改写、事实核对、背景补充和多源合并。",
     "detailEn": "Source: Al Jazeera. This is an RSS-based draft. After an LLM is configured, the pipeline will rewrite, fact-check, enrich and merge reports about the same event.",
     "tags": [
@@ -689,49 +731,7 @@
       "Al Jazeera"
     ],
     "sourceUrls": [
-      "https://www.aljazeera.com/news/2026/11/14/uk-police-open-sex-offence-probe-into-comedian-and-author-david-walliams?traffic_source=rss"
-    ]
-  },
-  {
-    "id": "rss-34-6a23ecfcd206",
-    "category": "security",
-    "importance": 6,
-    "sourcesCount": 1,
-    "titleZh": "Microsoft services begin recovering after global outage",
-    "titleEn": "Microsoft services begin recovering after global outage",
-    "summaryZh": "Microsoft services began recovering on Friday after a global outage disrupted Outlook and Teams.",
-    "summaryEn": "Microsoft services began recovering on Friday after a global outage disrupted Outlook and Teams.",
-    "detailZh": "来源：Al Jazeera。这是基于 RSS 摘要生成的待加工条目。接入大模型后，系统会进一步完成中文改写、事实核对、背景补充和多源合并。",
-    "detailEn": "Source: Al Jazeera. This is an RSS-based draft. After an LLM is configured, the pipeline will rewrite, fact-check, enrich and merge reports about the same event.",
-    "tags": [
-      "冲突与安全"
-    ],
-    "sources": [
-      "Al Jazeera"
-    ],
-    "sourceUrls": [
-      "https://www.aljazeera.com/video/newsfeed/2026/11/14/microsoft-services-begin-recovering-after-global-outage?traffic_source=rss"
-    ]
-  },
-  {
-    "id": "rss-35-a34a30b3f745",
-    "category": "security",
-    "importance": 6,
-    "sourcesCount": 1,
-    "titleZh": "Afghanistan’s new road to China ends at a closed border",
-    "titleEn": "Afghanistan’s new road to China ends at a closed border",
-    "summaryZh": "Taliban government hopes its Wakhan Corridor road will open new trade routes and reduce reliance on Pakistan.",
-    "summaryEn": "Taliban government hopes its Wakhan Corridor road will open new trade routes and reduce reliance on Pakistan.",
-    "detailZh": "来源：Al Jazeera。这是基于 RSS 摘要生成的待加工条目。接入大模型后，系统会进一步完成中文改写、事实核对、背景补充和多源合并。",
-    "detailEn": "Source: Al Jazeera. This is an RSS-based draft. After an LLM is configured, the pipeline will rewrite, fact-check, enrich and merge reports about the same event.",
-    "tags": [
-      "冲突与安全"
-    ],
-    "sources": [
-      "Al Jazeera"
-    ],
-    "sourceUrls": [
-      "https://www.aljazeera.com/features/2026/11/14/wakhan-corridor-afghanistan-china-taliban?traffic_source=rss"
+      "https://www.aljazeera.com/news/liveblog/2026/11/15/iran-war-live-israel-vows-gaza-offensive-policy-despite-caretaker-status?traffic_source=rss"
     ]
   }
 ]
