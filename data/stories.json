@@ -1,13 +1,13 @@
 [
   {
-    "id": "rss-1-a34f168e066d",
+    "id": "rss-1-a29c233ccd9a",
     "category": "world",
     "importance": 6,
     "sourcesCount": 1,
-    "titleZh": "Copper wire upgrade caused nationwide flight suspension, US transport secretary says",
-    "titleEn": "Copper wire upgrade caused nationwide flight suspension, US transport secretary says",
-    "summaryZh": "The US government is trying to find out whether the chaos was caused by \"incompetence\" or faulty equipment.",
-    "summaryEn": "The US government is trying to find out whether the chaos was caused by \"incompetence\" or faulty equipment.",
+    "titleZh": "Zelensky urges US and Musk to lift Starlink restrictions and be on 'right side of history'",
+    "titleEn": "Zelensky urges US and Musk to lift Starlink restrictions and be on 'right side of history'",
+    "summaryZh": "The Ukrainian president says the slowed-down internet is making it difficult to stop Russian attacks.",
+    "summaryEn": "The Ukrainian president says the slowed-down internet is making it difficult to stop Russian attacks.",
     "detailZh": "来源：BBC News。这是基于 RSS 摘要生成的待加工条目。接入大模型后，系统会进一步完成中文改写、事实核对、背景补充和多源合并。",
     "detailEn": "Source: BBC News. This is an RSS-based draft. After an LLM is configured, the pipeline will rewrite, fact-check, enrich and merge reports about the same event.",
     "tags": [
@@ -17,39 +17,18 @@
       "BBC News"
     ],
     "sourceUrls": [
-      "https://www.bbc.co.uk/news/articles/c6wy9lynq4qno?at_medium=RSS&at_campaign=rss"
+      "https://www.bbc.co.uk/news/articles/c6m25zg88k45o?at_medium=RSS&at_campaign=rss"
     ]
   },
   {
-    "id": "rss-2-1476d670af2a",
-    "category": "tech",
-    "importance": 6,
-    "sourcesCount": 1,
-    "titleZh": "US has floated Ukraine ceding Donbas for Nato membership, Zelensky says",
-    "titleEn": "US has floated Ukraine ceding Donbas for Nato membership, Zelensky says",
-    "summaryZh": "The US has not confirmed the Ukrainian president's comments - a US official told the BBC \"many ideas continue to be discussed\".",
-    "summaryEn": "The US has not confirmed the Ukrainian president's comments - a US official told the BBC \"many ideas continue to be discussed\".",
-    "detailZh": "来源：BBC News。这是基于 RSS 摘要生成的待加工条目。接入大模型后，系统会进一步完成中文改写、事实核对、背景补充和多源合并。",
-    "detailEn": "Source: BBC News. This is an RSS-based draft. After an LLM is configured, the pipeline will rewrite, fact-check, enrich and merge reports about the same event.",
-    "tags": [
-      "科技"
-    ],
-    "sources": [
-      "BBC News"
-    ],
-    "sourceUrls": [
-      "https://www.bbc.co.uk/news/articles/cwvg2l312ylqo?at_medium=RSS&at_campaign=rss"
-    ]
-  },
-  {
-    "id": "rss-3-359fb450257d",
+    "id": "rss-2-c6f717fdbe76",
     "category": "world",
     "importance": 6,
     "sourcesCount": 1,
-    "titleZh": "Italy fines Meta €805m over accessing users' photos",
-    "titleEn": "Italy fines Meta €805m over accessing users' photos",
-    "summaryZh": "The social media giant is accused of not informing 20 million users it had access to their photos.",
-    "summaryEn": "The social media giant is accused of not informing 20 million users it had access to their photos.",
+    "titleZh": "Suspected China spy linked to Nvidia's ex-boss left in 2025, Megaspeed says",
+    "titleEn": "Suspected China spy linked to Nvidia's ex-boss left in 2025, Megaspeed says",
+    "summaryZh": "The Nvidia scandal has raised questions over whether advanced AI chips ended up in China, despite US restrictions.",
+    "summaryEn": "The Nvidia scandal has raised questions over whether advanced AI chips ended up in China, despite US restrictions.",
     "detailZh": "来源：BBC News。这是基于 RSS 摘要生成的待加工条目。接入大模型后，系统会进一步完成中文改写、事实核对、背景补充和多源合并。",
     "detailEn": "Source: BBC News. This is an RSS-based draft. After an LLM is configured, the pipeline will rewrite, fact-check, enrich and merge reports about the same event.",
     "tags": [
@@ -59,18 +38,18 @@
       "BBC News"
     ],
     "sourceUrls": [
-      "https://www.bbc.co.uk/news/articles/cwn83gxemk35o?at_medium=RSS&at_campaign=rss"
+      "https://www.bbc.co.uk/news/articles/cmdx1vpprk9vo?at_medium=RSS&at_campaign=rss"
     ]
   },
   {
-    "id": "rss-4-06a1e4f4652e",
+    "id": "rss-3-111652aa24a0",
     "category": "world",
     "importance": 6,
     "sourcesCount": 1,
-    "titleZh": "'Can you believe it?': SpaceX catches part of its Starship rocket on return to Earth",
-    "titleEn": "'Can you believe it?': SpaceX catches part of its Starship rocket on return to Earth",
-    "summaryZh": "SpaceX has performed the historic catch using mechanical arms nicknamed \"chopsticks\".",
-    "summaryEn": "SpaceX has performed the historic catch using mechanical arms nicknamed \"chopsticks\".",
+    "titleZh": "Mexican drug lord Miguel Angel Felix Gallardo dies age 80",
+    "titleEn": "Mexican drug lord Miguel Angel Felix Gallardo dies age 80",
+    "summaryZh": "Known as the 'Boss of Bosses', he was the head of all-powerful Guadalajara Cartel in the 1980s before his arrest broke up his drug organisation.",
+    "summaryEn": "Known as the 'Boss of Bosses', he was the head of all-powerful Guadalajara Cartel in the 1980s before his arrest broke up his drug organisation.",
     "detailZh": "来源：BBC News。这是基于 RSS 摘要生成的待加工条目。接入大模型后，系统会进一步完成中文改写、事实核对、背景补充和多源合并。",
     "detailEn": "Source: BBC News. This is an RSS-based draft. After an LLM is configured, the pipeline will rewrite, fact-check, enrich and merge reports about the same event.",
     "tags": [
@@ -80,18 +59,18 @@
       "BBC News"
     ],
     "sourceUrls": [
-      "https://www.bbc.co.uk/news/videos/cwlym2gy3y3eo?at_medium=RSS&at_campaign=rss"
+      "https://www.bbc.co.uk/news/articles/c51k9nkwrndxo?at_medium=RSS&at_campaign=rss"
     ]
   },
   {
-    "id": "rss-5-03eb88a9ba92",
+    "id": "rss-4-b74d8070ffe9",
     "category": "world",
     "importance": 6,
     "sourcesCount": 1,
-    "titleZh": "Philippines wins first Eurovision Song Contest Asia",
-    "titleEn": "Philippines wins first Eurovision Song Contest Asia",
-    "summaryZh": "Front-runner Carmelle emerges victorious with her women's empowerment anthem Sobra-Sobra.",
-    "summaryEn": "Front-runner Carmelle emerges victorious with her women's empowerment anthem Sobra-Sobra.",
+    "titleZh": "South Korea's top scorer in tax accountancy exam admits cheating",
+    "titleEn": "South Korea's top scorer in tax accountancy exam admits cheating",
+    "summaryZh": "Han Won-seok, 34, confessed to using a hidden camera and AI to get a near-perfect mark on the significant test.",
+    "summaryEn": "Han Won-seok, 34, confessed to using a hidden camera and AI to get a near-perfect mark on the significant test.",
     "detailZh": "来源：BBC News。这是基于 RSS 摘要生成的待加工条目。接入大模型后，系统会进一步完成中文改写、事实核对、背景补充和多源合并。",
     "detailEn": "Source: BBC News. This is an RSS-based draft. After an LLM is configured, the pipeline will rewrite, fact-check, enrich and merge reports about the same event.",
     "tags": [
@@ -101,11 +80,74 @@
       "BBC News"
     ],
     "sourceUrls": [
-      "https://www.bbc.co.uk/news/articles/cqrlgnx9dx6eo?at_medium=RSS&at_campaign=rss"
+      "https://www.bbc.co.uk/news/articles/ckvg2ezvpe08o?at_medium=RSS&at_campaign=rss"
     ]
   },
   {
-    "id": "rss-6-86cee693d648",
+    "id": "rss-5-1a19a30f8424",
+    "category": "world",
+    "importance": 6,
+    "sourcesCount": 1,
+    "titleZh": "Pope Leo rides in helicopter cockpit during Peru trip",
+    "titleEn": "Pope Leo rides in helicopter cockpit during Peru trip",
+    "summaryZh": "The Pope took to the skies before arriving in Cusco on the penultimate day of his Latin America tour.",
+    "summaryEn": "The Pope took to the skies before arriving in Cusco on the penultimate day of his Latin America tour.",
+    "detailZh": "来源：BBC News。这是基于 RSS 摘要生成的待加工条目。接入大模型后，系统会进一步完成中文改写、事实核对、背景补充和多源合并。",
+    "detailEn": "Source: BBC News. This is an RSS-based draft. After an LLM is configured, the pipeline will rewrite, fact-check, enrich and merge reports about the same event.",
+    "tags": [
+      "国际时政"
+    ],
+    "sources": [
+      "BBC News"
+    ],
+    "sourceUrls": [
+      "https://www.bbc.co.uk/news/videos/c6pw4rl00lrjo?at_medium=RSS&at_campaign=rss"
+    ]
+  },
+  {
+    "id": "rss-6-25181e535952",
+    "category": "world",
+    "importance": 6,
+    "sourcesCount": 1,
+    "titleZh": "What to expect from Trump and Xi's upcoming meeting in China",
+    "titleEn": "What to expect from Trump and Xi's upcoming meeting in China",
+    "summaryZh": "Preview of what to expect as President Trump meets with Chinese leader Xi Jinping and Russian President Vladimir Putin at the Asia-Pacific Economic Cooperation summit in Shenzhen, ",
+    "summaryEn": "Preview of what to expect as President Trump meets with Chinese leader Xi Jinping and Russian President Vladimir Putin at the Asia-Pacific Economic Cooperation summit in Shenzhen, China this week.",
+    "detailZh": "来源：NPR World。这是基于 RSS 摘要生成的待加工条目。接入大模型后，系统会进一步完成中文改写、事实核对、背景补充和多源合并。",
+    "detailEn": "Source: NPR World. This is an RSS-based draft. After an LLM is configured, the pipeline will rewrite, fact-check, enrich and merge reports about the same event.",
+    "tags": [
+      "国际时政"
+    ],
+    "sources": [
+      "NPR World"
+    ],
+    "sourceUrls": [
+      "https://www.npr.org/2026/11/15/nx-s1-6038814/what-to-expect-from-trump-and-xis-upcoming-meeting-in-china"
+    ]
+  },
+  {
+    "id": "rss-7-917b9a52c807",
+    "category": "world",
+    "importance": 6,
+    "sourcesCount": 1,
+    "titleZh": "Who makes Sydney Sweeney's American Eagle jeans — and under what conditions?",
+    "titleEn": "Who makes Sydney Sweeney's American Eagle jeans — and under what conditions?",
+    "summaryZh": "Sydney Sweeney has great jeans, American Eagle Outfitters tells us. But who made them? And what are working conditions like in the garment factories of Pakistan and Bangladesh?",
+    "summaryEn": "Sydney Sweeney has great jeans, American Eagle Outfitters tells us. But who made them? And what are working conditions like in the garment factories of Pakistan and Bangladesh?",
+    "detailZh": "来源：NPR World。这是基于 RSS 摘要生成的待加工条目。接入大模型后，系统会进一步完成中文改写、事实核对、背景补充和多源合并。",
+    "detailEn": "Source: NPR World. This is an RSS-based draft. After an LLM is configured, the pipeline will rewrite, fact-check, enrich and merge reports about the same event.",
+    "tags": [
+      "国际时政"
+    ],
+    "sources": [
+      "NPR World"
+    ],
+    "sourceUrls": [
+      "https://www.npr.org/2026/11/15/nx-s1-6013327/sydney-sweeney-jeans-american-eagle-garment-industry"
+    ]
+  },
+  {
+    "id": "rss-8-86cee693d648",
     "category": "world",
     "importance": 6,
     "sourcesCount": 1,
@@ -126,7 +168,7 @@
     ]
   },
   {
-    "id": "rss-7-92fe297395e2",
+    "id": "rss-9-92fe297395e2",
     "category": "world",
     "importance": 6,
     "sourcesCount": 1,
@@ -147,7 +189,7 @@
     ]
   },
   {
-    "id": "rss-8-61212767e094",
+    "id": "rss-10-61212767e094",
     "category": "world",
     "importance": 6,
     "sourcesCount": 1,
@@ -165,48 +207,6 @@
     ],
     "sourceUrls": [
       "https://www.npr.org/2026/11/13/g-s1-153532/up-first-newsletter-nvidia-jensen-huang-colette-kress-ukraine-russia-chris-van-hollen"
-    ]
-  },
-  {
-    "id": "rss-9-ecd2f1af1819",
-    "category": "tech",
-    "importance": 6,
-    "sourcesCount": 1,
-    "titleZh": "Nvidia's interim CEO inherits risky AI bets and a legal mess",
-    "titleEn": "Nvidia's interim CEO inherits risky AI bets and a legal mess",
-    "summaryZh": "AI expert Gary Marcus breaks down what's at stake for Nvidia and the mess its new CEO has inherited.",
-    "summaryEn": "AI expert Gary Marcus breaks down what's at stake for Nvidia and the mess its new CEO has inherited.",
-    "detailZh": "来源：NPR World。这是基于 RSS 摘要生成的待加工条目。接入大模型后，系统会进一步完成中文改写、事实核对、背景补充和多源合并。",
-    "detailEn": "Source: NPR World. This is an RSS-based draft. After an LLM is configured, the pipeline will rewrite, fact-check, enrich and merge reports about the same event.",
-    "tags": [
-      "科技"
-    ],
-    "sources": [
-      "NPR World"
-    ],
-    "sourceUrls": [
-      "https://www.npr.org/2026/11/13/nx-s1-6038868/nvidia-interim-ceo-colette-kress-ai-bets-investigation-lutnick"
-    ]
-  },
-  {
-    "id": "rss-10-3bf6dc30ef51",
-    "category": "tech",
-    "importance": 6,
-    "sourcesCount": 1,
-    "titleZh": "U.S. envoys meet with Putin in Moscow on Ukraine talks, then see Zelenskyy in Dublin",
-    "titleEn": "U.S. envoys meet with Putin in Moscow on Ukraine talks, then see Zelenskyy in Dublin",
-    "summaryZh": "U.S. envoys have met with Russian President Vladimir Putin in the Kremlin and with Ukrainian President Volodymyr Zelenskyy in Ireland as Washington seeks new momentum in peace effo",
-    "summaryEn": "U.S. envoys have met with Russian President Vladimir Putin in the Kremlin and with Ukrainian President Volodymyr Zelenskyy in Ireland as Washington seeks new momentum in peace efforts.",
-    "detailZh": "来源：NPR World。这是基于 RSS 摘要生成的待加工条目。接入大模型后，系统会进一步完成中文改写、事实核对、背景补充和多源合并。",
-    "detailEn": "Source: NPR World. This is an RSS-based draft. After an LLM is configured, the pipeline will rewrite, fact-check, enrich and merge reports about the same event.",
-    "tags": [
-      "科技"
-    ],
-    "sources": [
-      "NPR World"
-    ],
-    "sourceUrls": [
-      "https://www.npr.org/2026/11/12/nx-s1-6038809/us-envoys-meet-putin-russia-ukraine-war-talks"
     ]
   },
   {
@@ -315,7 +315,28 @@
     ]
   },
   {
-    "id": "rss-16-f8e3a2670000",
+    "id": "rss-16-2d11eefeddda",
+    "category": "economy",
+    "importance": 6,
+    "sourcesCount": 1,
+    "titleZh": "Japan's economy unexpectedly contracts in third-quarter as elevated energy costs bite",
+    "titleEn": "Japan's economy unexpectedly contracts in third-quarter as elevated energy costs bite",
+    "summaryZh": "Energy subsidies for households had reportedly expired in September, exposing the economy to the higher energy prices brought about by the Iran war.",
+    "summaryEn": "Energy subsidies for households had reportedly expired in September, exposing the economy to the higher energy prices brought about by the Iran war.",
+    "detailZh": "来源：CNBC Economy。这是基于 RSS 摘要生成的待加工条目。接入大模型后，系统会进一步完成中文改写、事实核对、背景补充和多源合并。",
+    "detailEn": "Source: CNBC Economy. This is an RSS-based draft. After an LLM is configured, the pipeline will rewrite, fact-check, enrich and merge reports about the same event.",
+    "tags": [
+      "经济财经"
+    ],
+    "sources": [
+      "CNBC Economy"
+    ],
+    "sourceUrls": [
+      "https://www.cnbc.com/2026/11/16/japan-q3-gdp-energy-oil-prices.html"
+    ]
+  },
+  {
+    "id": "rss-17-f8e3a2670000",
     "category": "tech",
     "importance": 6,
     "sourcesCount": 1,
@@ -336,7 +357,7 @@
     ]
   },
   {
-    "id": "rss-17-22fe46335a60",
+    "id": "rss-18-22fe46335a60",
     "category": "economy",
     "importance": 6,
     "sourcesCount": 1,
@@ -357,7 +378,7 @@
     ]
   },
   {
-    "id": "rss-18-56336ba5738c",
+    "id": "rss-19-56336ba5738c",
     "category": "tech",
     "importance": 6,
     "sourcesCount": 1,
@@ -378,7 +399,7 @@
     ]
   },
   {
-    "id": "rss-19-40c065b00680",
+    "id": "rss-20-40c065b00680",
     "category": "tech",
     "importance": 6,
     "sourcesCount": 1,
@@ -399,56 +420,14 @@
     ]
   },
   {
-    "id": "rss-20-4adcecd39d3e",
+    "id": "rss-21-77828770ffb5",
     "category": "tech",
     "importance": 6,
     "sourcesCount": 1,
-    "titleZh": "Analysis: Nvidia’s leadership crisis tests the chipmaker’s role as the ‘central bank of AI’",
-    "titleEn": "Analysis: Nvidia’s leadership crisis tests the chipmaker’s role as the ‘central bank of AI’",
-    "summaryZh": "The tech giant's web of ties to other companies is raising the possibility that it could do far-reaching economic and financial damage.",
-    "summaryEn": "The tech giant's web of ties to other companies is raising the possibility that it could do far-reaching economic and financial damage.",
-    "detailZh": "来源：CNBC Economy。这是基于 RSS 摘要生成的待加工条目。接入大模型后，系统会进一步完成中文改写、事实核对、背景补充和多源合并。",
-    "detailEn": "Source: CNBC Economy. This is an RSS-based draft. After an LLM is configured, the pipeline will rewrite, fact-check, enrich and merge reports about the same event.",
-    "tags": [
-      "科技"
-    ],
-    "sources": [
-      "CNBC Economy"
-    ],
-    "sourceUrls": [
-      "https://www.cnbc.com/2026/11/11/nvidia-jensen-huang-ai-financial-system-risk.html"
-    ]
-  },
-  {
-    "id": "rss-21-acaf00569e86",
-    "category": "security",
-    "importance": 6,
-    "sourcesCount": 1,
-    "titleZh": "Where was Nvidia’s security team?",
-    "titleEn": "Where was Nvidia’s security team?",
-    "summaryZh": "Nvidia’s security chief quietly left in August, and now that CEO Jensen Huang has stepped down over his relationships, including one with an executive at a company suspected of fun",
-    "summaryEn": "Nvidia’s security chief quietly left in August, and now that CEO Jensen Huang has stepped down over his relationships, including one with an executive at a company suspected of funneling chips to China, a former intelligence officer says it’s the kind of leak ",
-    "detailZh": "来源：TechCrunch。这是基于 RSS 摘要生成的待加工条目。接入大模型后，系统会进一步完成中文改写、事实核对、背景补充和多源合并。",
-    "detailEn": "Source: TechCrunch. This is an RSS-based draft. After an LLM is configured, the pipeline will rewrite, fact-check, enrich and merge reports about the same event.",
-    "tags": [
-      "冲突与安全"
-    ],
-    "sources": [
-      "TechCrunch"
-    ],
-    "sourceUrls": [
-      "https://techcrunch.com/2026/11/14/where-was-nvidias-security-team/"
-    ]
-  },
-  {
-    "id": "rss-22-a4a92fbcda03",
-    "category": "tech",
-    "importance": 6,
-    "sourcesCount": 1,
-    "titleZh": "Elon Musk, other tech execs sign petition calling on Nvidia to reinstate Jensen Huang",
-    "titleEn": "Elon Musk, other tech execs sign petition calling on Nvidia to reinstate Jensen Huang",
-    "summaryZh": "The petition had attracted more than 115,000 signatures as of Saturday afternoon.",
-    "summaryEn": "The petition had attracted more than 115,000 signatures as of Saturday afternoon.",
+    "titleZh": "Apple launches new app to study how people use AI for health",
+    "titleEn": "Apple launches new app to study how people use AI for health",
+    "summaryZh": "Apple's new app for a study will answer everyday medical questions",
+    "summaryEn": "Apple's new app for a study will answer everyday medical questions",
     "detailZh": "来源：TechCrunch。这是基于 RSS 摘要生成的待加工条目。接入大模型后，系统会进一步完成中文改写、事实核对、背景补充和多源合并。",
     "detailEn": "Source: TechCrunch. This is an RSS-based draft. After an LLM is configured, the pipeline will rewrite, fact-check, enrich and merge reports about the same event.",
     "tags": [
@@ -458,18 +437,18 @@
       "TechCrunch"
     ],
     "sourceUrls": [
-      "https://techcrunch.com/2026/11/14/elon-musk-other-tech-execs-sign-petition-calling-on-nvidia-to-reinstate-jensen-huang/"
+      "https://techcrunch.com/2026/11/15/apple-launches-new-app-to-study-how-people-use-ai-for-health/"
     ]
   },
   {
-    "id": "rss-23-0f3c66386c82",
+    "id": "rss-22-fa232e2aaf8a",
     "category": "tech",
     "importance": 6,
     "sourcesCount": 1,
-    "titleZh": "Tesla opens Cybercab pre-orders ‘for personal use,’ with geo restrictions and a $299 monthly fee",
-    "titleEn": "Tesla opens Cybercab pre-orders ‘for personal use,’ with geo restrictions and a $299 monthly fee",
-    "summaryZh": "Even Elon Musk said the monthly fee is \"too high.\"",
-    "summaryEn": "Even Elon Musk said the monthly fee is \"too high.\"",
+    "titleZh": "Indian chip startup Bharat Semi lands $24M seed round as it eyes global AI sensor market",
+    "titleEn": "Indian chip startup Bharat Semi lands $24M seed round as it eyes global AI sensor market",
+    "summaryZh": "Bharat Semi says it has secured design wins for its AI-enabled sensor technology with companies including General Atomics.",
+    "summaryEn": "Bharat Semi says it has secured design wins for its AI-enabled sensor technology with companies including General Atomics.",
     "detailZh": "来源：TechCrunch。这是基于 RSS 摘要生成的待加工条目。接入大模型后，系统会进一步完成中文改写、事实核对、背景补充和多源合并。",
     "detailEn": "Source: TechCrunch. This is an RSS-based draft. After an LLM is configured, the pipeline will rewrite, fact-check, enrich and merge reports about the same event.",
     "tags": [
@@ -479,18 +458,18 @@
       "TechCrunch"
     ],
     "sourceUrls": [
-      "https://techcrunch.com/2026/11/14/tesla-opens-cybercab-pre-orders-for-personal-use-with-geo-restrictions-and-a-299-monthly-fee/"
+      "https://techcrunch.com/2026/11/15/indian-chip-startup-bharat-semi-lands-24m-seed-round-as-it-eyes-global-ai-sensor-market/"
     ]
   },
   {
-    "id": "rss-24-08ed142fce60",
+    "id": "rss-23-9e3d554c6cb5",
     "category": "tech",
     "importance": 6,
     "sourcesCount": 1,
-    "titleZh": "Got an iPhone Duo? These 9 settings make it easier to use",
-    "titleEn": "Got an iPhone Duo? These 9 settings make it easier to use",
-    "summaryZh": "From Touch ID shortcuts to smarter volume buttons and camera tricks, these tweaks make Apple's foldable iPhone easier to use every day.",
-    "summaryEn": "From Touch ID shortcuts to smarter volume buttons and camera tricks, these tweaks make Apple's foldable iPhone easier to use every day.",
+    "titleZh": "Is bad news for Jensen Huang also bad news for the AI industry?",
+    "titleEn": "Is bad news for Jensen Huang also bad news for the AI industry?",
+    "summaryZh": "\"Jensen is Nvidia, right? And so much of this economy is riding on Nvidia.\"",
+    "summaryEn": "\"Jensen is Nvidia, right? And so much of this economy is riding on Nvidia.\"",
     "detailZh": "来源：TechCrunch。这是基于 RSS 摘要生成的待加工条目。接入大模型后，系统会进一步完成中文改写、事实核对、背景补充和多源合并。",
     "detailEn": "Source: TechCrunch. This is an RSS-based draft. After an LLM is configured, the pipeline will rewrite, fact-check, enrich and merge reports about the same event.",
     "tags": [
@@ -500,18 +479,18 @@
       "TechCrunch"
     ],
     "sourceUrls": [
-      "https://techcrunch.com/2026/11/14/got-an-iphone-duo-these-9-settings-make-it-easier-to-use/"
+      "https://techcrunch.com/2026/11/15/is-bad-news-for-jensen-huang-also-bad-news-for-the-ai-industry/"
     ]
   },
   {
-    "id": "rss-25-2aae0ad36a1c",
+    "id": "rss-24-d9bb72c7b4b4",
     "category": "tech",
     "importance": 6,
     "sourcesCount": 1,
-    "titleZh": "Transportation secretary blames ‘routine’ equipment upgrade for grounding flights nationwide",
-    "titleEn": "Transportation secretary blames ‘routine’ equipment upgrade for grounding flights nationwide",
-    "summaryZh": "FAA administrator Bryan Bedford also said there's \"zero evidence of anything AI-related.\"",
-    "summaryEn": "FAA administrator Bryan Bedford also said there's \"zero evidence of anything AI-related.\"",
+    "titleZh": "SNL gathers all the tech tycoons for a lesson in dating and spycraft",
+    "titleEn": "SNL gathers all the tech tycoons for a lesson in dating and spycraft",
+    "summaryZh": "While awkward, creepy tech executives have become a recurring theme on Saturday Night Live, this week’s episode gave the cast a chance to show off all their impressions at once.",
+    "summaryEn": "While awkward, creepy tech executives have become a recurring theme on Saturday Night Live, this week’s episode gave the cast a chance to show off all their impressions at once.",
     "detailZh": "来源：TechCrunch。这是基于 RSS 摘要生成的待加工条目。接入大模型后，系统会进一步完成中文改写、事实核对、背景补充和多源合并。",
     "detailEn": "Source: TechCrunch. This is an RSS-based draft. After an LLM is configured, the pipeline will rewrite, fact-check, enrich and merge reports about the same event.",
     "tags": [
@@ -521,7 +500,28 @@
       "TechCrunch"
     ],
     "sourceUrls": [
-      "https://techcrunch.com/2026/11/14/transportation-secretary-blames-routine-equipment-upgrade-for-grounding-flights-nationwide/"
+      "https://techcrunch.com/2026/11/15/snl-gathers-all-the-tech-tycoons-for-a-lesson-in-dating-and-spycraft/"
+    ]
+  },
+  {
+    "id": "rss-25-8327947f6831",
+    "category": "tech",
+    "importance": 6,
+    "sourcesCount": 1,
+    "titleZh": "Flaming Hydra’s new Kickstarter campaign rethinks e-book ownership and digital lending",
+    "titleEn": "Flaming Hydra’s new Kickstarter campaign rethinks e-book ownership and digital lending",
+    "summaryZh": "A new Kickstarter campaign aims to usher in the “return of the human internet.”",
+    "summaryEn": "A new Kickstarter campaign aims to usher in the “return of the human internet.”",
+    "detailZh": "来源：TechCrunch。这是基于 RSS 摘要生成的待加工条目。接入大模型后，系统会进一步完成中文改写、事实核对、背景补充和多源合并。",
+    "detailEn": "Source: TechCrunch. This is an RSS-based draft. After an LLM is configured, the pipeline will rewrite, fact-check, enrich and merge reports about the same event.",
+    "tags": [
+      "科技"
+    ],
+    "sources": [
+      "TechCrunch"
+    ],
+    "sourceUrls": [
+      "https://techcrunch.com/2026/11/15/flaming-hydras-new-kickstarter-campaign-rethinks-e-book-ownership-and-digital-lending/"
     ]
   },
   {
@@ -630,77 +630,14 @@
     ]
   },
   {
-    "id": "rss-31-d3b3321eb29c",
-    "category": "tech",
-    "importance": 6,
-    "sourcesCount": 1,
-    "titleZh": "SpaceX’s Starship nails a smooth return with historic catch",
-    "titleEn": "SpaceX’s Starship nails a smooth return with historic catch",
-    "summaryZh": "SpaceX Starship made a triumphant return to Earth, caught midair by giant mechanical ‘chopsticks’.",
-    "summaryEn": "SpaceX Starship made a triumphant return to Earth, caught midair by giant mechanical ‘chopsticks’.",
-    "detailZh": "来源：Al Jazeera。这是基于 RSS 摘要生成的待加工条目。接入大模型后，系统会进一步完成中文改写、事实核对、背景补充和多源合并。",
-    "detailEn": "Source: Al Jazeera. This is an RSS-based draft. After an LLM is configured, the pipeline will rewrite, fact-check, enrich and merge reports about the same event.",
-    "tags": [
-      "科技"
-    ],
-    "sources": [
-      "Al Jazeera"
-    ],
-    "sourceUrls": [
-      "https://www.aljazeera.com/video/newsfeed/2026/11/15/aje-onl-nf_spacexs-starship-nails-a-smooth-return-141126?traffic_source=rss"
-    ]
-  },
-  {
-    "id": "rss-32-02c39fc80528",
-    "category": "tech",
-    "importance": 6,
-    "sourcesCount": 1,
-    "titleZh": "Israeli air strike kills senior Hamas commander in Gaza",
-    "titleEn": "Israeli air strike kills senior Hamas commander in Gaza",
-    "summaryZh": "Hamas confirms the death of Rafah brigade commander Samir Abu Younis in an attack on Khan Younis on Saturday.",
-    "summaryEn": "Hamas confirms the death of Rafah brigade commander Samir Abu Younis in an attack on Khan Younis on Saturday.",
-    "detailZh": "来源：Al Jazeera。这是基于 RSS 摘要生成的待加工条目。接入大模型后，系统会进一步完成中文改写、事实核对、背景补充和多源合并。",
-    "detailEn": "Source: Al Jazeera. This is an RSS-based draft. After an LLM is configured, the pipeline will rewrite, fact-check, enrich and merge reports about the same event.",
-    "tags": [
-      "科技"
-    ],
-    "sources": [
-      "Al Jazeera"
-    ],
-    "sourceUrls": [
-      "https://www.aljazeera.com/news/2026/11/15/israeli-air-strike-kills-senior-hamas-commander-in-gaza?traffic_source=rss"
-    ]
-  },
-  {
-    "id": "rss-33-46cd3992f87e",
-    "category": "tech",
-    "importance": 6,
-    "sourcesCount": 1,
-    "titleZh": "Hundreds of men march in Switzerland to protest violence against women",
-    "titleEn": "Hundreds of men march in Switzerland to protest violence against women",
-    "summaryZh": "Organisers say men must speak out, as Swiss study finds half of men aged 18 to 24 hold restrictive view of masculinity.",
-    "summaryEn": "Organisers say men must speak out, as Swiss study finds half of men aged 18 to 24 hold restrictive view of masculinity.",
-    "detailZh": "来源：Al Jazeera。这是基于 RSS 摘要生成的待加工条目。接入大模型后，系统会进一步完成中文改写、事实核对、背景补充和多源合并。",
-    "detailEn": "Source: Al Jazeera. This is an RSS-based draft. After an LLM is configured, the pipeline will rewrite, fact-check, enrich and merge reports about the same event.",
-    "tags": [
-      "科技"
-    ],
-    "sources": [
-      "Al Jazeera"
-    ],
-    "sourceUrls": [
-      "https://www.aljazeera.com/news/2026/11/15/hundreds-of-men-march-in-switzerland-to-protest-violence-against-women?traffic_source=rss"
-    ]
-  },
-  {
-    "id": "rss-34-809ce5879794",
+    "id": "rss-31-77e2d16c1183",
     "category": "security",
     "importance": 6,
     "sourcesCount": 1,
-    "titleZh": "SpaceX’s Starship captured by launchpad arms in dramatic first",
-    "titleEn": "SpaceX’s Starship captured by launchpad arms in dramatic first",
-    "summaryZh": "SpaceX officials say catch by mechanical arms shows Starship's full reusability, crucial for rapid, low-cost recycling.",
-    "summaryEn": "SpaceX officials say catch by mechanical arms shows Starship's full reusability, crucial for rapid, low-cost recycling.",
+    "titleZh": "Founder of Guadalajara cartel dies in hospital after decades in prison",
+    "titleEn": "Founder of Guadalajara cartel dies in hospital after decades in prison",
+    "summaryZh": "Miguel Angel Felix Gallardo was convicted of the 1985 murder of a US drug enforcement agent and a Mexican pilot.",
+    "summaryEn": "Miguel Angel Felix Gallardo was convicted of the 1985 murder of a US drug enforcement agent and a Mexican pilot.",
     "detailZh": "来源：Al Jazeera。这是基于 RSS 摘要生成的待加工条目。接入大模型后，系统会进一步完成中文改写、事实核对、背景补充和多源合并。",
     "detailEn": "Source: Al Jazeera. This is an RSS-based draft. After an LLM is configured, the pipeline will rewrite, fact-check, enrich and merge reports about the same event.",
     "tags": [
@@ -710,18 +647,18 @@
       "Al Jazeera"
     ],
     "sourceUrls": [
-      "https://www.aljazeera.com/news/2026/11/15/spacexs-starship-captured-by-launchpad-arms-in-dramatic-first?traffic_source=rss"
+      "https://www.aljazeera.com/news/2026/11/16/founder-of-guadalajara-cartel-dies-in-hospital-after-decades-in-prison?traffic_source=rss"
     ]
   },
   {
-    "id": "rss-35-5fb9e15e525b",
+    "id": "rss-32-892cf0acc1a3",
     "category": "security",
     "importance": 6,
     "sourcesCount": 1,
-    "titleZh": "Iran war live: Israel vows Gaza ‘offensive policy’ despite caretaker status",
-    "titleEn": "Iran war live: Israel vows Gaza ‘offensive policy’ despite caretaker status",
-    "summaryZh": "Israel has pledged to continue its 'offensive policy' on Gaza, as fighting in Yemen grips the region.",
-    "summaryEn": "Israel has pledged to continue its 'offensive policy' on Gaza, as fighting in Yemen grips the region.",
+    "titleZh": "After a nationwide ground stop, US faces aviation infrastructure questions",
+    "titleEn": "After a nationwide ground stop, US faces aviation infrastructure questions",
+    "summaryZh": "Trump has requested $50bn for upgrades, but Democratic lawmakers are asking for transparency before spending more.",
+    "summaryEn": "Trump has requested $50bn for upgrades, but Democratic lawmakers are asking for transparency before spending more.",
     "detailZh": "来源：Al Jazeera。这是基于 RSS 摘要生成的待加工条目。接入大模型后，系统会进一步完成中文改写、事实核对、背景补充和多源合并。",
     "detailEn": "Source: Al Jazeera. This is an RSS-based draft. After an LLM is configured, the pipeline will rewrite, fact-check, enrich and merge reports about the same event.",
     "tags": [
@@ -731,7 +668,70 @@
       "Al Jazeera"
     ],
     "sourceUrls": [
-      "https://www.aljazeera.com/news/liveblog/2026/11/15/iran-war-live-israel-vows-gaza-offensive-policy-despite-caretaker-status?traffic_source=rss"
+      "https://www.aljazeera.com/news/2026/11/16/after-a-nationwide-ground-stop-us-faces-aviation-infrastructure-questions?traffic_source=rss"
+    ]
+  },
+  {
+    "id": "rss-33-61c1ace6e433",
+    "category": "tech",
+    "importance": 6,
+    "sourcesCount": 1,
+    "titleZh": "Czechs rally against gov’t threat to media independence",
+    "titleEn": "Czechs rally against gov’t threat to media independence",
+    "summaryZh": "Czechs rallied in Prague over plans to shift public media funding to the state, raising fears of government influence.",
+    "summaryEn": "Czechs rallied in Prague over plans to shift public media funding to the state, raising fears of government influence.",
+    "detailZh": "来源：Al Jazeera。这是基于 RSS 摘要生成的待加工条目。接入大模型后，系统会进一步完成中文改写、事实核对、背景补充和多源合并。",
+    "detailEn": "Source: Al Jazeera. This is an RSS-based draft. After an LLM is configured, the pipeline will rewrite, fact-check, enrich and merge reports about the same event.",
+    "tags": [
+      "科技"
+    ],
+    "sources": [
+      "Al Jazeera"
+    ],
+    "sourceUrls": [
+      "https://www.aljazeera.com/video/newsfeed/2026/11/16/czechs-rally-against-govt-threat-to-media-independence?traffic_source=rss"
+    ]
+  },
+  {
+    "id": "rss-34-c3f194dca4fe",
+    "category": "security",
+    "importance": 6,
+    "sourcesCount": 1,
+    "titleZh": "Zambia’s copper boom attracts billions in investment, but who benefits?",
+    "titleEn": "Zambia’s copper boom attracts billions in investment, but who benefits?",
+    "summaryZh": "Workers' rights, environmental concerns and local businesses remain at the centre of the debate.",
+    "summaryEn": "Workers' rights, environmental concerns and local businesses remain at the centre of the debate.",
+    "detailZh": "来源：Al Jazeera。这是基于 RSS 摘要生成的待加工条目。接入大模型后，系统会进一步完成中文改写、事实核对、背景补充和多源合并。",
+    "detailEn": "Source: Al Jazeera. This is an RSS-based draft. After an LLM is configured, the pipeline will rewrite, fact-check, enrich and merge reports about the same event.",
+    "tags": [
+      "冲突与安全"
+    ],
+    "sources": [
+      "Al Jazeera"
+    ],
+    "sourceUrls": [
+      "https://www.aljazeera.com/news/2026/11/16/zambias-copper-boom-attracts-billions-in-investment-but-who-benefits?traffic_source=rss"
+    ]
+  },
+  {
+    "id": "rss-35-9d766436c2ca",
+    "category": "tech",
+    "importance": 6,
+    "sourcesCount": 1,
+    "titleZh": "Eisenkot says Netanyahu can’t remain Israel PM amid alleged vote meddling",
+    "titleEn": "Eisenkot says Netanyahu can’t remain Israel PM amid alleged vote meddling",
+    "summaryZh": "Arab party members were reportedly arrested before Israeli elections based on unfounded evidence from the PM's office.",
+    "summaryEn": "Arab party members were reportedly arrested before Israeli elections based on unfounded evidence from the PM's office.",
+    "detailZh": "来源：Al Jazeera。这是基于 RSS 摘要生成的待加工条目。接入大模型后，系统会进一步完成中文改写、事实核对、背景补充和多源合并。",
+    "detailEn": "Source: Al Jazeera. This is an RSS-based draft. After an LLM is configured, the pipeline will rewrite, fact-check, enrich and merge reports about the same event.",
+    "tags": [
+      "科技"
+    ],
+    "sources": [
+      "Al Jazeera"
+    ],
+    "sourceUrls": [
+      "https://www.aljazeera.com/news/2026/11/16/eisenkot-says-netanyahu-cant-remain-israel-pm-amid-alleged-vote-meddling?traffic_source=rss"
     ]
   }
 ]
