@@ -1,76 +1,13 @@
 [
   {
-    "id": "rss-1-c73c048e2de0",
-    "category": "tech",
-    "importance": 6,
-    "sourcesCount": 1,
-    "titleZh": "Inside the old gas pipeline where Ukraine is fighting an underground war with Russia",
-    "titleEn": "Inside the old gas pipeline where Ukraine is fighting an underground war with Russia",
-    "summaryZh": "Watch: The BBC's Jonathan Beale joins Ukrainian forces taking the battle below ground and out of sight of Russian drones.",
-    "summaryEn": "Watch: The BBC's Jonathan Beale joins Ukrainian forces taking the battle below ground and out of sight of Russian drones.",
-    "detailZh": "来源：BBC News。这是基于 RSS 摘要生成的待加工条目。接入大模型后，系统会进一步完成中文改写、事实核对、背景补充和多源合并。",
-    "detailEn": "Source: BBC News. This is an RSS-based draft. After an LLM is configured, the pipeline will rewrite, fact-check, enrich and merge reports about the same event.",
-    "tags": [
-      "科技"
-    ],
-    "sources": [
-      "BBC News"
-    ],
-    "sourceUrls": [
-      "https://www.bbc.co.uk/news/videos/c8p3vw4q6nzzo?at_medium=RSS&at_campaign=rss"
-    ]
-  },
-  {
-    "id": "rss-2-40b5659e8a61",
-    "category": "tech",
-    "importance": 6,
-    "sourcesCount": 1,
-    "titleZh": "'The drones don't fly here' - BBC reports from Ukraine's new front line",
-    "titleEn": "'The drones don't fly here' - BBC reports from Ukraine's new front line",
-    "summaryZh": "Ukrainian forces are fighting Russian troops in an old Soviet tunnel in the Kharkiv region.",
-    "summaryEn": "Ukrainian forces are fighting Russian troops in an old Soviet tunnel in the Kharkiv region.",
-    "detailZh": "来源：BBC News。这是基于 RSS 摘要生成的待加工条目。接入大模型后，系统会进一步完成中文改写、事实核对、背景补充和多源合并。",
-    "detailEn": "Source: BBC News. This is an RSS-based draft. After an LLM is configured, the pipeline will rewrite, fact-check, enrich and merge reports about the same event.",
-    "tags": [
-      "科技"
-    ],
-    "sources": [
-      "BBC News"
-    ],
-    "sourceUrls": [
-      "https://www.bbc.co.uk/news/articles/c32l507ev4v4o?at_medium=RSS&at_campaign=rss"
-    ]
-  },
-  {
-    "id": "rss-3-cd24719f402d",
-    "category": "world",
-    "importance": 6,
-    "sourcesCount": 1,
-    "titleZh": "Myanmar faces historic genocide verdict at UN court over Rohingya massacres",
-    "titleEn": "Myanmar faces historic genocide verdict at UN court over Rohingya massacres",
-    "summaryZh": "No state has ever been found guilty by an international court of committing genocide.",
-    "summaryEn": "No state has ever been found guilty by an international court of committing genocide.",
-    "detailZh": "来源：BBC News。这是基于 RSS 摘要生成的待加工条目。接入大模型后，系统会进一步完成中文改写、事实核对、背景补充和多源合并。",
-    "detailEn": "Source: BBC News. This is an RSS-based draft. After an LLM is configured, the pipeline will rewrite, fact-check, enrich and merge reports about the same event.",
-    "tags": [
-      "国际时政"
-    ],
-    "sources": [
-      "BBC News"
-    ],
-    "sourceUrls": [
-      "https://www.bbc.co.uk/news/articles/c5m2l90ez144o?at_medium=RSS&at_campaign=rss"
-    ]
-  },
-  {
-    "id": "rss-4-c6d87bb33ae7",
+    "id": "rss-1-779c3aaa135e",
     "category": "economy",
     "importance": 6,
     "sourcesCount": 1,
-    "titleZh": "Claude-maker Anthropic poised for stock market debut worth up to $1.5tn",
-    "titleEn": "Claude-maker Anthropic poised for stock market debut worth up to $1.5tn",
-    "summaryZh": "Anthropic started just five years ago an is now one of the biggest names in artificial intelligence.",
-    "summaryEn": "Anthropic started just five years ago an is now one of the biggest names in artificial intelligence.",
+    "titleZh": "Anthropic becomes one of world's most valuable public companies in stock market debut",
+    "titleEn": "Anthropic becomes one of world's most valuable public companies in stock market debut",
+    "summaryZh": "Anthropic is the first purely AI company to be publicly listed, creating a test for the entire industry.",
+    "summaryEn": "Anthropic is the first purely AI company to be publicly listed, creating a test for the entire industry.",
     "detailZh": "来源：BBC News。这是基于 RSS 摘要生成的待加工条目。接入大模型后，系统会进一步完成中文改写、事实核对、背景补充和多源合并。",
     "detailEn": "Source: BBC News. This is an RSS-based draft. After an LLM is configured, the pipeline will rewrite, fact-check, enrich and merge reports about the same event.",
     "tags": [
@@ -80,18 +17,39 @@
       "BBC News"
     ],
     "sourceUrls": [
-      "https://www.bbc.co.uk/news/articles/c6742m39xgzxo?at_medium=RSS&at_campaign=rss"
+      "https://www.bbc.co.uk/news/articles/c3x29ggenz12o?at_medium=RSS&at_campaign=rss"
     ]
   },
   {
-    "id": "rss-5-43a2d9476efa",
+    "id": "rss-2-eca3e57c2438",
+    "category": "world",
+    "importance": 6,
+    "sourcesCount": 1,
+    "titleZh": "'I tell my son it's just fireworks': People inside besieged Yemeni city speak to BBC",
+    "titleEn": "'I tell my son it's just fireworks': People inside besieged Yemeni city speak to BBC",
+    "summaryZh": "Orla Guerin speaks to seven people trapped in Taiz by the Houthis who reveal what life is like under siege.",
+    "summaryEn": "Orla Guerin speaks to seven people trapped in Taiz by the Houthis who reveal what life is like under siege.",
+    "detailZh": "来源：BBC News。这是基于 RSS 摘要生成的待加工条目。接入大模型后，系统会进一步完成中文改写、事实核对、背景补充和多源合并。",
+    "detailEn": "Source: BBC News. This is an RSS-based draft. After an LLM is configured, the pipeline will rewrite, fact-check, enrich and merge reports about the same event.",
+    "tags": [
+      "国际时政"
+    ],
+    "sources": [
+      "BBC News"
+    ],
+    "sourceUrls": [
+      "https://www.bbc.co.uk/news/articles/cx7v2d8q879eo?at_medium=RSS&at_campaign=rss"
+    ]
+  },
+  {
+    "id": "rss-3-11685b3b01c1",
     "category": "tech",
     "importance": 6,
     "sourcesCount": 1,
-    "titleZh": "Van Gogh painting sells for record $190.4m after row over its Nazi history",
-    "titleEn": "Van Gogh painting sells for record $190.4m after row over its Nazi history",
-    "summaryZh": "Châtaigniers en fleurs was painted in 1890 in the final two months of Vincent van Gogh's life.",
-    "summaryEn": "Châtaigniers en fleurs was painted in 1890 in the final two months of Vincent van Gogh's life.",
+    "titleZh": "Myanmar committed genocide against Rohingya minority, top UN court rules",
+    "titleEn": "Myanmar committed genocide against Rohingya minority, top UN court rules",
+    "summaryZh": "The unprecedented International Court of Justice verdict concerns a 2017 military crackdown that killed thousands.",
+    "summaryEn": "The unprecedented International Court of Justice verdict concerns a 2017 military crackdown that killed thousands.",
     "detailZh": "来源：BBC News。这是基于 RSS 摘要生成的待加工条目。接入大模型后，系统会进一步完成中文改写、事实核对、背景补充和多源合并。",
     "detailEn": "Source: BBC News. This is an RSS-based draft. After an LLM is configured, the pipeline will rewrite, fact-check, enrich and merge reports about the same event.",
     "tags": [
@@ -101,18 +59,102 @@
       "BBC News"
     ],
     "sourceUrls": [
-      "https://www.bbc.co.uk/news/articles/c5dj1dkwzvzwo?at_medium=RSS&at_campaign=rss"
+      "https://www.bbc.co.uk/news/articles/c804wzp20ddvo?at_medium=RSS&at_campaign=rss"
     ]
   },
   {
-    "id": "rss-6-2fa85661d037",
+    "id": "rss-4-42a972871329",
+    "category": "tech",
+    "importance": 6,
+    "sourcesCount": 1,
+    "titleZh": "Europe ready for talks with Russia on ending war in Ukraine, leaders say",
+    "titleEn": "Europe ready for talks with Russia on ending war in Ukraine, leaders say",
+    "summaryZh": "European allies of Ukraine say they have a \"united\" negotiating position at a summit in Berlin.",
+    "summaryEn": "European allies of Ukraine say they have a \"united\" negotiating position at a summit in Berlin.",
+    "detailZh": "来源：BBC News。这是基于 RSS 摘要生成的待加工条目。接入大模型后，系统会进一步完成中文改写、事实核对、背景补充和多源合并。",
+    "detailEn": "Source: BBC News. This is an RSS-based draft. After an LLM is configured, the pipeline will rewrite, fact-check, enrich and merge reports about the same event.",
+    "tags": [
+      "科技"
+    ],
+    "sources": [
+      "BBC News"
+    ],
+    "sourceUrls": [
+      "https://www.bbc.co.uk/news/articles/ckzd9nln5e6go?at_medium=RSS&at_campaign=rss"
+    ]
+  },
+  {
+    "id": "rss-5-116411d1d3c7",
     "category": "world",
     "importance": 6,
     "sourcesCount": 1,
-    "titleZh": "Karl Kani dressed hip-hop royalty for decades. Now he's telling his own story",
-    "titleEn": "Karl Kani dressed hip-hop royalty for decades. Now he's telling his own story",
-    "summaryZh": "On NPR's Morning Edition , fashion designer Karl Kani talks about his new memoir, dressing some of hip-hop's biggest stars and why skinny jeans aren't for everyone.",
-    "summaryEn": "On NPR's Morning Edition , fashion designer Karl Kani talks about his new memoir, dressing some of hip-hop's biggest stars and why skinny jeans aren't for everyone.",
+    "titleZh": "Trump, Putin and Xi release 'peace declaration' after historic meeting",
+    "titleEn": "Trump, Putin and Xi release 'peace declaration' after historic meeting",
+    "summaryZh": "While the presidents have previously met for one-on-one meetings, this is their first trilateral discussion.",
+    "summaryEn": "While the presidents have previously met for one-on-one meetings, this is their first trilateral discussion.",
+    "detailZh": "来源：BBC News。这是基于 RSS 摘要生成的待加工条目。接入大模型后，系统会进一步完成中文改写、事实核对、背景补充和多源合并。",
+    "detailEn": "Source: BBC News. This is an RSS-based draft. After an LLM is configured, the pipeline will rewrite, fact-check, enrich and merge reports about the same event.",
+    "tags": [
+      "国际时政"
+    ],
+    "sources": [
+      "BBC News"
+    ],
+    "sourceUrls": [
+      "https://www.bbc.co.uk/news/articles/c623j4ln97x7o?at_medium=RSS&at_campaign=rss"
+    ]
+  },
+  {
+    "id": "rss-6-aeff9386d011",
+    "category": "tech",
+    "importance": 6,
+    "sourcesCount": 1,
+    "titleZh": "The U.N.'s top court rules Myanmar committed genocide against the Rohingya",
+    "titleEn": "The U.N.'s top court rules Myanmar committed genocide against the Rohingya",
+    "summaryZh": "The International Court of Justice found that Myanmar security forces \"acted with genocidal intent\" against the Rohingya during military operations in the northern Rakhine state in",
+    "summaryEn": "The International Court of Justice found that Myanmar security forces \"acted with genocidal intent\" against the Rohingya during military operations in the northern Rakhine state in 2017.",
+    "detailZh": "来源：NPR World。这是基于 RSS 摘要生成的待加工条目。接入大模型后，系统会进一步完成中文改写、事实核对、背景补充和多源合并。",
+    "detailEn": "Source: NPR World. This is an RSS-based draft. After an LLM is configured, the pipeline will rewrite, fact-check, enrich and merge reports about the same event.",
+    "tags": [
+      "科技"
+    ],
+    "sources": [
+      "NPR World"
+    ],
+    "sourceUrls": [
+      "https://www.npr.org/2026/11/19/g-s1-154340/un-court-myanmar-genocide-rohingya"
+    ]
+  },
+  {
+    "id": "rss-7-53b632b4ea42",
+    "category": "tech",
+    "importance": 6,
+    "sourcesCount": 1,
+    "titleZh": "Anthropic raises more than $100B in IPO. And, Dems nominate Jeffries for House speaker",
+    "titleEn": "Anthropic raises more than $100B in IPO. And, Dems nominate Jeffries for House speaker",
+    "summaryZh": "Despite growing concern over a possible AI bubble, Anthropic had a record-breaking initial public offering. And, Hakeem Jeffries could become the first Black Speaker of the House.",
+    "summaryEn": "Despite growing concern over a possible AI bubble, Anthropic had a record-breaking initial public offering. And, Hakeem Jeffries could become the first Black Speaker of the House.",
+    "detailZh": "来源：NPR World。这是基于 RSS 摘要生成的待加工条目。接入大模型后，系统会进一步完成中文改写、事实核对、背景补充和多源合并。",
+    "detailEn": "Source: NPR World. This is an RSS-based draft. After an LLM is configured, the pipeline will rewrite, fact-check, enrich and merge reports about the same event.",
+    "tags": [
+      "科技"
+    ],
+    "sources": [
+      "NPR World"
+    ],
+    "sourceUrls": [
+      "https://www.npr.org/2026/11/19/g-s1-154344/up-first-newsletter-house-democrats-trump-xi-putin-anthropic"
+    ]
+  },
+  {
+    "id": "rss-8-79caf38409df",
+    "category": "world",
+    "importance": 6,
+    "sourcesCount": 1,
+    "titleZh": "Top House Democrat questions what Trump accomplished in Xi-Putin summit",
+    "titleEn": "Top House Democrat questions what Trump accomplished in Xi-Putin summit",
+    "summaryZh": "Rep. Gregory Meeks raises concerns about U.S. alliances after Trump's summit with Xi and Putin. He also discusses Chinese espionage amid the Nvidia scandal.",
+    "summaryEn": "Rep. Gregory Meeks raises concerns about U.S. alliances after Trump's summit with Xi and Putin. He also discusses Chinese espionage amid the Nvidia scandal.",
     "detailZh": "来源：NPR World。这是基于 RSS 摘要生成的待加工条目。接入大模型后，系统会进一步完成中文改写、事实核对、背景补充和多源合并。",
     "detailEn": "Source: NPR World. This is an RSS-based draft. After an LLM is configured, the pipeline will rewrite, fact-check, enrich and merge reports about the same event.",
     "tags": [
@@ -122,18 +164,39 @@
       "NPR World"
     ],
     "sourceUrls": [
-      "https://www.npr.org/2026/11/18/g-s1-154227/karl-kani-a-life-by-design"
+      "https://www.npr.org/2026/11/19/nx-s1-6046487/gregory-meeks-trump-xi-putin-summit"
     ]
   },
   {
-    "id": "rss-7-cd4814f1f1b7",
+    "id": "rss-9-7a9c705eae85",
+    "category": "tech",
+    "importance": 6,
+    "sourcesCount": 1,
+    "titleZh": "Iran's attacks on ships in the Strait of Hormuz escalate",
+    "titleEn": "Iran's attacks on ships in the Strait of Hormuz escalate",
+    "summaryZh": "Iran takes the offensive with attacks on ships in the Strait of Hormuz and airstrikes on several countries around the Persian Gulf.",
+    "summaryEn": "Iran takes the offensive with attacks on ships in the Strait of Hormuz and airstrikes on several countries around the Persian Gulf.",
+    "detailZh": "来源：NPR World。这是基于 RSS 摘要生成的待加工条目。接入大模型后，系统会进一步完成中文改写、事实核对、背景补充和多源合并。",
+    "detailEn": "Source: NPR World. This is an RSS-based draft. After an LLM is configured, the pipeline will rewrite, fact-check, enrich and merge reports about the same event.",
+    "tags": [
+      "科技"
+    ],
+    "sources": [
+      "NPR World"
+    ],
+    "sourceUrls": [
+      "https://www.npr.org/2026/11/19/nx-s1-6044206/irans-attacks-on-ships-in-the-strait-of-hormuz-escalate"
+    ]
+  },
+  {
+    "id": "rss-10-7073f2bce7e2",
     "category": "world",
     "importance": 6,
     "sourcesCount": 1,
-    "titleZh": "Mary Peltola flips Alaska's Senate seat. And, Nvidia won't reinstate Jensen Huang",
-    "titleEn": "Mary Peltola flips Alaska's Senate seat. And, Nvidia won't reinstate Jensen Huang",
-    "summaryZh": "Former Democratic Rep. Mary Peltola has won one of the U.S.' most watched Senate races. And, Nvidia's board says it doesn't plan to reinstate former CEO Jensen Huang despite pressu",
-    "summaryEn": "Former Democratic Rep. Mary Peltola has won one of the U.S.' most watched Senate races. And, Nvidia's board says it doesn't plan to reinstate former CEO Jensen Huang despite pressure from his allies.",
+    "titleZh": "Trump, Xi and Putin meet as global alliances hang in the balance",
+    "titleEn": "Trump, Xi and Putin meet as global alliances hang in the balance",
+    "summaryZh": "President Trump, China's Xi Jinping and Russia's Vladimir Putin have gathered in Shenzhen, China, for a historic trilateral meeting, with Ukraine, Iran and nuclear disarmament on t",
+    "summaryEn": "President Trump, China's Xi Jinping and Russia's Vladimir Putin have gathered in Shenzhen, China, for a historic trilateral meeting, with Ukraine, Iran and nuclear disarmament on the agenda.",
     "detailZh": "来源：NPR World。这是基于 RSS 摘要生成的待加工条目。接入大模型后，系统会进一步完成中文改写、事实核对、背景补充和多源合并。",
     "detailEn": "Source: NPR World. This is an RSS-based draft. After an LLM is configured, the pipeline will rewrite, fact-check, enrich and merge reports about the same event.",
     "tags": [
@@ -143,74 +206,53 @@
       "NPR World"
     ],
     "sourceUrls": [
-      "https://www.npr.org/2026/11/18/g-s1-154145/up-first-newsletter-mary-peltola-alaska-trump-asia-nvidia-tech-issues-ai"
+      "https://www.npr.org/2026/11/18/nx-s1-6040432/trump-xi-and-putin-shenzhen-china-russia-usa"
     ]
   },
   {
-    "id": "rss-8-72c366e7a734",
+    "id": "rss-11-f134fe4f942f",
     "category": "world",
     "importance": 6,
     "sourcesCount": 1,
-    "titleZh": "Trump to meet with Russia's Putin and China's Xi for historic joint meeting",
-    "titleEn": "Trump to meet with Russia's Putin and China's Xi for historic joint meeting",
-    "summaryZh": "President Trump will meet with Russian President Vladimir Putin and Chinese President Xi on Thursday for a historic three-way meeting.",
-    "summaryEn": "President Trump will meet with Russian President Vladimir Putin and Chinese President Xi on Thursday for a historic three-way meeting.",
-    "detailZh": "来源：NPR World。这是基于 RSS 摘要生成的待加工条目。接入大模型后，系统会进一步完成中文改写、事实核对、背景补充和多源合并。",
-    "detailEn": "Source: NPR World. This is an RSS-based draft. After an LLM is configured, the pipeline will rewrite, fact-check, enrich and merge reports about the same event.",
+    "titleZh": "Race to replant five South African baobabs after export blocked",
+    "titleEn": "Race to replant five South African baobabs after export blocked",
+    "summaryZh": "The trees, intended for an unnamed buyer in Georgia, were reportedly dug up without the necessary permits Environmentalists in South Africa are racing to replant five centuries-old",
+    "summaryEn": "The trees, intended for an unnamed buyer in Georgia, were reportedly dug up without the necessary permits Environmentalists in South Africa are racing to replant five centuries-old baobabs after the 20-tonne trees were dug up by an exporter, who tried to ship ",
+    "detailZh": "来源：The Guardian。这是基于 RSS 摘要生成的待加工条目。接入大模型后，系统会进一步完成中文改写、事实核对、背景补充和多源合并。",
+    "detailEn": "Source: The Guardian. This is an RSS-based draft. After an LLM is configured, the pipeline will rewrite, fact-check, enrich and merge reports about the same event.",
     "tags": [
       "国际时政"
     ],
     "sources": [
-      "NPR World"
+      "The Guardian"
     ],
     "sourceUrls": [
-      "https://www.npr.org/2026/11/18/nx-s1-6027645/trump-to-meet-with-russias-putin-and-chinas-xi-for-historic-joint-meeting"
+      "https://www.theguardian.com/environment/2026/nov/19/baobab-five-trees-south-africa-dug-up-export-blocked-georgia-aoe"
     ]
   },
   {
-    "id": "rss-9-07fc8996b694",
+    "id": "rss-12-0f144ace9611",
     "category": "world",
     "importance": 6,
     "sourcesCount": 1,
-    "titleZh": "Former U.S. ambassador on Trump's joint summit with leaders of China and Russia",
-    "titleEn": "Former U.S. ambassador on Trump's joint summit with leaders of China and Russia",
-    "summaryZh": "NPR's Leila Fadel speaks to Nicholas Burns, former U.S. ambassador to China and NATO, about President Trump's planned meeting with the leaders of China and Russia.",
-    "summaryEn": "NPR's Leila Fadel speaks to Nicholas Burns, former U.S. ambassador to China and NATO, about President Trump's planned meeting with the leaders of China and Russia.",
-    "detailZh": "来源：NPR World。这是基于 RSS 摘要生成的待加工条目。接入大模型后，系统会进一步完成中文改写、事实核对、背景补充和多源合并。",
-    "detailEn": "Source: NPR World. This is an RSS-based draft. After an LLM is configured, the pipeline will rewrite, fact-check, enrich and merge reports about the same event.",
+    "titleZh": "One in four women globally unable to refuse sex within marriage, says UN",
+    "titleEn": "One in four women globally unable to refuse sex within marriage, says UN",
+    "summaryZh": "Almost half of women in west and central Africa cannot withhold consent, with girls worst affected, UNFPA finds One in four women around the world have no power of consent if their",
+    "summaryEn": "Almost half of women in west and central Africa cannot withhold consent, with girls worst affected, UNFPA finds One in four women around the world have no power of consent if their husband or partner demands sex, according to a UN report. In west and central A",
+    "detailZh": "来源：The Guardian。这是基于 RSS 摘要生成的待加工条目。接入大模型后，系统会进一步完成中文改写、事实核对、背景补充和多源合并。",
+    "detailEn": "Source: The Guardian. This is an RSS-based draft. After an LLM is configured, the pipeline will rewrite, fact-check, enrich and merge reports about the same event.",
     "tags": [
       "国际时政"
     ],
     "sources": [
-      "NPR World"
+      "The Guardian"
     ],
     "sourceUrls": [
-      "https://www.npr.org/2026/11/18/nx-s1-6044067/former-u-s-ambassador-on-trumps-joint-summit-with-leaders-of-china-and-russia"
+      "https://www.theguardian.com/global-development/2026/nov/19/women-girls-rights-rape-sexual-violence-africa-marriage-unfpa"
     ]
   },
   {
-    "id": "rss-10-cc65b3599b80",
-    "category": "world",
-    "importance": 6,
-    "sourcesCount": 1,
-    "titleZh": "Greetings from a Berlin square, where an artist's statue watches over children at play",
-    "titleEn": "Greetings from a Berlin square, where an artist's statue watches over children at play",
-    "summaryZh": "Children frolic around the ever-watchful and calm Käthe Kollwitz cast in bronze, in a square named after the German artist, whose work often depicted children in the wake of World ",
-    "summaryEn": "Children frolic around the ever-watchful and calm Käthe Kollwitz cast in bronze, in a square named after the German artist, whose work often depicted children in the wake of World War I.",
-    "detailZh": "来源：NPR World。这是基于 RSS 摘要生成的待加工条目。接入大模型后，系统会进一步完成中文改写、事实核对、背景补充和多源合并。",
-    "detailEn": "Source: NPR World. This is an RSS-based draft. After an LLM is configured, the pipeline will rewrite, fact-check, enrich and merge reports about the same event.",
-    "tags": [
-      "国际时政"
-    ],
-    "sources": [
-      "NPR World"
-    ],
-    "sourceUrls": [
-      "https://www.npr.org/2026/11/18/nx-s1-6043021/berlin-kollwitzplatz-statue"
-    ]
-  },
-  {
-    "id": "rss-11-a9cefeb13011",
+    "id": "rss-13-a9cefeb13011",
     "category": "world",
     "importance": 6,
     "sourcesCount": 1,
@@ -231,7 +273,7 @@
     ]
   },
   {
-    "id": "rss-12-253d55efc987",
+    "id": "rss-14-253d55efc987",
     "category": "world",
     "importance": 6,
     "sourcesCount": 1,
@@ -252,7 +294,7 @@
     ]
   },
   {
-    "id": "rss-13-115d73dd0391",
+    "id": "rss-15-115d73dd0391",
     "category": "world",
     "importance": 6,
     "sourcesCount": 1,
@@ -273,49 +315,28 @@
     ]
   },
   {
-    "id": "rss-14-82e8729347a0",
-    "category": "tech",
+    "id": "rss-16-85e518edc048",
+    "category": "economy",
     "importance": 6,
     "sourcesCount": 1,
-    "titleZh": "US basketball player arrested with 75lb of marijuana at Nigerian airport, say authorities",
-    "titleEn": "US basketball player arrested with 75lb of marijuana at Nigerian airport, say authorities",
-    "summaryZh": "Suspect named as Greene Da’monte Khiree Drug smuggling carries life sentence in Nigeria An American basketball player has been arrested in Nigeria for allegedly attempting to smugg",
-    "summaryEn": "Suspect named as Greene Da’monte Khiree Drug smuggling carries life sentence in Nigeria An American basketball player has been arrested in Nigeria for allegedly attempting to smuggle 33.95kg (75lb) of marijuana into the country. Nigeria’s National Drug Law Enf",
-    "detailZh": "来源：The Guardian。这是基于 RSS 摘要生成的待加工条目。接入大模型后，系统会进一步完成中文改写、事实核对、背景补充和多源合并。",
-    "detailEn": "Source: The Guardian. This is an RSS-based draft. After an LLM is configured, the pipeline will rewrite, fact-check, enrich and merge reports about the same event.",
+    "titleZh": "Japan core inflation soars to highest this year as energy subsidy expiry pushes up consumer prices",
+    "titleEn": "Japan core inflation soars to highest this year as energy subsidy expiry pushes up consumer prices",
+    "summaryZh": "The core inflation figure — which strips out prices of food — was lower than the 2.3% expected by Reuters-polled economists.",
+    "summaryEn": "The core inflation figure — which strips out prices of food — was lower than the 2.3% expected by Reuters-polled economists.",
+    "detailZh": "来源：CNBC Economy。这是基于 RSS 摘要生成的待加工条目。接入大模型后，系统会进一步完成中文改写、事实核对、背景补充和多源合并。",
+    "detailEn": "Source: CNBC Economy. This is an RSS-based draft. After an LLM is configured, the pipeline will rewrite, fact-check, enrich and merge reports about the same event.",
     "tags": [
-      "科技"
+      "经济财经"
     ],
     "sources": [
-      "The Guardian"
+      "CNBC Economy"
     ],
     "sourceUrls": [
-      "https://www.theguardian.com/sport/2026/nov/16/us-basketball-player-arrested-with-75lb-of-marijuana-at-nigerian-airport-say-authorities"
+      "https://www.cnbc.com/2026/11/20/japan-inflation-cpi-october.html"
     ]
   },
   {
-    "id": "rss-15-866c571fc6c7",
-    "category": "world",
-    "importance": 6,
-    "sourcesCount": 1,
-    "titleZh": "Relocation of Cape Town baboons to sanctuary ignites heated protests",
-    "titleEn": "Relocation of Cape Town baboons to sanctuary ignites heated protests",
-    "summaryZh": "Demonstrators tried to block vehicle carrying the baboons, whose capture authorities say is needed to protect both primate and human The relocation of a troop of baboons in Cape To",
-    "summaryEn": "Demonstrators tried to block vehicle carrying the baboons, whose capture authorities say is needed to protect both primate and human The relocation of a troop of baboons in Cape Town to a wildlife sanctuary has triggered furious protests by local people oppose",
-    "detailZh": "来源：The Guardian。这是基于 RSS 摘要生成的待加工条目。接入大模型后，系统会进一步完成中文改写、事实核对、背景补充和多源合并。",
-    "detailEn": "Source: The Guardian. This is an RSS-based draft. After an LLM is configured, the pipeline will rewrite, fact-check, enrich and merge reports about the same event.",
-    "tags": [
-      "国际时政"
-    ],
-    "sources": [
-      "The Guardian"
-    ],
-    "sourceUrls": [
-      "https://www.theguardian.com/world/2026/nov/16/cape-town-baboons-relocation-protests"
-    ]
-  },
-  {
-    "id": "rss-16-dc8e46ad8c79",
+    "id": "rss-17-dc8e46ad8c79",
     "category": "economy",
     "importance": 6,
     "sourcesCount": 1,
@@ -336,7 +357,7 @@
     ]
   },
   {
-    "id": "rss-17-844887fbf472",
+    "id": "rss-18-844887fbf472",
     "category": "economy",
     "importance": 6,
     "sourcesCount": 1,
@@ -357,7 +378,7 @@
     ]
   },
   {
-    "id": "rss-18-66d74eefcb23",
+    "id": "rss-19-66d74eefcb23",
     "category": "tech",
     "importance": 6,
     "sourcesCount": 1,
@@ -378,7 +399,7 @@
     ]
   },
   {
-    "id": "rss-19-ba8bd9e96fcb",
+    "id": "rss-20-ba8bd9e96fcb",
     "category": "economy",
     "importance": 6,
     "sourcesCount": 1,
@@ -399,35 +420,14 @@
     ]
   },
   {
-    "id": "rss-20-c1e5edac8890",
+    "id": "rss-21-8f4728ffc5b9",
     "category": "tech",
     "importance": 6,
     "sourcesCount": 1,
-    "titleZh": "Analysis: The Fed's chairman sees an AI revolution coming. Now he has to figure out what it means",
-    "titleEn": "Analysis: The Fed's chairman sees an AI revolution coming. Now he has to figure out what it means",
-    "summaryZh": "Kevin Warsh sees AI at a turning point. He faces tough questions on jobs and interest rates.",
-    "summaryEn": "Kevin Warsh sees AI at a turning point. He faces tough questions on jobs and interest rates.",
-    "detailZh": "来源：CNBC Economy。这是基于 RSS 摘要生成的待加工条目。接入大模型后，系统会进一步完成中文改写、事实核对、背景补充和多源合并。",
-    "detailEn": "Source: CNBC Economy. This is an RSS-based draft. After an LLM is configured, the pipeline will rewrite, fact-check, enrich and merge reports about the same event.",
-    "tags": [
-      "科技"
-    ],
-    "sources": [
-      "CNBC Economy"
-    ],
-    "sourceUrls": [
-      "https://www.cnbc.com/2026/11/16/kevin-warsh-fed-ai-jobs-productivity-interest-rateshtml.html"
-    ]
-  },
-  {
-    "id": "rss-21-a8022fb06095",
-    "category": "tech",
-    "importance": 6,
-    "sourcesCount": 1,
-    "titleZh": "Microsoft CEO Satya Nadella explains why he asked 60K employees to quit",
-    "titleEn": "Microsoft CEO Satya Nadella explains why he asked 60K employees to quit",
-    "summaryZh": "Microsoft CEO Satya Nadella explained why he offered buyouts to 60,000 of his employees in October, essentially urging them to voluntarily quit, rather than reducing the workforce ",
-    "summaryEn": "Microsoft CEO Satya Nadella explained why he offered buyouts to 60,000 of his employees in October, essentially urging them to voluntarily quit, rather than reducing the workforce via another massive layoff. The short answer is AI, but not in the way you might",
+    "titleZh": "Apple may be developing its own AI agent that runs your Mac",
+    "titleEn": "Apple may be developing its own AI agent that runs your Mac",
+    "summaryZh": "The iPhone maker appears to be building agents that can compete with the likes of Meta Muse, Instinct, Claude, and OpenAI Dots.",
+    "summaryEn": "The iPhone maker appears to be building agents that can compete with the likes of Meta Muse, Instinct, Claude, and OpenAI Dots.",
     "detailZh": "来源：TechCrunch。这是基于 RSS 摘要生成的待加工条目。接入大模型后，系统会进一步完成中文改写、事实核对、背景补充和多源合并。",
     "detailEn": "Source: TechCrunch. This is an RSS-based draft. After an LLM is configured, the pipeline will rewrite, fact-check, enrich and merge reports about the same event.",
     "tags": [
@@ -437,18 +437,18 @@
       "TechCrunch"
     ],
     "sourceUrls": [
-      "https://techcrunch.com/2026/11/18/microsoft-ceo-satya-nadella-explains-why-he-asked-60k-employees-to-quit/"
+      "https://techcrunch.com/2026/11/19/apple-may-be-developing-its-own-ai-agent-that-runs-your-mac/"
     ]
   },
   {
-    "id": "rss-22-ede0be0f4a86",
+    "id": "rss-22-f1dd0bea0b97",
     "category": "tech",
     "importance": 6,
     "sourcesCount": 1,
-    "titleZh": "Elon Musk says: ‘I’m not MAGA’",
-    "titleEn": "Elon Musk says: ‘I’m not MAGA’",
-    "summaryZh": "During his appearance Wednesday at The New York Times' DealBook Summit, Elon Musk said that he wasn't sure what the term \"MAGA\" meant and also commented that he felt \"pretty foolis",
-    "summaryEn": "During his appearance Wednesday at The New York Times' DealBook Summit, Elon Musk said that he wasn't sure what the term \"MAGA\" meant and also commented that he felt \"pretty foolish\" for having spent so much money during the U.S. midterms.",
+    "titleZh": "Anthropic’s 7 founders cashed out nearly $2B in record-breaking IPO",
+    "titleEn": "Anthropic’s 7 founders cashed out nearly $2B in record-breaking IPO",
+    "summaryZh": "At the upgraded $83/share IPO price, Anthropic's seven founders each pocketed $280 million, while the company nabbed nearly $105 billion.",
+    "summaryEn": "At the upgraded $83/share IPO price, Anthropic's seven founders each pocketed $280 million, while the company nabbed nearly $105 billion.",
     "detailZh": "来源：TechCrunch。这是基于 RSS 摘要生成的待加工条目。接入大模型后，系统会进一步完成中文改写、事实核对、背景补充和多源合并。",
     "detailEn": "Source: TechCrunch. This is an RSS-based draft. After an LLM is configured, the pipeline will rewrite, fact-check, enrich and merge reports about the same event.",
     "tags": [
@@ -458,18 +458,18 @@
       "TechCrunch"
     ],
     "sourceUrls": [
-      "https://techcrunch.com/2026/11/18/elon-musk-says-im-not-maga/"
+      "https://techcrunch.com/2026/11/19/anthropics-7-founders-cashed-out-nearly-2b-in-record-breaking-ipo/"
     ]
   },
   {
-    "id": "rss-23-44255eb49d7c",
+    "id": "rss-23-300c7c788356",
     "category": "tech",
     "importance": 6,
     "sourcesCount": 1,
-    "titleZh": "Amidst fears of AI cyberattacks, Satya Nadella says lots of critical infrastructure is ‘unpatchable’",
-    "titleEn": "Amidst fears of AI cyberattacks, Satya Nadella says lots of critical infrastructure is ‘unpatchable’",
-    "summaryZh": "The Microsoft CEO downplayed the recent Outlook outage while noting that AI was causing both opportunities and new challenges for securing much of the connected world.",
-    "summaryEn": "The Microsoft CEO downplayed the recent Outlook outage while noting that AI was causing both opportunities and new challenges for securing much of the connected world.",
+    "titleZh": "Anthropic rival says companies can (mostly) skip the pricey models",
+    "titleEn": "Anthropic rival says companies can (mostly) skip the pricey models",
+    "summaryZh": "On the day Anthropic went public, Fireworks AI’s co-founder made the case for open source models as a cheaper alternative, and addressed the breaches that have cost the company som",
+    "summaryEn": "On the day Anthropic went public, Fireworks AI’s co-founder made the case for open source models as a cheaper alternative, and addressed the breaches that have cost the company some customers’ trust.",
     "detailZh": "来源：TechCrunch。这是基于 RSS 摘要生成的待加工条目。接入大模型后，系统会进一步完成中文改写、事实核对、背景补充和多源合并。",
     "detailEn": "Source: TechCrunch. This is an RSS-based draft. After an LLM is configured, the pipeline will rewrite, fact-check, enrich and merge reports about the same event.",
     "tags": [
@@ -479,18 +479,18 @@
       "TechCrunch"
     ],
     "sourceUrls": [
-      "https://techcrunch.com/2026/11/18/amidst-fears-of-ai-cyberattacks-satya-nadella-says-lots-of-critical-infrastructure-is-unpatchable/"
+      "https://techcrunch.com/2026/11/19/anthropic-rival-says-companies-can-mostly-skip-the-pricey-models/"
     ]
   },
   {
-    "id": "rss-24-ae30c6152bf9",
+    "id": "rss-24-0f5c2ebdca5a",
     "category": "tech",
     "importance": 6,
     "sourcesCount": 1,
-    "titleZh": "Elon Musk says ousting Jensen Huang is like ‘kicking Michael Jordan off your team’",
-    "titleEn": "Elon Musk says ousting Jensen Huang is like ‘kicking Michael Jordan off your team’",
-    "summaryZh": "“I don’t think [Huang is] disloyal to the United States,\" Musk said.",
-    "summaryEn": "“I don’t think [Huang is] disloyal to the United States,\" Musk said.",
+    "titleZh": "Elon Musk says SpaceX has a plan to eliminate cell phone dead zones",
+    "titleEn": "Elon Musk says SpaceX has a plan to eliminate cell phone dead zones",
+    "summaryZh": "SpaceX CEO Elon Musk said the company has completed the design of a miniature rooftop cell tower that could provide better coverage to mobile phones and eliminate dead zones.",
+    "summaryEn": "SpaceX CEO Elon Musk said the company has completed the design of a miniature rooftop cell tower that could provide better coverage to mobile phones and eliminate dead zones.",
     "detailZh": "来源：TechCrunch。这是基于 RSS 摘要生成的待加工条目。接入大模型后，系统会进一步完成中文改写、事实核对、背景补充和多源合并。",
     "detailEn": "Source: TechCrunch. This is an RSS-based draft. After an LLM is configured, the pipeline will rewrite, fact-check, enrich and merge reports about the same event.",
     "tags": [
@@ -500,18 +500,18 @@
       "TechCrunch"
     ],
     "sourceUrls": [
-      "https://techcrunch.com/2026/11/18/elon-musk-says-ousting-jensen-huang-is-like-kicking-michael-jordan-off-your-team/"
+      "https://techcrunch.com/2026/11/19/elon-musk-says-spacex-has-a-plan-to-eliminate-cell-phone-dead-zones/"
     ]
   },
   {
-    "id": "rss-25-ebee197c44b5",
+    "id": "rss-25-5096944ef06e",
     "category": "tech",
     "importance": 6,
     "sourcesCount": 1,
-    "titleZh": "Microsoft CEO Satya Nadella remains confident in Nvidia after Huang’s exit",
-    "titleEn": "Microsoft CEO Satya Nadella remains confident in Nvidia after Huang’s exit",
-    "summaryZh": "Microsoft CEO Satya Nadella expressed confidence in Jensen Huang's successor Colette Kress, who is serving as Nvidia's interim CEO.",
-    "summaryEn": "Microsoft CEO Satya Nadella expressed confidence in Jensen Huang's successor Colette Kress, who is serving as Nvidia's interim CEO.",
+    "titleZh": "Want to see your live AI usage on your Mac’s icons? This clever new app lets you",
+    "titleEn": "Want to see your live AI usage on your Mac’s icons? This clever new app lets you",
+    "summaryZh": "IconSwapper brings your Mac's app icons to life with real-time data, animations, and playful customizations that make your desktop more fun.",
+    "summaryEn": "IconSwapper brings your Mac's app icons to life with real-time data, animations, and playful customizations that make your desktop more fun.",
     "detailZh": "来源：TechCrunch。这是基于 RSS 摘要生成的待加工条目。接入大模型后，系统会进一步完成中文改写、事实核对、背景补充和多源合并。",
     "detailEn": "Source: TechCrunch. This is an RSS-based draft. After an LLM is configured, the pipeline will rewrite, fact-check, enrich and merge reports about the same event.",
     "tags": [
@@ -521,18 +521,18 @@
       "TechCrunch"
     ],
     "sourceUrls": [
-      "https://techcrunch.com/2026/11/18/microsoft-ceo-satya-nadella-remains-confident-in-nvidia-after-huangs-exit/"
+      "https://techcrunch.com/2026/11/19/want-to-see-your-live-ai-usage-on-your-macs-icons-this-clever-new-app-lets-you/"
     ]
   },
   {
-    "id": "rss-26-02fc44159e71",
+    "id": "rss-26-7c82c5194b19",
     "category": "science",
     "importance": 6,
     "sourcesCount": 1,
-    "titleZh": "Conference networking made simple, in three short videos",
-    "titleEn": "Conference networking made simple, in three short videos",
-    "summaryZh": "Nature, Published online: 18 November 2026; doi:10.1038/d41586-026-03678-9 Working the room is a skill you can practise and prepare for. Here’s how.",
-    "summaryEn": "Nature, Published online: 18 November 2026; doi:10.1038/d41586-026-03678-9 Working the room is a skill you can practise and prepare for. Here’s how.",
+    "titleZh": "Retraction Note: Detection of anisotropic cosmic structures on a gigaparsec scale",
+    "titleEn": "Retraction Note: Detection of anisotropic cosmic structures on a gigaparsec scale",
+    "summaryZh": "Nature, Published online: 19 November 2026; doi:10.1038/s41586-026-11388-5 Retraction Note: Detection of anisotropic cosmic structures on a gigaparsec scale",
+    "summaryEn": "Nature, Published online: 19 November 2026; doi:10.1038/s41586-026-11388-5 Retraction Note: Detection of anisotropic cosmic structures on a gigaparsec scale",
     "detailZh": "来源：Nature News。这是基于 RSS 摘要生成的待加工条目。接入大模型后，系统会进一步完成中文改写、事实核对、背景补充和多源合并。",
     "detailEn": "Source: Nature News. This is an RSS-based draft. After an LLM is configured, the pipeline will rewrite, fact-check, enrich and merge reports about the same event.",
     "tags": [
@@ -542,18 +542,18 @@
       "Nature News"
     ],
     "sourceUrls": [
-      "https://www.nature.com/articles/d41586-026-03678-9"
+      "https://www.nature.com/articles/s41586-026-11388-5"
     ]
   },
   {
-    "id": "rss-27-752147186482",
+    "id": "rss-27-37773501b503",
     "category": "science",
     "importance": 6,
     "sourcesCount": 1,
-    "titleZh": "First observation of a giant star swallowing its neighbour",
-    "titleEn": "First observation of a giant star swallowing its neighbour",
-    "summaryZh": "Nature, Published online: 18 November 2026; doi:10.1038/d41586-026-03784-8 Finding provides new insights into what happens within stellar mergers — plus, using quantum physics to s",
-    "summaryEn": "Nature, Published online: 18 November 2026; doi:10.1038/d41586-026-03784-8 Finding provides new insights into what happens within stellar mergers — plus, using quantum physics to securely pinpoint someone’s location.",
+    "titleZh": "Calcium catalysed nucleophilic fluorination",
+    "titleEn": "Calcium catalysed nucleophilic fluorination",
+    "summaryZh": "Nature, Published online: 19 November 2026; doi:10.1038/s41586-026-11445-z Calcium catalysed nucleophilic fluorination",
+    "summaryEn": "Nature, Published online: 19 November 2026; doi:10.1038/s41586-026-11445-z Calcium catalysed nucleophilic fluorination",
     "detailZh": "来源：Nature News。这是基于 RSS 摘要生成的待加工条目。接入大模型后，系统会进一步完成中文改写、事实核对、背景补充和多源合并。",
     "detailEn": "Source: Nature News. This is an RSS-based draft. After an LLM is configured, the pipeline will rewrite, fact-check, enrich and merge reports about the same event.",
     "tags": [
@@ -563,81 +563,144 @@
       "Nature News"
     ],
     "sourceUrls": [
-      "https://www.nature.com/articles/d41586-026-03784-8"
+      "https://www.nature.com/articles/s41586-026-11445-z"
     ]
   },
   {
-    "id": "rss-28-1f8cd72178bd",
+    "id": "rss-28-2a2f5abed071",
+    "category": "science",
+    "importance": 6,
+    "sourcesCount": 1,
+    "titleZh": "More tropical cyclones hit peak fury at the worst possible time",
+    "titleEn": "More tropical cyclones hit peak fury at the worst possible time",
+    "summaryZh": "Nature, Published online: 19 November 2026; doi:10.1038/d41586-026-03748-y Climate change is creating conditions that pump up the intensity of hurricanes and typhoons just as the s",
+    "summaryEn": "Nature, Published online: 19 November 2026; doi:10.1038/d41586-026-03748-y Climate change is creating conditions that pump up the intensity of hurricanes and typhoons just as the storms reach the coast.",
+    "detailZh": "来源：Nature News。这是基于 RSS 摘要生成的待加工条目。接入大模型后，系统会进一步完成中文改写、事实核对、背景补充和多源合并。",
+    "detailEn": "Source: Nature News. This is an RSS-based draft. After an LLM is configured, the pipeline will rewrite, fact-check, enrich and merge reports about the same event.",
+    "tags": [
+      "科学健康"
+    ],
+    "sources": [
+      "Nature News"
+    ],
+    "sourceUrls": [
+      "https://www.nature.com/articles/d41586-026-03748-y"
+    ]
+  },
+  {
+    "id": "rss-29-b6898e08f8da",
+    "category": "science",
+    "importance": 6,
+    "sourcesCount": 1,
+    "titleZh": "People entering old age now have better memory than their parents did",
+    "titleEn": "People entering old age now have better memory than their parents did",
+    "summaryZh": "Nature, Published online: 19 November 2026; doi:10.1038/d41586-026-03783-9 Older people today maintain memory function for longer than previous generations did, according to a stud",
+    "summaryEn": "Nature, Published online: 19 November 2026; doi:10.1038/d41586-026-03783-9 Older people today maintain memory function for longer than previous generations did, according to a study of 219,000 adults.",
+    "detailZh": "来源：Nature News。这是基于 RSS 摘要生成的待加工条目。接入大模型后，系统会进一步完成中文改写、事实核对、背景补充和多源合并。",
+    "detailEn": "Source: Nature News. This is an RSS-based draft. After an LLM is configured, the pipeline will rewrite, fact-check, enrich and merge reports about the same event.",
+    "tags": [
+      "科学健康"
+    ],
+    "sources": [
+      "Nature News"
+    ],
+    "sourceUrls": [
+      "https://www.nature.com/articles/d41586-026-03783-9"
+    ]
+  },
+  {
+    "id": "rss-30-c60921ab1c6b",
+    "category": "science",
+    "importance": 6,
+    "sourcesCount": 1,
+    "titleZh": "University students are biggest spreaders of COVID",
+    "titleEn": "University students are biggest spreaders of COVID",
+    "summaryZh": "Nature, Published online: 19 November 2026; doi:10.1038/d41586-026-03746-0 Undergraduates were the first group to spread genetic variants of SARS-CoV-2 during the pandemic, mega-an",
+    "summaryEn": "Nature, Published online: 19 November 2026; doi:10.1038/d41586-026-03746-0 Undergraduates were the first group to spread genetic variants of SARS-CoV-2 during the pandemic, mega-analysis finds.",
+    "detailZh": "来源：Nature News。这是基于 RSS 摘要生成的待加工条目。接入大模型后，系统会进一步完成中文改写、事实核对、背景补充和多源合并。",
+    "detailEn": "Source: Nature News. This is an RSS-based draft. After an LLM is configured, the pipeline will rewrite, fact-check, enrich and merge reports about the same event.",
+    "tags": [
+      "科学健康"
+    ],
+    "sources": [
+      "Nature News"
+    ],
+    "sourceUrls": [
+      "https://www.nature.com/articles/d41586-026-03746-0"
+    ]
+  },
+  {
+    "id": "rss-31-9e020bee1762",
     "category": "tech",
     "importance": 6,
     "sourcesCount": 1,
-    "titleZh": "How to make AI data centres more sustainable",
-    "titleEn": "How to make AI data centres more sustainable",
-    "summaryZh": "Nature, Published online: 18 November 2026; doi:10.1038/d41586-026-03708-6 Tech companies and governments face opposition over data centres’ expansion, in part because of their hug",
-    "summaryEn": "Nature, Published online: 18 November 2026; doi:10.1038/d41586-026-03708-6 Tech companies and governments face opposition over data centres’ expansion, in part because of their huge power requirements. They must not be powered with fossil fuels.",
-    "detailZh": "来源：Nature News。这是基于 RSS 摘要生成的待加工条目。接入大模型后，系统会进一步完成中文改写、事实核对、背景补充和多源合并。",
-    "detailEn": "Source: Nature News. This is an RSS-based draft. After an LLM is configured, the pipeline will rewrite, fact-check, enrich and merge reports about the same event.",
+    "titleZh": "Meta rethinks 2030 climate goals as AI data centres drive emissions up",
+    "titleEn": "Meta rethinks 2030 climate goals as AI data centres drive emissions up",
+    "summaryZh": "Rising data centre energy needs force Meta to review sustainability targets amid growing corporate climate retreat.",
+    "summaryEn": "Rising data centre energy needs force Meta to review sustainability targets amid growing corporate climate retreat.",
+    "detailZh": "来源：Al Jazeera。这是基于 RSS 摘要生成的待加工条目。接入大模型后，系统会进一步完成中文改写、事实核对、背景补充和多源合并。",
+    "detailEn": "Source: Al Jazeera. This is an RSS-based draft. After an LLM is configured, the pipeline will rewrite, fact-check, enrich and merge reports about the same event.",
     "tags": [
       "科技"
     ],
     "sources": [
-      "Nature News"
+      "Al Jazeera"
     ],
     "sourceUrls": [
-      "https://www.nature.com/articles/d41586-026-03708-6"
+      "https://www.aljazeera.com/news/2026/11/20/meta-rethinks-2030-climate-goals-as-ai-data-centres-drive-emissions-up?traffic_source=rss"
     ]
   },
   {
-    "id": "rss-29-c75828d75c17",
-    "category": "science",
+    "id": "rss-32-82ff5daca275",
+    "category": "security",
     "importance": 6,
     "sourcesCount": 1,
-    "titleZh": "Microbiome home tests are taking off. Can they be trusted?",
-    "titleEn": "Microbiome home tests are taking off. Can they be trusted?",
-    "summaryZh": "Nature, Published online: 18 November 2026; doi:10.1038/d41586-026-03710-y Our reporter mailed off her poo to find out what two companies say about her microbiome. Here’s what she ",
-    "summaryEn": "Nature, Published online: 18 November 2026; doi:10.1038/d41586-026-03710-y Our reporter mailed off her poo to find out what two companies say about her microbiome. Here’s what she found.",
-    "detailZh": "来源：Nature News。这是基于 RSS 摘要生成的待加工条目。接入大模型后，系统会进一步完成中文改写、事实核对、背景补充和多源合并。",
-    "detailEn": "Source: Nature News. This is an RSS-based draft. After an LLM is configured, the pipeline will rewrite, fact-check, enrich and merge reports about the same event.",
+    "titleZh": "Democrats say law firm gave $11.8m in free services to Trump administration",
+    "titleEn": "Democrats say law firm gave $11.8m in free services to Trump administration",
+    "summaryZh": "Three top Democrats called Trump's dealings with law firms a case of 'official coercion' and pledged investigations.",
+    "summaryEn": "Three top Democrats called Trump's dealings with law firms a case of 'official coercion' and pledged investigations.",
+    "detailZh": "来源：Al Jazeera。这是基于 RSS 摘要生成的待加工条目。接入大模型后，系统会进一步完成中文改写、事实核对、背景补充和多源合并。",
+    "detailEn": "Source: Al Jazeera. This is an RSS-based draft. After an LLM is configured, the pipeline will rewrite, fact-check, enrich and merge reports about the same event.",
     "tags": [
-      "科学健康"
+      "冲突与安全"
     ],
     "sources": [
-      "Nature News"
+      "Al Jazeera"
     ],
     "sourceUrls": [
-      "https://www.nature.com/articles/d41586-026-03710-y"
+      "https://www.aljazeera.com/news/2026/11/20/democrats-say-law-firm-gave-11-8m-worth-of-service-to-trump-administration?traffic_source=rss"
     ]
   },
   {
-    "id": "rss-30-a3317e48311e",
-    "category": "science",
+    "id": "rss-33-247f47a4c401",
+    "category": "security",
     "importance": 6,
     "sourcesCount": 1,
-    "titleZh": "Tropical land-use intensification reshapes biodiversity in expected and unexpected ways",
-    "titleEn": "Tropical land-use intensification reshapes biodiversity in expected and unexpected ways",
-    "summaryZh": "Nature, Published online: 18 November 2026; doi:10.1038/d41586-026-03602-1 Global agricultural demand has increased over the past few decades, driving land-use intensification in s",
-    "summaryEn": "Nature, Published online: 18 November 2026; doi:10.1038/d41586-026-03602-1 Global agricultural demand has increased over the past few decades, driving land-use intensification in some of the world’s most biodiverse regions. An assessment of some 40,000 species",
-    "detailZh": "来源：Nature News。这是基于 RSS 摘要生成的待加工条目。接入大模型后，系统会进一步完成中文改写、事实核对、背景补充和多源合并。",
-    "detailEn": "Source: Nature News. This is an RSS-based draft. After an LLM is configured, the pipeline will rewrite, fact-check, enrich and merge reports about the same event.",
+    "titleZh": "‘Completely messed up everything’: Malawi’s fuel crisis causes chaos",
+    "titleEn": "‘Completely messed up everything’: Malawi’s fuel crisis causes chaos",
+    "summaryZh": "Motorists and businesses struggle as shortages disrupt daily life.",
+    "summaryEn": "Motorists and businesses struggle as shortages disrupt daily life.",
+    "detailZh": "来源：Al Jazeera。这是基于 RSS 摘要生成的待加工条目。接入大模型后，系统会进一步完成中文改写、事实核对、背景补充和多源合并。",
+    "detailEn": "Source: Al Jazeera. This is an RSS-based draft. After an LLM is configured, the pipeline will rewrite, fact-check, enrich and merge reports about the same event.",
     "tags": [
-      "科学健康"
+      "冲突与安全"
     ],
     "sources": [
-      "Nature News"
+      "Al Jazeera"
     ],
     "sourceUrls": [
-      "https://www.nature.com/articles/d41586-026-03602-1"
+      "https://www.aljazeera.com/news/2026/11/20/completely-messed-up-everything-malawis-fuel-crisis-causes-chaos?traffic_source=rss"
     ]
   },
   {
-    "id": "rss-31-90d8037f17be",
+    "id": "rss-34-47855d4f2faf",
     "category": "tech",
     "importance": 6,
     "sourcesCount": 1,
-    "titleZh": "ICJ to rule on Rohingya genocide case against Myanmar",
-    "titleEn": "ICJ to rule on Rohingya genocide case against Myanmar",
-    "summaryZh": "The Gambia accuses Myanmar of genocide following a 2017 military crackdown that displaced at least 730,000 Rohingya.",
-    "summaryEn": "The Gambia accuses Myanmar of genocide following a 2017 military crackdown that displaced at least 730,000 Rohingya.",
+    "titleZh": "Haiti police say 34 gang members killed in capital raid",
+    "titleEn": "Haiti police say 34 gang members killed in capital raid",
+    "summaryZh": "Haitian police say at least 34 gang members were killed in an operation in the capital city of Port-au-Prince.",
+    "summaryEn": "Haitian police say at least 34 gang members were killed in an operation in the capital city of Port-au-Prince.",
     "detailZh": "来源：Al Jazeera。这是基于 RSS 摘要生成的待加工条目。接入大模型后，系统会进一步完成中文改写、事实核对、背景补充和多源合并。",
     "detailEn": "Source: Al Jazeera. This is an RSS-based draft. After an LLM is configured, the pipeline will rewrite, fact-check, enrich and merge reports about the same event.",
     "tags": [
@@ -647,18 +710,18 @@
       "Al Jazeera"
     ],
     "sourceUrls": [
-      "https://www.aljazeera.com/news/2026/11/19/icj-to-rule-on-rohingya-genocide-case-against-myanmar?traffic_source=rss"
+      "https://www.aljazeera.com/video/newsfeed/2026/11/20/haiti-police-say-34-gang-members-killed-in-capital-raid?traffic_source=rss"
     ]
   },
   {
-    "id": "rss-32-8fe81af2c81d",
+    "id": "rss-35-214aedaada17",
     "category": "security",
     "importance": 6,
     "sourcesCount": 1,
-    "titleZh": "Hegseth unveils new US-Venezuela military deal",
-    "titleEn": "Hegseth unveils new US-Venezuela military deal",
-    "summaryZh": "Pete Hegseth has unveiled a new military deal with Venezuela in his first visit since the US capture of Nicolas Maduro.",
-    "summaryEn": "Pete Hegseth has unveiled a new military deal with Venezuela in his first visit since the US capture of Nicolas Maduro.",
+    "titleZh": "El Salvador’s Bukele expected to formalise bid for third presidential term",
+    "titleEn": "El Salvador’s Bukele expected to formalise bid for third presidential term",
+    "summaryZh": "The Salvadoran president has won popularity through a crime crackdown that has granted the state enormous power.",
+    "summaryEn": "The Salvadoran president has won popularity through a crime crackdown that has granted the state enormous power.",
     "detailZh": "来源：Al Jazeera。这是基于 RSS 摘要生成的待加工条目。接入大模型后，系统会进一步完成中文改写、事实核对、背景补充和多源合并。",
     "detailEn": "Source: Al Jazeera. This is an RSS-based draft. After an LLM is configured, the pipeline will rewrite, fact-check, enrich and merge reports about the same event.",
     "tags": [
@@ -668,70 +731,7 @@
       "Al Jazeera"
     ],
     "sourceUrls": [
-      "https://www.aljazeera.com/video/newsfeed/2026/11/19/hegseth-unveils-new-us-venezuela-military-deal?traffic_source=rss"
-    ]
-  },
-  {
-    "id": "rss-33-a23a354e9c43",
-    "category": "security",
-    "importance": 6,
-    "sourcesCount": 1,
-    "titleZh": "Why a trio of experts alleges Jeffrey Epstein did not die by suicide",
-    "titleEn": "Why a trio of experts alleges Jeffrey Epstein did not die by suicide",
-    "summaryZh": "A new report alleges that injuries on Epstein's body were overlooked by medical examiners during his 2019 autopsy.",
-    "summaryEn": "A new report alleges that injuries on Epstein's body were overlooked by medical examiners during his 2019 autopsy.",
-    "detailZh": "来源：Al Jazeera。这是基于 RSS 摘要生成的待加工条目。接入大模型后，系统会进一步完成中文改写、事实核对、背景补充和多源合并。",
-    "detailEn": "Source: Al Jazeera. This is an RSS-based draft. After an LLM is configured, the pipeline will rewrite, fact-check, enrich and merge reports about the same event.",
-    "tags": [
-      "冲突与安全"
-    ],
-    "sources": [
-      "Al Jazeera"
-    ],
-    "sourceUrls": [
-      "https://www.aljazeera.com/news/2026/11/19/why-a-trio-of-experts-alleges-jeffrey-epstein-did-not-die-by-suicide?traffic_source=rss"
-    ]
-  },
-  {
-    "id": "rss-34-06181339fac7",
-    "category": "security",
-    "importance": 6,
-    "sourcesCount": 1,
-    "titleZh": "Settler rams into Palestinians at multiple locations in central Israel",
-    "titleEn": "Settler rams into Palestinians at multiple locations in central Israel",
-    "summaryZh": "At least eight Palestinians were injured after a settler driver was caught on camera running them over.",
-    "summaryEn": "At least eight Palestinians were injured after a settler driver was caught on camera running them over.",
-    "detailZh": "来源：Al Jazeera。这是基于 RSS 摘要生成的待加工条目。接入大模型后，系统会进一步完成中文改写、事实核对、背景补充和多源合并。",
-    "detailEn": "Source: Al Jazeera. This is an RSS-based draft. After an LLM is configured, the pipeline will rewrite, fact-check, enrich and merge reports about the same event.",
-    "tags": [
-      "冲突与安全"
-    ],
-    "sources": [
-      "Al Jazeera"
-    ],
-    "sourceUrls": [
-      "https://www.aljazeera.com/video/newsfeed/2026/11/19/settler-rams-into-palestinians-at-multiple-locations-in-central-israel?traffic_source=rss"
-    ]
-  },
-  {
-    "id": "rss-35-a72278ca30f5",
-    "category": "security",
-    "importance": 6,
-    "sourcesCount": 1,
-    "titleZh": "German FA backs France’s Diallo for FIFA presidency",
-    "titleEn": "German FA backs France’s Diallo for FIFA presidency",
-    "summaryZh": "Incumbent Gianni Infantino has resisted repeated calls to resign, citing overwhelming global support.",
-    "summaryEn": "Incumbent Gianni Infantino has resisted repeated calls to resign, citing overwhelming global support.",
-    "detailZh": "来源：Al Jazeera。这是基于 RSS 摘要生成的待加工条目。接入大模型后，系统会进一步完成中文改写、事实核对、背景补充和多源合并。",
-    "detailEn": "Source: Al Jazeera. This is an RSS-based draft. After an LLM is configured, the pipeline will rewrite, fact-check, enrich and merge reports about the same event.",
-    "tags": [
-      "冲突与安全"
-    ],
-    "sources": [
-      "Al Jazeera"
-    ],
-    "sourceUrls": [
-      "https://www.aljazeera.com/news/2026/11/19/german-fa-backs-frances-diallo-for-fifa-presidency?traffic_source=rss"
+      "https://www.aljazeera.com/news/2026/11/20/el-salvadors-bukele-expected-to-formalise-bid-for-third-presidential-term?traffic_source=rss"
     ]
   }
 ]
