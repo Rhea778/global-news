@@ -1,13 +1,13 @@
 [
   {
-    "id": "rss-1-88af422b0866",
+    "id": "rss-1-ca50e2792063",
     "category": "tech",
     "importance": 6,
     "sourcesCount": 1,
-    "titleZh": "Zelensky says Crimean Bridge strikes 'fair response' as he meets UK's Streeting",
-    "titleEn": "Zelensky says Crimean Bridge strikes 'fair response' as he meets UK's Streeting",
-    "summaryZh": "Ukraine's president says Kyiv acted after 109 separate Russian aerial attacks on bridges in Ukraine.",
-    "summaryEn": "Ukraine's president says Kyiv acted after 109 separate Russian aerial attacks on bridges in Ukraine.",
+    "titleZh": "COP31 fails to reach major climate deal as talks expose deep divisions",
+    "titleEn": "COP31 fails to reach major climate deal as talks expose deep divisions",
+    "summaryZh": "Hopes for an agreement on tackling climate change collapsed after a row about mentioning fossil fuels",
+    "summaryEn": "Hopes for an agreement on tackling climate change collapsed after a row about mentioning fossil fuels",
     "detailZh": "来源：BBC News。这是基于 RSS 摘要生成的待加工条目。接入大模型后，系统会进一步完成中文改写、事实核对、背景补充和多源合并。",
     "detailEn": "Source: BBC News. This is an RSS-based draft. After an LLM is configured, the pipeline will rewrite, fact-check, enrich and merge reports about the same event.",
     "tags": [
@@ -17,18 +17,81 @@
       "BBC News"
     ],
     "sourceUrls": [
-      "https://www.bbc.co.uk/news/articles/c6wy0qj7w5zqo?at_medium=RSS&at_campaign=rss"
+      "https://www.bbc.co.uk/news/articles/cqwy06zrd26lo?at_medium=RSS&at_campaign=rss"
     ]
   },
   {
-    "id": "rss-2-86c4e817690b",
+    "id": "rss-2-b5b81b0987c1",
+    "category": "science",
+    "importance": 6,
+    "sourcesCount": 1,
+    "titleZh": "What's next after no deal at COP31 climate talks?",
+    "titleEn": "What's next after no deal at COP31 climate talks?",
+    "summaryZh": "The talks have been the longest-running in the summit's history, with negotiations breaking down two days after they had been due to end.",
+    "summaryEn": "The talks have been the longest-running in the summit's history, with negotiations breaking down two days after they had been due to end.",
+    "detailZh": "来源：BBC News。这是基于 RSS 摘要生成的待加工条目。接入大模型后，系统会进一步完成中文改写、事实核对、背景补充和多源合并。",
+    "detailEn": "Source: BBC News. This is an RSS-based draft. After an LLM is configured, the pipeline will rewrite, fact-check, enrich and merge reports about the same event.",
+    "tags": [
+      "科学健康"
+    ],
+    "sources": [
+      "BBC News"
+    ],
+    "sourceUrls": [
+      "https://www.bbc.co.uk/news/videos/cr1ewge81q4qo?at_medium=RSS&at_campaign=rss"
+    ]
+  },
+  {
+    "id": "rss-3-2b2400015386",
     "category": "security",
     "importance": 6,
     "sourcesCount": 1,
-    "titleZh": "Russia-bound ship attacked in Gulf of Finland",
-    "titleEn": "Russia-bound ship attacked in Gulf of Finland",
-    "summaryZh": "Finnish defence forces say that Ukraine was likely behind the drone attack on the vessel.",
-    "summaryEn": "Finnish defence forces say that Ukraine was likely behind the drone attack on the vessel.",
+    "titleZh": "Explosion on Russian ship at Libya port caused by suspected drone attack, officials say",
+    "titleEn": "Explosion on Russian ship at Libya port caused by suspected drone attack, officials say",
+    "summaryZh": "Libya's eastern government says the ship had stopped for fuel and supplies on its way back to Russia.",
+    "summaryEn": "Libya's eastern government says the ship had stopped for fuel and supplies on its way back to Russia.",
+    "detailZh": "来源：BBC News。这是基于 RSS 摘要生成的待加工条目。接入大模型后，系统会进一步完成中文改写、事实核对、背景补充和多源合并。",
+    "detailEn": "Source: BBC News. This is an RSS-based draft. After an LLM is configured, the pipeline will rewrite, fact-check, enrich and merge reports about the same event.",
+    "tags": [
+      "冲突与安全"
+    ],
+    "sources": [
+      "BBC News"
+    ],
+    "sourceUrls": [
+      "https://www.bbc.co.uk/news/articles/cr894gjz0j0yo?at_medium=RSS&at_campaign=rss"
+    ]
+  },
+  {
+    "id": "rss-4-d636ecf1b50c",
+    "category": "tech",
+    "importance": 6,
+    "sourcesCount": 1,
+    "titleZh": "'Danger seems greater all the time': Ukrainians search for missing after Russian strikes",
+    "titleEn": "'Danger seems greater all the time': Ukrainians search for missing after Russian strikes",
+    "summaryZh": "The BBC's Sarah Rainsford reports from the scene of a collapsed residential building in Ukraine's Kyiv region.",
+    "summaryEn": "The BBC's Sarah Rainsford reports from the scene of a collapsed residential building in Ukraine's Kyiv region.",
+    "detailZh": "来源：BBC News。这是基于 RSS 摘要生成的待加工条目。接入大模型后，系统会进一步完成中文改写、事实核对、背景补充和多源合并。",
+    "detailEn": "Source: BBC News. This is an RSS-based draft. After an LLM is configured, the pipeline will rewrite, fact-check, enrich and merge reports about the same event.",
+    "tags": [
+      "科技"
+    ],
+    "sources": [
+      "BBC News"
+    ],
+    "sourceUrls": [
+      "https://www.bbc.co.uk/news/videos/cre3dvd1k9y1o?at_medium=RSS&at_campaign=rss"
+    ]
+  },
+  {
+    "id": "rss-5-86c4e817690b",
+    "category": "security",
+    "importance": 6,
+    "sourcesCount": 1,
+    "titleZh": "Russia-bound ship towed away after it was attacked in Gulf of Finland",
+    "titleEn": "Russia-bound ship towed away after it was attacked in Gulf of Finland",
+    "summaryZh": "Finnish defence forces say that Ukraine was likely behind the drone strike on Saturday. Kyiv has yet to comment.",
+    "summaryEn": "Finnish defence forces say that Ukraine was likely behind the drone strike on Saturday. Kyiv has yet to comment.",
     "detailZh": "来源：BBC News。这是基于 RSS 摘要生成的待加工条目。接入大模型后，系统会进一步完成中文改写、事实核对、背景补充和多源合并。",
     "detailEn": "Source: BBC News. This is an RSS-based draft. After an LLM is configured, the pipeline will rewrite, fact-check, enrich and merge reports about the same event.",
     "tags": [
@@ -42,70 +105,91 @@
     ]
   },
   {
-    "id": "rss-3-040c95d5f039",
+    "id": "rss-6-4e7af9af598a",
+    "category": "tech",
+    "importance": 6,
+    "sourcesCount": 1,
+    "titleZh": "Ukraine war spilling into NATO territory",
+    "titleEn": "Ukraine war spilling into NATO territory",
+    "summaryZh": "The war between Russia and Ukraine once again creeps onto European territory – from attacks on ships to missiles in Poland and fresh allegations of Russian operations inside Denmar",
+    "summaryEn": "The war between Russia and Ukraine once again creeps onto European territory – from attacks on ships to missiles in Poland and fresh allegations of Russian operations inside Denmark.",
+    "detailZh": "来源：NPR World。这是基于 RSS 摘要生成的待加工条目。接入大模型后，系统会进一步完成中文改写、事实核对、背景补充和多源合并。",
+    "detailEn": "Source: NPR World. This is an RSS-based draft. After an LLM is configured, the pipeline will rewrite, fact-check, enrich and merge reports about the same event.",
+    "tags": [
+      "科技"
+    ],
+    "sources": [
+      "NPR World"
+    ],
+    "sourceUrls": [
+      "https://www.npr.org/2026/11/22/nx-s1-6050236/ukraine-war-spilling-into-nato-territory"
+    ]
+  },
+  {
+    "id": "rss-7-897a7c844452",
+    "category": "world",
+    "importance": 6,
+    "sourcesCount": 1,
+    "titleZh": "Luxury development planned on land some Albanians say is theirs, not Jared Kushner's",
+    "titleEn": "Luxury development planned on land some Albanians say is theirs, not Jared Kushner's",
+    "summaryZh": "A company working for President Trump's son-in-law Jared Kushner purchased 300 acres of Albanian land for more than $130 million in April. But Albanians in the area tell NPR this i",
+    "summaryEn": "A company working for President Trump's son-in-law Jared Kushner purchased 300 acres of Albanian land for more than $130 million in April. But Albanians in the area tell NPR this is not Kushner's land -- it's theirs.",
+    "detailZh": "来源：NPR World。这是基于 RSS 摘要生成的待加工条目。接入大模型后，系统会进一步完成中文改写、事实核对、背景补充和多源合并。",
+    "detailEn": "Source: NPR World. This is an RSS-based draft. After an LLM is configured, the pipeline will rewrite, fact-check, enrich and merge reports about the same event.",
+    "tags": [
+      "国际时政"
+    ],
+    "sources": [
+      "NPR World"
+    ],
+    "sourceUrls": [
+      "https://www.npr.org/2026/11/22/nx-s1-6012022/luxury-development-planned-on-land-some-albanians-say-is-theirs-not-jared-kushners"
+    ]
+  },
+  {
+    "id": "rss-8-6a1969ce9110",
+    "category": "world",
+    "importance": 6,
+    "sourcesCount": 1,
+    "titleZh": "Lebanese villagers return to wrecked homes as the Israeli army pulls back",
+    "titleEn": "Lebanese villagers return to wrecked homes as the Israeli army pulls back",
+    "summaryZh": "In a pilot project in a village in southern Lebanon, Israeli forces have left and the Lebanese army moved it. But villagers who return find their houses wrecked.",
+    "summaryEn": "In a pilot project in a village in southern Lebanon, Israeli forces have left and the Lebanese army moved it. But villagers who return find their houses wrecked.",
+    "detailZh": "来源：NPR World。这是基于 RSS 摘要生成的待加工条目。接入大模型后，系统会进一步完成中文改写、事实核对、背景补充和多源合并。",
+    "detailEn": "Source: NPR World. This is an RSS-based draft. After an LLM is configured, the pipeline will rewrite, fact-check, enrich and merge reports about the same event.",
+    "tags": [
+      "国际时政"
+    ],
+    "sources": [
+      "NPR World"
+    ],
+    "sourceUrls": [
+      "https://www.npr.org/2026/11/22/nx-s1-6048710/lebanon-israel-army-conflict-homes"
+    ]
+  },
+  {
+    "id": "rss-9-4fa2e6869078",
     "category": "science",
     "importance": 6,
     "sourcesCount": 1,
-    "titleZh": "Fight over fossil fuels leaves COP31 climate talks in deadlock",
-    "titleEn": "Fight over fossil fuels leaves COP31 climate talks in deadlock",
-    "summaryZh": "Countries from nearly 200 countries are in a deadlock to try and get a new global climate agreement.",
-    "summaryEn": "Countries from nearly 200 countries are in a deadlock to try and get a new global climate agreement.",
-    "detailZh": "来源：BBC News。这是基于 RSS 摘要生成的待加工条目。接入大模型后，系统会进一步完成中文改写、事实核对、背景补充和多源合并。",
-    "detailEn": "Source: BBC News. This is an RSS-based draft. After an LLM is configured, the pipeline will rewrite, fact-check, enrich and merge reports about the same event.",
+    "titleZh": "Climate change talks fall apart in final hours over fossil fuels",
+    "titleEn": "Climate change talks fall apart in final hours over fossil fuels",
+    "summaryZh": "Some 200 countries gathered in Antalya, Turkey, for COP31, the annual climate negotiations. Countries failed to reach an agreement over fossil fuels - the primary driver of global ",
+    "summaryEn": "Some 200 countries gathered in Antalya, Turkey, for COP31, the annual climate negotiations. Countries failed to reach an agreement over fossil fuels - the primary driver of global warming.",
+    "detailZh": "来源：NPR World。这是基于 RSS 摘要生成的待加工条目。接入大模型后，系统会进一步完成中文改写、事实核对、背景补充和多源合并。",
+    "detailEn": "Source: NPR World. This is an RSS-based draft. After an LLM is configured, the pipeline will rewrite, fact-check, enrich and merge reports about the same event.",
     "tags": [
       "科学健康"
     ],
     "sources": [
-      "BBC News"
+      "NPR World"
     ],
     "sourceUrls": [
-      "https://www.bbc.co.uk/news/articles/c6ly5w40eg07o?at_medium=RSS&at_campaign=rss"
+      "https://www.npr.org/2026/11/22/nx-s1-6046195/cop31-climate-talks-close-disappointment"
     ]
   },
   {
-    "id": "rss-4-48f549e40ad0",
-    "category": "world",
-    "importance": 6,
-    "sourcesCount": 1,
-    "titleZh": "Mexican drug lord on FBI's 10 most wanted list arrested in shoot-out",
-    "titleEn": "Mexican drug lord on FBI's 10 most wanted list arrested in shoot-out",
-    "summaryZh": "Fausto Isidro \"Chapo Idisro\" Meza Flores, who is accused of drug trafficking and torture, is detained after gun fight with authorities.",
-    "summaryEn": "Fausto Isidro \"Chapo Idisro\" Meza Flores, who is accused of drug trafficking and torture, is detained after gun fight with authorities.",
-    "detailZh": "来源：BBC News。这是基于 RSS 摘要生成的待加工条目。接入大模型后，系统会进一步完成中文改写、事实核对、背景补充和多源合并。",
-    "detailEn": "Source: BBC News. This is an RSS-based draft. After an LLM is configured, the pipeline will rewrite, fact-check, enrich and merge reports about the same event.",
-    "tags": [
-      "国际时政"
-    ],
-    "sources": [
-      "BBC News"
-    ],
-    "sourceUrls": [
-      "https://www.bbc.co.uk/news/articles/ckz749ey0r75o?at_medium=RSS&at_campaign=rss"
-    ]
-  },
-  {
-    "id": "rss-5-45201d2fd35b",
-    "category": "world",
-    "importance": 6,
-    "sourcesCount": 1,
-    "titleZh": "FBI reportedly investigating apparent hack of its criminal database",
-    "titleEn": "FBI reportedly investigating apparent hack of its criminal database",
-    "summaryZh": "The National Crime Information Center database is used by federal and local law enforcement to share information.",
-    "summaryEn": "The National Crime Information Center database is used by federal and local law enforcement to share information.",
-    "detailZh": "来源：BBC News。这是基于 RSS 摘要生成的待加工条目。接入大模型后，系统会进一步完成中文改写、事实核对、背景补充和多源合并。",
-    "detailEn": "Source: BBC News. This is an RSS-based draft. After an LLM is configured, the pipeline will rewrite, fact-check, enrich and merge reports about the same event.",
-    "tags": [
-      "国际时政"
-    ],
-    "sources": [
-      "BBC News"
-    ],
-    "sourceUrls": [
-      "https://www.bbc.co.uk/news/articles/cvze7de86pk3o?at_medium=RSS&at_campaign=rss"
-    ]
-  },
-  {
-    "id": "rss-6-2fd34a5eec66",
+    "id": "rss-10-2fd34a5eec66",
     "category": "world",
     "importance": 6,
     "sourcesCount": 1,
@@ -126,91 +210,28 @@
     ]
   },
   {
-    "id": "rss-7-b01c4c2b305a",
-    "category": "world",
+    "id": "rss-11-969b3e367a9a",
+    "category": "tech",
     "importance": 6,
     "sourcesCount": 1,
-    "titleZh": "Highlights and challenges from covering an historic month in South America",
-    "titleEn": "Highlights and challenges from covering an historic month in South America",
-    "summaryZh": "NPR's South America Correspondent discusses her work covering an historic election upset and a papal visit.",
-    "summaryEn": "NPR's South America Correspondent discusses her work covering an historic election upset and a papal visit.",
-    "detailZh": "来源：NPR World。这是基于 RSS 摘要生成的待加工条目。接入大模型后，系统会进一步完成中文改写、事实核对、背景补充和多源合并。",
-    "detailEn": "Source: NPR World. This is an RSS-based draft. After an LLM is configured, the pipeline will rewrite, fact-check, enrich and merge reports about the same event.",
+    "titleZh": "Russian warship sinks in Benghazi after suspected Ukrainian drone attack",
+    "titleEn": "Russian warship sinks in Benghazi after suspected Ukrainian drone attack",
+    "summaryZh": "No one has claimed responsibility for the strike on the vessel, which had docked on its way back to Russia A Russian warship docked in the Libyan port city of Benghazi was struck i",
+    "summaryEn": "No one has claimed responsibility for the strike on the vessel, which had docked on its way back to Russia A Russian warship docked in the Libyan port city of Benghazi was struck in the early hours of Sunday in a suspected Ukrainian sea drone attack, causing a",
+    "detailZh": "来源：The Guardian。这是基于 RSS 摘要生成的待加工条目。接入大模型后，系统会进一步完成中文改写、事实核对、背景补充和多源合并。",
+    "detailEn": "Source: The Guardian. This is an RSS-based draft. After an LLM is configured, the pipeline will rewrite, fact-check, enrich and merge reports about the same event.",
     "tags": [
-      "国际时政"
+      "科技"
     ],
     "sources": [
-      "NPR World"
+      "The Guardian"
     ],
     "sourceUrls": [
-      "https://www.npr.org/2026/11/21/nx-s1-6044647/highlights-and-challenges-from-covering-an-historic-month-in-south-america"
+      "https://www.theguardian.com/world/2026/nov/22/blast-russian-ship-suspected-drone-attack-benghazi-libya"
     ]
   },
   {
-    "id": "rss-8-0a89d776917a",
-    "category": "world",
-    "importance": 6,
-    "sourcesCount": 1,
-    "titleZh": "A grieving family in Lebanon returns to their village",
-    "titleEn": "A grieving family in Lebanon returns to their village",
-    "summaryZh": "In Southern Lebanon, the Army is taking over after Israeli forces withdraw. One grieving family returns to their village to find almost everything in their house destroyed.",
-    "summaryEn": "In Southern Lebanon, the Army is taking over after Israeli forces withdraw. One grieving family returns to their village to find almost everything in their house destroyed.",
-    "detailZh": "来源：NPR World。这是基于 RSS 摘要生成的待加工条目。接入大模型后，系统会进一步完成中文改写、事实核对、背景补充和多源合并。",
-    "detailEn": "Source: NPR World. This is an RSS-based draft. After an LLM is configured, the pipeline will rewrite, fact-check, enrich and merge reports about the same event.",
-    "tags": [
-      "国际时政"
-    ],
-    "sources": [
-      "NPR World"
-    ],
-    "sourceUrls": [
-      "https://www.npr.org/2026/11/21/nx-s1-6012085/a-grieving-family-in-lebanon-returns-to-their-village"
-    ]
-  },
-  {
-    "id": "rss-9-efe791339806",
-    "category": "world",
-    "importance": 6,
-    "sourcesCount": 1,
-    "titleZh": "Cartel leader captured in northern Mexico in a bloody firefight that left 11 dead",
-    "titleEn": "Cartel leader captured in northern Mexico in a bloody firefight that left 11 dead",
-    "summaryZh": "Fausto Isidro Meza Flores, better known as \"El Chapo Isidro,\" was one of the FBI's most wanted fugitives. His arrest in northwest Mexico on Saturday has sparked violence in the reg",
-    "summaryEn": "Fausto Isidro Meza Flores, better known as \"El Chapo Isidro,\" was one of the FBI's most wanted fugitives. His arrest in northwest Mexico on Saturday has sparked violence in the region.",
-    "detailZh": "来源：NPR World。这是基于 RSS 摘要生成的待加工条目。接入大模型后，系统会进一步完成中文改写、事实核对、背景补充和多源合并。",
-    "detailEn": "Source: NPR World. This is an RSS-based draft. After an LLM is configured, the pipeline will rewrite, fact-check, enrich and merge reports about the same event.",
-    "tags": [
-      "国际时政"
-    ],
-    "sources": [
-      "NPR World"
-    ],
-    "sourceUrls": [
-      "https://www.npr.org/2026/11/21/nx-s1-6049672/cartel-boss-el-chapo-isidro-detained"
-    ]
-  },
-  {
-    "id": "rss-10-d615c59e615c",
-    "category": "world",
-    "importance": 6,
-    "sourcesCount": 1,
-    "titleZh": "Killer robots: U.N. talks fall short of hopes for legally binding rules",
-    "titleEn": "Killer robots: U.N. talks fall short of hopes for legally binding rules",
-    "summaryZh": "U.N. talks in Geneva have failed to deliver binding rules on autonomous weapons, as humanitarian groups warn that military AI is advancing far faster than diplomacy.",
-    "summaryEn": "U.N. talks in Geneva have failed to deliver binding rules on autonomous weapons, as humanitarian groups warn that military AI is advancing far faster than diplomacy.",
-    "detailZh": "来源：NPR World。这是基于 RSS 摘要生成的待加工条目。接入大模型后，系统会进一步完成中文改写、事实核对、背景补充和多源合并。",
-    "detailEn": "Source: NPR World. This is an RSS-based draft. After an LLM is configured, the pipeline will rewrite, fact-check, enrich and merge reports about the same event.",
-    "tags": [
-      "国际时政"
-    ],
-    "sources": [
-      "NPR World"
-    ],
-    "sourceUrls": [
-      "https://www.npr.org/2026/11/21/nx-s1-6047916/killer-robots-un-drones"
-    ]
-  },
-  {
-    "id": "rss-11-34ed9397c7f7",
+    "id": "rss-12-34ed9397c7f7",
     "category": "world",
     "importance": 6,
     "sourcesCount": 1,
@@ -231,7 +252,7 @@
     ]
   },
   {
-    "id": "rss-12-f134fe4f942f",
+    "id": "rss-13-f134fe4f942f",
     "category": "world",
     "importance": 6,
     "sourcesCount": 1,
@@ -252,7 +273,7 @@
     ]
   },
   {
-    "id": "rss-13-0f144ace9611",
+    "id": "rss-14-0f144ace9611",
     "category": "world",
     "importance": 6,
     "sourcesCount": 1,
@@ -273,7 +294,7 @@
     ]
   },
   {
-    "id": "rss-14-a9cefeb13011",
+    "id": "rss-15-a9cefeb13011",
     "category": "world",
     "importance": 6,
     "sourcesCount": 1,
@@ -291,27 +312,6 @@
     ],
     "sourceUrls": [
       "https://www.theguardian.com/world/2026/nov/18/us-sanctions-icj-judges-myanmar-genocide-ruling-israel-gaza-court"
-    ]
-  },
-  {
-    "id": "rss-15-253d55efc987",
-    "category": "world",
-    "importance": 6,
-    "sourcesCount": 1,
-    "titleZh": "European Commission accused of sugarcoating figures to release funds to Egypt",
-    "titleEn": "European Commission accused of sugarcoating figures to release funds to Egypt",
-    "summaryZh": "Leaked documents raise questions about claims Egypt met welfare targets to qualify for €2.5bn in loans The European Commission has been accused of sugarcoating figures to enable it",
-    "summaryEn": "Leaked documents raise questions about claims Egypt met welfare targets to qualify for €2.5bn in loans The European Commission has been accused of sugarcoating figures to enable it to release funds to Egypt under a landmark pact with the authoritarian governme",
-    "detailZh": "来源：The Guardian。这是基于 RSS 摘要生成的待加工条目。接入大模型后，系统会进一步完成中文改写、事实核对、背景补充和多源合并。",
-    "detailEn": "Source: The Guardian. This is an RSS-based draft. After an LLM is configured, the pipeline will rewrite, fact-check, enrich and merge reports about the same event.",
-    "tags": [
-      "国际时政"
-    ],
-    "sources": [
-      "The Guardian"
-    ],
-    "sourceUrls": [
-      "https://www.theguardian.com/world/2026/nov/18/european-commission-accused-sugarcoating-figures-egypt-loans"
     ]
   },
   {
@@ -420,14 +420,14 @@
     ]
   },
   {
-    "id": "rss-21-8d54d4add32f",
+    "id": "rss-21-04504f1c4726",
     "category": "tech",
     "importance": 6,
     "sourcesCount": 1,
-    "titleZh": "Signal restricts mobile screenshots as it confronts ‘existential threat’ of AI surveillance",
-    "titleEn": "Signal restricts mobile screenshots as it confronts ‘existential threat’ of AI surveillance",
-    "summaryZh": "Signal is limiting users' ability to take screenshots in both its Android and iOS apps.",
-    "summaryEn": "Signal is limiting users' ability to take screenshots in both its Android and iOS apps.",
+    "titleZh": "How Notable Capital, GIC, and Baillie Gifford bet big on Anthropic before its IPO",
+    "titleEn": "How Notable Capital, GIC, and Baillie Gifford bet big on Anthropic before its IPO",
+    "summaryZh": "Three significant backers share what gave them conviction to bet billions on Anthropic.",
+    "summaryEn": "Three significant backers share what gave them conviction to bet billions on Anthropic.",
     "detailZh": "来源：TechCrunch。这是基于 RSS 摘要生成的待加工条目。接入大模型后，系统会进一步完成中文改写、事实核对、背景补充和多源合并。",
     "detailEn": "Source: TechCrunch. This is an RSS-based draft. After an LLM is configured, the pipeline will rewrite, fact-check, enrich and merge reports about the same event.",
     "tags": [
@@ -437,18 +437,18 @@
       "TechCrunch"
     ],
     "sourceUrls": [
-      "https://techcrunch.com/2026/11/21/signal-restricts-mobile-screenshots-as-it-confronts-existential-threat-of-ai-surveillance/"
+      "https://techcrunch.com/2026/11/22/how-notable-capital-gic-and-baillie-gifford-bet-big-on-anthropic-before-its-ipo/"
     ]
   },
   {
-    "id": "rss-22-127326b87b53",
+    "id": "rss-22-9d561cc7e83a",
     "category": "tech",
     "importance": 6,
     "sourcesCount": 1,
-    "titleZh": "A tale of two Nvidias",
-    "titleEn": "A tale of two Nvidias",
-    "summaryZh": "We got two very different pictures of Nvidia — the company’s latest earnings report vs. the tech executives loudly calling for Jensen Huang’s return.",
-    "summaryEn": "We got two very different pictures of Nvidia — the company’s latest earnings report vs. the tech executives loudly calling for Jensen Huang’s return.",
+    "titleZh": "‘You Can See Everything’ has made more than $100M worldwide",
+    "titleEn": "‘You Can See Everything’ has made more than $100M worldwide",
+    "summaryZh": "The new Elizabeth Holmes documentary is just beginning to roll out internationally.",
+    "summaryEn": "The new Elizabeth Holmes documentary is just beginning to roll out internationally.",
     "detailZh": "来源：TechCrunch。这是基于 RSS 摘要生成的待加工条目。接入大模型后，系统会进一步完成中文改写、事实核对、背景补充和多源合并。",
     "detailEn": "Source: TechCrunch. This is an RSS-based draft. After an LLM is configured, the pipeline will rewrite, fact-check, enrich and merge reports about the same event.",
     "tags": [
@@ -458,18 +458,18 @@
       "TechCrunch"
     ],
     "sourceUrls": [
-      "https://techcrunch.com/2026/11/21/a-tale-of-two-nvidias/"
+      "https://techcrunch.com/2026/11/22/you-can-see-everything-has-made-more-than-100m-worldwide/"
     ]
   },
   {
-    "id": "rss-23-df0cbaf8a585",
+    "id": "rss-23-716c53fa8fce",
     "category": "tech",
     "importance": 6,
     "sourcesCount": 1,
-    "titleZh": "Trump says reported FBI database hack is ‘not good’",
-    "titleEn": "Trump says reported FBI database hack is ‘not good’",
-    "summaryZh": "The FBI is reportedly investigating a hack of the National Crime Information Center.",
-    "summaryEn": "The FBI is reportedly investigating a hack of the National Crime Information Center.",
+    "titleZh": "OpenAI’s chief scientist has thoughts on how to limit AI development",
+    "titleEn": "OpenAI’s chief scientist has thoughts on how to limit AI development",
+    "summaryZh": "To establish a speed limit on AI development, you need to agree on how to measure speed.",
+    "summaryEn": "To establish a speed limit on AI development, you need to agree on how to measure speed.",
     "detailZh": "来源：TechCrunch。这是基于 RSS 摘要生成的待加工条目。接入大模型后，系统会进一步完成中文改写、事实核对、背景补充和多源合并。",
     "detailEn": "Source: TechCrunch. This is an RSS-based draft. After an LLM is configured, the pipeline will rewrite, fact-check, enrich and merge reports about the same event.",
     "tags": [
@@ -479,18 +479,18 @@
       "TechCrunch"
     ],
     "sourceUrls": [
-      "https://techcrunch.com/2026/11/21/trump-says-reported-fbi-database-hack-is-not-good/"
+      "https://techcrunch.com/2026/11/22/openais-chief-scientist-has-thoughts-on-how-to-limit-ai-development/"
     ]
   },
   {
-    "id": "rss-24-01945f6a907c",
+    "id": "rss-24-66ae122a2b7c",
     "category": "tech",
     "importance": 6,
     "sourcesCount": 1,
-    "titleZh": "Here are the top AI agents that can live in your text messages",
-    "titleEn": "Here are the top AI agents that can live in your text messages",
-    "summaryZh": "We created a list of the most notable AI agents that can live in your text messages, from general assistants to agents designed for families, travel, and work.",
-    "summaryEn": "We created a list of the most notable AI agents that can live in your text messages, from general assistants to agents designed for families, travel, and work.",
+    "titleZh": "The best apps to make new friends right now",
+    "titleEn": "The best apps to make new friends right now",
+    "summaryZh": "We've compiled a list of friendship apps, from friend discovery platforms like BFF to event-focused ones like Timeleft.",
+    "summaryEn": "We've compiled a list of friendship apps, from friend discovery platforms like BFF to event-focused ones like Timeleft.",
     "detailZh": "来源：TechCrunch。这是基于 RSS 摘要生成的待加工条目。接入大模型后，系统会进一步完成中文改写、事实核对、背景补充和多源合并。",
     "detailEn": "Source: TechCrunch. This is an RSS-based draft. After an LLM is configured, the pipeline will rewrite, fact-check, enrich and merge reports about the same event.",
     "tags": [
@@ -500,18 +500,18 @@
       "TechCrunch"
     ],
     "sourceUrls": [
-      "https://techcrunch.com/2026/11/21/all-the-ai-agents-that-can-live-in-your-text-messages/"
+      "https://techcrunch.com/2026/11/22/as-people-look-for-ways-to-make-new-friends-here-are-the-apps-promising-to-help/"
     ]
   },
   {
-    "id": "rss-25-89298d3b7fb0",
+    "id": "rss-25-74f939e081ec",
     "category": "tech",
     "importance": 6,
     "sourcesCount": 1,
-    "titleZh": "Is selling an AI version of your face to this microdrama startup the future of Hollywood?",
-    "titleEn": "Is selling an AI version of your face to this microdrama startup the future of Hollywood?",
-    "summaryZh": "An actor has licensed his face to a microdrama startup — in a trend that's already popular in China. Experts question the long-term consequences if this becomes a trend in Hollywoo",
-    "summaryEn": "An actor has licensed his face to a microdrama startup — in a trend that's already popular in China. Experts question the long-term consequences if this becomes a trend in Hollywood, too.",
+    "titleZh": "Why data centers are at the center of the Big Tech backlash",
+    "titleEn": "Why data centers are at the center of the Big Tech backlash",
+    "summaryZh": "Journalist Paris Marx unpacks his new book \"Hyperscale.\"",
+    "summaryEn": "Journalist Paris Marx unpacks his new book \"Hyperscale.\"",
     "detailZh": "来源：TechCrunch。这是基于 RSS 摘要生成的待加工条目。接入大模型后，系统会进一步完成中文改写、事实核对、背景补充和多源合并。",
     "detailEn": "Source: TechCrunch. This is an RSS-based draft. After an LLM is configured, the pipeline will rewrite, fact-check, enrich and merge reports about the same event.",
     "tags": [
@@ -521,7 +521,7 @@
       "TechCrunch"
     ],
     "sourceUrls": [
-      "https://techcrunch.com/2026/11/21/is-selling-an-ai-version-of-your-face-to-this-microdrama-startup-the-future-of-hollywood/"
+      "https://techcrunch.com/2026/11/22/why-data-centers-are-at-the-center-of-the-big-tech-backlash/"
     ]
   },
   {
@@ -630,56 +630,14 @@
     ]
   },
   {
-    "id": "rss-31-d740827d88ad",
-    "category": "security",
-    "importance": 6,
-    "sourcesCount": 1,
-    "titleZh": "Moviegoers head for the exits as quake strikes Peru",
-    "titleEn": "Moviegoers head for the exits as quake strikes Peru",
-    "summaryZh": "Moviegoers head for the exits as quake strikes Peru",
-    "summaryEn": "Moviegoers head for the exits as quake strikes Peru",
-    "detailZh": "来源：Al Jazeera。这是基于 RSS 摘要生成的待加工条目。接入大模型后，系统会进一步完成中文改写、事实核对、背景补充和多源合并。",
-    "detailEn": "Source: Al Jazeera. This is an RSS-based draft. After an LLM is configured, the pipeline will rewrite, fact-check, enrich and merge reports about the same event.",
-    "tags": [
-      "冲突与安全"
-    ],
-    "sources": [
-      "Al Jazeera"
-    ],
-    "sourceUrls": [
-      "https://www.aljazeera.com/video/newsfeed/2026/11/22/moviegoers-head-for-the-exits-as-quake-strikes-peru?traffic_source=rss"
-    ]
-  },
-  {
-    "id": "rss-32-b5553ff19c00",
-    "category": "security",
-    "importance": 6,
-    "sourcesCount": 1,
-    "titleZh": "Clashes erupt across France in another night of protest",
-    "titleEn": "Clashes erupt across France in another night of protest",
-    "summaryZh": "French police charged to disperse crowds on Saturday as the country faced a sixth weekend of demonstrations.",
-    "summaryEn": "French police charged to disperse crowds on Saturday as the country faced a sixth weekend of demonstrations.",
-    "detailZh": "来源：Al Jazeera。这是基于 RSS 摘要生成的待加工条目。接入大模型后，系统会进一步完成中文改写、事实核对、背景补充和多源合并。",
-    "detailEn": "Source: Al Jazeera. This is an RSS-based draft. After an LLM is configured, the pipeline will rewrite, fact-check, enrich and merge reports about the same event.",
-    "tags": [
-      "冲突与安全"
-    ],
-    "sources": [
-      "Al Jazeera"
-    ],
-    "sourceUrls": [
-      "https://www.aljazeera.com/video/newsfeed/2026/11/22/clashes-erupt-across-france-in-another-night-of-protest?traffic_source=rss"
-    ]
-  },
-  {
-    "id": "rss-33-1453db92e2f8",
+    "id": "rss-31-40291a0c260a",
     "category": "tech",
     "importance": 6,
     "sourcesCount": 1,
-    "titleZh": "Iran war live: Iran targets US bases in Bahrain; Houthi strikes continue",
-    "titleEn": "Iran war live: Iran targets US bases in Bahrain; Houthi strikes continue",
-    "summaryZh": "Bahrain has condemned Iran's strikes on US military assets in the Gulf country, as Houthis keep Saudi Arabia on edge.",
-    "summaryEn": "Bahrain has condemned Iran's strikes on US military assets in the Gulf country, as Houthis keep Saudi Arabia on edge.",
+    "titleZh": "Poland says Russia tried to assassinate Ukrainian rapper twice",
+    "titleEn": "Poland says Russia tried to assassinate Ukrainian rapper twice",
+    "summaryZh": "Polish confirmation comes after Copenhagen reveals alleged Russian plot to kill US-Ukrainian citizen on Danish soil.",
+    "summaryEn": "Polish confirmation comes after Copenhagen reveals alleged Russian plot to kill US-Ukrainian citizen on Danish soil.",
     "detailZh": "来源：Al Jazeera。这是基于 RSS 摘要生成的待加工条目。接入大模型后，系统会进一步完成中文改写、事实核对、背景补充和多源合并。",
     "detailEn": "Source: Al Jazeera. This is an RSS-based draft. After an LLM is configured, the pipeline will rewrite, fact-check, enrich and merge reports about the same event.",
     "tags": [
@@ -689,18 +647,18 @@
       "Al Jazeera"
     ],
     "sourceUrls": [
-      "https://www.aljazeera.com/news/liveblog/2026/11/21/iran-war-live-iran-targets-us-military-in-bahrain-houthi-strikes-continue?traffic_source=rss"
+      "https://www.aljazeera.com/news/2026/11/23/poland-says-russia-tried-to-assassinate-ukrainian-rapper-twice?traffic_source=rss"
     ]
   },
   {
-    "id": "rss-34-0cdc2ecf2eb9",
+    "id": "rss-32-a33996b434f8",
     "category": "security",
     "importance": 6,
     "sourcesCount": 1,
-    "titleZh": "Lebanese president demands Israel withdrawal, decries Iran’s interference",
-    "titleEn": "Lebanese president demands Israel withdrawal, decries Iran’s interference",
-    "summaryZh": "Joseph Aoun says 'two fundamental obstacles, inseparably linked' mean Lebanon cannot fully celebrate its independence.",
-    "summaryEn": "Joseph Aoun says 'two fundamental obstacles, inseparably linked' mean Lebanon cannot fully celebrate its independence.",
+    "titleZh": "Libya’s military says ‘fully prepared’ after Benghazi attacks",
+    "titleEn": "Libya’s military says ‘fully prepared’ after Benghazi attacks",
+    "summaryZh": "Libyan military says Benghazi port is ‘under control’ and it is ‘fully prepared’ to respond to threats.",
+    "summaryEn": "Libyan military says Benghazi port is ‘under control’ and it is ‘fully prepared’ to respond to threats.",
     "detailZh": "来源：Al Jazeera。这是基于 RSS 摘要生成的待加工条目。接入大模型后，系统会进一步完成中文改写、事实核对、背景补充和多源合并。",
     "detailEn": "Source: Al Jazeera. This is an RSS-based draft. After an LLM is configured, the pipeline will rewrite, fact-check, enrich and merge reports about the same event.",
     "tags": [
@@ -710,28 +668,70 @@
       "Al Jazeera"
     ],
     "sourceUrls": [
-      "https://www.aljazeera.com/news/2026/11/21/lebanese-president-demands-israel-withdrawal-decries-irans-interference?traffic_source=rss"
+      "https://www.aljazeera.com/video/newsfeed/2026/11/23/libyas-military-says-fully-prepared-after-benghazi-attacks?traffic_source=rss"
     ]
   },
   {
-    "id": "rss-35-e14c511a4468",
-    "category": "economy",
+    "id": "rss-33-eec6a4fa5111",
+    "category": "security",
     "importance": 6,
     "sourcesCount": 1,
-    "titleZh": "Iran faces a ‘silent economic war’, says Iranian president",
-    "titleEn": "Iran faces a ‘silent economic war’, says Iranian president",
-    "summaryZh": "Iran faces a ‘silent economic war’, says Iranian president",
-    "summaryEn": "Iran faces a ‘silent economic war’, says Iranian president",
+    "titleZh": "Israeli forces continue house demolitions in southern Lebanon",
+    "titleEn": "Israeli forces continue house demolitions in southern Lebanon",
+    "summaryZh": "Israeli forces continue house demolitions in southern Lebanon",
+    "summaryEn": "Israeli forces continue house demolitions in southern Lebanon",
     "detailZh": "来源：Al Jazeera。这是基于 RSS 摘要生成的待加工条目。接入大模型后，系统会进一步完成中文改写、事实核对、背景补充和多源合并。",
     "detailEn": "Source: Al Jazeera. This is an RSS-based draft. After an LLM is configured, the pipeline will rewrite, fact-check, enrich and merge reports about the same event.",
     "tags": [
-      "经济财经"
+      "冲突与安全"
     ],
     "sources": [
       "Al Jazeera"
     ],
     "sourceUrls": [
-      "https://www.aljazeera.com/video/newsfeed/2026/11/21/iran-faces-a-silent-economic-war-says-iranian-president?traffic_source=rss"
+      "https://www.aljazeera.com/video/newsfeed/2026/11/23/israeli-forces-continue-house-demolitions-in-southern-lebanon?traffic_source=rss"
+    ]
+  },
+  {
+    "id": "rss-34-36634285571c",
+    "category": "security",
+    "importance": 6,
+    "sourcesCount": 1,
+    "titleZh": "WHO chief calls for peace amid heavy fighting in Ebola-hit DR Congo region",
+    "titleEn": "WHO chief calls for peace amid heavy fighting in Ebola-hit DR Congo region",
+    "summaryZh": "Fighting near a DRC hospital disrupts Ebola efforts, putting patients and workers at 'grave risk', WHO warns.",
+    "summaryEn": "Fighting near a DRC hospital disrupts Ebola efforts, putting patients and workers at 'grave risk', WHO warns.",
+    "detailZh": "来源：Al Jazeera。这是基于 RSS 摘要生成的待加工条目。接入大模型后，系统会进一步完成中文改写、事实核对、背景补充和多源合并。",
+    "detailEn": "Source: Al Jazeera. This is an RSS-based draft. After an LLM is configured, the pipeline will rewrite, fact-check, enrich and merge reports about the same event.",
+    "tags": [
+      "冲突与安全"
+    ],
+    "sources": [
+      "Al Jazeera"
+    ],
+    "sourceUrls": [
+      "https://www.aljazeera.com/news/2026/11/23/who-chief-calls-for-peace-amid-heavy-fighting-in-ebola-hit-dr-congo-region?traffic_source=rss"
+    ]
+  },
+  {
+    "id": "rss-35-397cb06d90e6",
+    "category": "tech",
+    "importance": 6,
+    "sourcesCount": 1,
+    "titleZh": "Asian stock markets tumble as AI bubble fears mount",
+    "titleEn": "Asian stock markets tumble as AI bubble fears mount",
+    "summaryZh": "Stocks fall in South Korea, Taiwan and Hong Kong amid tech-led sell-off.",
+    "summaryEn": "Stocks fall in South Korea, Taiwan and Hong Kong amid tech-led sell-off.",
+    "detailZh": "来源：Al Jazeera。这是基于 RSS 摘要生成的待加工条目。接入大模型后，系统会进一步完成中文改写、事实核对、背景补充和多源合并。",
+    "detailEn": "Source: Al Jazeera. This is an RSS-based draft. After an LLM is configured, the pipeline will rewrite, fact-check, enrich and merge reports about the same event.",
+    "tags": [
+      "科技"
+    ],
+    "sources": [
+      "Al Jazeera"
+    ],
+    "sourceUrls": [
+      "https://www.aljazeera.com/news/2026/11/23/south-koreas-stock-market-tumbles-as-ai-bubble-fears-mount?traffic_source=rss"
     ]
   }
 ]
