@@ -1,13 +1,34 @@
 [
   {
-    "id": "rss-1-15078c8b6a4a",
+    "id": "rss-1-4571de9aa2a8",
     "category": "world",
     "importance": 6,
     "sourcesCount": 1,
-    "titleZh": "US too focused on Middle East and not pushing Russia hard enough, Zelensky tells BBC",
-    "titleEn": "US too focused on Middle East and not pushing Russia hard enough, Zelensky tells BBC",
-    "summaryZh": "Ukraine's president voices frustration with US and says it is \"strange\" Trump has described Vladimir Putin as a friend.",
-    "summaryEn": "Ukraine's president voices frustration with US and says it is \"strange\" Trump has described Vladimir Putin as a friend.",
+    "titleZh": "Spanish PM and rivals rally supporters in final pitch for votes",
+    "titleEn": "Spanish PM and rivals rally supporters in final pitch for votes",
+    "summaryZh": "Prime Minister Pedro Sánchez wants to defy the polls, and his main rivals accuse him of not telling the truth and of \"betrayal\".",
+    "summaryEn": "Prime Minister Pedro Sánchez wants to defy the polls, and his main rivals accuse him of not telling the truth and of \"betrayal\".",
+    "detailZh": "来源：BBC News。这是基于 RSS 摘要生成的待加工条目。接入大模型后，系统会进一步完成中文改写、事实核对、背景补充和多源合并。",
+    "detailEn": "Source: BBC News. This is an RSS-based draft. After an LLM is configured, the pipeline will rewrite, fact-check, enrich and merge reports about the same event.",
+    "tags": [
+      "国际时政"
+    ],
+    "sources": [
+      "BBC News"
+    ],
+    "sourceUrls": [
+      "https://www.bbc.co.uk/news/articles/c8wy5p4gdnwvo?at_medium=RSS&at_campaign=rss"
+    ]
+  },
+  {
+    "id": "rss-2-15078c8b6a4a",
+    "category": "world",
+    "importance": 6,
+    "sourcesCount": 1,
+    "titleZh": "Zelensky criticises 'strange' Trump-Putin friendship in BBC interview",
+    "titleEn": "Zelensky criticises 'strange' Trump-Putin friendship in BBC interview",
+    "summaryZh": "Ukraine's president voices frustration with US and says it is not pushing Russia hard enough in peace talks to end the war.",
+    "summaryEn": "Ukraine's president voices frustration with US and says it is not pushing Russia hard enough in peace talks to end the war.",
     "detailZh": "来源：BBC News。这是基于 RSS 摘要生成的待加工条目。接入大模型后，系统会进一步完成中文改写、事实核对、背景补充和多源合并。",
     "detailEn": "Source: BBC News. This is an RSS-based draft. After an LLM is configured, the pipeline will rewrite, fact-check, enrich and merge reports about the same event.",
     "tags": [
@@ -21,14 +42,35 @@
     ]
   },
   {
-    "id": "rss-2-94d2e60bc99c",
+    "id": "rss-3-5e6bff051036",
+    "category": "security",
+    "importance": 6,
+    "sourcesCount": 1,
+    "titleZh": "Weary of war but with no sign of backing down, Kyiv faces another punishing winter",
+    "titleEn": "Weary of war but with no sign of backing down, Kyiv faces another punishing winter",
+    "summaryZh": "Ukraine settles in for another devastating winter as the questions persists: how will it all end?",
+    "summaryEn": "Ukraine settles in for another devastating winter as the questions persists: how will it all end?",
+    "detailZh": "来源：BBC News。这是基于 RSS 摘要生成的待加工条目。接入大模型后，系统会进一步完成中文改写、事实核对、背景补充和多源合并。",
+    "detailEn": "Source: BBC News. This is an RSS-based draft. After an LLM is configured, the pipeline will rewrite, fact-check, enrich and merge reports about the same event.",
+    "tags": [
+      "冲突与安全"
+    ],
+    "sources": [
+      "BBC News"
+    ],
+    "sourceUrls": [
+      "https://www.bbc.co.uk/news/articles/c3pw4yrr8kz9o?at_medium=RSS&at_campaign=rss"
+    ]
+  },
+  {
+    "id": "rss-4-4d345bd13c7e",
     "category": "world",
     "importance": 6,
     "sourcesCount": 1,
-    "titleZh": "Major Thanksgiving storm brings flooding, flight delays across US",
-    "titleEn": "Major Thanksgiving storm brings flooding, flight delays across US",
-    "summaryZh": "Almost one million customers in the US had no power on Thursday evening as storms descended on both US coasts, bringing wind gusts, heavy rain and flooding.",
-    "summaryEn": "Almost one million customers in the US had no power on Thursday evening as storms descended on both US coasts, bringing wind gusts, heavy rain and flooding.",
+    "titleZh": "'We couldn't give up that easily': Marching bands scramble to cover costs after Thanksgiving parade rearranged",
+    "titleEn": "'We couldn't give up that easily': Marching bands scramble to cover costs after Thanksgiving parade rearranged",
+    "summaryZh": "Stormy weather in New York City prompted organisers to push back the Macy's parade by two days - leaving some musicians stuck.",
+    "summaryEn": "Stormy weather in New York City prompted organisers to push back the Macy's parade by two days - leaving some musicians stuck.",
     "detailZh": "来源：BBC News。这是基于 RSS 摘要生成的待加工条目。接入大模型后，系统会进一步完成中文改写、事实核对、背景补充和多源合并。",
     "detailEn": "Source: BBC News. This is an RSS-based draft. After an LLM is configured, the pipeline will rewrite, fact-check, enrich and merge reports about the same event.",
     "tags": [
@@ -38,18 +80,18 @@
       "BBC News"
     ],
     "sourceUrls": [
-      "https://www.bbc.co.uk/news/articles/ckm2mz3prq77o?at_medium=RSS&at_campaign=rss"
+      "https://www.bbc.co.uk/news/articles/ckd71ypy9e8eo?at_medium=RSS&at_campaign=rss"
     ]
   },
   {
-    "id": "rss-3-e0c25974c0f3",
+    "id": "rss-5-bb90cdb4ff7f",
     "category": "world",
     "importance": 6,
     "sourcesCount": 1,
-    "titleZh": "Watch: Roofs torn off and streets under water as severe weather hits US",
-    "titleEn": "Watch: Roofs torn off and streets under water as severe weather hits US",
-    "summaryZh": "Hundreds of thousands have been affected by storms in the country as the Thanksgiving holiday weekend begins.",
-    "summaryEn": "Hundreds of thousands have been affected by storms in the country as the Thanksgiving holiday weekend begins.",
+    "titleZh": "Brazil pushes back on Macron calling its meat 'doped'",
+    "titleEn": "Brazil pushes back on Macron calling its meat 'doped'",
+    "summaryZh": "France's president made the comment while speaking to French farming representatives, months after the EU banned Brazil beef and poultry products.",
+    "summaryEn": "France's president made the comment while speaking to French farming representatives, months after the EU banned Brazil beef and poultry products.",
     "detailZh": "来源：BBC News。这是基于 RSS 摘要生成的待加工条目。接入大模型后，系统会进一步完成中文改写、事实核对、背景补充和多源合并。",
     "detailEn": "Source: BBC News. This is an RSS-based draft. After an LLM is configured, the pipeline will rewrite, fact-check, enrich and merge reports about the same event.",
     "tags": [
@@ -59,53 +101,74 @@
       "BBC News"
     ],
     "sourceUrls": [
-      "https://www.bbc.co.uk/news/videos/cq808d704m22o?at_medium=RSS&at_campaign=rss"
+      "https://www.bbc.co.uk/news/articles/c6rrg28npvzeo?at_medium=RSS&at_campaign=rss"
     ]
   },
   {
-    "id": "rss-4-585b336a1423",
+    "id": "rss-6-7207ea497184",
     "category": "world",
     "importance": 6,
     "sourcesCount": 1,
-    "titleZh": "New Zealand's ruling coalition falls short of parliamentary majority by one seat",
-    "titleEn": "New Zealand's ruling coalition falls short of parliamentary majority by one seat",
-    "summaryZh": "The right-leaning ruling bloc led by the National Party has fallen short of the majority needed to govern.",
-    "summaryEn": "The right-leaning ruling bloc led by the National Party has fallen short of the majority needed to govern.",
-    "detailZh": "来源：BBC News。这是基于 RSS 摘要生成的待加工条目。接入大模型后，系统会进一步完成中文改写、事实核对、背景补充和多源合并。",
-    "detailEn": "Source: BBC News. This is an RSS-based draft. After an LLM is configured, the pipeline will rewrite, fact-check, enrich and merge reports about the same event.",
+    "titleZh": "French cinema star Gérard Depardieu ordered to stand trial for rape and sexual assault",
+    "titleEn": "French cinema star Gérard Depardieu ordered to stand trial for rape and sexual assault",
+    "summaryZh": "The case has become one of the most prominent in France's reckoning with sexual violence, as the #MeToo movement has faced resistance in the country, particularly in the arts.",
+    "summaryEn": "The case has become one of the most prominent in France's reckoning with sexual violence, as the #MeToo movement has faced resistance in the country, particularly in the arts.",
+    "detailZh": "来源：NPR World。这是基于 RSS 摘要生成的待加工条目。接入大模型后，系统会进一步完成中文改写、事实核对、背景补充和多源合并。",
+    "detailEn": "Source: NPR World. This is an RSS-based draft. After an LLM is configured, the pipeline will rewrite, fact-check, enrich and merge reports about the same event.",
     "tags": [
       "国际时政"
     ],
     "sources": [
-      "BBC News"
+      "NPR World"
     ],
     "sourceUrls": [
-      "https://www.bbc.co.uk/news/articles/c670278qk879o?at_medium=RSS&at_campaign=rss"
+      "https://www.npr.org/2026/11/27/nx-s1-6055559/gerard-depardieu-trial-rape-france"
     ]
   },
   {
-    "id": "rss-5-7de60dcaa7ca",
+    "id": "rss-7-55988b2f5dee",
     "category": "world",
     "importance": 6,
     "sourcesCount": 1,
-    "titleZh": "German boat dealer suspected of supplying Channel smuggling gangs, BBC finds",
-    "titleEn": "German boat dealer suspected of supplying Channel smuggling gangs, BBC finds",
-    "summaryZh": "Nearly a third of crossings in early 2026 allegedly involved boats or engines from the German man's firm.",
-    "summaryEn": "Nearly a third of crossings in early 2026 allegedly involved boats or engines from the German man's firm.",
-    "detailZh": "来源：BBC News。这是基于 RSS 摘要生成的待加工条目。接入大模型后，系统会进一步完成中文改写、事实核对、背景补充和多源合并。",
-    "detailEn": "Source: BBC News. This is an RSS-based draft. After an LLM is configured, the pipeline will rewrite, fact-check, enrich and merge reports about the same event.",
+    "titleZh": "As UN Secretary General's last day approaches, search for his replacement continues",
+    "titleEn": "As UN Secretary General's last day approaches, search for his replacement continues",
+    "summaryZh": "The UN Secretary General's term ends this year, but the big powers at the UN have been unable to agree on a replacement. UN watchers worry that there will be little time to get up ",
+    "summaryEn": "The UN Secretary General's term ends this year, but the big powers at the UN have been unable to agree on a replacement. UN watchers worry that there will be little time to get up to speed.",
+    "detailZh": "来源：NPR World。这是基于 RSS 摘要生成的待加工条目。接入大模型后，系统会进一步完成中文改写、事实核对、背景补充和多源合并。",
+    "detailEn": "Source: NPR World. This is an RSS-based draft. After an LLM is configured, the pipeline will rewrite, fact-check, enrich and merge reports about the same event.",
     "tags": [
       "国际时政"
     ],
     "sources": [
-      "BBC News"
+      "NPR World"
     ],
     "sourceUrls": [
-      "https://www.bbc.co.uk/news/articles/cqlymky8kpzjo?at_medium=RSS&at_campaign=rss"
+      "https://www.npr.org/2026/11/27/nx-s1-6050907/as-un-secretary-generals-last-day-approaches-search-for-his-replacement-continues"
     ]
   },
   {
-    "id": "rss-6-f70baf0ffc8a",
+    "id": "rss-8-251c853bebc8",
+    "category": "world",
+    "importance": 6,
+    "sourcesCount": 1,
+    "titleZh": "Strobe Talbott, former Time magazine reporter and deputy secretary of state, has died",
+    "titleEn": "Strobe Talbott, former Time magazine reporter and deputy secretary of state, has died",
+    "summaryZh": "Strobe Talbott, a former Time magazine reporter who later served as deputy secretary of state under President Bill Clinton and then headed the Brookings Institution, died Thursday.",
+    "summaryEn": "Strobe Talbott, a former Time magazine reporter who later served as deputy secretary of state under President Bill Clinton and then headed the Brookings Institution, died Thursday. He was 80.",
+    "detailZh": "来源：NPR World。这是基于 RSS 摘要生成的待加工条目。接入大模型后，系统会进一步完成中文改写、事实核对、背景补充和多源合并。",
+    "detailEn": "Source: NPR World. This is an RSS-based draft. After an LLM is configured, the pipeline will rewrite, fact-check, enrich and merge reports about the same event.",
+    "tags": [
+      "国际时政"
+    ],
+    "sources": [
+      "NPR World"
+    ],
+    "sourceUrls": [
+      "https://www.npr.org/2026/11/27/g-s1-155990/strobe-talbott-obit"
+    ]
+  },
+  {
+    "id": "rss-9-f70baf0ffc8a",
     "category": "world",
     "importance": 6,
     "sourcesCount": 1,
@@ -126,7 +189,7 @@
     ]
   },
   {
-    "id": "rss-7-afd70fe24e55",
+    "id": "rss-10-afd70fe24e55",
     "category": "world",
     "importance": 6,
     "sourcesCount": 1,
@@ -147,70 +210,28 @@
     ]
   },
   {
-    "id": "rss-8-71f585ef04a9",
-    "category": "world",
+    "id": "rss-11-f03baaa219c7",
+    "category": "tech",
     "importance": 6,
     "sourcesCount": 1,
-    "titleZh": "Storms disrupt Thanksgiving travel. And, FCC violated ABC's free speech, judge says",
-    "titleEn": "Storms disrupt Thanksgiving travel. And, FCC violated ABC's free speech, judge says",
-    "summaryZh": "The East Coast's weather is a major concern this holiday, as it could lead to coastal flooding. And, the judge says the FCC can't punish ABC for satire Trump doesn't like.",
-    "summaryEn": "The East Coast's weather is a major concern this holiday, as it could lead to coastal flooding. And, the judge says the FCC can't punish ABC for satire Trump doesn't like.",
-    "detailZh": "来源：NPR World。这是基于 RSS 摘要生成的待加工条目。接入大模型后，系统会进一步完成中文改写、事实核对、背景补充和多源合并。",
-    "detailEn": "Source: NPR World. This is an RSS-based draft. After an LLM is configured, the pipeline will rewrite, fact-check, enrich and merge reports about the same event.",
+    "titleZh": "Mad about mara: the DIY dance movement helping young Nigerians escape the daily grind",
+    "titleEn": "Mad about mara: the DIY dance movement helping young Nigerians escape the daily grind",
+    "summaryZh": "What started as one artist’s response to being cut out of a music video has exploded, becoming a driving force in Nigeria’s cultural landscape As a student in the central Nigerian ",
+    "summaryEn": "What started as one artist’s response to being cut out of a music video has exploded, becoming a driving force in Nigeria’s cultural landscape As a student in the central Nigerian city of Ilorin, Lawal Habeeb Kola loved staying in his hostel room to produce be",
+    "detailZh": "来源：The Guardian。这是基于 RSS 摘要生成的待加工条目。接入大模型后，系统会进一步完成中文改写、事实核对、背景补充和多源合并。",
+    "detailEn": "Source: The Guardian. This is an RSS-based draft. After an LLM is configured, the pipeline will rewrite, fact-check, enrich and merge reports about the same event.",
     "tags": [
-      "国际时政"
+      "科技"
     ],
     "sources": [
-      "NPR World"
+      "The Guardian"
     ],
     "sourceUrls": [
-      "https://www.npr.org/2026/11/26/g-s1-155950/up-first-newsletter-thanksgiving-weather-travel-trump-tariffs-iowa-detonation-fcc-free-speech"
+      "https://www.theguardian.com/world/2026/nov/27/mad-about-mara-the-diy-dance-movement-helping-young-nigerians-escape-the-daily-grind"
     ]
   },
   {
-    "id": "rss-9-316b1b2ff5f6",
-    "category": "world",
-    "importance": 6,
-    "sourcesCount": 1,
-    "titleZh": "How American Thanksgiving took root — and evolved — in Liberia",
-    "titleEn": "How American Thanksgiving took root — and evolved — in Liberia",
-    "summaryZh": "The first settlers of Liberia were African Americans who brought along the holiday of Thanksgiving — which has evolved to reflect the history and identity of this new nation.",
-    "summaryEn": "The first settlers of Liberia were African Americans who brought along the holiday of Thanksgiving — which has evolved to reflect the history and identity of this new nation.",
-    "detailZh": "来源：NPR World。这是基于 RSS 摘要生成的待加工条目。接入大模型后，系统会进一步完成中文改写、事实核对、背景补充和多源合并。",
-    "detailEn": "Source: NPR World. This is an RSS-based draft. After an LLM is configured, the pipeline will rewrite, fact-check, enrich and merge reports about the same event.",
-    "tags": [
-      "国际时政"
-    ],
-    "sources": [
-      "NPR World"
-    ],
-    "sourceUrls": [
-      "https://www.npr.org/2026/11/25/nx-s1-6048614/thanksgiving-liberia-gratitude-prayer"
-    ]
-  },
-  {
-    "id": "rss-10-e82871161895",
-    "category": "world",
-    "importance": 6,
-    "sourcesCount": 1,
-    "titleZh": "Army to detonate tons of lead azide after delays. And, Abrego Garcia leaves U.S.",
-    "titleEn": "Army to detonate tons of lead azide after delays. And, Abrego Garcia leaves U.S.",
-    "summaryZh": "Authorities have evacuated a 5-mile radius to prepare to dispose of thousands of pounds of lead azide. And, after a nearly two-year legal battle, Kilmar Abrego Garcia's has volunta",
-    "summaryEn": "Authorities have evacuated a 5-mile radius to prepare to dispose of thousands of pounds of lead azide. And, after a nearly two-year legal battle, Kilmar Abrego Garcia's has voluntarily left the U.S.",
-    "detailZh": "来源：NPR World。这是基于 RSS 摘要生成的待加工条目。接入大模型后，系统会进一步完成中文改写、事实核对、背景补充和多源合并。",
-    "detailEn": "Source: NPR World. This is an RSS-based draft. After an LLM is configured, the pipeline will rewrite, fact-check, enrich and merge reports about the same event.",
-    "tags": [
-      "国际时政"
-    ],
-    "sources": [
-      "NPR World"
-    ],
-    "sourceUrls": [
-      "https://www.npr.org/2026/11/25/g-s1-155493/up-first-newsletter-iowa-detonation-kilmar-abrego-garcia-nvidia-jensen-huang"
-    ]
-  },
-  {
-    "id": "rss-11-5164d19f2cb8",
+    "id": "rss-12-5164d19f2cb8",
     "category": "world",
     "importance": 6,
     "sourcesCount": 1,
@@ -231,7 +252,7 @@
     ]
   },
   {
-    "id": "rss-12-4ea9865f2a26",
+    "id": "rss-13-4ea9865f2a26",
     "category": "tech",
     "importance": 6,
     "sourcesCount": 1,
@@ -252,7 +273,7 @@
     ]
   },
   {
-    "id": "rss-13-9d648dc5468e",
+    "id": "rss-14-9d648dc5468e",
     "category": "world",
     "importance": 6,
     "sourcesCount": 1,
@@ -273,7 +294,7 @@
     ]
   },
   {
-    "id": "rss-14-ef4e7886f52f",
+    "id": "rss-15-ef4e7886f52f",
     "category": "world",
     "importance": 6,
     "sourcesCount": 1,
@@ -294,39 +315,18 @@
     ]
   },
   {
-    "id": "rss-15-cf7c1eb3cd6e",
-    "category": "world",
-    "importance": 6,
-    "sourcesCount": 1,
-    "titleZh": "More than 300 Russians killed as Moscow props up Mali’s junta, leaked data reveals",
-    "titleEn": "More than 300 Russians killed as Moscow props up Mali’s junta, leaked data reveals",
-    "summaryZh": "Exclusive: Records list 349 deaths in three years in Mali and also shed light on Russia’s military activity elsewhere in Africa When the attack on Kidal began before dawn on 25 Apr",
-    "summaryEn": "Exclusive: Records list 349 deaths in three years in Mali and also shed light on Russia’s military activity elsewhere in Africa When the attack on Kidal began before dawn on 25 April this year, the Russian fighters were caught off guard. Within the first hour,",
-    "detailZh": "来源：The Guardian。这是基于 RSS 摘要生成的待加工条目。接入大模型后，系统会进一步完成中文改写、事实核对、背景补充和多源合并。",
-    "detailEn": "Source: The Guardian. This is an RSS-based draft. After an LLM is configured, the pipeline will rewrite, fact-check, enrich and merge reports about the same event.",
-    "tags": [
-      "国际时政"
-    ],
-    "sources": [
-      "The Guardian"
-    ],
-    "sourceUrls": [
-      "https://www.theguardian.com/world/2026/nov/24/russian-fighters-killed-in-mali-africa-leaked-data"
-    ]
-  },
-  {
     "id": "rss-16-5d28a5ddaa27",
-    "category": "economy",
+    "category": "tech",
     "importance": 6,
     "sourcesCount": 1,
-    "titleZh": "China industrial profits growth surges to a 5-month high of 20.1% in October",
-    "titleEn": "China industrial profits growth surges to a 5-month high of 20.1% in October",
-    "summaryZh": "China's economy has been running at two speeds, with AI-related manufacturing and exports powering growth while household consumption has been lagging.",
-    "summaryEn": "China's economy has been running at two speeds, with AI-related manufacturing and exports powering growth while household consumption has been lagging.",
+    "titleZh": "China’s factories are growing profits again, but the AI boom is picking the winners",
+    "titleEn": "China’s factories are growing profits again, but the AI boom is picking the winners",
+    "summaryZh": "China's economy has been running at two speeds, with AI-related manufacturing and exports powering growth while consumption, real estate investment lag.",
+    "summaryEn": "China's economy has been running at two speeds, with AI-related manufacturing and exports powering growth while consumption, real estate investment lag.",
     "detailZh": "来源：CNBC Economy。这是基于 RSS 摘要生成的待加工条目。接入大模型后，系统会进一步完成中文改写、事实核对、背景补充和多源合并。",
     "detailEn": "Source: CNBC Economy. This is an RSS-based draft. After an LLM is configured, the pipeline will rewrite, fact-check, enrich and merge reports about the same event.",
     "tags": [
-      "经济财经"
+      "科技"
     ],
     "sources": [
       "CNBC Economy"
@@ -525,14 +525,14 @@
     ]
   },
   {
-    "id": "rss-26-0976ce0a19b4",
+    "id": "rss-26-5f07086e9834",
     "category": "science",
     "importance": 6,
     "sourcesCount": 1,
-    "titleZh": "Editorial Expression of Concern: Dual control of nuclear EIN3 by bifurcate MAPK cascades in C 2 H 4 signalling",
-    "titleEn": "Editorial Expression of Concern: Dual control of nuclear EIN3 by bifurcate MAPK cascades in C 2 H 4 signalling",
-    "summaryZh": "Nature, Published online: 26 November 2026; doi:10.1038/s41586-026-11475-7 Editorial Expression of Concern: Dual control of nuclear EIN3 by bifurcate MAPK cascades in C 2 H 4 signa",
-    "summaryEn": "Nature, Published online: 26 November 2026; doi:10.1038/s41586-026-11475-7 Editorial Expression of Concern: Dual control of nuclear EIN3 by bifurcate MAPK cascades in C 2 H 4 signalling",
+    "titleZh": "The haunting loveliness of boglands: Books in brief",
+    "titleEn": "The haunting loveliness of boglands: Books in brief",
+    "summaryZh": "Nature, Published online: 27 November 2026; doi:10.1038/d41586-026-03885-4 Andrew Robinson reviews five of the best science picks.",
+    "summaryEn": "Nature, Published online: 27 November 2026; doi:10.1038/d41586-026-03885-4 Andrew Robinson reviews five of the best science picks.",
     "detailZh": "来源：Nature News。这是基于 RSS 摘要生成的待加工条目。接入大模型后，系统会进一步完成中文改写、事实核对、背景补充和多源合并。",
     "detailEn": "Source: Nature News. This is an RSS-based draft. After an LLM is configured, the pipeline will rewrite, fact-check, enrich and merge reports about the same event.",
     "tags": [
@@ -542,60 +542,18 @@
       "Nature News"
     ],
     "sourceUrls": [
-      "https://www.nature.com/articles/s41586-026-11475-7"
+      "https://www.nature.com/articles/d41586-026-03885-4"
     ]
   },
   {
-    "id": "rss-27-5bf8dd6349d5",
-    "category": "science",
-    "importance": 6,
-    "sourcesCount": 1,
-    "titleZh": "Chromosome ‘glue’ could boost fertility by stabilizing ageing eggs",
-    "titleEn": "Chromosome ‘glue’ could boost fertility by stabilizing ageing eggs",
-    "summaryZh": "Nature, Published online: 26 November 2026; doi:10.1038/d41586-026-03874-7 A system tested in mice mimics a protein that declines with age and could help to improve fertility treat",
-    "summaryEn": "Nature, Published online: 26 November 2026; doi:10.1038/d41586-026-03874-7 A system tested in mice mimics a protein that declines with age and could help to improve fertility treatments in future.",
-    "detailZh": "来源：Nature News。这是基于 RSS 摘要生成的待加工条目。接入大模型后，系统会进一步完成中文改写、事实核对、背景补充和多源合并。",
-    "detailEn": "Source: Nature News. This is an RSS-based draft. After an LLM is configured, the pipeline will rewrite, fact-check, enrich and merge reports about the same event.",
-    "tags": [
-      "科学健康"
-    ],
-    "sources": [
-      "Nature News"
-    ],
-    "sourceUrls": [
-      "https://www.nature.com/articles/d41586-026-03874-7"
-    ]
-  },
-  {
-    "id": "rss-28-909c8697dcd7",
-    "category": "science",
-    "importance": 6,
-    "sourcesCount": 1,
-    "titleZh": "Navigating grief in academia: ways to find balance",
-    "titleEn": "Navigating grief in academia: ways to find balance",
-    "summaryZh": "Nature, Published online: 26 November 2026; doi:10.1038/d41586-026-02752-6 Pamela Yeh found it hard to manage grief and the demands of her work. Here are some steps that helped her",
-    "summaryEn": "Nature, Published online: 26 November 2026; doi:10.1038/d41586-026-02752-6 Pamela Yeh found it hard to manage grief and the demands of her work. Here are some steps that helped her to ease the burden.",
-    "detailZh": "来源：Nature News。这是基于 RSS 摘要生成的待加工条目。接入大模型后，系统会进一步完成中文改写、事实核对、背景补充和多源合并。",
-    "detailEn": "Source: Nature News. This is an RSS-based draft. After an LLM is configured, the pipeline will rewrite, fact-check, enrich and merge reports about the same event.",
-    "tags": [
-      "科学健康"
-    ],
-    "sources": [
-      "Nature News"
-    ],
-    "sourceUrls": [
-      "https://www.nature.com/articles/d41586-026-02752-6"
-    ]
-  },
-  {
-    "id": "rss-29-7a47b5d7af84",
+    "id": "rss-27-c126725400d3",
     "category": "tech",
     "importance": 6,
     "sourcesCount": 1,
-    "titleZh": "Has AI just cracked Internet encryption? Rumoured ‘bombshell’ stuns scientists",
-    "titleEn": "Has AI just cracked Internet encryption? Rumoured ‘bombshell’ stuns scientists",
-    "summaryZh": "Nature, Published online: 26 November 2026; doi:10.1038/d41586-026-03875-6 AI-generated algorithms could be about to break public-key cryptography, the technology central to commer",
-    "summaryEn": "Nature, Published online: 26 November 2026; doi:10.1038/d41586-026-03875-6 AI-generated algorithms could be about to break public-key cryptography, the technology central to commerce, banking and privacy.",
+    "titleZh": "Brain area’s mysterious role in speech decoded at last",
+    "titleEn": "Brain area’s mysterious role in speech decoded at last",
+    "summaryZh": "Nature, Published online: 27 November 2026; doi:10.1038/d41586-026-03800-x Wernicke’s area is known for processing spoken words, but brain recordings reveal that it also makes a cr",
+    "summaryEn": "Nature, Published online: 27 November 2026; doi:10.1038/d41586-026-03800-x Wernicke’s area is known for processing spoken words, but brain recordings reveal that it also makes a crucial contribution to a related cognitive task.",
     "detailZh": "来源：Nature News。这是基于 RSS 摘要生成的待加工条目。接入大模型后，系统会进一步完成中文改写、事实核对、背景补充和多源合并。",
     "detailEn": "Source: Nature News. This is an RSS-based draft. After an LLM is configured, the pipeline will rewrite, fact-check, enrich and merge reports about the same event.",
     "tags": [
@@ -605,18 +563,18 @@
       "Nature News"
     ],
     "sourceUrls": [
-      "https://www.nature.com/articles/d41586-026-03875-6"
+      "https://www.nature.com/articles/d41586-026-03800-x"
     ]
   },
   {
-    "id": "rss-30-8d39e5dbb785",
+    "id": "rss-28-7a7057420a13",
     "category": "science",
     "importance": 6,
     "sourcesCount": 1,
-    "titleZh": "Orangutans face bleak future after Indonesia’s devastating wildfires",
-    "titleEn": "Orangutans face bleak future after Indonesia’s devastating wildfires",
-    "summaryZh": "Nature, Published online: 26 November 2026; doi:10.1038/d41586-026-03828-z The super El Niño intensified Indonesian fires, which ravaged the habitat of the critically endangered Bo",
-    "summaryEn": "Nature, Published online: 26 November 2026; doi:10.1038/d41586-026-03828-z The super El Niño intensified Indonesian fires, which ravaged the habitat of the critically endangered Bornean orangutan.",
+    "titleZh": "Life-saving cancer drug pumped out by a plant",
+    "titleEn": "Life-saving cancer drug pumped out by a plant",
+    "summaryZh": "Nature, Published online: 27 November 2026; doi:10.1038/d41586-026-03801-w In a proof-of-concept study, scientists have coaxed a tobacco-related plant to synthesize the chemotherap",
+    "summaryEn": "Nature, Published online: 27 November 2026; doi:10.1038/d41586-026-03801-w In a proof-of-concept study, scientists have coaxed a tobacco-related plant to synthesize the chemotherapy drug paclitaxel.",
     "detailZh": "来源：Nature News。这是基于 RSS 摘要生成的待加工条目。接入大模型后，系统会进一步完成中文改写、事实核对、背景补充和多源合并。",
     "detailEn": "Source: Nature News. This is an RSS-based draft. After an LLM is configured, the pipeline will rewrite, fact-check, enrich and merge reports about the same event.",
     "tags": [
@@ -626,60 +584,60 @@
       "Nature News"
     ],
     "sourceUrls": [
-      "https://www.nature.com/articles/d41586-026-03828-z"
+      "https://www.nature.com/articles/d41586-026-03801-w"
     ]
   },
   {
-    "id": "rss-31-fa68dcac011e",
-    "category": "economy",
-    "importance": 6,
-    "sourcesCount": 1,
-    "titleZh": "Asian stock markets rise after earlier tech rout",
-    "titleEn": "Asian stock markets rise after earlier tech rout",
-    "summaryZh": "Indices in Japan, South Korea, Australia and Hong Kong rise as New Zealand stocks dip on election uncertainty.",
-    "summaryEn": "Indices in Japan, South Korea, Australia and Hong Kong rise as New Zealand stocks dip on election uncertainty.",
-    "detailZh": "来源：Al Jazeera。这是基于 RSS 摘要生成的待加工条目。接入大模型后，系统会进一步完成中文改写、事实核对、背景补充和多源合并。",
-    "detailEn": "Source: Al Jazeera. This is an RSS-based draft. After an LLM is configured, the pipeline will rewrite, fact-check, enrich and merge reports about the same event.",
-    "tags": [
-      "经济财经"
-    ],
-    "sources": [
-      "Al Jazeera"
-    ],
-    "sourceUrls": [
-      "https://www.aljazeera.com/economy/2026/11/27/asian-stock-markets-rise-after-earlier-tech-rout?traffic_source=rss"
-    ]
-  },
-  {
-    "id": "rss-32-39a851830808",
+    "id": "rss-29-e27513e6c3ba",
     "category": "tech",
     "importance": 6,
     "sourcesCount": 1,
-    "titleZh": "Spain and Morocco under-17 stars target World Cup 2030",
-    "titleEn": "Spain and Morocco under-17 stars target World Cup 2030",
-    "summaryZh": "Spain and Morocco are two of the co-hosts of the next 2030 World Cup, and they faced off at the under-17 World Cup.",
-    "summaryEn": "Spain and Morocco are two of the co-hosts of the next 2030 World Cup, and they faced off at the under-17 World Cup.",
-    "detailZh": "来源：Al Jazeera。这是基于 RSS 摘要生成的待加工条目。接入大模型后，系统会进一步完成中文改写、事实核对、背景补充和多源合并。",
-    "detailEn": "Source: Al Jazeera. This is an RSS-based draft. After an LLM is configured, the pipeline will rewrite, fact-check, enrich and merge reports about the same event.",
+    "titleZh": "Audio long read: The world’s most precious brain samples — and what they teach us about being human",
+    "titleEn": "Audio long read: The world’s most precious brain samples — and what they teach us about being human",
+    "summaryZh": "Nature, Published online: 27 November 2026; doi:10.1038/d41586-026-03900-8 Rare neurons taken from living humans are helping researchers test how brain cells behave in their natura",
+    "summaryEn": "Nature, Published online: 27 November 2026; doi:10.1038/d41586-026-03900-8 Rare neurons taken from living humans are helping researchers test how brain cells behave in their natural environment.",
+    "detailZh": "来源：Nature News。这是基于 RSS 摘要生成的待加工条目。接入大模型后，系统会进一步完成中文改写、事实核对、背景补充和多源合并。",
+    "detailEn": "Source: Nature News. This is an RSS-based draft. After an LLM is configured, the pipeline will rewrite, fact-check, enrich and merge reports about the same event.",
     "tags": [
       "科技"
     ],
     "sources": [
-      "Al Jazeera"
+      "Nature News"
     ],
     "sourceUrls": [
-      "https://www.aljazeera.com/video/newsfeed/2026/11/27/spain-and-morocco-under-17-stars-target-world-cup-2030?traffic_source=rss"
+      "https://www.nature.com/articles/d41586-026-03900-8"
     ]
   },
   {
-    "id": "rss-33-1cf14ec2e93b",
+    "id": "rss-30-f673ea1c4408",
+    "category": "tech",
+    "importance": 6,
+    "sourcesCount": 1,
+    "titleZh": "Author Correction: Artificial intelligence-enabled clinical phenotyping of human brown fat",
+    "titleEn": "Author Correction: Artificial intelligence-enabled clinical phenotyping of human brown fat",
+    "summaryZh": "Nature, Published online: 27 November 2026; doi:10.1038/s41586-026-11411-9 Author Correction: Artificial intelligence-enabled clinical phenotyping of human brown fat",
+    "summaryEn": "Nature, Published online: 27 November 2026; doi:10.1038/s41586-026-11411-9 Author Correction: Artificial intelligence-enabled clinical phenotyping of human brown fat",
+    "detailZh": "来源：Nature News。这是基于 RSS 摘要生成的待加工条目。接入大模型后，系统会进一步完成中文改写、事实核对、背景补充和多源合并。",
+    "detailEn": "Source: Nature News. This is an RSS-based draft. After an LLM is configured, the pipeline will rewrite, fact-check, enrich and merge reports about the same event.",
+    "tags": [
+      "科技"
+    ],
+    "sources": [
+      "Nature News"
+    ],
+    "sourceUrls": [
+      "https://www.nature.com/articles/s41586-026-11411-9"
+    ]
+  },
+  {
+    "id": "rss-31-1de2748fdb3c",
     "category": "security",
     "importance": 6,
     "sourcesCount": 1,
-    "titleZh": "Zelenskyy warns of major Russian attack as Trump urges Putin to ‘pull back’",
-    "titleEn": "Zelenskyy warns of major Russian attack as Trump urges Putin to ‘pull back’",
-    "summaryZh": "Trump says he urged Putin to 'pull back' military aggression in Europe amid escalating Russian and Ukrainian attacks.",
-    "summaryEn": "Trump says he urged Putin to 'pull back' military aggression in Europe amid escalating Russian and Ukrainian attacks.",
+    "titleZh": "Parts of US clean up after Thanksgiving storm lashes East Coast",
+    "titleEn": "Parts of US clean up after Thanksgiving storm lashes East Coast",
+    "summaryZh": "Power is being slowly restored to hundreds of thousands of customers following a round of heavy wind, rain and snow.",
+    "summaryEn": "Power is being slowly restored to hundreds of thousands of customers following a round of heavy wind, rain and snow.",
     "detailZh": "来源：Al Jazeera。这是基于 RSS 摘要生成的待加工条目。接入大模型后，系统会进一步完成中文改写、事实核对、背景补充和多源合并。",
     "detailEn": "Source: Al Jazeera. This is an RSS-based draft. After an LLM is configured, the pipeline will rewrite, fact-check, enrich and merge reports about the same event.",
     "tags": [
@@ -689,18 +647,18 @@
       "Al Jazeera"
     ],
     "sourceUrls": [
-      "https://www.aljazeera.com/news/2026/11/27/zelenskyy-warns-of-major-russian-attack-as-trump-urges-putin-to-pull-back?traffic_source=rss"
+      "https://www.aljazeera.com/news/2026/11/28/parts-of-us-clean-up-after-thanksgiving-storm-lashes-east-coast?traffic_source=rss"
     ]
   },
   {
-    "id": "rss-34-656a441bf148",
+    "id": "rss-32-8bbbdcd9355b",
     "category": "security",
     "importance": 6,
     "sourcesCount": 1,
-    "titleZh": "Trump says the US has ‘close to 50%’ of world’s oil",
-    "titleEn": "Trump says the US has ‘close to 50%’ of world’s oil",
-    "summaryZh": "On a call to soldiers deployed to the Gulf, Donald Trump claimed that the US does not ‘need Middle East oil'.",
-    "summaryEn": "On a call to soldiers deployed to the Gulf, Donald Trump claimed that the US does not ‘need Middle East oil'.",
+    "titleZh": "Bulgarians demand action by French after Marseille match violence",
+    "titleEn": "Bulgarians demand action by French after Marseille match violence",
+    "summaryZh": "Bulgarians protested at the French embassy after violence at a Europa League match hospitalised six Levski Sofia fans.",
+    "summaryEn": "Bulgarians protested at the French embassy after violence at a Europa League match hospitalised six Levski Sofia fans.",
     "detailZh": "来源：Al Jazeera。这是基于 RSS 摘要生成的待加工条目。接入大模型后，系统会进一步完成中文改写、事实核对、背景补充和多源合并。",
     "detailEn": "Source: Al Jazeera. This is an RSS-based draft. After an LLM is configured, the pipeline will rewrite, fact-check, enrich and merge reports about the same event.",
     "tags": [
@@ -710,18 +668,39 @@
       "Al Jazeera"
     ],
     "sourceUrls": [
-      "https://www.aljazeera.com/video/newsfeed/2026/11/27/trump-says-the-us-has-close-to-50-of-worlds-oil?traffic_source=rss"
+      "https://www.aljazeera.com/video/newsfeed/2026/11/28/bulgarians-demand-action-by-french-after-marseille-match-violence?traffic_source=rss"
     ]
   },
   {
-    "id": "rss-35-db2c5294a5f8",
+    "id": "rss-33-9d4f78e6e220",
+    "category": "security",
+    "importance": 6,
+    "sourcesCount": 1,
+    "titleZh": "Hunted beyond borders: Allegations of Tanzanian repression in Kenya",
+    "titleEn": "Hunted beyond borders: Allegations of Tanzanian repression in Kenya",
+    "summaryZh": "The case of a missing activist raises fears for the safety of Tanzanian dissidents.",
+    "summaryEn": "The case of a missing activist raises fears for the safety of Tanzanian dissidents.",
+    "detailZh": "来源：Al Jazeera。这是基于 RSS 摘要生成的待加工条目。接入大模型后，系统会进一步完成中文改写、事实核对、背景补充和多源合并。",
+    "detailEn": "Source: Al Jazeera. This is an RSS-based draft. After an LLM is configured, the pipeline will rewrite, fact-check, enrich and merge reports about the same event.",
+    "tags": [
+      "冲突与安全"
+    ],
+    "sources": [
+      "Al Jazeera"
+    ],
+    "sourceUrls": [
+      "https://www.aljazeera.com/news/2026/11/28/hunted-beyond-borders-allegations-of-tanzanian-repression-in-kenya?traffic_source=rss"
+    ]
+  },
+  {
+    "id": "rss-34-8feb438bba16",
     "category": "tech",
     "importance": 6,
     "sourcesCount": 1,
-    "titleZh": "Clashes halt match as Turkiye football fans raise Palestinian flags",
-    "titleEn": "Clashes halt match as Turkiye football fans raise Palestinian flags",
-    "summaryZh": "Clashes broke out between Georgian police and Turkish club Besiktas supporters during a UEFA match.",
-    "summaryEn": "Clashes broke out between Georgian police and Turkish club Besiktas supporters during a UEFA match.",
+    "titleZh": "Taiwan votes in local elections to choose mayors, other leaders",
+    "titleEn": "Taiwan votes in local elections to choose mayors, other leaders",
+    "summaryZh": "Key mayoral race in Taipei, a stronghold of the opposition Kuomintang, tests the governing Democratic Progressive Party.",
+    "summaryEn": "Key mayoral race in Taipei, a stronghold of the opposition Kuomintang, tests the governing Democratic Progressive Party.",
     "detailZh": "来源：Al Jazeera。这是基于 RSS 摘要生成的待加工条目。接入大模型后，系统会进一步完成中文改写、事实核对、背景补充和多源合并。",
     "detailEn": "Source: Al Jazeera. This is an RSS-based draft. After an LLM is configured, the pipeline will rewrite, fact-check, enrich and merge reports about the same event.",
     "tags": [
@@ -731,7 +710,28 @@
       "Al Jazeera"
     ],
     "sourceUrls": [
-      "https://www.aljazeera.com/video/newsfeed/2026/11/27/clashes-halt-match-as-turkiye-football-fans-raise-palestinian-flags?traffic_source=rss"
+      "https://www.aljazeera.com/news/2026/11/28/taiwan-votes-in-local-elections-to-choose-mayors-other-leaders?traffic_source=rss"
+    ]
+  },
+  {
+    "id": "rss-35-a89cfc699210",
+    "category": "security",
+    "importance": 6,
+    "sourcesCount": 1,
+    "titleZh": "Israel kills two MSF staff in targeted strike on Gaza clinic",
+    "titleEn": "Israel kills two MSF staff in targeted strike on Gaza clinic",
+    "summaryZh": "An Israeli strike on a clinic operated by Doctors Without Borders (MSF) in Gaza has killed two watchmen.",
+    "summaryEn": "An Israeli strike on a clinic operated by Doctors Without Borders (MSF) in Gaza has killed two watchmen.",
+    "detailZh": "来源：Al Jazeera。这是基于 RSS 摘要生成的待加工条目。接入大模型后，系统会进一步完成中文改写、事实核对、背景补充和多源合并。",
+    "detailEn": "Source: Al Jazeera. This is an RSS-based draft. After an LLM is configured, the pipeline will rewrite, fact-check, enrich and merge reports about the same event.",
+    "tags": [
+      "冲突与安全"
+    ],
+    "sources": [
+      "Al Jazeera"
+    ],
+    "sourceUrls": [
+      "https://www.aljazeera.com/video/newsfeed/2026/11/28/israel-kills-two-msf-staff-in-targeted-strike-on-gaza-clinic?traffic_source=rss"
     ]
   }
 ]
